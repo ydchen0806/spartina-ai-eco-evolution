@@ -1,0 +1,13 @@
+{
+  "shared_component_dates": 80,
+  "archive_records_on_shared_components": 167,
+  "excess_archive_rows_over_components": 87,
+  "same_component_records_are_not_independent": true,
+  "alignment_pairs": 14,
+  "alignment_pairs_with_fits": 6,
+  "alignment_pairs_passing_diagnostic_gate": 0,
+  "diagnostic_gate": "At least 3 training-inlier tiles, >=80% held-out matches within 5 px, held-out median <=5 px. Descriptive gate applied to diagnostics; independently identified stable controls still required.",
+  "continued_records_without_expected_overlap_but_with_another_target": 37,
+  "ambiguous_model_records": 4,
+  "interpretation": "Repeated archive rows can refer to the same raster component. Their cause is unresolved (e.g. track branching or duplicate assignment); do not count them as independent individuals."
+}

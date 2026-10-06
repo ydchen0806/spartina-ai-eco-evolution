@@ -1,0 +1,110 @@
+{
+  "feature": "SIFT",
+  "max_features_per_tile": 500,
+  "tile_side_original_pixels": 2048,
+  "downsample_factor": 2,
+  "tiles": [
+    [
+      0,
+      1976,
+      1976,
+      0
+    ],
+    [
+      1,
+      7976,
+      1976,
+      1
+    ],
+    [
+      2,
+      13976,
+      1976,
+      0
+    ],
+    [
+      3,
+      19976,
+      1976,
+      1
+    ],
+    [
+      4,
+      1976,
+      7976,
+      1
+    ],
+    [
+      5,
+      7976,
+      7976,
+      0
+    ],
+    [
+      6,
+      13976,
+      7976,
+      1
+    ],
+    [
+      7,
+      19976,
+      7976,
+      0
+    ],
+    [
+      8,
+      1976,
+      13976,
+      0
+    ],
+    [
+      9,
+      7976,
+      13976,
+      1
+    ],
+    [
+      10,
+      13976,
+      13976,
+      0
+    ],
+    [
+      11,
+      19976,
+      13976,
+      1
+    ],
+    [
+      12,
+      1976,
+      19976,
+      1
+    ],
+    [
+      13,
+      7976,
+      19976,
+      0
+    ],
+    [
+      14,
+      13976,
+      19976,
+      1
+    ],
+    [
+      15,
+      19976,
+      19976,
+      0
+    ]
+  ],
+  "ratio_threshold": 0.65,
+  "mutual_nearest": true,
+  "seed": 20261007,
+  "model": "partial affine RANSAC fitted on checkerboard fold 0; evaluated on fold 1",
+  "ransac_threshold_original_pixels": 5,
+  "interpretation": "Appearance-feature alignment diagnostic. Features may include moving vegetation, water or matching errors. No independently surveyed control points; no corrected biological inference."
+}

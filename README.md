@@ -34,6 +34,17 @@ Reproducible code, derived tables and audit figures for the *Spartina alterniflo
 
 The 38.65 GB raw recovery is separate from this public package. The original segmentation checkpoint, original training RGB photographs, fixed split and scenario-export implementation remain unrecovered. Derived recovery audits are in `data/derived/recovery_20261007/`; inspection figures are in `figures/recovery_20261007/`. The earlier workbooks remain in the [companion Hugging Face dataset](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data).
 
+## Endpoint and trajectory update
+
+The [second-stage audit](docs/TRAJECTORY_ENDPOINT_AUDIT_2026-10-07.md) traces all
+854 model records to annual transitions and identifies an unresolved growth
+endpoint transformation affecting 2016 and 2018. It also reconstructs sample
+selection, shared raster components and possible observation gaps. The
+[61-case review gallery](figures/transition_review_20261007/index.html) provides
+original RGB pairs, mask overlays and blank review forms. Download the folder
+and open its HTML locally; GitHub's source viewer does not run the gallery.
+These diagnostics precede biological event inference and new predictive claims.
+
 ## Reproduce
 
 ```bash

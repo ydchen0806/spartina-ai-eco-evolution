@@ -1,0 +1,36 @@
+{
+  "annual_matrix_rows": 2459,
+  "singleton_rows": 1769,
+  "annual_transition_pairs": 957,
+  "annual_gaps": {
+    "1": 957
+  },
+  "model_records": 854,
+  "model_records_linked": 854,
+  "ambiguous_model_records": 4,
+  "endpoint_disagreement_n": 188,
+  "all_nonpositive_pairs": 50,
+  "excluded_gain_at_least_10": 53,
+  "selection_exactly_matches_gain_between_0_and_10": true,
+  "included_nonpositive_pairs": 0,
+  "start_coordinate_matches": 2,
+  "end_coordinate_matches": 854,
+  "annual_mean_trends": {
+    "stored_mean": {
+      "n_years": 7,
+      "spearman_rho": -0.7142857142857144,
+      "p_two_sided": 0.07134356146753759
+    },
+    "recomputed_model_mean": {
+      "n_years": 7,
+      "spearman_rho": -0.10714285714285716,
+      "p_two_sided": 0.8191508555699912
+    },
+    "all_pair_mean": {
+      "n_years": 7,
+      "spearman_rho": -0.6071428571428572,
+      "p_two_sided": 0.1482311614811614
+    }
+  },
+  "interpretation": "Stored growth_rate differs from matrix-derived relative gain in selected years. The missing transformation is unresolved; recomputed endpoints are sensitivity analyses, not ground truth. Annual rows and overlap links are not independently validated biological identities."
+}

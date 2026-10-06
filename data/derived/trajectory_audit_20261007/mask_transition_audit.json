@@ -1,0 +1,24 @@
+{
+  "connectivity": 8,
+  "roi_col_row_width_height": [
+    10000,
+    4000,
+    15000,
+    18000
+  ],
+  "min_area_pixels": 100,
+  "min_intersection_pixels": 10,
+  "overlap_fraction_for_event_screen": 0.25,
+  "component_total": 8280,
+  "archive_observations": 5746,
+  "exact_component_bbox_matches": 5745,
+  "transition_categories": {
+    "row_absent_no_mask_overlap": 2772,
+    "continued_row_with_overlap": 1386,
+    "continued_row_without_overlap": 1123,
+    "row_absent_but_mask_overlap": 177,
+    "source_bbox_unresolved": 1
+  },
+  "high_fill_screen_n": 80,
+  "interpretation": "Unregistered pixel-overlap candidates, conditional on existing masks and area threshold. Multiple links are not proven mergers or splits; absent rows are not deaths. Exact black/white RGB is a fill heuristic, not an independently validated coverage mask."
+}

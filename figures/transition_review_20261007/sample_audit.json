@@ -1,0 +1,12 @@
+{
+  "seed": 20261007,
+  "cases": 61,
+  "category_counts": {
+    "row_absent_no_mask_overlap": 18,
+    "continued_row_without_overlap": 14,
+    "row_absent_but_mask_overlap": 14,
+    "continued_row_with_overlap": 14,
+    "source_bbox_unresolved": 1
+  },
+  "expert_labels_completed": 0
+}

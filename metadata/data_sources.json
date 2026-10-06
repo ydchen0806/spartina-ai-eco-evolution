@@ -735,5 +735,15 @@
     "hash_failures": 0,
     "raw_archive_bundled_in_release": false,
     "report": "docs/RECOVERY_VALIDATION_2026-10-07.md"
+  },
+  "trajectory_audit_20261007": {
+    "report": "docs/TRAJECTORY_ENDPOINT_AUDIT_2026-10-07.md",
+    "derived_directory": "data/derived/trajectory_audit_20261007",
+    "review_gallery": "figures/transition_review_20261007/index.html",
+    "review_cases": 61,
+    "expert_labels_completed": 0,
+    "source_archive_modified": false,
+    "stored_endpoint_disagreements": 188,
+    "biological_events_independently_validated": false
   }
 }

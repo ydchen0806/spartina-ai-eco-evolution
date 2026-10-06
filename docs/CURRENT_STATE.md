@@ -5,6 +5,31 @@ Updated 2026-10-07. The active raw evidence now includes the recovered archive a
 patch matrices and environment–growth workbooks. Earlier statements that all
 original imagery, masks and annotation polygons were missing are superseded.
 
+## Latest advance: endpoint and trajectory audit
+
+See `TRAJECTORY_ENDPOINT_AUDIT_2026-10-07.md` for the full new report. All 854
+model records link to annual matrix transitions, preserving repeated-key counts.
+The selected set exactly matches 0 < relative area increment < 10 among 957
+transitions (50 nonpositive and 53 extreme positive transitions excluded).
+All 138 records starting in 2016 and 50 starting in 2018 have stored growth_rate
+values inconsistent with area-derived relative gain; the transformation remains
+unresolved. For the same 854 records, the annual rank correlation changes from
+-0.714 to -0.107 after recomputing this endpoint. These are sensitivity checks,
+not validated replacement biological results.
+
+Eight-connected component reconstruction also found 167 archive observations
+sharing 80 component-date objects (87 excess rows). The unregistered transition
+screen flagged 80 possible coverage gaps, and a 61-case diagnostic RGB review
+pack is available at `figures/transition_review_20261007/index.html` in the release.
+Expert review forms are blank. Automatic feature registration did not meet the
+descriptive spatial-holdout quality gate, so no correction was applied. Raw
+mask overlaps are review candidates, not demographic events.
+
+The next modelling gate is to resolve the endpoint transformation, observation
+coverage, registration and non-independent tracks. Previous temporal-trend and
+AI calibration summaries below are archived results whose scientific
+interpretation is now additionally limited by these findings.
+
 ## Verified recovery
 
 - Independently rehashed 1,001 files / 38,654,767,408 bytes: zero failures.
