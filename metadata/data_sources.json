@@ -85,6 +85,7 @@
     }
   ],
   "companion_huggingface_dataset": "https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data",
+  "github_repository": "https://github.com/ydchen0806/spartina-ai-eco-evolution",
   "source_boundary": "The release includes the recovered simulation workbooks, patch CSV and pinned NASA POWER/GBIF response files. The raw UAV orthomosaics, segmentation masks, original weather/tide files and original simulation source code were not found in the workspace scan.",
   "external_context_files": [
     {

@@ -12,6 +12,8 @@ tags:
 
 # Spartina AI eco-evolutionary reanalysis
 
+Code repository: [github.com/ydchen0806/spartina-ai-eco-evolution](https://github.com/ydchen0806/spartina-ai-eco-evolution)
+
 Reproducible code, derived tables and audit figures for the *Spartina alterniflora* aerial-observation project. The release reconstructs the available 2014–2021 patch-record analysis and audits the recovered 2014–2020 environment–growth simulation archive.
 
 ## What is included
