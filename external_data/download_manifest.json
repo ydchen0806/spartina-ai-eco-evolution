@@ -1,0 +1,25 @@
+{
+  "nasa_power": {
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point",
+    "params": {
+      "parameters": "T2M,PRECTOTCORR,WS10M,RH2M",
+      "community": "AG",
+      "longitude": 117.6,
+      "latitude": 23.95,
+      "start": "20140101",
+      "end": "20211231",
+      "format": "JSON"
+    },
+    "path": "nature_manuscript/external_data/nasa_power_zhangjiang_2014_2021.json"
+  },
+  "gbif": {
+    "url": "https://api.gbif.org/v1/occurrence/search",
+    "params": {
+      "scientificName": "Spartina alterniflora",
+      "country": "CN",
+      "has_coordinate": "true",
+      "limit": 300
+    },
+    "path": "nature_manuscript/external_data/gbif_spartina_china_occurrences.json"
+  }
+}

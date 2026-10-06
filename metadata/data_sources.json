@@ -9,42 +9,50 @@
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/raw_data.xlsx",
       "sha256": "dd4ac9180ec744bd730f4f03293356e2cab5b66252a9a2cf21b291e5cf486372",
-      "bytes": 448379
+      "bytes": 448379,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/raw_data.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/all_feature_simulation.xlsx",
       "sha256": "130062439df4fd775c3d46887e3b017d6d0230b9d631c4147f70b72797930ffc",
-      "bytes": 435384
+      "bytes": 435384,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/all_feature_simulation.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/other_feature_simulation.xlsx",
       "sha256": "4c2af03a9b32d6ef0208a1dd2ba0cc117a1179d4ee2534b26f23a53288bd7ba7",
-      "bytes": 458168
+      "bytes": 458168,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/other_feature_simulation.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/precipitation_simulation.xlsx",
       "sha256": "df117be80fff4e38967d02035c7715967a8e6127004038029de7a2ecad7929b0",
-      "bytes": 455560
+      "bytes": 455560,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/precipitation_simulation.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/pressure_simulation.xlsx",
       "sha256": "3eb48cb6dc572ba1611c296fca633c062058889854318c45870507b7e3f0b320",
-      "bytes": 457253
+      "bytes": 457253,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/pressure_simulation.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/temperature_simulation.xlsx",
       "sha256": "706f5bc6f85d3328f8831fb4a661bcb9725748b045f6cb0c04037bfdbc81604f",
-      "bytes": 449500
+      "bytes": 449500,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/temperature_simulation.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/visibility_simulation.xlsx",
       "sha256": "06ee3d4f94cfb9d35306f7b432778e10cb7890670c91e9ce4c4a6ea3da467222",
-      "bytes": 457729
+      "bytes": 457729,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/visibility_simulation.xlsx"
     },
     {
       "path": "nature_manuscript/external_data/legacy_simulation_archive/230214simulation/wind_simulation.xlsx",
       "sha256": "95124c74226012519df999f2f7db1d15b075382867c90746198fc9b06bd4cc46",
-      "bytes": 456092
+      "bytes": 456092,
+      "release_path": "data/source/legacy_simulation_archive/230214simulation/wind_simulation.xlsx"
     }
   ],
   "external_context": [
@@ -63,5 +71,23 @@
     }
   ],
   "companion_huggingface_dataset": "https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data",
-  "source_boundary": "The raw UAV orthomosaics, segmentation masks, original weather/tide files and original simulation source code were not found in the workspace scan."
+  "source_boundary": "The release includes the recovered simulation workbooks, patch CSV and pinned NASA POWER/GBIF response files. The raw UAV orthomosaics, segmentation masks, original weather/tide files and original simulation source code were not found in the workspace scan.",
+  "external_context_files": [
+    {
+      "path": "external_data/nasa_power_zhangjiang_2014_2021.json",
+      "sha256": "8ec8042f3b0eb7fe449374bfee6df4ce0b6f14922aa0493c6b52cfc3ffb39f62",
+      "bytes": 192172
+    },
+    {
+      "path": "external_data/gbif_spartina_china_occurrences.json",
+      "sha256": "152f5a53d391799684e5bc3c40ceca950e6785b64d5b48187c474e0536f81b3e",
+      "bytes": 83184
+    },
+    {
+      "path": "external_data/download_manifest.json",
+      "sha256": "a6e2e6871425ac3ba7591b4b311beb3af9ae03990e593786c5860a0e2fe3ae7d",
+      "bytes": 701
+    }
+  ],
+  "release_root": "nature_manuscript/public_release"
 }

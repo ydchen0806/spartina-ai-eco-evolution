@@ -1,0 +1,13 @@
+predictor,outcome,n_years,spearman_rho,nominal_p,interpretation
+T2M,median_log10_offspring_parent_ratio,6,-0.3142857142857143,0.5440932944606414,exploratory; annual time points are not independent experimental replicates
+T2M,n_new_patches,8,0.7380952380952381,0.03655276105286081,exploratory; annual time points are not independent experimental replicates
+T2M,median_new_patch_area_proxy,8,-0.30952380952380953,0.4556448907375822,exploratory; annual time points are not independent experimental replicates
+PRECTOTCORR,median_log10_offspring_parent_ratio,6,0.14285714285714288,0.7871720116618075,exploratory; annual time points are not independent experimental replicates
+PRECTOTCORR,n_new_patches,8,-0.5952380952380953,0.11952980613879259,exploratory; annual time points are not independent experimental replicates
+PRECTOTCORR,median_new_patch_area_proxy,8,0.09523809523809526,0.8225054302036114,exploratory; annual time points are not independent experimental replicates
+WS10M,median_log10_offspring_parent_ratio,6,-0.2571428571428572,0.6227871720116618,exploratory; annual time points are not independent experimental replicates
+WS10M,n_new_patches,8,-0.11904761904761905,0.7788857260523797,exploratory; annual time points are not independent experimental replicates
+WS10M,median_new_patch_area_proxy,8,-0.04761904761904763,0.9108491685195836,exploratory; annual time points are not independent experimental replicates
+RH2M,median_log10_offspring_parent_ratio,6,-0.3714285714285715,0.46847813411078715,exploratory; annual time points are not independent experimental replicates
+RH2M,n_new_patches,8,-0.6666666666666669,0.07098765432098751,exploratory; annual time points are not independent experimental replicates
+RH2M,median_new_patch_area_proxy,8,0.09523809523809526,0.8225054302036114,exploratory; annual time points are not independent experimental replicates

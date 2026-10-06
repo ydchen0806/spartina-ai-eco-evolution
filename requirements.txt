@@ -4,3 +4,4 @@ scipy
 matplotlib
 requests
 openpyxl
+scikit-learn

@@ -1,0 +1,59 @@
+field,source_table,role,unit,meaning,caveat
+Unnamed: 0,patch_records,identifier,integer,Original row identifier,Not a biological patch ID.
+date,patch_records,time,year,Observation year,Annual record cohort; not a generation.
+size,patch_records,response_proxy,pixel count,New patch segmented-area proxy,Requires GSD calibration before conversion to area.
+pos_X,patch_records,location,pixel coordinate,New patch X coordinate,Coordinate system is not documented in recovered CSV.
+pos_Y,patch_records,location,pixel coordinate,New patch Y coordinate,Coordinate system is not documented in recovered CSV.
+index_X,patch_records,location,image index,New patch image-index X,Index definition requires original imagery metadata.
+index_Y,patch_records,location,image index,New patch image-index Y,Index definition requires original imagery metadata.
+distance,patch_records,predictor_proxy,pixel distance,Distance to putative parent,Matching and coordinate scale require original code.
+father_pos_x,patch_records,parent_link,pixel coordinate,Putative parent X coordinate,Parent link is archival and not independently re-matched here.
+"father_pos,y",patch_records,parent_link,pixel coordinate,Putative parent Y coordinate,Original column name contains a comma.
+father_index_x,patch_records,parent_link,image index,Putative parent image-index X,Requires original matching table.
+father_index_y,patch_records,parent_link,image index,Putative parent image-index Y,Requires original matching table.
+father_S,patch_records,parent_proxy,pixel count,Putative parent segmented-area proxy,Constant in all 2020 and 2021 rows; excluded from normalized trend.
+Unnamed: 0,raw_data.xlsx,identifier,integer,Original row identifier,Not a biological patch ID.
+year,raw_data.xlsx,time,year,Observation year,Annual record cohort.
+size,raw_data.xlsx,response_proxy,pixel count,Patch segmented-area proxy,Requires GSD calibration.
+X,raw_data.xlsx,location,pixel coordinate,Patch X coordinate,Coordinate reference is not documented.
+Y,raw_data.xlsx,location,pixel coordinate,Patch Y coordinate,Coordinate reference is not documented.
+Average temperature (℃),raw_data.xlsx,environment,degrees C,Annual or source-period mean temperature,Source period and extraction code are missing.
+Average maximum temperature (℃),raw_data.xlsx,environment,degrees C,Mean daily maximum temperature,Source period and extraction code are missing.
+Average minimum temperature (℃),raw_data.xlsx,environment,degrees C,Mean daily minimum temperature,Source period and extraction code are missing.
+Maximum temperature extreme value (℃),raw_data.xlsx,environment,degrees C,Maximum temperature extreme,Source period and extraction code are missing.
+Minimum temperature extreme value (℃),raw_data.xlsx,environment,degrees C,Minimum temperature extreme,Source period and extraction code are missing.
+Number of days with average temperature ≥18℃,raw_data.xlsx,environment,days,Count of days above threshold,Threshold metric; source period undocumented.
+Number of days with average temperature ≥35℃,raw_data.xlsx,environment,days,Count of hot days,Threshold metric; source period undocumented.
+Number of days with maximum temperature ≥35℃,raw_data.xlsx,environment,days,Count of days with hot daily maxima,Threshold metric; source period undocumented.
+Number of days with minimum temperature ≤0℃,raw_data.xlsx,environment,days,Count of freezing minima,Threshold metric; source period undocumented.
+Number of days with average temperature ≤0℃,raw_data.xlsx,environment,days,Count of freezing mean days,Threshold metric; source period undocumented.
+Mean dew point temperature (℃),raw_data.xlsx,environment,degrees C,Mean dew point temperature,Source period and extraction code are missing.
+Precipitation (mm),raw_data.xlsx,environment,millimetres,Total precipitation,Source period and extraction code are missing.
+Maximum daily precipitation (mm),raw_data.xlsx,environment,millimetres,Maximum daily precipitation,Source period and extraction code are missing.
+Precipitation days,raw_data.xlsx,environment,days,Number of precipitation days,Source period and threshold are missing.
+Mean sea level pressure (hPa),raw_data.xlsx,environment,hPa,Mean sea-level pressure,Source period and extraction code are missing.
+Minimum sea level pressure (hPa),raw_data.xlsx,environment,hPa,Minimum sea-level pressure,Source period and extraction code are missing.
+Average site pressure (hPa),raw_data.xlsx,environment,hPa,Mean site pressure,Source period and extraction code are missing.
+Average visibility (km),raw_data.xlsx,environment,kilometres,Mean visibility,Source period and extraction code are missing.
+Minimum visibility (km),raw_data.xlsx,environment,kilometres,Minimum visibility,Source period and extraction code are missing.
+Maximum visibility(km),raw_data.xlsx,environment,kilometres,Maximum visibility,Source period and extraction code are missing.
+Average wind speed(knots),raw_data.xlsx,environment,knots,Mean wind speed,Source period and extraction code are missing.
+Average maximum sustained wind speed(knots),raw_data.xlsx,environment,knots,Mean maximum sustained wind speed,Source period and extraction code are missing.
+Daily maximum average wind speed(knots),raw_data.xlsx,environment,knots,Daily maximum average wind speed,Source period and extraction code are missing.
+Average maximum instantaneous wind speed (knots),raw_data.xlsx,environment,knots,Mean maximum instantaneous wind speed,Source period and extraction code are missing.
+Maximum instantaneous wind speed extreme value (knots),raw_data.xlsx,environment,knots,Extreme instantaneous wind speed,Source period and extraction code are missing.
+Valid days,raw_data.xlsx,quality_control,days,Number of valid environmental observations,Definition and source period are missing.
+March-May precipitation (mm),raw_data.xlsx,environment,millimetres,Seasonal precipitation: March–May,Source period and extraction code are missing.
+June-August precipitation (mm),raw_data.xlsx,environment,millimetres,Seasonal precipitation: June–August,Source period and extraction code are missing.
+September-November precipitation (mm),raw_data.xlsx,environment,millimetres,Seasonal precipitation: September–November,Source period and extraction code are missing.
+December-February precipitation (mm),raw_data.xlsx,environment,millimetres,Seasonal precipitation: December–February,Source period and extraction code are missing.
+March-May average temperature (℃),raw_data.xlsx,environment,degrees C,Seasonal mean temperature: March–May,Source period and extraction code are missing.
+June-August average temperature (°C),raw_data.xlsx,environment,degrees C,Seasonal mean temperature: June–August,Source period and extraction code are missing.
+September-November average temperature (°C),raw_data.xlsx,environment,degrees C,Seasonal mean temperature: September–November,Source period and extraction code are missing.
+December-February average temperature (°C),raw_data.xlsx,environment,degrees C,Seasonal mean temperature: December–February,Source period and extraction code are missing.
+growth_rate,raw_data.xlsx,response,index,Observed growth-rate index,Definition and original fitting code are missing.
+pca1,raw_data.xlsx,derived_predictor,unitless,Principal component 1 of environmental variables,Loadings and explained variance are missing.
+pca2,raw_data.xlsx,derived_predictor,unitless,Principal component 2 of environmental variables,Loadings and explained variance are missing.
+pca3,raw_data.xlsx,derived_predictor,unitless,Principal component 3 of environmental variables,Loadings and explained variance are missing.
+pca4,raw_data.xlsx,derived_predictor,unitless,Principal component 4 of environmental variables,Loadings and explained variance are missing.
+growth_rate_simulation,raw_data.xlsx,model_output,index,Exported simulated growth-rate column,Identical across seven scenario workbooks; definition unresolved.
