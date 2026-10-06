@@ -18,6 +18,7 @@ Reproducible code, derived tables and audit figures for the *Spartina alterniflo
 
 - `analysis/reanalyze_spartina.py` — one entry point for local data audit, external-context summaries, summary tables and figures.
 - `analysis/model_holdout_audit.py` — independent leave-one-year-out and spatial-block predictive audit.
+- `analysis/collect_external_context.py` — pinned GBIF accepted-name context and OpenAlex literature screen.
 - `data/derived/` — derived tables and audit JSON generated from the local archive.
 - `external_data/` — pinned NASA POWER and GBIF response files used for the exploratory context panel.
 - `figures/` — vector and raster audit figures.
@@ -31,9 +32,10 @@ The UAV orthomosaics, segmentation masks, original weather/tide downloads, train
 python -m pip install -r requirements.txt
 python analysis/reanalyze_spartina.py --no-download
 python analysis/model_holdout_audit.py
+python analysis/collect_external_context.py --no-download
 ```
 
-The first command reproduces the patch-record and recovered-workbook audit from the files in this repository. The second command reproduces the held-out model audit. To refresh NASA POWER and GBIF context data, run `python analysis/reanalyze_spartina.py`; the script uses those sources only as labelled external context and they do not replace the original ERA5/UAV inputs.
+The first command reproduces the patch-record and recovered-workbook audit from the files in this repository. The second command reproduces the held-out model audit. The third command reproduces the accepted-name GBIF country facets and the OpenAlex literature screen. To refresh NASA POWER and GBIF context data, run `python analysis/reanalyze_spartina.py`; the scripts use external sources only as labelled context and they do not replace the original ERA5/UAV inputs.
 
 ## Scientific boundary
 

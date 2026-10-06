@@ -12,6 +12,7 @@ Ran from the release root:
 python analysis/reanalyze_spartina.py --no-download
 python -m py_compile analysis/reanalyze_spartina.py analysis/model_holdout_audit.py
 python analysis/model_holdout_audit.py
+python analysis/collect_external_context.py --no-download
 ```
 
 The script audited 727 local patch records using the pinned NASA POWER daily climate context for 117.60 E, 23.95 N (2014–2021) and the 12 coordinate-bearing GBIF records returned by the query `scientificName=Spartina alterniflora&country=CN`, then generated annual summaries and rendered PDF/PNG candidates.
@@ -40,6 +41,11 @@ An independent model audit using leave-one-year-out and spatial-block holdout fo
 - `tables/model_holdout_predictions.csv`: held-out predictions.
 - `tables/model_holdout_audit.json`: holdout audit metadata.
 - `analysis/model_holdout_audit.py`: time/spatial holdout model audit.
+- `analysis/collect_external_context.py`: accepted-name GBIF context and OpenAlex literature screen.
+- `tables/gbif_spartina_global_country_summary.csv`: country facets for 4,584 georeferenced GBIF records.
+- `tables/external_literature_screen.csv`: 75-work reproducible literature discovery list.
+- `figures/fig_external_context_synthesis.pdf`: external occurrence and literature-context plot.
+- `docs/EXTERNAL_CONTEXT.md`: source definitions and interpretation limits.
 - `docs/ANALYSIS_GATE.md`: evidence boundary, estimands and next falsifiable experiment.
 - `docs/RESULTS_DRAFT.md`: evidence-calibrated Results and Discussion wording.
 - `docs/PROJECT_AUDIT_2026-10-06.md`: evidence boundary, Nature-level narrative and experiment plan.

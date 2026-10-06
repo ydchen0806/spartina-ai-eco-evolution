@@ -68,6 +68,20 @@
       "query": "scientificName=Spartina alterniflora&country=CN&has_coordinate=true",
       "purpose": "external occurrence context; not a population census",
       "retrieval": "2026-10-06"
+    },
+    {
+      "provider": "GBIF accepted taxon",
+      "endpoint": "https://api.gbif.org/v1/species/match and /occurrence/search",
+      "query": "taxon_key=9394776&has_coordinate=true",
+      "purpose": "global occurrence context under accepted name Sporobolus alterniflorus; not a census",
+      "retrieval": "2026-10-06"
+    },
+    {
+      "provider": "OpenAlex",
+      "endpoint": "https://api.openalex.org/works",
+      "query": "Spartina alterniflora invasion; rapid evolution invasive plants; remote sensing biological invasion machine learning",
+      "purpose": "reproducible literature discovery for framing and citation checking",
+      "retrieval": "2026-10-06"
     }
   ],
   "companion_huggingface_dataset": "https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data",
@@ -87,6 +101,26 @@
       "path": "external_data/download_manifest.json",
       "sha256": "a6e2e6871425ac3ba7591b4b311beb3af9ae03990e593786c5860a0e2fe3ae7d",
       "bytes": 701
+    },
+    {
+      "path": "external_data/gbif_spartina_taxon_match.json",
+      "sha256": "11995b787d01e12bf7af8306a4e35e9787527b19915d640465cef0a38afb8f43",
+      "bytes": 495
+    },
+    {
+      "path": "external_data/gbif_spartina_global_country_facets.json",
+      "sha256": "6e5221cd4df405394ab4056f0bf201b2839810f5388af72282263cce14cffd37",
+      "bytes": 367
+    },
+    {
+      "path": "external_data/gbif_spartina_global_occurrences.json",
+      "sha256": "8f479825ae1968bf562a929cad1c4705cee4c3be0785bcb3d50fc95f816e1435",
+      "bytes": 75765
+    },
+    {
+      "path": "external_data/openalex_literature_search.json",
+      "sha256": "21270ac59401eb31613f6c43499834d47c609241bcb86ce66884a559f324fdd3",
+      "bytes": 541830
     }
   ],
   "release_root": "nature_manuscript/public_release"

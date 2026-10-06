@@ -1,0 +1,21 @@
+{
+  "gbif": {
+    "accepted_taxon_key": 9394776,
+    "reported_occurrence_count": 4584,
+    "downloaded_first_page": 10,
+    "country_count": 10,
+    "taxon_match": "external_data/gbif_spartina_taxon_match.json",
+    "facet_file": "external_data/gbif_spartina_global_country_facets.json",
+    "occurrence_file": "external_data/gbif_spartina_global_occurrences.json"
+  },
+  "openalex": {
+    "queries": [
+      "Spartina alterniflora invasion",
+      "rapid evolution invasive plants",
+      "remote sensing biological invasion machine learning"
+    ],
+    "n_records": 75,
+    "file": "external_data/openalex_literature_search.json"
+  },
+  "interpretation": "External context and literature screening are not causal validation of the local invasion archive."
+}
