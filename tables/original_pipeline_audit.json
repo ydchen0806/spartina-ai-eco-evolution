@@ -1,0 +1,32 @@
+{
+  "upstream_repository": "https://github.com/ydchen0806/ai4FastEvolution",
+  "upstream_commit": "171c9f516799b8bc90aa98b9274730ead7ae740e",
+  "raw_size_position_rows": 3237,
+  "raw_image_dates": [
+    "2014-08-01",
+    "2015-08-01",
+    "2015-10-17",
+    "2016-09-07",
+    "2016-10-25",
+    "2017-07-14",
+    "2017-07-28",
+    "2017-10-02",
+    "2018-07-29",
+    "2018-08-28",
+    "2018-09-26",
+    "2019-08-28",
+    "2019-09-23",
+    "2020-07-27",
+    "2021-07-17"
+  ],
+  "raw_image_date_count": 15,
+  "upstream_final_rows": 854,
+  "recovered_environment_growth_rows": 854,
+  "upstream_recovered_key_multiset_match": true,
+  "weather_rows": 42,
+  "weather_year_min": 1980,
+  "weather_year_max": 2021,
+  "image_pixel_files_found_in_release": false,
+  "image_pixel_boundary": "The matrices reference ./mask/*.tif and notebooks reference E:/remote_data/numvis/*.jpg, but those image pixels are absent from the upstream repository and local workspace scan.",
+  "model_checkpoint_boundary": "The upstream repository contains AutoGluon predictor artifacts, but no UAV segmentation checkpoint or training masks."
+}

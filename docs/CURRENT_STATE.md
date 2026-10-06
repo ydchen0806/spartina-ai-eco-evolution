@@ -13,6 +13,7 @@ python analysis/reanalyze_spartina.py --no-download
 python -m py_compile analysis/reanalyze_spartina.py analysis/model_holdout_audit.py
 python analysis/model_holdout_audit.py
 python analysis/collect_external_context.py --no-download
+python analysis/audit_original_pipeline.py
 ```
 
 The script audited 727 local patch records using the pinned NASA POWER daily climate context for 117.60 E, 23.95 N (2014–2021) and the 12 coordinate-bearing GBIF records returned by the query `scientificName=Spartina alterniflora&country=CN`, then generated annual summaries and rendered PDF/PNG candidates.
@@ -46,6 +47,20 @@ An independent model audit using leave-one-year-out and spatial-block holdout fo
 - `tables/external_literature_screen.csv`: 75-work reproducible literature discovery list.
 - `figures/fig_external_context_synthesis.pdf`: external occurrence and literature-context plot.
 - `docs/EXTERNAL_CONTEXT.md`: source definitions and interpretation limits.
+- `analysis/audit_original_pipeline.py`: upstream source-link and image-index audit.
+- `tables/original_pipeline_audit.json`: exact 854-row upstream/recovered key match and missing-pixel boundary.
+- `tables/original_pipeline_image_inventory.csv`: 15 referenced UAV image dates and non-missing row counts.
+- `figures/fig_original_pipeline_inventory.pdf`: recovered image-index timeline.
+- `docs/ORIGINAL_PIPELINE_RECOVERY.md`: upstream commit, code path and missing image/checkpoint inventory.
+
+The upstream public repository `ydchen0806/ai4FastEvolution` was recovered at
+commit `171c9f5`. Its 3,237-row image-index matrices, 15 referenced image dates,
+station weather table and NetCDF weather subsets are now included under
+`data/source/original_pipeline/`. The upstream 854-row `mydata_0224.xlsx` has an
+exact multiset match with the recovered environment-growth archive on
+`(year, size, X, Y, growth_rate)`. The actual TIFF/JPEG pixels, segmentation
+masks and segmentation checkpoint are still absent; the missing paths and
+recovery request are documented in `docs/ORIGINAL_PIPELINE_RECOVERY.md`.
 - `docs/ANALYSIS_GATE.md`: evidence boundary, estimands and next falsifiable experiment.
 - `docs/RESULTS_DRAFT.md`: evidence-calibrated Results and Discussion wording.
 - `docs/PROJECT_AUDIT_2026-10-06.md`: evidence boundary, Nature-level narrative and experiment plan.

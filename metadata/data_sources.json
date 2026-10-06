@@ -124,5 +124,607 @@
       "bytes": 541830
     }
   ],
-  "release_root": "nature_manuscript/public_release"
+  "release_root": "nature_manuscript/public_release",
+  "upstream_code_repository": "https://github.com/ydchen0806/ai4FastEvolution",
+  "upstream_code_commit": "171c9f516799b8bc90aa98b9274730ead7ae740e",
+  "upstream_recovery_note": "The release preserves selected upstream scripts and source matrices; original UAV TIFF/JPEG pixels, segmentation masks and scenario-export code were absent from upstream Git history and local workspace.",
+  "upstream_recovered_files": [
+    {
+      "path": "data/source/original_pipeline/xiamen.xlsx",
+      "sha256": "4078ab2b9a4722ee01b4fcc3d045d9de01836ebd600dc8dc48497bf884706a70",
+      "bytes": 14645
+    },
+    {
+      "path": "data/source/original_pipeline/result_size.csv",
+      "sha256": "ea87f82f2bbfeab13f5ce165b59dda8fb0ce501abbedd89f8239e8b909927652",
+      "bytes": 171909
+    },
+    {
+      "path": "data/source/original_pipeline/result_pos.csv",
+      "sha256": "343e8272b2e768c45489710afab7564bc392f291eefbd6dabeb9441dd7e4e1ab",
+      "bytes": 336616
+    },
+    {
+      "path": "data/source/original_pipeline/result_size1229.csv",
+      "sha256": "8e706865465a50c4531a1447e1ecc97ff02d00c065deb60cb01d4e262b318772",
+      "bytes": 76552
+    },
+    {
+      "path": "data/source/original_pipeline/mydata_0224.xlsx",
+      "sha256": "6d8c68eb2cf60b323c064daa6204df74d081abf9bc2d6e9940ac84deb8bcfc6a",
+      "bytes": 227723
+    },
+    {
+      "path": "data/source/original_pipeline/result_pos1229.csv",
+      "sha256": "f778cde03dda062698c39f3ad6bd82f1268b9f082ea9b664336d86b3e15ccfa0",
+      "bytes": 144853
+    },
+    {
+      "path": "legacy/original_code/data_preprocess_more_data.py",
+      "sha256": "402dbec1461da3f100c5ac7874327b16d45b14e8df82a7e332955f4daab77e66",
+      "bytes": 5835
+    },
+    {
+      "path": "legacy/original_code/data_analysis.py",
+      "sha256": "5c03af260402f06e0ecfc6cac4f16b6475816dc4256a5dae09379ca108336494",
+      "bytes": 1912
+    },
+    {
+      "path": "legacy/original_code/auto_ml_fit.py",
+      "sha256": "7fbd8dba38868159fcfc416a0256e6ce12d982f78783a9e36f14f640b7a1f567",
+      "bytes": 5542
+    },
+    {
+      "path": "legacy/original_code/data_pca.py",
+      "sha256": "69e305f5a2c9f58aeac424b2ec28fdd6569ae1a310dc51aadebbb2d891ccfb07",
+      "bytes": 4998
+    },
+    {
+      "path": "legacy/original_code/get_weather_data.py",
+      "sha256": "eebef3de75411a1a085f7c8e747396cc558ad7ffc22da7d9691483cfbfe0ac9b",
+      "bytes": 4397
+    },
+    {
+      "path": "legacy/original_code/get_growth_area.py",
+      "sha256": "33a9b56bd53b9419e56ef7024c629066270c29a55c7f68bb37b855bc78ac72a1",
+      "bytes": 1713
+    },
+    {
+      "path": "legacy/original_code/get_cluster.py",
+      "sha256": "54694c69a5fea04e8a844eb0cda2432f44803b307d59fb9c49686035b6612735",
+      "bytes": 3033
+    },
+    {
+      "path": "legacy/original_code/data_preprocess.py",
+      "sha256": "e312e8988ad408df31ba0019fbbd51c2901be5d1a854ff8f54c13e42c8fb2761",
+      "bytes": 2605
+    },
+    {
+      "path": "legacy/original_code/mgwr_data.py",
+      "sha256": "a18166279ddfd955c10c2015c25f21cf08f2fc83c29c6751bd2911b15b4a054a",
+      "bytes": 5531
+    }
+  ],
+  "upstream_weather_files": [
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2014/data.nc",
+      "sha256": "5a83dab70b562bd5ac1690bd9b5d90143fb7b21eadc28d00bba7e1a9e0d18c42",
+      "bytes": 32348
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2015/data.nc",
+      "sha256": "f4175296ce67b455f2dc951e9ec8310560ec5691761998c27ecd26e562b7b07b",
+      "bytes": 32352
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2016/data.nc",
+      "sha256": "67164c5a263322a0d0e2763d2306c18633d00e3a4b9a72f9cd72d70b9f6d6bd2",
+      "bytes": 32348
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2017/data.nc",
+      "sha256": "8917601cd032e1581822618ad49eb4f0a4f79b9625af295fe22f9b192e7c85c2",
+      "bytes": 32348
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2018/data.nc",
+      "sha256": "4acaf74cf36fcfaa9fd1387d43c0078a5fb3bb27c65934ac13448c235e4fa412",
+      "bytes": 32352
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2019/data.nc",
+      "sha256": "c0d5dc18744d6b6588590ab32b0222e9e9d2cc7ce3c4581041841c3a77c286c2",
+      "bytes": 32348
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2020/data.nc",
+      "sha256": "ff8a8306dd742b58afc50e49899879c4466792dcc819da54a0d5c9fd7cd25f5a",
+      "bytes": 32348
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/2021/data.nc",
+      "sha256": "09bf0e7d0ebdb15e2860ad21a5d133db9e1137f3ccfb13311c18f7d81efc5b49",
+      "bytes": 32352
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201401_area_subset.nc",
+      "sha256": "9d00590765d068617debb2a1d8a94b47821090d9a30428f95a7218fce0601dc5",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201402_area_subset.nc",
+      "sha256": "7475e8d59997aacf48c1ce5b7cd3e7acd8c270ea86c126f62322acac2398ba27",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201403_area_subset.nc",
+      "sha256": "1c648e08dbd84d917de69dd924224577ca0d42f80438a23a73188d6ac141780a",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201404_area_subset.nc",
+      "sha256": "ec6caf58db607522931584b3b05e42a5a2052bf870b62e3769c6213a1ecb2dcc",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201405_area_subset.nc",
+      "sha256": "cdeede456dcdbcb86619e1602b5d715f5c6ea3f61c8987bd5f3f7391c0aef8e1",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201406_area_subset.nc",
+      "sha256": "bf76700958cf9d68d12e5512852a2e61bcd5b856f3b8e6e0aff8a881ea4999e4",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201407_area_subset.nc",
+      "sha256": "ff789fc40770e92ca1f7a8d8a70b846e225ef427674f2a5188b566c0aac6e66c",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201408_area_subset.nc",
+      "sha256": "9695743c48e6d34d48f12e9e4e42ca8f4da178f48906f90e92c70d2031d28d91",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201409_area_subset.nc",
+      "sha256": "fa8336c188dbf0fac64121455f992fe51c5f495a9bf96560fbb7d1e61ee66efd",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201410_area_subset.nc",
+      "sha256": "a555d51b675341772c22189570cd0cdadbbd2b61631b095e49db60d62d1327bf",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201411_area_subset.nc",
+      "sha256": "ba4a82e30fdaee2573d7b4ebabda9fe60988c1244d3a3f78a7ecb089c25d0e15",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201412_area_subset.nc",
+      "sha256": "526fc1fb286a1d8ea1e577462046cd3039de9512c654b0103d36d01b71bec5ac",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201501_area_subset.nc",
+      "sha256": "fe51ed2561dfeabc0cae6abefbb4428e5c4b3d840ac1f2be47ff6773a356d7d2",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201502_area_subset.nc",
+      "sha256": "92a8b5e12116b4870f3c466316bb0d93d4e38a2e8c25221385fd2b098da0a550",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201503_area_subset.nc",
+      "sha256": "9522fbdf9ddfdf1ace1f58347fba6475993769de3ec9f446abd1a1ec928c4735",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201504_area_subset.nc",
+      "sha256": "7497b565e20f3d020d0c00206e8b56720e46bd0a9bd2ea728714301843860c4e",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201505_area_subset.nc",
+      "sha256": "2f5cf67338bfea8b97f2d7ba26999905de70e15d719061d3d776526c4ca299e8",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201506_area_subset.nc",
+      "sha256": "38d05332b1c4a2229feb4f2e6a39bcba93a90aaf4d3a793d30e01f771c864fe6",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201507_area_subset.nc",
+      "sha256": "ebf05184bce5f0c99ed2d0c5a601edb4c0b4db20a51635f3a397125a5100ed14",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201508_area_subset.nc",
+      "sha256": "4344866ec0b02370172720136225bee818578f45dbc52c2ab8175f2930d6b98d",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201509_area_subset.nc",
+      "sha256": "c2d8aabde4a41b2203a6136dcea76c326e09eac2f41f323326ef21ecff7978d2",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201510_area_subset.nc",
+      "sha256": "b4241e8411c7d4cb899ce81c2a5443ceaa13c18e6dd1d1a5e7f3dc5083e45203",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201511_area_subset.nc",
+      "sha256": "fa4fd30e0a7bd5c4b18a85d5977bdf5d4dabd594bcfdcd30ae1747daaff13719",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201512_area_subset.nc",
+      "sha256": "b6cc7a6b309c25d0ef108a794351b7700112a90ea1d0d7b7d0e8ea7d94f3e939",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201601_area_subset.nc",
+      "sha256": "6ecc3a6bcf830910b3a4b19184c777d5865334768e22d02e880f2f2ac225d255",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201602_area_subset.nc",
+      "sha256": "ebe976396f0b70c7b66df150c3743ec4d2e10a743ee9be154ba94dd27106f448",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201603_area_subset.nc",
+      "sha256": "bd7a96f65b2577702648b0c82a9187121e8fdce941ca8bed93ff1a221453724a",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201604_area_subset.nc",
+      "sha256": "4b7b23ba6cfae42720878e27cef659c3e9b60e78b2c32cd4b6c11456186e722a",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201605_area_subset.nc",
+      "sha256": "3932a0e4f7ce22cc504bcbbc5534c70fd87c510c99cbf2eb84ea626703b1c514",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201606_area_subset.nc",
+      "sha256": "866df8ebd3a816129097bdbcd0bf5d56a0ee248bff6bae52ebab4ece2ede2a93",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201607_area_subset.nc",
+      "sha256": "6223ab54b7a6bfc3a38273ad89ac6c00bc0f6dba09cdb91cbd13e2f506bbedb0",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201608_area_subset.nc",
+      "sha256": "362759ac887ad67cc3a41f23198874f6e9c9126b0719b8e88d69e18d80ffdb6d",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201609_area_subset.nc",
+      "sha256": "492cfffbe2b04b0ef54542bd835151f63e89e7cfe0cec92cb26776363a499934",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201610_area_subset.nc",
+      "sha256": "0f6a4f327d9c1c98cfb5d85390a7f435a97056d931467424df5bb89f5c73bc3d",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201611_area_subset.nc",
+      "sha256": "deded132b80b12e3ec6708216553a969c305b87aab30215cbbc9df5467a416e7",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201612_area_subset.nc",
+      "sha256": "26e71e9b0155736e1d0dc9320a81fa45e4baef8059fee7742ed16e855e7c15c4",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201701_area_subset.nc",
+      "sha256": "5ca4bb1d6d60babaa5b54cb7067db405aa78a9ebf8068ace87a5dc6c5bb32360",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201702_area_subset.nc",
+      "sha256": "6a13112c879f1dc804fd3faa8f2835be8207f6289c038a08bfc268c14f0f18a8",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201703_area_subset.nc",
+      "sha256": "9ca0fa1c0b911de4020d91556e58be8c78a3042ed9f4651f49a707568109eea7",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201704_area_subset.nc",
+      "sha256": "209fc9848d49a7a4ad86a2fd81a039c7596fea228509757de29d82cee442d173",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201705_area_subset.nc",
+      "sha256": "e719e943ff10f4fd572f96f4dbbfa24b8a779aa8fa6beacb1213924e351fae8b",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201706_area_subset.nc",
+      "sha256": "813bf44a89eb99c3577db7bb574bed877b5151ecf7179ea66cac03a4f624b0b8",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201707_area_subset.nc",
+      "sha256": "44a1e3a7464fe3bfa3d0b40735b18f630fdf7fcf71de15b29fa3104ca4f2ce62",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201708_area_subset.nc",
+      "sha256": "5365d071b7058a67c44e914e2d1972a9104a5d366fd7895ef3b1f9053f9f8639",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201709_area_subset.nc",
+      "sha256": "154041c359d0fb0117607f1cac5198157449747e58214cd1eb595d6d55ce0fd7",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201710_area_subset.nc",
+      "sha256": "aa1332dc52080808fe6f0c3f92e9b1aebb23d6801ee596f9911107a61c7aaf4c",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201711_area_subset.nc",
+      "sha256": "8e98344331cb0900d3ea8fce2d0538d471846090594b66480f71523f43944f73",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201712_area_subset.nc",
+      "sha256": "18981da6a8e416945f2c21da0a34a52891679e2bbe18c1387e1fcee158c5f2b8",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201801_area_subset.nc",
+      "sha256": "679335fa2e0a3a216ff88115509e9b6f18bbe73b925c2e9e95640fe214f279ea",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201802_area_subset.nc",
+      "sha256": "cfcbf52eefc62453fc8138346c71c84188c931f19d71fd5a2eb19f9777f62150",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201803_area_subset.nc",
+      "sha256": "278e5fc810d0719a29559fc2f6415f9c4f840b2efb8225bee6645491e46afc54",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201804_area_subset.nc",
+      "sha256": "b9ad7c4e0f9af327fc432b57382b3e887ce2cb0682c424177cdfe8d71e31d1d8",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201805_area_subset.nc",
+      "sha256": "bc091a784ed1701187bd94057aafc191a256d90873ed42201c215b20638a952c",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201806_area_subset.nc",
+      "sha256": "1c0c2c5c5168532474d1edeca986940d113d3d9d4bacae4297ed5100b8dd806a",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201807_area_subset.nc",
+      "sha256": "9f651e6ad839572371f8b5a685136100dac4902baadb7717c43603f72fb387dc",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201808_area_subset.nc",
+      "sha256": "491a4168535e7f78bb29dfa13cd212ee2c51aff5a6562447257e96ecaf89c086",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201809_area_subset.nc",
+      "sha256": "4d0ae2b9f91a1e227009713d371d896de1086f32dbe6b0d2bee026e81c04e2e4",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201810_area_subset.nc",
+      "sha256": "33f5432371687f907b1e8118b9f663e80436510536e79c5c25985893f353a132",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201811_area_subset.nc",
+      "sha256": "9fcded2d4a3cd7285d83eb0577f5a3b08ff99a2bfb07f141d1ba2f829af125b3",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201812_area_subset.nc",
+      "sha256": "66aefafca35726cdc77cb0027e5d0984fad7fec3e1be0f505f5d24efe6b5db86",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201901_area_subset.nc",
+      "sha256": "578c0b45f36ade3b81dd5f4bc8735c75d423e5931b0034b1aabc92bbf9101ca5",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201902_area_subset.nc",
+      "sha256": "f2827866dbe65e6f93e16368e56ac139b1987da32821fa2c049b2495d47aeb68",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201903_area_subset.nc",
+      "sha256": "456884e4f09995daa6cc72764df3fd9d53a84f4a0e9d09b384047fdd81b603f3",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201904_area_subset.nc",
+      "sha256": "8337ef8b7e1da22d69914d15c853356d86cecf604237157b2793ca8d64973775",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201905_area_subset.nc",
+      "sha256": "319084b606530c3bc8223679e05d3ad513aaa7c1626b59c5fc115e430ea81ce0",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201906_area_subset.nc",
+      "sha256": "e5de7a17d21e654ad5086fe4219df3563b9c0c514a9f7e693091a787dadd012c",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201907_area_subset.nc",
+      "sha256": "0b6fce006410e8a2e73870237d7fd4bcfcd050bd6c2549a494537b8a4eec16fc",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201908_area_subset.nc",
+      "sha256": "bb8f5e5786336ea18808fb5c1af48af042d760c921e45cc54d1ab37a322f830e",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201909_area_subset.nc",
+      "sha256": "ef24c09eee8093e19c6dd4d8d40810742082679f3b74e1ba293d3463f1022600",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201910_area_subset.nc",
+      "sha256": "d3fb2e6c8a752105f2ad6ab01bfdd7cba8150d4a7b43f9a14b82d1bc3b3d2fe7",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201911_area_subset.nc",
+      "sha256": "985d436c594e4d8f3b589db99a127a8404fbe0bd9b20b6f0ea448c3820cd778f",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d201912_area_subset.nc",
+      "sha256": "3e111b3c1a10669fadcc016e4b83730b6f2f1a78a3ae2d1e73f896f3d4afdd68",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202001_area_subset.nc",
+      "sha256": "d44fa55cc01f3860a3070932555e8fb2e178acbfc7f676eeb6d64d8a0d69b259",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202002_area_subset.nc",
+      "sha256": "464278edc73a10b31cd881226b53ca5938741948514cfedd37d805bddefd2d2e",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202003_area_subset.nc",
+      "sha256": "728112fa9aad530f08c523c843af7ff1e7be9e8e5ab6ca001923d051b8a07810",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202004_area_subset.nc",
+      "sha256": "51131fbf3c9dee8ac3d249ef8db1e6af97711c7eb1ad430c535d81aa3953989a",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202005_area_subset.nc",
+      "sha256": "3de945d52237f9bfcbed8fe64955e3eaff224699f4509eec69f93098b872d73a",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202006_area_subset.nc",
+      "sha256": "9cf7e9229d3e093916b2a68105095d6e5f4a8fc2579827cf7d0dbb90238ae68d",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202007_area_subset.nc",
+      "sha256": "9d8b5427cb806fafc51260532a3401749ff6f7d27997a57203a50deeb91ec724",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202008_area_subset.nc",
+      "sha256": "6847c7ce1b08b7976291d8dc600332b4955cb9762a8f99938680c3133e98a11f",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202009_area_subset.nc",
+      "sha256": "1b321682e1dc2c0bf649f4cee0d972a9a9378044d4f7fa02f064560c838d5d38",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202010_area_subset.nc",
+      "sha256": "ced682a7fbcabbcd597e4d7452f8c512ffef8f5c0816b98550b083db9bd0d9fc",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202011_area_subset.nc",
+      "sha256": "4a7f8de443c7c8906685661b2236e7512cafa8613905cb148a8077b375ea3e77",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202012_area_subset.nc",
+      "sha256": "b1e37a97bef45b912828a221c229ca54b36809bc937e66b98d52115578903021",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202101_area_subset.nc",
+      "sha256": "7ecc5bed9a4b221c4cda97b4282ddc67b396e2f68caa289fdc26590d4d7be7b4",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202102_area_subset.nc",
+      "sha256": "45ae9fb3cc2ec2375c5117270013b97d7c0e336f7f27b5e30e41ac3bbcabbdd0",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202103_area_subset.nc",
+      "sha256": "23204741872192ff6c865216d21eccadbfcba1071f2e51b6ebe5d19ad58e0f67",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202104_area_subset.nc",
+      "sha256": "62499659622d947a3fe4cf2a125da450b51cf9811be40d59c2dd7861f2ff88a0",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202105_area_subset.nc",
+      "sha256": "1eca4c07dcf00b6a6674d273ec30a2244459c9dfe191defdd3832033617205f8",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202106_area_subset.nc",
+      "sha256": "1ebdaa4aa9074cc8a71b5b6388ed5cb5f1259048587c48b7e52e3ff68f859255",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202107_area_subset.nc",
+      "sha256": "5e81e1c85d15697a9408df2362907d6be983f32d7697937344400c7327db8aee",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202108_area_subset.nc",
+      "sha256": "f6532a0cccad149e909d1b1eecdc80879eec2e55978000cc283e2d0e5b57e75d",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202109_area_subset.nc",
+      "sha256": "8f2e93166124ab50e8ec80c68b9b3e5086dcba759d89b3f7715bb3832cf38d72",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202110_area_subset.nc",
+      "sha256": "316738988f7fb51a4b550851116ec15773548d218fb215afb9c957977199644c",
+      "bytes": 30991
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202111_area_subset.nc",
+      "sha256": "40792992c02ff175283c6f739d94d49d622da0fcfb57c1d2711156ac86031f34",
+      "bytes": 30984
+    },
+    {
+      "path": "data/source/original_pipeline/weather_data_1005/precipitation/4b6f1f21-51ec-4bff-abfe-d112231c63bb-gpcp_v02r03_monthly_d202112_area_subset.nc",
+      "sha256": "934c367938bc12588d834624dc19d76467130b8ee875faa747b4f58be644e465",
+      "bytes": 30984
+    }
+  ]
 }
