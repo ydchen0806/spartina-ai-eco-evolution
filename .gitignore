@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+external_data/
+nature_manuscript/
+tables/
+*.tmp

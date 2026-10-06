@@ -1,0 +1,13 @@
+gbif_key,scientific_name,year,lon,lat,dataset,basis_of_record
+5154014777,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2025.0,122.103829,30.00834,iNaturalist research-grade observations,HUMAN_OBSERVATION
+5167867390,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2025.0,118.253758,39.079338,iNaturalist research-grade observations,HUMAN_OBSERVATION
+5867790171,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2025.0,121.961552,30.176917,iNaturalist research-grade observations,HUMAN_OBSERVATION
+4516485306,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2024.0,122.22683,29.952553,iNaturalist research-grade observations,HUMAN_OBSERVATION
+4921649791,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2024.0,122.108831,30.00545,iNaturalist research-grade observations,HUMAN_OBSERVATION
+5087936481,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2024.0,122.304362,29.82902,iNaturalist research-grade observations,HUMAN_OBSERVATION
+6162946355,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2023.0,121.521596,30.814087,iNaturalist research-grade observations,HUMAN_OBSERVATION
+4091378504,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2022.0,117.846186,39.09494,iNaturalist research-grade observations,HUMAN_OBSERVATION
+4987451482,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2022.0,121.647003,29.537661,iNaturalist research-grade observations,HUMAN_OBSERVATION
+5154176645,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2021.0,118.67843,38.10337,iNaturalist research-grade observations,HUMAN_OBSERVATION
+5216037370,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,2018.0,120.32365,36.27407,iNaturalist research-grade observations,HUMAN_OBSERVATION
+5863564000,Sporobolus alterniflorus (Loisel.) P.M.Peterson & Saarela,,121.0,30.0,,MATERIAL_SAMPLE
