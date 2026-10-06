@@ -62,6 +62,6 @@
       "retrieval": "2026-10-06"
     }
   ],
-  "companion_huggingface_dataset": "pending creation",
+  "companion_huggingface_dataset": "https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data",
   "source_boundary": "The raw UAV orthomosaics, segmentation masks, original weather/tide files and original simulation source code were not found in the workspace scan."
 }

@@ -1,3 +1,15 @@
+---
+license: mit
+task_categories:
+  - tabular-regression
+  - image-segmentation
+tags:
+  - biological-invasion
+  - evolutionary-ecology
+  - remote-sensing
+  - reproducibility
+---
+
 # Spartina AI eco-evolutionary reanalysis
 
 Reproducible code, derived tables and audit figures for the *Spartina alterniflora* aerial-observation project. The release reconstructs the available 2014–2021 patch-record analysis and audits the recovered 2014–2020 environment–growth simulation archive.
@@ -9,7 +21,7 @@ Reproducible code, derived tables and audit figures for the *Spartina alterniflo
 - `figures/` — vector and raster audit figures.
 - `docs/` — evidence boundary, Nature-track narrative, captions and current state.
 
-The UAV orthomosaics, segmentation masks, original weather/tide downloads, trained segmentation checkpoint and original simulation code are not present in this release. The recovered `raw_data.xlsx` and seven scenario workbooks are published in the companion Hugging Face dataset; see `metadata/data_sources.json` after the dataset release is created.
+The UAV orthomosaics, segmentation masks, original weather/tide downloads, trained segmentation checkpoint and original simulation code are not present in this release. The recovered `raw_data.xlsx` and seven scenario workbooks are published in the [companion Hugging Face dataset](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data), with hashes and provenance in `metadata/data_sources.json`.
 
 ## Reproduce
 
