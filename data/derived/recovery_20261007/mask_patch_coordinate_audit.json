@@ -1,0 +1,17 @@
+{
+  "fixed_roi_col_row_width_height": [
+    10000,
+    4000,
+    15000,
+    18000
+  ],
+  "archive_coordinate_role": "bounding-box top-left; x is row, y is column",
+  "discovery_date": "201408ddyw.tif",
+  "validation_dates": 14,
+  "records": 5746,
+  "exact_bbox_matches": 5745,
+  "exact_area_matches": 1,
+  "exclusive_max_area_matches": 5647,
+  "bbox_exclusive_max_area_matches": 5744,
+  "interpretation": "Tests raster-to-table coordinate provenance. Source pixel masks are not independent ground truth; area extraction differences and trajectory biological identity remain to be audited."
+}

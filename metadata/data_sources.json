@@ -86,7 +86,7 @@
   ],
   "companion_huggingface_dataset": "https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data",
   "github_repository": "https://github.com/ydchen0806/spartina-ai-eco-evolution",
-  "source_boundary": "The release includes the recovered simulation workbooks, patch CSV and pinned NASA POWER/GBIF response files. The raw UAV orthomosaics, segmentation masks, original weather/tide files and original simulation source code were not found in the workspace scan.",
+  "source_boundary": "The public package contains source tables, code and derived audits. A separate local recovery on 2026-10-06 restored 15 full image/mask pairs, an additional 2013 image and annotation deliveries. The 38.65 GB restored archive is not bundled in this release. See docs/RECOVERY_VALIDATION_2026-10-07.md. Checkpoint, original training RGB photographs, original split and scenario exporter remain unrecovered.",
   "external_context_files": [
     {
       "path": "external_data/nasa_power_zhangjiang_2014_2021.json",
@@ -127,7 +127,7 @@
   "release_root": "nature_manuscript/public_release",
   "upstream_code_repository": "https://github.com/ydchen0806/ai4FastEvolution",
   "upstream_code_commit": "171c9f516799b8bc90aa98b9274730ead7ae740e",
-  "upstream_recovery_note": "The release preserves selected upstream scripts and source matrices; original UAV TIFF/JPEG pixels, segmentation masks and scenario-export code were absent from upstream Git history and local workspace.",
+  "upstream_recovery_note": "The upstream snapshot at 171c9f516799b8bc90aa98b9274730ead7ae740e was inspected from a shallow clone; this is not an exhaustive Git history search. Separate local media recovery supersedes the earlier missing-image status.",
   "upstream_recovered_files": [
     {
       "path": "data/source/original_pipeline/xiamen.xlsx",
@@ -726,5 +726,14 @@
       "sha256": "934c367938bc12588d834624dc19d76467130b8ee875faa747b4f58be644e465",
       "bytes": 30984
     }
-  ]
+  ],
+  "local_recovery_20261006": {
+    "local_root": "raw_inputs/recovered_local_20261006",
+    "files": 1001,
+    "bytes": 38654767408,
+    "independent_hash_audit": "data/derived/recovery_20261007/fresh_hash_verification.json",
+    "hash_failures": 0,
+    "raw_archive_bundled_in_release": false,
+    "report": "docs/RECOVERY_VALIDATION_2026-10-07.md"
+  }
 }

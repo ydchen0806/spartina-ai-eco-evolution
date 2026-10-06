@@ -30,7 +30,9 @@ Reproducible code, derived tables and audit figures for the *Spartina alterniflo
 - `docs/` — evidence boundary, Nature-track narrative, captions, data dictionary and current state.
 - `docs/LITERATURE_SYNTHESIS.md` — checked literature anchors and their implications for the claim hierarchy.
 
-The original UAV orthomosaics, segmentation masks and the code that exported the seven scenario workbooks are still unavailable. The upstream preprocessing code, weather subsets and derived image-index matrices are preserved here; `docs/ORIGINAL_PIPELINE_RECOVERY.md` records the exact source commit and the missing image paths. The recovered `raw_data.xlsx` and seven scenario workbooks are published in the [companion Hugging Face dataset](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data), with hashes and provenance in `metadata/data_sources.json`.
+**Recovery update, 2026-10-07:** the server now holds 15 full RGB/mask pairs and annotation deliveries for 714 images (9,234 objects). Independent rehashing verified all 1,001 restored files. A fixed crop convention links 5,745 of 5,746 archived patch-date coordinates to the recovered masks; a candidate bounding-box counting rule reproduces 5,744 archived areas. See [the recovery validation and research plan](docs/RECOVERY_VALIDATION_2026-10-07.md) for the audit, figures, reproducible commands and remaining limits.
+
+The 38.65 GB raw recovery is separate from this public package. The original segmentation checkpoint, original training RGB photographs, fixed split and scenario-export implementation remain unrecovered. Derived recovery audits are in `data/derived/recovery_20261007/`; inspection figures are in `figures/recovery_20261007/`. The earlier workbooks remain in the [companion Hugging Face dataset](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data).
 
 ## Reproduce
 

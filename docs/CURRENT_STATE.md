@@ -1,79 +1,62 @@
-# Current state — Spartina Nature-track project
+# Current state — Spartina invasion and eco-evolution project
 
-**Date:** 2026-10-06  
-**Working root:** `nature_manuscript/public_release`  
-**Active evidence:** the recovered patch CSV and simulation workbooks in `data/source/`.
+Updated 2026-10-07. The active raw evidence now includes the recovered archive at
+`/mnt/ydchen/micao_paper/raw_inputs/recovered_local_20261006/` as well as the legacy
+patch matrices and environment–growth workbooks. Earlier statements that all
+original imagery, masks and annotation polygons were missing are superseded.
 
-## Completed this turn
+## Verified recovery
 
-Ran from the release root:
+- Independently rehashed 1,001 files / 38,654,767,408 bytes: zero failures.
+- Restored 15 full RGB / binary-mask pairs, each 26,606 × 24,443, plus additional imagery.
+- Confirmed equivalent polygon deliveries: 714 images and 9,234 objects.
+- Fixed crop coordinates reproduce 5,745 / 5,746 archived patch-date positions.
+- Exclusive-maximum bounding-box counting reproduces 5,744 archived areas. This is a numerical reconstruction of the old extraction convention, not a corrected biological area estimate. Two anomalous records remain flagged.
 
-```bash
-python analysis/reanalyze_spartina.py --no-download
-python -m py_compile analysis/reanalyze_spartina.py analysis/model_holdout_audit.py
-python analysis/model_holdout_audit.py
-python analysis/collect_external_context.py --no-download
-python analysis/audit_original_pipeline.py
-```
+See `RECOVERY_VALIDATION_2026-10-07.md` for the full report, manuscript draft
+paragraphs, figure captions and ordered experiment plan. In the public release,
+the report is under `docs/`, derived tables under `data/derived/recovery_20261007/`
+and figures under `figures/recovery_20261007/`. The raw 38.65 GB archive remains
+outside that package. Local changes are not evidence of a completed online sync.
 
-The script audited 727 local patch records using the pinned NASA POWER daily climate context for 117.60 E, 23.95 N (2014–2021) and the 12 coordinate-bearing GBIF records returned by the query `scientificName=Spartina alterniflora&country=CN`, then generated annual summaries and rendered PDF/PNG candidates.
+## Scientific interpretation
 
-The same scan also recovered `external_data/legacy_simulation_archive/230214simulation/raw_data.xlsx` from the historical simulation ZIP. It contains 854 environmental-growth records from 2014–2020, including the observed and simulated growth-rate columns. The archive's seven scenario workbooks have different `pca*_simulation` inputs and different `growth_rate_pred` columns, but byte-identical `growth_rate_simulation` vectors. The definition and export path of those two outputs must be recovered before using the old counterfactual figures as mechanism evidence.
+Masks primarily describe isolated patches and do not cover all continuous
+vegetation. Mask area decline cannot be treated as declining total invasion area
+or genetic adaptation. Observation coverage, season/tide, patch coalescence and
+sample selection must be resolved before revising biological conclusions.
 
-The recovered archive gives observed-versus-exported simulation RMSE 0.699 and Pearson *r* 0.905. Annual observed growth means decrease from 2.303 (2014) to 1.504 (2020), but the year-level rank trend is descriptive (Spearman ρ = −0.714, n = 7, P = 0.071). Candidate `growth_rate_pred` scenario means range from 1.961 (pressure) to 2.157 (all features).
+The earlier 854-row audit remains informative: annual mean growth was 2.303 in
+2014 and 1.504 in 2020; the seven-year rank trend was descriptive (rho = -0.714,
+P = 0.071). The old r = 0.905 / RMSE = 0.699 is calibration. Exploratory temporal
+and spatial holdouts gave best R² = 0.178 and 0.394; global imputation / existing
+PCA inputs mean these are not the final leakage-controlled evaluation.
+Seven scenario workbooks still have identical `growth_rate_simulation` despite
+varying `growth_rate_pred`; their exporter and output definitions are unresolved.
+The separate 727-row parent table has flagged constant parent areas in 2020/2021.
 
-An independent model audit using leave-one-year-out and spatial-block holdout found best R² = 0.178 (RMSE 1.383) for temporal extrapolation and R² = 0.394 (RMSE 1.187) for spatial extrapolation. The in-sample/export calibration value must therefore be labelled calibration, not generalisation.
+The external-context collection is preliminary. The GBIF value 4,584 is a
+reported query total, not a cleaned downloaded dataset; only ten global example
+records were retrieved, and the China query still returned twelve. The NASA
+POWER point is east of the recovered imagery and is context pending spatial
+verification. Literature discovery lists do not substitute for checked citations.
 
-## Current artifacts
+## Next scientific gate
 
-- `analysis/reanalyze_spartina.py`: reproducible audit, download, summary and plotting entry point.
-- `tables/reanalysis_audit.json`: counts, trend statistics and structural anomaly flags.
-- `tables/patch_records_audited.csv`: local records with derived ratios and audit flags.
-- `tables/patch_year_summary.csv`: annual descriptive summary.
-- `tables/nasa_power_year_month_summary.csv`: downloaded climate context aggregated by year and month.
-- `tables/gbif_spartina_china.csv`: external occurrence context.
-- `figures/generated_candidates/fig_patch_dynamics_audit.pdf`: four-panel audit figure.
-- `figures/generated_candidates/fig_gbif_external_context.pdf`: GBIF context map.
-- `figures/generated_candidates/fig_recovered_simulation_audit.pdf`: recovered 854-row archive, calibration and scenario-export audit.
-- `tables/recovered_raw_growth_environment.csv`: recovered 854-row environment-growth table.
-- `tables/recovered_growth_year_summary.csv`: annual observed/simulated growth summary.
-- `tables/recovered_scenario_export_audit.csv`: scenario workbook comparison.
-- `tables/model_holdout_summary.csv`: independent held-out model comparison.
-- `tables/model_holdout_predictions.csv`: held-out predictions.
-- `tables/model_holdout_audit.json`: holdout audit metadata.
-- `analysis/model_holdout_audit.py`: time/spatial holdout model audit.
-- `analysis/collect_external_context.py`: accepted-name GBIF context and OpenAlex literature screen.
-- `tables/gbif_spartina_global_country_summary.csv`: country facets for 4,584 georeferenced GBIF records.
-- `tables/external_literature_screen.csv`: 75-work reproducible literature discovery list.
-- `figures/fig_external_context_synthesis.pdf`: external occurrence and literature-context plot.
-- `docs/EXTERNAL_CONTEXT.md`: source definitions and interpretation limits.
-- `analysis/audit_original_pipeline.py`: upstream source-link and image-index audit.
-- `tables/original_pipeline_audit.json`: exact 854-row upstream/recovered key match and missing-pixel boundary.
-- `tables/original_pipeline_image_inventory.csv`: 15 referenced UAV image dates and non-missing row counts.
-- `figures/fig_original_pipeline_inventory.pdf`: recovered image-index timeline.
-- `docs/ORIGINAL_PIPELINE_RECOVERY.md`: upstream commit, code path and missing image/checkpoint inventory.
-- `docs/LITERATURE_SYNTHESIS.md`: literature anchors for the revised Introduction and Discussion.
+1. Validate cross-date registration and common valid observation footprint.
+2. Rebuild component areas and centroids; audit trajectory continuity, splitting,
+   merging and censoring with independent RGB review.
+3. Freeze a spatially independent annotation sample, including areas outside old
+   positive masks, to measure detection and area error.
+4. Compare environmental / density / coalescence explanations with preprocessing
+   inside training folds and complete year / spatial holdouts.
+5. Add tide and satellite context targeted at those hypotheses. Heritable
+   adaptation requires independent common-garden / transplant / genetic evidence.
 
-The upstream public repository `ydchen0806/ai4FastEvolution` was recovered at
-commit `171c9f5`. Its 3,237-row image-index matrices, 15 referenced image dates,
-station weather table and NetCDF weather subsets are now included under
-`data/source/original_pipeline/`. The upstream 854-row `mydata_0224.xlsx` has an
-exact multiset match with the recovered environment-growth archive on
-`(year, size, X, Y, growth_rate)`. The actual TIFF/JPEG pixels, segmentation
-masks and segmentation checkpoint are still absent; the missing paths and
-recovery request are documented in `docs/ORIGINAL_PIPELINE_RECOVERY.md`.
-- `docs/ANALYSIS_GATE.md`: evidence boundary, estimands and next falsifiable experiment.
-- `docs/RESULTS_DRAFT.md`: evidence-calibrated Results and Discussion wording.
-- `docs/PROJECT_AUDIT_2026-10-06.md`: evidence boundary, Nature-level narrative and experiment plan.
-- `docs/REVISED_ABSTRACT_AND_OUTLINE.md`: calibrated title, abstract and Results order.
+Original segmentation checkpoint, training RGB photographs and fixed split are
+still unrecovered. This does not block new validation using the recovered
+orthomosaics. Original inputs and archived tables have not been overwritten.
 
-## Outstanding blockers
+Public code: https://github.com/ydchen0806/spartina-ai-eco-evolution
 
-The repository still does not contain the UAV orthomosaics/masks, source climate and tide downloads, segmentation checkpoints, matching tables or training logs described by the manuscript. The recovered environment-growth table supports a descriptive 2014–2020 growth series and a calibration audit, but it cannot independently establish generations, heritability, genomic adaptation or environmental causality. The 2020 and 2021 parent-size plateau is flagged and excluded from parent-normalized trend estimates; the scenario-output definitions must be resolved before using those counterfactuals.
-
-The release is now self-contained for the current audit: pinned NASA POWER and
-GBIF response files are in `external_data/`, `metadata/data_dictionary.csv`
-defines all recovered fields, and `docs/ANALYSIS_GATE.md` records the claim
-boundary and the next falsifiable experiment.
-
-The next scientific gate is recovery of the P0 raw evidence chain, followed by spatial/year holdout validation and a detection-error-aware hierarchical model. Common-garden or reciprocal-transplant data are required before using “heritable adaptation” as a main-text conclusion.
+Public data: https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data

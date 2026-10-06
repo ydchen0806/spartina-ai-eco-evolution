@@ -3,8 +3,8 @@
   "upstream_commit": "171c9f516799b8bc90aa98b9274730ead7ae740e",
   "raw_size_position_rows": 3237,
   "raw_image_dates": [
-    "2014-08-01",
-    "2015-08-01",
+    "2014-08",
+    "2015-08",
     "2015-10-17",
     "2016-09-07",
     "2016-10-25",
@@ -27,6 +27,6 @@
   "weather_year_min": 1980,
   "weather_year_max": 2021,
   "image_pixel_files_found_in_release": false,
-  "image_pixel_boundary": "The matrices reference ./mask/*.tif and notebooks reference E:/remote_data/numvis/*.jpg, but those image pixels are absent from the upstream repository and local workspace scan.",
-  "model_checkpoint_boundary": "The upstream repository contains AutoGluon predictor artifacts, but no UAV segmentation checkpoint or training masks."
+  "image_pixel_boundary": "Raw imagery and masks are outside this release snapshot. They were recovered locally on 2026-10-06; see docs/RECOVERY_VALIDATION_2026-10-07.md and data/derived/recovery_20261007/.",
+  "model_checkpoint_boundary": "The upstream repository contains AutoGluon predictor artifacts, but no recovered UAV segmentation checkpoint or original training split. Polygon annotations and 79 delivered PNG masks have since been recovered locally."
 }

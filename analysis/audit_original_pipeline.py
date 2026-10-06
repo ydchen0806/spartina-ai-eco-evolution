@@ -5,8 +5,8 @@ The upstream public repository contains the patch-size/position matrices and
 the weather table used to construct the 854-row environment-growth workbook.
 This script verifies that link and inventories the image dates referenced by
 the matrices. It does not claim that the referenced TIFF/JPEG files are
-available: the upstream repository and this workspace contain their names and
-derived masks, but not the original image pixels.
+bundled with this release. Local imagery, masks and annotations were recovered
+on 2026-10-06; see docs/RECOVERY_VALIDATION_2026-10-07.md for their audit.
 """
 
 from __future__ import annotations
@@ -40,7 +40,8 @@ def main() -> None:
     inventory = []
     for col in image_cols:
         dt = parse_date(col)
-        inventory.append({"image_column": col, "date": dt.strftime("%Y-%m-%d"),
+        inventory.append({"image_column": col, "date": dt.strftime("%Y-%m-%d" if len(re.search(r"(\d{8}|\d{6})", col).group(1)) == 8 else "%Y-%m"),
+                          "date_precision": "day" if len(re.search(r"(\d{8}|\d{6})", col).group(1)) == 8 else "month",
                           "year": dt.year, "n_nonmissing_size": int(size[col].replace(-1, pd.NA).notna().sum()),
                           "n_nonmissing_x": int(pos[col + "x"].replace(-1, pd.NA).notna().sum()),
                           "n_nonmissing_y": int(pos[col + "y"].replace(-1, pd.NA).notna().sum())})
@@ -66,8 +67,8 @@ def main() -> None:
         "weather_year_min": int(weather.Year.min()),
         "weather_year_max": int(weather.Year.max()),
         "image_pixel_files_found_in_release": False,
-        "image_pixel_boundary": "The matrices reference ./mask/*.tif and notebooks reference E:/remote_data/numvis/*.jpg, but those image pixels are absent from the upstream repository and local workspace scan.",
-        "model_checkpoint_boundary": "The upstream repository contains AutoGluon predictor artifacts, but no UAV segmentation checkpoint or training masks.",
+        "image_pixel_boundary": "Raw imagery and masks are outside this release snapshot. They were recovered locally on 2026-10-06; see docs/RECOVERY_VALIDATION_2026-10-07.md and data/derived/recovery_20261007/.",
+        "model_checkpoint_boundary": "The upstream repository contains AutoGluon predictor artifacts, but no recovered UAV segmentation checkpoint or original training split. Polygon annotations and 79 delivered PNG masks have since been recovered locally.",
     }
     (TABLES / "original_pipeline_audit.json").write_text(json.dumps(audit, indent=2, ensure_ascii=False))
 
@@ -78,7 +79,7 @@ def main() -> None:
     ax.set(xlabel="Referenced image date", ylabel="Non-missing patch-size rows",
            title="Recovered upstream image-index inventory")
     ax.tick_params(axis="x", rotation=60)
-    ax.text(.01, .98, "Counts come from derived size matrices; source image pixels are unavailable",
+    ax.text(.01, .98, "Counts from archived size matrices; first two dates have month precision only",
             transform=ax.transAxes, va="top", fontsize=8, color="#667085")
     fig.savefig(FIGURES / "fig_original_pipeline_inventory.pdf", bbox_inches="tight")
     fig.savefig(FIGURES / "fig_original_pipeline_inventory.png", dpi=320, bbox_inches="tight")

@@ -1,0 +1,12 @@
+{
+  "images": 714,
+  "objects": 9234,
+  "polygon_geometry_matches_after_ring_canonicalization": 714,
+  "dimension_matches": 714,
+  "png_compared": 79,
+  "png_encoding_iou_min": 0.9529411764705882,
+  "png_encoding_iou_median": 0.9964993685941675,
+  "out_of_bounds_vertices": 0,
+  "orphan_annotations": [],
+  "interpretation": "Polygon/PNG agreement checks delivery consistency. It is not segmentation model IoU and supplies no train/test independence."
+}

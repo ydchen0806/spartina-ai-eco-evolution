@@ -20,23 +20,21 @@ multiset match on `(year, size, X, Y, growth_rate)`. This establishes that the
 854-row archive is a direct product of the upstream pipeline rather than an
 unrelated reconstruction.
 
-## What remains missing
+## Recovery status — updated 2026-10-07
 
-The upstream matrices reference 15 image dates and paths such as
-`./mask/201408ddyw.tif` and `./mask/20180729.tif`. The notebooks also reference
-JPEGs under `E:\remote_data\numvis\`, including
-`201408ddyw(1).jpg`. Neither the TIFF/JPEG pixels nor the original segmentation
-masks were present in the upstream Git history or the local workspace scan.
-The upstream repository contains AutoGluon predictor artefacts, but no UAV
-segmentation checkpoint, annotation polygons or training/validation split.
+The initial inspection covered a shallow clone of the upstream snapshot and the
+then-available workspace, not every historical Git revision. A separate local
+recovery has now restored the 15 full image/mask pairs, the historical `numvis`
+folder and polygon annotation deliveries for 714 images. Their independent
+checksum, raster, annotation and coordinate audits are recorded in
+[RECOVERY_VALIDATION_2026-10-07.md](RECOVERY_VALIDATION_2026-10-07.md).
 
-The image-index inventory therefore supports an auditable observation timeline,
-while the original AI segmentation metrics cannot yet be independently
-recomputed. The next recovery request should target the `remote_data/numvis`
-directory, the `mask` directory, annotation files and the segmentation training
-repository/checkpoint. Until those arrive, the paper should report the
-segmentation layer as archived provenance and keep detection uncertainty in the
-main evidence boundary.
+The raw archive is stored separately from this release. The original UAV
+segmentation checkpoint, original training RGB photographs and fixed training /
+validation / test split remain unrecovered, so the original model performance
+cannot yet be independently reproduced. The recovered orthomosaics can support
+new independent annotation and validation. The upstream repository's AutoGluon
+predictor artifacts are growth-model artifacts, not the missing segmenter.
 
 ## Relevance to the scenario audit
 

@@ -1,0 +1,13 @@
+{
+  "pairs": 15,
+  "binary_mask_values_all_0_255": true,
+  "identical_rgb_transforms": true,
+  "all_masks_lack_crs": true,
+  "bounds_wgs84": [
+    117.404195622047,
+    23.913476777413198,
+    117.432930102047,
+    23.9374309174132
+  ],
+  "interpretation": "Array overlays are inspection views, not independent registration validation. Black RGB is a heuristic for absent coverage, not authoritative nodata. Full-frame mask totals are not corrected population or invasion-area estimates."
+}

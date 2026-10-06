@@ -1,0 +1,3 @@
+source_row,archive_x,archive_y,archived_size,recovered_pixels,exclusive_max_pixels,bbox_exclusive_max_pixels,width,height,touches_roi_edge,image,ambiguous_bbox,absolute_pixel_difference,relative_pixel_difference,full_image_row,full_image_col,role
+2051,4805,5048,804,,,,,,,20180729.tif,False,,,8805,15048,fixed_coordinate_hypothesis_validation
+2607,9781,9928,321,3712.0,3686.0,3766.0,84.0,92.0,False,20190828.tif,False,3391.0,10.56386292834891,13781,19928,fixed_coordinate_hypothesis_validation
