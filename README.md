@@ -28,6 +28,7 @@ Reproducible code, derived tables and audit figures for the *Spartina alterniflo
 - `external_data/` — pinned NASA POWER and GBIF response files used for the exploratory context panel.
 - `figures/` — vector and raster audit figures.
 - `docs/` — evidence boundary, Nature-track narrative, captions, data dictionary and current state.
+- `docs/LITERATURE_SYNTHESIS.md` — checked literature anchors and their implications for the claim hierarchy.
 
 The original UAV orthomosaics, segmentation masks and the code that exported the seven scenario workbooks are still unavailable. The upstream preprocessing code, weather subsets and derived image-index matrices are preserved here; `docs/ORIGINAL_PIPELINE_RECOVERY.md` records the exact source commit and the missing image paths. The recovered `raw_data.xlsx` and seven scenario workbooks are published in the [companion Hugging Face dataset](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data), with hashes and provenance in `metadata/data_sources.json`.
 

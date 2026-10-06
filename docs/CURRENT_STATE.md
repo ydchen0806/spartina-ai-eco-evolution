@@ -52,6 +52,7 @@ An independent model audit using leave-one-year-out and spatial-block holdout fo
 - `tables/original_pipeline_image_inventory.csv`: 15 referenced UAV image dates and non-missing row counts.
 - `figures/fig_original_pipeline_inventory.pdf`: recovered image-index timeline.
 - `docs/ORIGINAL_PIPELINE_RECOVERY.md`: upstream commit, code path and missing image/checkpoint inventory.
+- `docs/LITERATURE_SYNTHESIS.md`: literature anchors for the revised Introduction and Discussion.
 
 The upstream public repository `ydchen0806/ai4FastEvolution` was recovered at
 commit `171c9f5`. Its 3,237-row image-index matrices, 15 referenced image dates,
