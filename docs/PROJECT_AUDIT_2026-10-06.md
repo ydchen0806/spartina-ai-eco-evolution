@@ -29,6 +29,8 @@
 
 环境—增长档案中的 `growth_rate_simulation` 与观测值相关系数 r = 0.905，RMSE = 0.699，MAE = 0.464。这个模型拟合可以作为模型校准结果，但需要空间/年份留出验证后才能作为泛化性能。
 
+我进一步对 854 行档案做了不依赖原模型代码的留出审计。用随机森林、ExtraTrees、Ridge 和均值基线比较后，最佳模型在留一年验证中的 R² 只有 0.178、RMSE = 1.383；在空间分块验证中 R² = 0.394、RMSE = 1.187。旧稿中的高拟合值不能直接当作外推能力，正式论文必须同时报告这些时间/空间留出结果。
+
 727 条记录按年为 111、94、42、36、70、103、130、141 条。记录数本身不能当成种群数量，因为它同时受检测、边界和匹配规则影响。新斑块面积代理值的年度中位数在 2014–2021 年间为 312、376.5、236.5、412、492、284、330、234 像素，呈现强烈的非单调波动。
 
 把 `size / father_S` 作为“新斑块与父斑块面积比”的描述性指标后，2014–2019 年的年度中位数从 0.0807 降到 0.0069；按年度中位数做 Spearman 检验为 ρ = −0.943，n = 6 年，P = 0.0048。这个信号可以作为“新记录相对于父记录变小”的探索性结果，但不能直接称为代际生长率下降：记录的产生机制、父斑块匹配规则和影像检测阈值都可能随年份改变。
@@ -45,9 +47,13 @@
 - `nature_manuscript/tables/recovered_raw_growth_environment.csv`
 - `nature_manuscript/tables/recovered_growth_year_summary.csv`
 - `nature_manuscript/tables/recovered_scenario_export_audit.csv`
+- `nature_manuscript/tables/model_holdout_summary.csv`
+- `nature_manuscript/tables/model_holdout_predictions.csv`
+- `nature_manuscript/tables/model_holdout_audit.json`
 - `nature_manuscript/figures/generated_candidates/fig_patch_dynamics_audit.pdf`
 - `nature_manuscript/figures/generated_candidates/fig_gbif_external_context.pdf`
 - `nature_manuscript/figures/generated_candidates/fig_recovered_simulation_audit.pdf`
+- `nature_manuscript/figures/generated_candidates/fig_model_holdout_audit.pdf`
 
 ## Nature 正刊应该采用的科学主线
 

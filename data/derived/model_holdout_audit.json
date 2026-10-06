@@ -1,0 +1,27 @@
+{
+  "source": "/mnt/ydchen/micao_paper/nature_manuscript/external_data/legacy_simulation_archive/230214simulation/raw_data.xlsx",
+  "n_rows": 854,
+  "n_year_groups": 7,
+  "n_spatial_blocks": 16,
+  "best_by_split": [
+    {
+      "split": "leave_one_year_out",
+      "feature_set": "climate+space",
+      "model": "random_forest",
+      "n": 854,
+      "rmse": 1.382510908380764,
+      "mae": 0.9300347387380997,
+      "r2": 0.1775200861658588
+    },
+    {
+      "split": "spatial_blocks",
+      "feature_set": "pca+space",
+      "model": "random_forest",
+      "n": 854,
+      "rmse": 1.1866697911204427,
+      "mae": 0.7850329717544063,
+      "r2": 0.39403444145910593
+    }
+  ],
+  "interpretation": "Held-out predictive audit only; scores do not establish causal environmental effects or heritability."
+}

@@ -19,6 +19,8 @@ The same scan also recovered `external_data/legacy_simulation_archive/230214simu
 
 The recovered archive gives observed-versus-exported simulation RMSE 0.699 and Pearson *r* 0.905. Annual observed growth means decrease from 2.303 (2014) to 1.504 (2020), but the year-level rank trend is descriptive (Spearman ρ = −0.714, n = 7, P = 0.071). Candidate `growth_rate_pred` scenario means range from 1.961 (pressure) to 2.157 (all features).
 
+An independent model audit using leave-one-year-out and spatial-block holdout found best R² = 0.178 (RMSE 1.383) for temporal extrapolation and R² = 0.394 (RMSE 1.187) for spatial extrapolation. The in-sample/export calibration value must therefore be labelled calibration, not generalisation.
+
 ## Current artifacts
 
 - `analysis/reanalyze_spartina.py`: reproducible audit, download, summary and plotting entry point.
@@ -33,6 +35,10 @@ The recovered archive gives observed-versus-exported simulation RMSE 0.699 and P
 - `tables/recovered_raw_growth_environment.csv`: recovered 854-row environment-growth table.
 - `tables/recovered_growth_year_summary.csv`: annual observed/simulated growth summary.
 - `tables/recovered_scenario_export_audit.csv`: scenario workbook comparison.
+- `tables/model_holdout_summary.csv`: independent held-out model comparison.
+- `tables/model_holdout_predictions.csv`: held-out predictions.
+- `tables/model_holdout_audit.json`: holdout audit metadata.
+- `analysis/model_holdout_audit.py`: time/spatial holdout model audit.
 - `briefing/PROJECT_AUDIT_2026-10-06.md`: evidence boundary, Nature-level narrative and experiment plan.
 - `briefing/REVISED_ABSTRACT_AND_OUTLINE.md`: calibrated title, abstract and Results order.
 
