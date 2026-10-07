@@ -1,0 +1,45 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1002/ecy.3311",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "33586146",
+        "source": "MED",
+        "pmid": "33586146",
+        "doi": "10.1002/ecy.3311",
+        "title": "Plasticity and selection drive hump-shaped latitudinal patterns of flowering phenology in an invasive intertidal plant.",
+        "authorString": "Chen X, Liu W, Pennings SC, Zhang Y.",
+        "journalTitle": "Ecology",
+        "issue": "5",
+        "journalVolume": "102",
+        "pubYear": "2021",
+        "journalIssn": "1939-9170",
+        "pageInfo": "e03311",
+        "pubType": "research support, non-u.s. gov't; journal article",
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 12,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2021-03-23",
+        "firstIndexDate": "2021-02-16"
+      }
+    ]
+  }
+}

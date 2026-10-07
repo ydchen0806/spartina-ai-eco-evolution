@@ -1,0 +1,45 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1111/mec.15192",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "31339595",
+        "source": "MED",
+        "pmid": "31339595",
+        "doi": "10.1111/mec.15192",
+        "title": "Genetic admixture accelerates invasion via provisioning rapid adaptive evolution.",
+        "authorString": "Qiao H, Liu W, Zhang Y, Zhang YY, Li QQ.",
+        "journalTitle": "Mol Ecol",
+        "issue": "17",
+        "journalVolume": "28",
+        "pubYear": "2019",
+        "journalIssn": "0962-1083; 1365-294x; ",
+        "pageInfo": "4012-4027",
+        "pubType": "research support, non-u.s. gov't; journal article",
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 50,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2019-09-02",
+        "firstIndexDate": "2019-07-31"
+      }
+    ]
+  }
+}

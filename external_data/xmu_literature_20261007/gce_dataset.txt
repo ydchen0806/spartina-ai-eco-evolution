@@ -1,0 +1,448 @@
+Georgia Coastal Ecosystems LTER Data Set Details
+Georgia Coastal Ecosystems LTER Data Set Details
+Home
+>
+Data
+>
+Data Search
+>
+Data Catalog
+>
+Data Set Summary
+|
+Update Metadata
+(contributor)
+|
+Copy as Template
+(GCE)
+Home
+Research »
+Overview
+Area1 -
+Drivers
+Area2 -
+Patterns
+Area3 -
+Process Studies
+Area4 -
+Integration/
+Scaling Up
+Key Findings
+Study Site »
+Study Site Info
+Study Area Map
+Marsh Sites
+Survey Transects
+Location Search
+LTER Network »
+Site Profiles
+Site Coordinates
+Field Planning »
+Visiting Sapelo
+Research Request
+GCE Calendar
+Tide Tables
+Custom Tides
+Site Conditions
+Bibliography »
+Search/Custom
+Signature GCE Publications
+GCE Program
+UGAMI Reprints
+LMER Program
+LTER Network
+Data Products »
+GCE Data
+Data Search
+Data Catalog
+Data Portal
+GIS Data »
+GIS Vector Data
+GIS Raster Data
+Species Lists
+Physical Collections
+Data Submission »
+Submission Form
+View Submissions
+Data Template
+Submission Info
+LTER Network »
+LTER Data Catalog
+LTER Climate Data
+Maps & Imagery »
+Search/Browse All
+Site Maps
+Site Photos
+Organism Photos
+Logos
+Legacy Maps
+GIS Resources »
+Overview
+Interactive Map
+GIS Data Types
+KML Information
+GIS Links
+LTER Network
+Documents »
+Search/Browse All
+Reports
+Proposals
+Publications
+Presentations
+Governance
+Other »
+Informatics
+Procedures
+LTER Network
+Ed & Outreach »
+Overview
+Teacher Workshop
+Children's Book
+Comic Book
+GCRC Outreach
+Citizen Science
+LTER Network »
+Opportunities
+Schoolyard LTER
+Informatics »
+IM Overview
+IM Guide (FAQ)
+Data Submission
+EML Metadata
+Databases
+Software »
+GCE Data Toolbox
+Research Tools
+LTER Network »
+LTER Informatics
+Ecoinformatics
+DataBits Newsletter
+Personnel »
+GCE Personnel
+GCE Committees
+Affiliates »
+GCE Affiliates
+LTER Web Site
+UGAMI Web Site
+SINERR Web Site
+GCRC Web Site
+UGA Marine Sciences
+LTER Network
+Private Site »
+Private Site Info
+Provisional Data
+GCE Archives »
+Archive Info
+File Archive
+Cruise Logs
+Annual Meetings
+Reprint Library
+Governance »
+GCE Referenda
+GCE Bylaws
+Exec Committee
+Research Request »
+Information
+New Application
+View Applications
+Upload File(s) »
+Study Data
+GPS Data
+Reprint File
+Species List File
+Other File(s)
+Archive File »
+Document
+GIS Vector Data
+Map Image
+Organism Photo
+Site Photo
+Other File
+Update Biblio »
+Add Citation
+Update Citation
+Upload Reprint
+Update News »
+View News Items
+Add News Item
+Update News Item
+Update Calendar »
+View Calendar
+Add Event
+Update Event
+User Information »
+Change Password
+Reset Password
+Update Bio Page
+View Data Submissions
+Site Search
+Code of Conduct »
+Overview
+Report a Concern
+Jump to Files
+GCE-LTER Data Set Summary
+Accession:
+BOT-GCED-1912
+Research Theme:
+Botany (Directed Study)
+Contributors:
+Steven C. Pennings
+, Wenwen Liu, Yihui Zhang, Xincong Chen, Keith Maung-Douglass
+Title:
+Contrasting plant adaptation strategies to latitude in the native and invasive range of Spartina alterniflora: geographic survey (2014) and Common garden (2015-2017)
+Abstract:
+We examined trait differences and evolution across geographic clines among continents of the intertidal grass Spartina alterniflora within its invasive and native ranges. Between September and November 2014, we sampled vegetative and reproductive traits in the field at 20 sites over 20° latitude in China (invasive range) and 28 sites over 17° latitude in the US (native range). We grew both Chinese and US plants in a greenhouse common garden for three years (2015 - 2017) to determine if differences in performance of S. alterniflora between the introduced and native ranges were due to genetic differences or differences in abiotic conditions.
+DOI:
+10.6073/pasta/80b9e68d1ff535d27de2b3e6d854e90e
+Key Words:
+evolution, introduced species, latitude, phenotypic plasticity, salt marsh
+LTER Core Area:
+Primary Production
+Research Themes:
+Botany
+Study Period:
+10-Sep-2014 to 22-Nov-2014
+Study Sites:
+SE_Coast
+-- Southeastern USA Coast, USA
+ChinaSA
+-- China Spartina Study, China
+» Download Geographic Coverage:
+Google Earth
+Publications:
+Liu, W., Zhang, Y., Chen, X., Maung-Douglass, K., Strong, D.R. and Pennings, S.C. 2020. Contrasting plant adaptation strategies to latitude in the native and invasive range of Spartina alterniflora. New Phytologist. 226:623-634. (DOI: 10.1111/nph.16371)
+Downloads:
+Data Table:
+BOT-GCED-1912_Geographic (Data table for the geographic survey, 240 records)
+Access:
+Public (released 08-Dec-2020)
+Metadata:
+Text (ESA FLED)
+,
+XML (Ecological Metadata Language)
+Data Formats:
+Spreadsheet (CSV)
+[18.81kb],
+Text File
+[16.48kb],
+MATLAB (GCE Toolbox)
+[14.86kb],
+MATLAB (Variables)
+[15.37kb],
+Text Report
+[29.53kb]
+Column List:
+(
+display
+)
+Column
+Name
+Units
+Type
+Description
+1
+Year
+YYYY
+integer
+Year the site was sampled
+2
+Month
+M
+integer
+Month the site was sampled
+3
+Day
+D
+integer
+Day the site was sampled
+4
+Range
+none
+string
+Name of range
+5
+Source_type
+none
+string
+Name of source type
+6
+Location
+none
+string
+Name of site
+7
+Latitude
+degrees
+floating-point
+Degrees latitude north
+8
+Longitude
+degrees
+floating-point
+Degrees longitude east (+) / west (-)
+9
+Plot_number
+none
+integer
+Quadrat number within location
+10
+Subsite_number
+none
+integer
+Subsite number within location
+11
+Subsite_family
+none
+string
+Name of subsite
+12
+Plant_height
+cm
+floating-point
+Average height of the three talles shoots (if less than three shoots,  average of two tallest or single shoot)
+13
+Number_​of_​shoots_​per_​square_​meter
+count
+integer
+Number of shoots per square meter
+14
+Seed_set
+percent
+floating-point
+Percent seed set
+Data Table:
+BOT-GCED-1912_Greenhouse (Data table for the commmon garden experiment, 720 records)
+Access:
+Public (released 08-Dec-2020)
+Metadata:
+Text (ESA FLED)
+,
+XML (Ecological Metadata Language)
+Data Formats:
+Spreadsheet (CSV)
+[58.88kb],
+Text File
+[52.07kb],
+MATLAB (GCE Toolbox)
+[31.61kb],
+MATLAB (Variables)
+[30.58kb],
+Text Report
+[76.61kb]
+Column List:
+(
+display
+)
+Column
+Name
+Units
+Type
+Description
+1
+Year
+YYYY
+integer
+Year the site was sampled
+2
+Month
+M
+integer
+Month the site was sampled
+3
+Day
+D
+integer
+Day the site was sampled
+4
+Range
+none
+string
+Name of range
+5
+Source_type
+none
+string
+Name of source type
+6
+Location
+none
+string
+Name of site
+7
+Latitude
+degrees
+floating-point
+Degrees latitude north
+8
+Longitude
+degrees
+floating-point
+Degrees longitude east (+) / west (-)
+9
+Plot_number
+none
+integer
+Quadrat number within location
+10
+Subsite_number
+none
+integer
+Subsite number within location
+11
+Subsite_family
+none
+string
+Name of subsite
+12
+Block_design
+none
+string
+Name of block
+13
+Plant_height
+cm
+floating-point
+Height of shoot
+14
+Number_​of_​shoots_​per_​square_​meter
+count
+integer
+Number of shoots per square meter
+15
+Seed_set
+percent
+floating-point
+Percent seed set
+Statistics:
+Generate script code to retrieve data tables for analysis in:
+MATLAB
+,
+R
+,
+SAS
+,
+SPSS
+Citation:
+Pennings, Steven C. 2019. Contrasting plant adaptation strategies to latitude in the native and invasive range of Spartina alterniflora: geographic survey (2014) and Common garden (2015-2017). Georgia Coastal Ecosystems LTER Project, University of Georgia, Long Term Ecological Research Network.
+http://dx.doi.org/10.6073/pasta/80b9e68d1ff535d27de2b3e6d854e90e
+»
+Help
+  about file formats, technical specifications and file versioning
+21-Aug-2025
+Contact Us
+|
+Privacy
+This material is based upon work supported by the
+National Science Foundation
+under grants
+OCE-9982133
+,
+OCE-0620959
+,
+OCE-1237140
+,
+OCE-1832178
+and
+OCE-2425396
+.  
+  Any opinions, findings, conclusions, or recommendations expressed in the material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

@@ -1,0 +1,491 @@
+I. Data Set Descriptors 
+   A. Title: Steven C. Pennings. 2019. Contrasting plant adaptation strategies to latitude in the 
+      native and invasive range of Spartina alterniflora: geographic survey (2014) and Common 
+      garden (2015-2017). Georgia Coastal Ecosystems LTER Data Catalog (data set BOT-GCED-1912; 
+      http://gce-lter.marsci.uga.edu/public/app/dataset_details.asp?accession=BOT-GCED-1912)
+   B. Accession Number: BOT-GCED-1912
+   C. Description 
+      1. Originator(s): 
+         Name: Steven C. Pennings
+         Address: Department of Biology and Biochemistry
+                  University of Houston
+                  Houston, Texas  77204-5513
+         Country: USA
+         Email: scpennin@central.uh.edu
+      2. Abstract: We examined trait differences and evolution across geographic clines among 
+         continents of the intertidal grass Spartina alterniflora within its invasive and native 
+         ranges. Between September and November 2014, we sampled vegetative and reproductive traits 
+         in the field at 20 sites over 20° latitude in China (invasive range) and 28 sites over 17° 
+         latitude in the US (native range). We grew both Chinese and US plants in a greenhouse 
+         common garden for three years (2015 - 2017) to determine if differences in performance of 
+         S. alterniflora between the introduced and native ranges were due to genetic differences 
+         or differences in abiotic conditions.
+      3. Study Type: Directed Study
+      4. Study Themes: Botany
+      5. LTER Core Areas: Primary Production
+      6. Georeferences: geographic coordinates as data columns
+      7. Submission Date: Dec 09, 2019
+   D. Keywords: evolution, GCE, Georgia, Georgia Coastal Ecosystems, introduced species, latitude, 
+      LTER, phenotypic plasticity, Primary Production, salt marsh, Sapelo Island, USA
+II. Research Origin Descriptors 
+   A. Overall Project Description 
+      1. Project Title: Georgia Coastal Ecosystems LTER Project III
+      2. Principal Investigators: 
+         Name: Merryl Alber
+         Address: Dept. of Marine Sciences
+                  University of Georgia
+                  Athens, Georgia  30602-3636
+         Country: USA
+         Email: malber@uga.edu
+      3. Funding Period: Nov 01, 2012 to Nov 01, 2018
+      4. Objectives: The research proposed for GCE-III is designed to address how variations in 
+         salinity and inundation, driven by climate change and anthropogenic factors, affect biotic 
+         and ecosystem responses at different spatial and temporal scales, and to predict the 
+         consequences of these changes for habitat provisioning and carbon (C) sequestration across 
+         the coastal landscape.
+      5. Abstract: The Georgia Coastal Ecosystems (GCE) LTER is located along three adjacent sounds 
+         on the Atlantic coast and includes both intertidal marshes and estuaries. Long-term 
+         drivers of climate change, sea level rise and human alterations of the landscape will 
+         cause transitions in dominant habitat types (state changes) within the GCE domain by 
+         changing the amounts and patterns of water delivery across the landscape. These changes in 
+         water delivery can be conceptualized as presses and pulses in river inflow, local runoff, 
+         groundwater input, and tidal inundation, which will in turn manifest themselves as changes 
+         in salinity and inundation patterns in the domain. The research proposed for GCE-III is 
+         designed to address how variations in salinity and inundation, driven by climate change 
+         and anthropogenic factors, affect biotic and ecosystem responses at different spatial and 
+         temporal scales, and to predict the consequences of these changes for habitat provisioning 
+         and carbon (C) sequestration across the coastal landscape. The goals are to: 1) Track 
+         long-term changes in climate and human actions in the watershed and adjacent uplands, and 
+         evaluate the effects of these drivers on domain boundary conditions. 2) Describe temporal 
+         and spatial variability in physical, chemical, geological and biological, and to evaluate 
+         how they are affected by variations in river inflow and other boundary conditions. 3) 
+         Characterize the responses of three dominant habitats in the domain to pulses and presses 
+         in salinity and inundation. 4) Describe patterns of habitat provisioning and C 
+         sequestration and export in the GCE domain, and to evaluate how these might be affected by 
+         changes in salinity and inundation. These efforts will be synthesized into a synoptic 
+         understanding of both biotic and ecosystem responses to variations in salinity and 
+         inundation driven by climate change and human activities, which will be used to assess 
+         thresholds between habitats and the potential for state changes in the domain.
+      6. Funding Source: NSF OCE 1237140
+   B. Sub-project Description 
+      1. Site Description 
+         a. Geographic Location: 
+            Coordinates: 
+         b. Physiographic Region: 
+         c. Landform Components: 
+         d. Hydrographic Characteristics: 
+         e. Topographic Attributes: 
+         f. Geology, Lithology and Soils: 
+         g. Vegetation Communities: 
+         h. History of Land Use and Disturbance: none recorded
+         i. Climate: Climate summary for Sapelo Island, Georgia, based on NWS data from 1980-2010:
+            Daily-aggregated Values: Mean (sample standard deviation)
+               mean air temperature: 20.09°C (7.28°C)
+               minimum air temperature:  15.02°C (7.96°C)
+               maximum air temperature:  24.82°C (6.98°C)
+               total precipitation:  3.26mm (10.3mm)
+            Yearly-aggregated Daily Values: Mean (sample standard deviation)
+               total precipitation (1980-2010): 1124mm (266mm)
+      2. Experimental or Sampling Design 
+         a. Design Characteristics: 
+            Study 1: Geographic study -- In China we sampled 10 locations ranging from 20.90 °N to 
+               39.05 °N in September-November, 2014. To standardize phenology, we started at the 
+               southernmost location (Leizhou) when seed set began in late September and ended at 
+               the northernmost location (Tanggu) when seeds were being set in early November. In 
+               the United States we sampled 14 locations ranging from 27.70 °N to 43.32 °N in 
+               October and November 2014. Within each location, we worked at two sites, 2-3 km 
+               apart, with a total of 20 sites in China, and 28 sites in the United States. In both 
+               geographic ranges, S. alterniflora occupies lower elevations in the intertidal than 
+               other plant species. As a practical matter, the easiest way to standardize elevation 
+               across all sites was to focus on tall-form S. alterniflora, which we defined as the 
+               tallest plants that were growing at each site. These plants were invariably growing 
+               low in the marsh or along creek banks, and always occurred in monospecific stands.
+            Study 2: Common Garden Study -- To determine if differences in performance of S. 
+               alterniflora between the introduced and native ranges were due to genetic 
+               differences or differences in abiotic conditions, we conducted a common-garden 
+               experiment in a greenhouse at the Xiang’an campus of Xiamen University (24.62 °N, 
+               118.31 °E). The greenhouse had a plastic roof to exclude rain and mesh sides to 
+               exclude insects. The common garden consisted of ten rectangular plastic pools 
+               (length: 1.2 m, width: 0.9 m, depth: 0.3 m). Each plastic pool contained 24 plastic 
+               buckets (18 cm in diameter and 24 cm deep), which were grouped into four rows and 
+               six columns. Each bucket was filled with mixture of 50% Jiffy’s peat substrate 
+               (Jiffy Products International BV, Moerdijk, Netherlands) and 50% vermiculite (by 
+               volume), and had four 1 cm diameter holes in the sides and one in the bottom to 
+               allow exchange of water with the water in the pool. Pools were filled with 
+               artificial sea water (10 PSU) to approx. 2 cm above the soil level in the pots. 
+               Salinity was checked every other day and fresh water was added as needed to maintain 
+               salinity. Water in the pools was completely replaced once a month. Fertilizer (C:N:P 
+               15-15-15; 0.5 g per plant) was added to the pools in March every year (from 2015 
+               -2017). In March 2015, seeds from each quadrat were germinated and grown in a growth 
+               chamber until seedlings were approximately 5 cm tall. One haphazardly chosen 
+               seedling per quadrat (100 from China; 140 from the United States) was transplanted 
+               into a single, haphazardly selected plastic bucket, with each location (10 from 
+               China; 14 from the United States) replicated once in each of the 10 pools.
+         b. Permanent Plots: 
+            Study 1: 
+            Study 2: none
+         c. Data Collection Duration and Frequency: 
+            Study 1: At each site, we sampled five 0.5 × 0.5 m quadrats in tall-form S. 
+               alterniflora stands, with individual quadrats spaced greater than 30 meters apart. 
+               In each quadrat, we measured the height of the three tallest S. alterniflora shoots 
+               and counted the number of shoots that were greater than 25 cm tall to calculate 
+               shoot density. We haphazardly collected 10 inflorescences within a meter of each 
+               quadrat and counted the number of filled seeds in each inflorescence, distinguishing 
+               filled from unfilled seeds. We calculated seed set (100*filled seeds/(total seeds)).
+            Study 2: Using protocols developed in our earlier work (Liu et al., 2016, 2017), in 
+               October 2015 we measured the height of the three tallest shoots in each pot when 
+               most of plants had reached maturity in pots. If fewer than three shoots were 
+               present, we measured all the shoots. We then counted the number of shoots greater 
+               than 25 cm tall in each bucket. We collected inflorescences from the tallest three 
+               flowering stems, and counted the number of filled seeds. If fewer than three 
+               flowering shoots were present, we sampled all the shoots. In March 2016, we 
+               separated a 15-20 cm long rhizome bearing one or two shoots from each clone, 
+               transplanted the rhizome into a new bucket in a new soil mixture, and fertilized the 
+               pool as above. This process was repeated in 2016-2017, to give three years of data. 
+               Thus, data from each of the three years in the common garden were obtained from the 
+               same clones that were propagated by rhizomes from one year to the next.
+            Beginning of Observations: 
+               Study 1: Sep 10, 2014
+               Study 2: Mar 01, 2015
+            End of Observations: 
+               Study 1: Nov 22, 2014
+               Study 2: Nov 10, 2017
+      3. Research Methods 
+         a. Field and Laboratory Methods: 
+            Method 1: Location selection -- 10 locations from China and 14 from the United States 
+               were selected. Within each location, 2 sites were located 2-3 kilometers apart. This 
+               resulted in sampling 20 sites in China and 28 sites in the United States.
+            Method 2: Geographic sampling -- We focused on tall-form Spartina Alterniflora, which 
+               we defined as the tallest plants that were growing in each site. At each site, we 
+               sampled five 0.5 × 0.5 m quadrats in tall-form S. alterniflora stands, with 
+               individual quadrats spaced greater than 30 meters apart. In each quadrat, we 
+               measured the height of the three tallest S. alterniflora shoots and counted the 
+               number of shoots that were greater than 25 cm tall to calculate shoot density. We 
+               haphazardly collected 10 inflorescences within a meter of each quadrat and counted 
+               the number of filled seeds in each inflorescence, distinguishing filled from 
+               unfilled seeds. We calculated both seed set (100*filled seeds/(total seeds).
+            Method 3: Common garden design -- The common garden consisted of ten rectangular 
+               plastic pools (length: 1.2 m, width: 0.9 m, depth: 0.3 m). Each plastic pool 
+               contained 24 plastic buckets (18 cm in diameter and 24 cm deep), which were grouped 
+               into four rows and six columns. Each bucket was filled with mixture of 50% Jiffy’s 
+               peat substrate (Jiffy Products International BV, Moerdijk, Netherlands) and 50% 
+               vermiculite (by volume), and had four 1 cm diameter holes in the sides and one in 
+               the bottom to allow exchange of water with the water in the pool. Pools were filled 
+               with artificial sea water (10 PSU) to ~2 cm above the soil level in the pots. 
+               Salinity was checked every other day and fresh water was added as needed to maintain 
+               salinity. Water in the pools was completely replaced once a month. Fertilizer (C:N:P 
+               15-15-15; 0.5 g per plant) was added to the pools in March each year.
+            Method 4: Seed germination and transplant -- Seeds from each quadrat were germinated 
+               and grown in a growth chamber until seedlings were approximately 5 cm tall. One 
+               haphazardly chosen seedling per quadrat (100 from China; 140 from the United States) 
+               was transplanted into a single, haphazardly selected plastic bucket, with each 
+               location (10 from China; 14 from the United States) replicated once in each of the 
+               10 pools.
+            Method 5: Common garden sampling -- Using protocols developed in our earlier work (Liu 
+               et al., 2016, 2017), in October 2015 we measured the height of the three tallest 
+               shoots in each pot when most of plants had reached maturity in pots. If fewer than 
+               three shoots were present, we measured all the shoots. We then counted the number of 
+               shoots greater than 25 cm tall in each bucket. We collected inflorescences from the 
+               tallest three flowering stems, and counted the number of filled seeds. If fewer than 
+               three flowering shoots were present, we sampled all the shoots. In March 2016, we 
+               separated a 15-20 cm long rhizome bearing one or two shoots from each clone, 
+               transplanted the rhizome into a new bucket in a new soil mixture, and fertilized the 
+               pool as above. This process was repeated in 2016-2017, to give three years of data. 
+               Thus, data from each of the three years in the common garden were obtained from the 
+               same clones that were propagated by rhizomes from one year to the next.
+         b. Protocols: 
+            Method 1: none
+            Method 2: none
+            Method 3: none
+            Method 4: none
+            Method 5: none
+         c. Instrumentation: 
+            Method 1: 
+               none
+            Method 2: 
+               none
+            Method 3: none
+            Method 4: none
+            Method 5: none
+         d. Taxonomy and Systematics: 
+            Method 1: 
+            Method 2: 
+            Method 3: not applicable
+            Method 4: not applicable
+            Method 5: not applicable
+         e. Speclies List: 
+         f. Permit History: 
+            Method 1: none
+            Method 2: none
+            Method 3: not applicable
+            Method 4: not applicable
+            Method 5: not applicable
+      4. Project Personnel 
+         a. Personnel: 
+            1: Steven C. Pennings
+            2: Wenwen Liu
+            3: Yihui Zhang
+         b. Affiliations: 
+            1: University of Houston, Houston, Texas
+            2: University of Houston, Houston, Texas
+            3: Xiamen University, Xiamen, Fujian
+III. Data Set Status and Accessibility 
+   A. Status 
+      1. Latest Update: 09-Dec-2019
+      2. Latest Archive Date: 09-Dec-2019
+      3. Latest Metadata Update: 09-Dec-2019
+      4. Data Verification Status: Reviewed by IM
+   B. Accessibility 
+      1. Storage Location and Medium: Stored at 
+         GCE-LTER Data Management Office
+         Dept. of Marine Sciences
+         Univ. of Georgia
+         Athens, GA 30602-3636
+         USA 
+         on media: electronic data download (WWW) or compact disk
+      2. Contact Person: 
+         Name: Wade M. Sheldon, Jr.
+         Address: 130 Marine Sciences
+                  Marine Sciences Building
+                  Athens, Georgia  30602-3636
+         Country: USA
+         Email: sheldon@uga.edu
+      3. Copyright Restrictions: not copyrighted
+      4. Restrictions: This information is licensed under a Creative Commons Attribution 4.0 
+         International License (see: https://creativecommons.org/licenses/by/4.0/). The consumer of 
+         these data ("Data User" herein) has an ethical obligation to cite it appropriately in any 
+         publication that results from its use. The Data User should realize that these data may be 
+         actively used by others for ongoing research and that coordination may be necessary to 
+         prevent duplicate publication. The Data User is urged to contact the authors of these data 
+         if any questions about methodology or results occur. Where appropriate, the Data User is 
+         encouraged to consider collaboration or co-authorship with the authors. The Data User 
+         should realize that misinterpretation of data may occur if used out of context of the 
+         original study. While substantial efforts are made to ensure the accuracy of data and 
+         associated documentation, complete accuracy of data sets cannot be guaranteed. All data 
+         are made available "as is." The Data User should be aware, however, that data are updated 
+         periodically and it is the responsibility of the Data User to check for new versions of 
+         the data. The data authors and the repository where these data were obtained shall not be 
+         liable for damages resulting from any use or misinterpretation of the data.
+         a. Release Date: Affiliates: Dec 09, 2019, Public: Dec 09, 2021
+         b. Citation: Data provided by the Georgia Coastal Ecosystems Long Term Ecological Research 
+            Project, supported by funds from NSF OCE 1237140 (data set BOT-GCED-1912)
+         c. Disclaimer: The user assumes all responsibility for errors in judgement based on 
+            interpretation of data and analyses presented in this data set.
+      5. Costs: free electronic data download via WWW, distribution on CD may be subject to nominal 
+         processing and handling fee
+IV. Data Structural Descriptors 
+   A. Data Set File 
+      1. File Name: BOT-GCED-1912_Greenhouse_1_0.CSV
+      2. Size: 720 records
+      3. File Format: ASCII text (comma-separated value format)
+      3a. Delimiters: single comma
+      4. Header Information: 5 lines of ASCII text
+      5. Alphanumeric Attributes: 
+      6. Quality Control Flag Codes: Q = questionable value, I = invalid value, E = estimated value
+      7. Authentication Procedures: 
+      8. Calculations: 
+         Seed_set: (filled_seeds/total_seeds)*100
+      9. Processing History: 
+         Software version: GCE Data Toolbox Version 3.9.9b (06-Mar-2019)
+         Data structure version: GCE Data Structure 1.1 (29-Mar-2001)
+         Original data file processed: garden.txt (720 records)
+         Data processing history:
+            09-Dec-2019: new GCE Data Structure 1.1 created ('newstruct')
+            09-Dec-2019: 720 rows imported from ASCII data file 'garden.txt' ('imp_ascii')
+            09-Dec-2019: 13 metadata fields in file header parsed ('parse_header')
+            09-Dec-2019: data structure validated ('gce_valid')
+            09-Dec-2019: Q/C flagging criteria applied, 'flags' field updated ('dataflag')
+            09-Dec-2019: automatically assigned study date metadata descriptors based on the range 
+               of date values in date/time columns (add_studydates)
+            09-Dec-2019: manually edited data set metadata ('ui_editmetadata')
+            09-Dec-2019: Units of column Year changed from 'none' to 'YYYY'; Units of column Month 
+               changed from 'none' to 'M'; Units of column Day changed from 'none' to 'D'; Units of 
+               column Latitude changed from 'degrees  ' to 'degrees'; Units of column Longitude 
+               changed from 'degrees  ' to 'degrees';Q/C Criteria of column Day changed from 
+               'x<1='I';x>31='I';x<3='Q';x>11='Q'' to 'x<1='I';x>31='I';x<3='Q';x>30='Q''; Q/C 
+               Criteria of column Latitude changed from 'x<0='I';x>90='I';x<20='Q';x>43='Q'' to 
+               'x<0='I';x>90='I';x<20='Q';x>44='Q' ('ui_editor')
+            09-Dec-2019: Q/C flagging criteria applied for column(s) Day and Latitude, 'flags' 
+               field updated ('dataflag')
+            09-Dec-2019: updated 1 metadata fields in the Dataset sections ('addmeta')
+            09-Dec-2019: imported Dataset, Project, Site, Study, Status, Supplement metadata 
+               descriptors from the GCE Metabase ('imp_gcemetadata')
+            09-Dec-2019: updated 49 metadata fields in the Dataset, Project, Site, Status, Study, 
+               Supplement sections ('addmeta')
+            09-Dec-2019: Precision of column Latitude changed from 1 to 2; Precision of column 
+               Longitude changed from 1 to  ('ui_editor')
+            09-Dec-2019: Name of column Name of source type changed to Source_type;Data Type of 
+               column Number_of_shoots_per_square_meter changed from 'f' to 'd';Variable Type of 
+               column Number_of_shoots_per_square_meter changed from 'data' to 
+               'calculation';Numeric Type of column Number_of_shoots_per_square_meter changed from 
+               'continuous' to 'discrete ('ui_editor')
+            09-Dec-2019: updated 6 metadata fields in the Data sections ('addmeta')
+            09-Dec-2019: updated 15 metadata fields in the Status, Data sections to reflect 
+               attribute metadata ('updatecols')
+            09-Dec-2019: parsed and formatted metadata ('listmeta')
+   B. Variable Information 
+      1. Variable Name: 
+         column  1. Year
+         column  2. Month
+         column  3. Day
+         column  4. Range
+         column  5. Source_type
+         column  6. Location
+         column  7. Latitude
+         column  8. Longitude
+         column  9. Plot_number
+         column 10. Subsite_number
+         column 11. Subsite_family
+         column 12. Block_design
+         column 13. Plant_height
+         column 14. Number_of_shoots_per_square_meter
+         column 15. Seed_set
+      2. Variable Definition: 
+         column  1. Year the site was sampled
+         column  2. Month the site was sampled
+         column  3. Day the site was sampled
+         column  4. Name of range
+         column  5. Name of source type
+         column  6. Name of site
+         column  7. Degrees latitude north
+         column  8. Degrees longitude east (+) / west (-)
+         column  9. Quadrat number within location
+         column 10. Subsite number within location
+         column 11. Name of subsite
+         column 12. Name of block
+         column 13. Height of shoot
+         column 14. Number of shoots per square meter
+         column 15. Percent seed set
+      3. Units of Measurement: 
+         column  1. YYYY
+         column  2. M
+         column  3. D
+         column  4. none
+         column  5. none
+         column  6. none
+         column  7. degrees
+         column  8. degrees
+         column  9. none
+         column 10. none
+         column 11. none
+         column 12. none
+         column 13. cm
+         column 14. count
+         column 15. percent
+      4. Data Type 
+         a. Storage Type: 
+            column  1. integer
+            column  2. integer
+            column  3. integer
+            column  4. string
+            column  5. string
+            column  6. string
+            column  7. floating-point
+            column  8. floating-point
+            column  9. integer
+            column 10. integer
+            column 11. string
+            column 12. string
+            column 13. floating-point
+            column 14. integer
+            column 15. floating-point
+         b. Variable Codes: 
+         c. Numeric Range: 
+            column  1. 2015 to 2017
+            column  2. 10 to 11
+            column  3. 3 to 30
+            column  4. (none)
+            column  5. (none)
+            column  6. (none)
+            column  7. 20.9 to 43.32
+            column  8. -82.5 to 121.97
+            column  9. 1 to 10
+            column 10. 1 to 2
+            column 11. (none)
+            column 12. (none)
+            column 13. 20 to 187
+            column 14. 1 to 24
+            column 15. 0 to 76.92
+         d. Missing Value Code: 
+      5. Data Format 
+         a. Column Type: 
+            column  1. numerical
+            column  2. numerical
+            column  3. numerical
+            column  4. text
+            column  5. text
+            column  6. text
+            column  7. numerical
+            column  8. numerical
+            column  9. numerical
+            column 10. numerical
+            column 11. text
+            column 12. text
+            column 13. numerical
+            column 14. numerical
+            column 15. numerical
+         b. Number of Columns: 15
+         c. Decimal Places: 
+            column  1. 0
+            column  2. 0
+            column  3. 0
+            column  4. 0
+            column  5. 0
+            column  6. 0
+            column  7. 2
+            column  8. 2
+            column  9. 0
+            column 10. 0
+            column 11. 0
+            column 12. 0
+            column 13. 0
+            column 14. 0
+            column 15. 2
+      6. Logical Variable Type: 
+         column  1. datetime (discrete)
+         column  2. datetime (discrete)
+         column  3. datetime (discrete)
+         column  4. free text (none)
+         column  5. free text (none)
+         column  6. free text (none)
+         column  7. geographic coordinate (continuous)
+         column  8. geographic coordinate (continuous)
+         column  9. ordinal (discrete)
+         column 10. ordinal (discrete)
+         column 11. free text (none)
+         column 12. free text (none)
+         column 13. data (continuous)
+         column 14. calculation (discrete)
+         column 15. calculation (continuous)
+      7. Flagging Criteria: 
+         column  1. x<2015="Q";x>2017="Q"
+         column  2. x<1="I";x>12="I";x<10="Q";x>11="Q"
+         column  3. x<1="I";x>31="I";x<3="Q";x>30="Q"
+         column  4. none
+         column  5. none
+         column  6. none
+         column  7. x<0="I";x>90="I";x<20="Q";x>44="Q"
+         column  8. x<-180="I";x>180="I";x<-83="Q";x>122="Q"
+         column  9. x<1="I";x>10="I";x<1="Q";x>10="Q"
+         column 10. x<1="I";x>2="I";x<1="Q";x>2="Q"
+         column 11. none
+         column 12. none
+         column 13. x<0="I";x<20="Q";x>187="Q"
+         column 14. x<0="I";x<1="Q";x>24="Q"
+         column 15. x<0="I";x<0="Q";x>77="Q"
+   C. Data Anomalies: 
+V. Supplemental Descriptors 
+   A. Data Acquisition 
+      1. Data Forms: 
+      2. Form Location: 
+      3. Data Entry Validation: 
+   B. Quality Assurance/Quality Control Procedures: 
+   C. Supplemental Materials: 
+   D. Computer Programs: 
+   E. Archival Practices: 
+   F. Publications: not specified
+   G. History of Data Set Usage 
+      1. Data Request History: not specified
+      2. Data Set Update History: none
+      3. Review History: none
+      4. Questions and Comments from Users: none

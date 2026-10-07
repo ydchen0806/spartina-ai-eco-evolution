@@ -1,0 +1,44 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1111/1365-2435.13384",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "IND606720526",
+        "source": "AGR",
+        "doi": "10.1111/1365-2435.13384",
+        "title": "Self\u2010thinning and size\u2010dependent flowering of the grass Spartina alterniflora across space and time",
+        "authorString": "Liu W, Pennings SC.",
+        "journalTitle": "Functional ecology.",
+        "issue": "10",
+        "journalVolume": "33",
+        "pubYear": "2019",
+        "journalIssn": "0269-8463",
+        "pageInfo": "1830-1841",
+        "pubType": "journal article",
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 6,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2019-10-01",
+        "firstIndexDate": "2020-05-12"
+      }
+    ]
+  }
+}

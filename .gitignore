@@ -7,3 +7,16 @@ external_data/ccav_20261007/extracted/
 external_data/external_evidence_20261007/*.html
 external_data/external_evidence_20261007/ccav_landing.txt
 external_data/external_evidence_20261007/ccav_text.txt
+external_data/xmu_literature_20261007/*.html
+external_data/xmu_literature_20261007/edi_*.txt
+external_data/xmu_literature_20261007/edi_*.xml
+external_data/xmu_literature_20261007/gce.txt
+external_data/xmu_literature_20261007/gce_search.txt
+external_data/xmu_literature_20261007/pasta_proxy.txt
+external_data/xmu_literature_20261007/nature_*.txt
+external_data/xmu_literature_20261007/xmu_college.txt
+external_data/xmu_literature_20261007/genet_ramet/extracted/
+external_data/xmu_literature_20261007/datacite_search.json
+external_data/xmu_literature_20261007/1efe3cdf7d563d8f46ab94fb1903dccb.json
+external_data/xmu_literature_20261007/d2fd59068fcf2059a1967fb7145dafb9.json
+external_data/xmu_literature_20261007/80b024ac52b2b4d1c13fef5bad49ba61.json

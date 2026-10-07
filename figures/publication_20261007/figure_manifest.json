@@ -1,0 +1,20 @@
+{
+  "width_mm": 183,
+  "font": "DejaVu Sans",
+  "font_pt": 7,
+  "sources": [
+    {
+      "path": "data/derived/trajectory_audit_20261007/endpoint_year_summary.csv",
+      "sha256": "d34b6e5307e149ff7fb7d87ea354d66b274b368caef63f89d36641049c5a474f"
+    },
+    {
+      "path": "data/derived/strict_benchmark_20261007/pooled_metrics.csv",
+      "sha256": "2b0777b44cb5a6374a512fda103ec2d05df8dabe0eaf2c47fb4221c7d4df1f08"
+    },
+    {
+      "path": "data/derived/ccav_20261007/annual_class_areas_grid_sensitivity.csv",
+      "sha256": "ae61df22329385d6c408f3ceda0540f3497f2f4655d97ff3b35171e627afd92b"
+    }
+  ],
+  "uncertainty": "Figure 4 shading is four grid phases, not classification uncertainty. Figure 2 annual means are descriptive. Figure 3 pooled holdout metrics are point estimates."
+}

@@ -34,3 +34,26 @@ reanalyses and figures in `data/derived/clonal_common_garden_20261007/` are our
 adaptations of that source; retain this attribution and licence. The source
 author has not endorsed our analyses or interpretation. No linked journal article
 was identified in the dataset metadata, and this release does not claim one.
+
+Genet/ramet supplemental data: Jewel Tomasula, Seamus Caslin, Gina M. Wimp and
+Matthew B. Hamilton (2026), *Mating portfolio and neutral mechanisms are primary
+causes of genet-ramet frequencies and spatial distributions in smooth cordgrass
+(Spartina alterniflora) along salt marsh tidal gradients*, Frontiers in Genetics
+17, 1810782. Article https://doi.org/10.3389/fgene.2026.1810782; supplement
+https://doi.org/10.3389/fgene.2026.1810782.s002; Figshare article 32141245 v1,
+file 64150624. Licence **CC-BY-4.0**. The original ZIP and metadata are in
+`external_data/xmu_literature_20261007/genet_ramet/`; our derived tables and
+figure in `data/derived/genet_ramet_20261007/` retain this attribution and licence.
+We reused the supplied lineage assignments and did not re-estimate genetic
+clusters. The source authors have not endorsed this reanalysis.
+
+GCE-LTER BOT-GCED-1912, Steven C. Pennings and collaborators (2019), associated
+with Liu et al., New Phytologist (2020), https://doi.org/10.1111/nph.16371:
+only descriptive metadata and our general analysis scripts are released here.
+Raw CSVs and newly computed numerical results remain outside this release.
+Dataset-specific EML states CC-BY-4.0; the legacy GCE download agreement adds
+redistribution restrictions and a notification requirement. Public redistribution
+is deferred until this discrepancy is resolved. No messages to authors were sent.
+Source metadata and contributor names remain attached. EDI metadata discovery
+and GCE original-file downloads are distinguished; no byte equivalence between
+repository revisions has been established.

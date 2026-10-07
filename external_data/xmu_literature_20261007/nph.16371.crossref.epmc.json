@@ -1,0 +1,45 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1111/nph.16371",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "31834631",
+        "source": "MED",
+        "pmid": "31834631",
+        "doi": "10.1111/nph.16371",
+        "title": "Contrasting plant adaptation strategies to latitude in the native and invasive range of Spartina alterniflora.",
+        "authorString": "Liu W, Zhang Y, Chen X, Maung-Douglass K, Strong DR, Pennings SC.",
+        "journalTitle": "New Phytol",
+        "issue": "2",
+        "journalVolume": "226",
+        "pubYear": "2020",
+        "journalIssn": "1469-8137",
+        "pageInfo": "623-634",
+        "pubType": "research support, non-u.s. gov't; research support, u.s. gov't, non-p.h.s.; journal article",
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 38,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2020-01-11",
+        "firstIndexDate": "2019-12-13"
+      }
+    ]
+  }
+}

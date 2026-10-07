@@ -1,0 +1,18 @@
+Genotype and MLL data for:
+
+Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and 
+spatial distributions in smooth cordgrass (Spartina alterniflora) along salt marsh tidal gradients
+
+Authors: Jewel Tomasula, Seamus Caslin, Gina M. Wimp, and Matthew B. Hamilton*
+Department of Biology, Georgetown University, 3700 O Street NW, Washington, D.C., USA,
+*Corresponding Author Email: hamiltm1@georgetown.edu
+
+Submitted to Frontiers in Genetics February, 2026
+
+SALT_ramet_per_genet.csv - data file containing ramet count, observed genets per ramet, reverse cumulative count, reverse cumulative proportions, and pop (or patch in the language of the paper)
+
+SALT_transect_genotypes_genepop.txt - the genotype data in genepop format with a six digit number of indicate the two allele genotypes for each locus. File also includes locus names and patch designations.
+
+SALT_transect_all_genotypes.gdv - the genotype data in Genodive format.
+
+Tomasula_SALT_MLL_pop_patch_x_y.xlsx - Population, Individual, Patch, x, y, and clone (or MLL) for each sample. 

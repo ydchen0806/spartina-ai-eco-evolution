@@ -1,0 +1,1017 @@
+{
+  "data": [
+    {
+      "id": "10.6084/m9.figshare.14746507.v1",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6084/m9.figshare.14746507.v1",
+        "identifiers": [],
+        "creators": [
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Liqun",
+            "familyName": "Yu",
+            "name": "Yu, Liqun",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0002-4786-7897"
+              }
+            ]
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Shuai",
+            "familyName": "Zhao",
+            "name": "Zhao, Shuai",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-1518-647X"
+              }
+            ]
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Fanbing",
+            "familyName": "Meng",
+            "name": "Meng, Fanbing",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Yanshuang",
+            "familyName": "Shi",
+            "name": "Shi, Yanshuang",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Chunzhu",
+            "familyName": "Xu",
+            "name": "Xu, Chunzhu",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0002-9993-7666"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Additional file 1 of Dispersal and mating patterns determine the fate of naturally dispersed populations: evidence from Bombina orientalis"
+          }
+        ],
+        "publisher": "figshare",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [
+          {
+            "subject": "Genetics"
+          },
+          {
+            "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+            "subject": "FOS: Biological sciences",
+            "subjectScheme": "Fields of Science and Technology (FOS)"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021-06-08",
+            "dateType": "Created"
+          },
+          {
+            "date": "2026-03-06",
+            "dateType": "Updated"
+          },
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "ScholarlyArticle",
+          "resourceTypeGeneral": "JournalArticle",
+          "citeproc": "article-journal",
+          "bibtex": "article",
+          "ris": "JOUR",
+          "resourceType": "Journal contribution"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsIdenticalTo",
+            "relatedIdentifier": "10.6084/m9.figshare.14746507",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1146/annurev.ecolsys.39.110707.173414",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.ecoleng.2017.12.025",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/mec.13754",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10530-013-0595-8",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.tree.2008.10.007",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1038/sj.hdy.6885530",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.biocon.2006.05.016",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.ympev.2015.12.019",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1186/1471-2148-8-21",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-294x.2011.05060.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s11033-018-4371-9",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-294x.2007.03309.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/mec.13083",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10750-012-1016-1",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10530-014-0668-3",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/biolinnean/blx140",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10340-018-0993-x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-294x.2007.03538.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-2486.2011.02509.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.3897/neobiota.31.9185",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.tree.2014.02.003",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/mec.15192",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1469-8137.2010.03407.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s11676-010-0039-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s12041-011-0004-y",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1098/rspb.2004.2720",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1186/1471-2148-9-289",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10682-018-9957-0",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1017/s1464793104006645",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1098/rstb.2010.0176",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/ecog.03296",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1002/ecy.1489",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1146/annurev.ecolsys.38.091206.095611",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1420-9101.2009.01738.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1038/415071a",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/1365-2656.12082",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1073/pnas.1620043114",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/beheco/arz021",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/brv.12475",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1146/annurev-genom-082410-101518",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1038/nature14574",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.ympev.2009.03.026",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/btp187",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1755-0998.2010.02847.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1471-8286.2007.01931.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/bts460",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/genetics/145.4.1219",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/btn514",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/btt763",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsSupplementTo",
+            "relatedIdentifier": "10.1186/s12862-021-01844-3",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "504832 Bytes"
+        ],
+        "formats": [],
+        "version": "1",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Additional file 1. Additional figures and tables."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://springernature.figshare.com/articles/journal_contribution/Additional_file_1_of_Dispersal_and_mating_patterns_determine_the_fate_of_naturally_dispersed_populations_evidence_from_Bombina_orientalis/14746507/1",
+        "contentUrl": null,
+        "metadataVersion": 1,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 49,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-06-08T04:24:37Z",
+        "registered": "2021-06-08T04:24:37Z",
+        "published": null,
+        "updated": "2026-03-06T15:28:49Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "figshare.ars",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6084/m9.figshare.14746507",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6084/m9.figshare.14746507",
+        "identifiers": [],
+        "creators": [
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Liqun",
+            "familyName": "Yu",
+            "name": "Yu, Liqun",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0002-4786-7897"
+              }
+            ]
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Shuai",
+            "familyName": "Zhao",
+            "name": "Zhao, Shuai",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-1518-647X"
+              }
+            ]
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Fanbing",
+            "familyName": "Meng",
+            "name": "Meng, Fanbing",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Yanshuang",
+            "familyName": "Shi",
+            "name": "Shi, Yanshuang",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "Northeast Agricultural University"
+            ],
+            "givenName": "Chunzhu",
+            "familyName": "Xu",
+            "name": "Xu, Chunzhu",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0002-9993-7666"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Additional file 1 of Dispersal and mating patterns determine the fate of naturally dispersed populations: evidence from Bombina orientalis"
+          }
+        ],
+        "publisher": "figshare",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [
+          {
+            "subject": "Genetics"
+          },
+          {
+            "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+            "subject": "FOS: Biological sciences",
+            "subjectScheme": "Fields of Science and Technology (FOS)"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021-06-08",
+            "dateType": "Created"
+          },
+          {
+            "date": "2023-07-13",
+            "dateType": "Updated"
+          },
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "ScholarlyArticle",
+          "resourceTypeGeneral": "JournalArticle",
+          "citeproc": "article-journal",
+          "bibtex": "article",
+          "ris": "JOUR",
+          "resourceType": "Journal contribution"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1146/annurev.ecolsys.39.110707.173414",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.ecoleng.2017.12.025",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/mec.13754",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10530-013-0595-8",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.tree.2008.10.007",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1038/sj.hdy.6885530",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.biocon.2006.05.016",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.ympev.2015.12.019",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1186/1471-2148-8-21",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-294x.2011.05060.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s11033-018-4371-9",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-294x.2007.03309.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/mec.13083",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10750-012-1016-1",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10530-014-0668-3",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/biolinnean/blx140",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10340-018-0993-x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-294x.2007.03538.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1365-2486.2011.02509.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.3897/neobiota.31.9185",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.tree.2014.02.003",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/mec.15192",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1469-8137.2010.03407.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s11676-010-0039-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s12041-011-0004-y",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1098/rspb.2004.2720",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1186/1471-2148-9-289",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1007/s10682-018-9957-0",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1017/s1464793104006645",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1098/rstb.2010.0176",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/ecog.03296",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1002/ecy.1489",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1146/annurev.ecolsys.38.091206.095611",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1420-9101.2009.01738.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1038/415071a",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/1365-2656.12082",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1073/pnas.1620043114",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/beheco/arz021",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/brv.12475",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1146/annurev-genom-082410-101518",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1038/nature14574",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1016/j.ympev.2009.03.026",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/btp187",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1755-0998.2010.02847.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1111/j.1471-8286.2007.01931.x",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/bts460",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/genetics/145.4.1219",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/btn514",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "References",
+            "relatedIdentifier": "10.1093/bioinformatics/btt763",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsSupplementTo",
+            "relatedIdentifier": "10.1186/s12862-021-01844-3",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "504832 Bytes"
+        ],
+        "formats": [],
+        "version": null,
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Additional file 1. Additional figures and tables."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://springernature.figshare.com/articles/journal_contribution/Additional_file_1_of_Dispersal_and_mating_patterns_determine_the_fate_of_naturally_dispersed_populations_evidence_from_Bombina_orientalis/14746507",
+        "contentUrl": null,
+        "metadataVersion": 1,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 49,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-06-08T04:43:46Z",
+        "registered": "2021-06-08T04:43:47Z",
+        "published": null,
+        "updated": "2026-03-06T15:28:48Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "figshare.ars",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5061/dryad.t384224",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5061/dryad.t384224",
+        "identifiers": [],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Hongmei",
+            "familyName": "Qiao",
+            "name": "Qiao, Hongmei",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Wenwen",
+            "familyName": "Liu",
+            "name": "Liu, Wenwen",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Yihui",
+            "familyName": "Zhang",
+            "name": "Zhang, Yihui",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Yuan-Ye",
+            "familyName": "Zhang",
+            "name": "Zhang, Yuan-Ye",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Qingshun Q.",
+            "familyName": "Li",
+            "name": "Li, Qingshun Q.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Data from: Genetic admixture accelerates invasion via provisioning rapid adaptive evolution"
+          }
+        ],
+        "publisher": "Dryad",
+        "container": {},
+        "publicationYear": 2019,
+        "subjects": [
+          {
+            "subject": "Hybrid vigor"
+          },
+          {
+            "subject": "intraspecific hybridization"
+          },
+          {
+            "subject": "Rapid adaptation"
+          },
+          {
+            "subject": "Genetic admixture"
+          },
+          {
+            "subject": "multiple introductions"
+          },
+          {
+            "subject": "Spartina alterniflora"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2019-06-18T07:46:57Z",
+            "dateType": "Submitted"
+          },
+          {
+            "date": "2019-07-16T20:35:30Z",
+            "dateType": "Issued"
+          },
+          {
+            "date": "2019-07-16T20:35:30Z",
+            "dateType": "Available"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/mec.15192",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "258292 bytes"
+        ],
+        "formats": [],
+        "version": "2",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Zero v1.0 Universal",
+            "rightsIdentifier": "cc0-1.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Genetic admixture, the intraspecific hybridization among divergent\n introduced sources, can immediately facilitate colonization via hybrid\n vigor and profoundly enhance invasion via contributing novel genetic\n variation to adaption. As hybrid vigor is short-lived, provisioning\n adaptation is anticipated to be the dominant and long-term profit of\n genetic admixture, but the evidence for this is rare. We employed the 30\n years\u2019 geographic-scale invasion of the salt marsh grass, Spartina\n alterniflora, as an evolutionary experiment and evaluated the consequences\n of genetic admixture by combining the reciprocal transplant experiment\n with quantitative and population genetic surveys. Consistent with the\n documentation, we found that the invasive populations in China had\n multiple origins from the southern Atlantic coast and the Gulf of Mexico\n in the US. Interbreeding among these multiple sources generated a \u201chybrid\n swarm\u201d that spread throughout the coast of China. In the northern and\n mid-latitude China, natural selection greatly enhanced fecundity, plant\n height and shoot regeneration compared to the native populations.\n Furthermore, genetic admixture appeared to have broken the negative\n correlation between plant height and shoot regeneration, which was\n genetically-based in the native range, and have facilitated the evolution\n of super competitive genotypes in the invasive range. In contrast to the\n evolved northern and mid-latitude populations, the southern invasive\n populations showed slight increase of plant height and shoot regeneration\n compared to the native populations, possibly reflecting the heterotic\n effect of the intraspecific hybridization. Therefore, our study suggests a\n critical role of genetic admixture in accelerating the geographic invasion\n via provisioning rapid adaptive evolution."
+          },
+          {
+            "descriptionType": "Other",
+            "description": "20190618 SSR &amp;\n Greenhouse &amp; Gardens &amp; climate datas"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.t384224",
+        "contentUrl": null,
+        "metadataVersion": 17,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 186,
+        "downloadCount": 19,
+        "referenceCount": 1,
+        "citationCount": 1,
+        "partCount": 1,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2019-07-16T20:35:32Z",
+        "registered": "2019-07-16T20:35:32Z",
+        "published": null,
+        "updated": "2026-01-27T17:25:13Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "dryad.dryad",
+            "type": "clients"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 3,
+    "totalPages": 1,
+    "page": 1
+  },
+  "links": {
+    "self": "https://api.datacite.org/dois?query=relatedIdentifiers.relatedIdentifier%3A%2210.1111%2Fmec.15192%22&page%5Bsize%5D=30"
+  }
+}

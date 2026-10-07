@@ -1,0 +1,736 @@
+{
+  "files": [
+    {
+      "id": 67534884,
+      "name": "Table 1_Environmental stress and plant-plant interactions jointly shape intertidal cordgrass traits across broad spatial scales.docx",
+      "size": 1084425,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/67534884",
+      "supplied_md5": "7710f20e64c9d01388105cd1fbb8b2d3",
+      "computed_md5": "7710f20e64c9d01388105cd1fbb8b2d3",
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 542543,
+      "full_name": "Yiwen Liu",
+      "first_name": "Yiwen",
+      "last_name": "Liu",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 414788,
+      "full_name": "Qian Dong",
+      "first_name": "Qian",
+      "last_name": "Dong",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 13718437,
+      "full_name": "Ziyu Zheng",
+      "first_name": "Ziyu",
+      "last_name": "Zheng",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 521879,
+      "full_name": "Wensi Hu",
+      "first_name": "Wensi",
+      "last_name": "Hu",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 142685,
+      "full_name": "Yuxiang Li",
+      "first_name": "Yuxiang",
+      "last_name": "Li",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 486590,
+      "full_name": "Chi Xu",
+      "first_name": "Chi",
+      "last_name": "Xu",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 6330842,
+      "full_name": "Shuqing N. Teng",
+      "first_name": "Shuqing N.",
+      "last_name": "Teng",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Table_1_Environmental_stress_and_plant-plant_interactions_jointly_shape_intertidal_cordgrass_traits_across_broad_spatial_scales_docx/33251937",
+  "download_disabled": false,
+  "description": "<p>In intertidal ecosystems, plant functional traits are strongly shaped by environmental stress induced by e.g. hydrodynamic disturbance and salinity. Meanwhile, local-scale plant-plant interactions (such as facilitation) can also affect plant traits to a certain extent. However, it remains unclear how these abiotic and biotic factors jointly shape plant traits across broad geographic gradients. Here, we focused on within-patch functional differentiations of a cordgrass species Spartina alterniflora growing patchily at low and high tidal positions located in 10 Chinese coastal sites spanning 10 latitudinal degrees. Three key functional traits of the species, namely leaf dry mass content (LDMC), specific leaf area (SLA), and plant height, were considered. Soil properties within and outside vegetation patches, as well as marine environmental variables (salinity, dissolved oxygen, nitrate and phosphate concentrations), were included as predictors in linear regression analyses. As the response variable, a trait lnRR was calculated as the logarithm ratio of the trait value at the center to that at the edge of a vegetation patch, representing within-patch facilitation strength. We found that at high tidal positions, where hydrodynamic stress was relatively weak, plants at patch centers had 15.6% higher LDMC and 13.3% lower SLA than those at patch edges. By contrast, at low tidal positions, center plants were 13.4% taller than edge plants. At both tidal positions, soil properties explained the greatest (R\u00b2 = 0.670 and 0.479 at low and high tidal positions, respectively) proportion of variations in plant height lnRR and the least (R\u00b2 = 0.079 and 0.105 at low and high tidal positions, respectively) variations in SLA lnRR. Across all sites, plant height lnRR increased with salinity (r\u00a0=\u00a00.79, p\u00a0<\u00a00.001) but decreased with dissolved oxygen (r\u00a0=\u00a0-0.61, p\u00a0=\u00a00.004) and nitrate concentration (r\u00a0=\u00a0-0.78, p\u00a0<\u00a00.001), reflecting greater center\u2013edge height differences under harsher environmental conditions. These findings suggest that within-patch functional trait differences can broadly provide a signature of local facilitation, with facilitative effects becoming more pronounced under more stressful intertidal conditions. Our work not only advances our understanding of how patch-forming coastal plants organize functional variation under spatially heterogeneous and changing intertidal conditions, but also provides useful implications for practices of wetland management and restoration in coastal ecosystems.</p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 1084425,
+  "created_date": "2026-08-14T05:25:12Z",
+  "modified_date": "2026-08-14T05:25:12Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "facilitation",
+    "functional traits",
+    "salt marsh",
+    "scale-dependent feedback",
+    "stress gradient hypothesis"
+  ],
+  "keywords": [
+    "facilitation",
+    "functional traits",
+    "salt marsh",
+    "scale-dependent feedback",
+    "stress gradient hypothesis"
+  ],
+  "categories": [
+    {
+      "id": 133,
+      "title": "Plant Biology",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    }
+  ],
+  "references": [
+    "https://doi.org//10.1111/geb.12693",
+    "https://doi.org//10.1002/2015wr018318",
+    "https://doi.org//10.1890/10-1510.1",
+    "https://doi.org//10.1016/0169-5347%2894%2990088-4",
+    "https://doi.org//10.3354/meps102169",
+    "https://doi.org//10.1111/j.1600-0706.2008.16892.x",
+    "https://doi.org//10.1111/j.1526-100X.2008.00465.x",
+    "https://doi.org//10.1016/j.ecss.2018.04.011",
+    "https://doi.org//10.3389/fpls.2023.1118313",
+    "https://doi.org//10.1038/nature11533",
+    "https://doi.org//10.1038/nature16489",
+    "https://doi.org//10.1038/nclimate1970",
+    "https://doi.org//10.1029/2011rg000359",
+    "https://doi.org//10.1111/ele.12080",
+    "https://doi.org//10.1016/j.jembe.2018.07.006",
+    "https://doi.org//10.1046/j.1365-2435.2002.00664.x",
+    "https://doi.org//10.1038/s41467-024-47769-5",
+    "https://doi.org//10.1002/esp.4357",
+    "https://doi.org//10.1038/s43017-021-00224-1",
+    "https://doi.org//10.4324/9781315398266-16",
+    "https://doi.org//10.1016/j.ppees.2012.01.002",
+    "https://doi.org//10.1002/2015wr017406",
+    "https://doi.org//10.1038/ngeo2251",
+    "https://doi.org//10.1890/0012-9658%282002%29083%5B2869%3Arocwtr%5D2.0.co;2",
+    "https://doi.org//10.1038/s41467-020-18354-3",
+    "https://doi.org//10.2307/1940774",
+    "https://doi.org//10.1071/bt12225",
+    "https://doi.org//10.1111/j.1469-8137.2009.02830.x",
+    "https://doi.org//10.1007/bf02802742",
+    "https://doi.org//10.1002/2013jg002438",
+    "https://doi.org//10.1146/annurev.ecolsys.35.112202.130148",
+    "https://doi.org//10.1126/science.1101867",
+    "https://doi.org//10.1038/s41598-025-04281-0",
+    "https://doi.org//10.1016/j.margeo.2019.03.008",
+    "https://doi.org//10.1111/jvs.13038",
+    "https://doi.org//10.1038/s41561-018-0180-y",
+    "https://doi.org//10.1029/2017wr022021",
+    "https://doi.org//10.1073/pnas.1515297112",
+    "https://doi.org//10.1016/j.ecss.2004.08.010",
+    "https://doi.org//10.1007/s13157-023-01741-z",
+    "https://doi.org//10.1007/s11273-025-10079-8",
+    "https://doi.org//10.1038/nature12859",
+    "https://doi.org//10.1038/s41467-020-17438-4",
+    "https://doi.org//10.1086/426602",
+    "https://doi.org//10.1111/j.2007.0030-1299.16245.x",
+    "https://doi.org//10.1046/j.1365-2745.1999.00349.x",
+    "https://doi.org//10.1146/annurev-arplant-050718-100005",
+    "https://doi.org//10.1016/j.tree.2011.11.014",
+    "https://doi.org//10.1111/j.0030-1299.2007.15559.x",
+    "https://doi.org//10.17521/cjpe.2022.0194",
+    "https://doi.org//10.1073/pnas.2123274119",
+    "https://doi.org//10.1111/rec.14141",
+    "https://doi.org//10.1046/j.1469-8137.1999.00427.x",
+    "https://doi.org//10.1038/nature02403",
+    "https://doi.org//10.1093/jpe/rtae043",
+    "https://doi.org//10.1098/rspb.2018.2859",
+    "https://doi.org//10.1126/sciadv.abe1100",
+    "https://doi.org/10.3389/fpls.2026.1913369"
+  ],
+  "has_linked_file": false,
+  "citation": "Liu, Yiwen; Dong, Qian; Zheng, Ziyu; Hu, Wensi; Li, Yuxiang; Xu, Chi; et al. (2026). Table 1_Environmental stress and plant-plant interactions jointly shape intertidal cordgrass traits across broad spatial scales.docx. Frontiers. Dataset. https://doi.org/10.3389/fpls.2026.1913369.s001",
+  "related_materials": [
+    {
+      "id": 285079845,
+      "identifier": "https://doi.org//10.1111/geb.12693",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/geb.12693"
+    },
+    {
+      "id": 285079848,
+      "identifier": "https://doi.org//10.1002/2015wr018318",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/2015wr018318"
+    },
+    {
+      "id": 285079851,
+      "identifier": "https://doi.org//10.1890/10-1510.1",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1890/10-1510.1"
+    },
+    {
+      "id": 285079854,
+      "identifier": "https://doi.org//10.1016/0169-5347(94)90088-4",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/0169-5347(94)90088-4"
+    },
+    {
+      "id": 285079860,
+      "identifier": "https://doi.org//10.3354/meps102169",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3354/meps102169"
+    },
+    {
+      "id": 285079863,
+      "identifier": "https://doi.org//10.1111/j.1600-0706.2008.16892.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1600-0706.2008.16892.x"
+    },
+    {
+      "id": 285079866,
+      "identifier": "https://doi.org//10.1111/j.1526-100X.2008.00465.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1526-100X.2008.00465.x"
+    },
+    {
+      "id": 285079869,
+      "identifier": "https://doi.org//10.1016/j.ecss.2018.04.011",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ecss.2018.04.011"
+    },
+    {
+      "id": 285079872,
+      "identifier": "https://doi.org//10.3389/fpls.2023.1118313",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fpls.2023.1118313"
+    },
+    {
+      "id": 285079875,
+      "identifier": "https://doi.org//10.1038/nature11533",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nature11533"
+    },
+    {
+      "id": 285079878,
+      "identifier": "https://doi.org//10.1038/nature16489",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nature16489"
+    },
+    {
+      "id": 285079884,
+      "identifier": "https://doi.org//10.1038/nclimate1970",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nclimate1970"
+    },
+    {
+      "id": 285079887,
+      "identifier": "https://doi.org//10.1029/2011rg000359",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1029/2011rg000359"
+    },
+    {
+      "id": 285079890,
+      "identifier": "https://doi.org//10.1111/ele.12080",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/ele.12080"
+    },
+    {
+      "id": 285079893,
+      "identifier": "https://doi.org//10.1016/j.jembe.2018.07.006",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jembe.2018.07.006"
+    },
+    {
+      "id": 285079896,
+      "identifier": "https://doi.org//10.1046/j.1365-2435.2002.00664.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1365-2435.2002.00664.x"
+    },
+    {
+      "id": 285079899,
+      "identifier": "https://doi.org//10.1038/s41467-024-47769-5",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41467-024-47769-5"
+    },
+    {
+      "id": 285079902,
+      "identifier": "https://doi.org//10.1002/esp.4357",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/esp.4357"
+    },
+    {
+      "id": 285079905,
+      "identifier": "https://doi.org//10.1038/s43017-021-00224-1",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s43017-021-00224-1"
+    },
+    {
+      "id": 285079908,
+      "identifier": "https://doi.org//10.4324/9781315398266-16",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.4324/9781315398266-16"
+    },
+    {
+      "id": 285079911,
+      "identifier": "https://doi.org//10.1016/j.ppees.2012.01.002",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ppees.2012.01.002"
+    },
+    {
+      "id": 285079914,
+      "identifier": "https://doi.org//10.1002/2015wr017406",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/2015wr017406"
+    },
+    {
+      "id": 285079917,
+      "identifier": "https://doi.org//10.1038/ngeo2251",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ngeo2251"
+    },
+    {
+      "id": 285079920,
+      "identifier": "https://doi.org//10.1890/0012-9658(2002)083[2869:rocwtr]2.0.co;2",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1890/0012-9658(2002)083[2869:rocwtr]2.0.co;2"
+    },
+    {
+      "id": 285079923,
+      "identifier": "https://doi.org//10.1038/s41467-020-18354-3",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41467-020-18354-3"
+    },
+    {
+      "id": 285079926,
+      "identifier": "https://doi.org//10.2307/1940774",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/1940774"
+    },
+    {
+      "id": 285079929,
+      "identifier": "https://doi.org//10.1071/bt12225",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1071/bt12225"
+    },
+    {
+      "id": 285079932,
+      "identifier": "https://doi.org//10.1111/j.1469-8137.2009.02830.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1469-8137.2009.02830.x"
+    },
+    {
+      "id": 285079935,
+      "identifier": "https://doi.org//10.1007/bf02802742",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/bf02802742"
+    },
+    {
+      "id": 285079938,
+      "identifier": "https://doi.org//10.1002/2013jg002438",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/2013jg002438"
+    },
+    {
+      "id": 285079941,
+      "identifier": "https://doi.org//10.1146/annurev.ecolsys.35.112202.130148",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev.ecolsys.35.112202.130148"
+    },
+    {
+      "id": 285079947,
+      "identifier": "https://doi.org//10.1126/science.1101867",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1126/science.1101867"
+    },
+    {
+      "id": 285079953,
+      "identifier": "https://doi.org//10.1038/s41598-025-04281-0",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41598-025-04281-0"
+    },
+    {
+      "id": 285079959,
+      "identifier": "https://doi.org//10.1016/j.margeo.2019.03.008",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.margeo.2019.03.008"
+    },
+    {
+      "id": 285079962,
+      "identifier": "https://doi.org//10.1111/jvs.13038",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/jvs.13038"
+    },
+    {
+      "id": 285079968,
+      "identifier": "https://doi.org//10.1038/s41561-018-0180-y",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41561-018-0180-y"
+    },
+    {
+      "id": 285079971,
+      "identifier": "https://doi.org//10.1029/2017wr022021",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1029/2017wr022021"
+    },
+    {
+      "id": 285079977,
+      "identifier": "https://doi.org//10.1073/pnas.1515297112",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1515297112"
+    },
+    {
+      "id": 285079983,
+      "identifier": "https://doi.org//10.1016/j.ecss.2004.08.010",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ecss.2004.08.010"
+    },
+    {
+      "id": 285079986,
+      "identifier": "https://doi.org//10.1007/s13157-023-01741-z",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s13157-023-01741-z"
+    },
+    {
+      "id": 285079992,
+      "identifier": "https://doi.org//10.1007/s11273-025-10079-8",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s11273-025-10079-8"
+    },
+    {
+      "id": 285079998,
+      "identifier": "https://doi.org//10.1038/nature12859",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nature12859"
+    },
+    {
+      "id": 285080004,
+      "identifier": "https://doi.org//10.1038/s41467-020-17438-4",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41467-020-17438-4"
+    },
+    {
+      "id": 285080010,
+      "identifier": "https://doi.org//10.1086/426602",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1086/426602"
+    },
+    {
+      "id": 285080016,
+      "identifier": "https://doi.org//10.1111/j.2007.0030-1299.16245.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.2007.0030-1299.16245.x"
+    },
+    {
+      "id": 285080022,
+      "identifier": "https://doi.org//10.1046/j.1365-2745.1999.00349.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1365-2745.1999.00349.x"
+    },
+    {
+      "id": 285080025,
+      "identifier": "https://doi.org//10.1146/annurev-arplant-050718-100005",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev-arplant-050718-100005"
+    },
+    {
+      "id": 285080031,
+      "identifier": "https://doi.org//10.1016/j.tree.2011.11.014",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.tree.2011.11.014"
+    },
+    {
+      "id": 285080037,
+      "identifier": "https://doi.org//10.1111/j.0030-1299.2007.15559.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.0030-1299.2007.15559.x"
+    },
+    {
+      "id": 285080043,
+      "identifier": "https://doi.org//10.17521/cjpe.2022.0194",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.17521/cjpe.2022.0194"
+    },
+    {
+      "id": 285080049,
+      "identifier": "https://doi.org//10.1073/pnas.2123274119",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.2123274119"
+    },
+    {
+      "id": 285080055,
+      "identifier": "https://doi.org//10.1111/rec.14141",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/rec.14141"
+    },
+    {
+      "id": 285080061,
+      "identifier": "https://doi.org//10.1046/j.1469-8137.1999.00427.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1469-8137.1999.00427.x"
+    },
+    {
+      "id": 285080067,
+      "identifier": "https://doi.org//10.1038/nature02403",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nature02403"
+    },
+    {
+      "id": 285080070,
+      "identifier": "https://doi.org//10.1093/jpe/rtae043",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/jpe/rtae043"
+    },
+    {
+      "id": 285080076,
+      "identifier": "https://doi.org//10.1098/rspb.2018.2859",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1098/rspb.2018.2859"
+    },
+    {
+      "id": 285080085,
+      "identifier": "https://doi.org//10.1126/sciadv.abe1100",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1126/sciadv.abe1100"
+    },
+    {
+      "id": 285080091,
+      "identifier": "10.3389/fpls.2026.1913369",
+      "title": "Environmental stress and plant-plant interactions jointly shape intertidal cordgrass traits across broad spatial scales",
+      "relation": "IsSupplementTo",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fpls.2026.1913369"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 33251937,
+  "title": "Table 1_Environmental stress and plant-plant interactions jointly shape intertidal cordgrass traits across broad spatial scales.docx",
+  "doi": "10.3389/fpls.2026.1913369.s001",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/33251937",
+  "published_date": "2026-08-14T05:25:12Z",
+  "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-frontiersin-8483929402184328/67534884/thumb.png",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": 11857,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/33251937",
+  "url_public_api": "https://api.figshare.com/v2/articles/33251937",
+  "url_private_html": "https://figshare.com/account/articles/33251937",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Table_1_Environmental_stress_and_plant-plant_interactions_jointly_shape_intertidal_cordgrass_traits_across_broad_spatial_scales_docx/33251937",
+  "timeline": {
+    "posted": "2026-08-14T05:25:12"
+  },
+  "resource_title": "Environmental stress and plant-plant interactions jointly shape intertidal cordgrass traits across broad spatial scales",
+  "resource_doi": "10.3389/fpls.2026.1913369"
+}

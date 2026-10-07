@@ -1,0 +1,780 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        24
+      ]
+    ],
+    "date-time": "2026-09-24T04:06:13Z",
+    "timestamp": 1790222773581,
+    "version": "4.1.0"
+  },
+  "reference-count": 80,
+  "publisher": "Wiley",
+  "issue": "17",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2019-09-02T00:00:00Z",
+        "timestamp": 1567382400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 1,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "41276078"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "41276078"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "31600291"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "31600291"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Molecular Ecology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        9
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Genetic admixture, the intraspecific hybridization among divergent introduced sources, can immediately facilitate colonization via hybrid vigor and profoundly enhance invasion via contributing novel genetic variation to adaption. As hybrid vigor is short\u2010lived, provisioning adaptation is anticipated to be the dominant and long\u2010term profit of genetic admixture, but the evidence for this is rare.\u00a0We employed the 30\u00a0years' geographic\u2010scale invasion of the salt marsh grass, <jats:italic>Spartina alterniflora</jats:italic>, as an evolutionary experiment and evaluated the consequences of genetic admixture by combining the reciprocal transplant experiment with quantitative and population genetic surveys. Consistent with the documentation, we found that the invasive populations in China had multiple origins from the southern Atlantic coast and the Gulf of Mexico in the US. Interbreeding among these multiple sources generated a \u201chybrid swarm\u201d that spread throughout the coast of China. In the northern and mid\u2010latitude China, natural selection greatly enhanced fecundity, plant height and shoot regeneration compared to the native populations. Furthermore, genetic admixture appeared to have broken the negative correlation between plant height and shoot regeneration, which was genetically\u2010based in the native range, and have facilitated the evolution of super competitive genotypes in the invasive range. In contrast to the evolved northern and mid\u2010latitude populations, the southern invasive populations showed slight increase of plant height and shoot regeneration compared to the native populations, possibly reflecting the heterotic effect of the intraspecific hybridization. Therefore, our study suggests a critical role of genetic admixture in accelerating the geographic invasion via provisioning rapid adaptive evolution.</jats:p>",
+  "DOI": "10.1111/mec.15192",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        7,
+        24
+      ]
+    ],
+    "date-time": "2019-07-24T15:54:10Z",
+    "timestamp": 1563983650000
+  },
+  "page": "4012-4027",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 84,
+  "title": [
+    "Genetic admixture accelerates invasion via provisioning rapid adaptive evolution"
+  ],
+  "prefix": "10.1111",
+  "volume": "28",
+  "author": [
+    {
+      "given": "Hongmei",
+      "family": "Qiao",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Xiamen China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wenwen",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Xiamen China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8710-2151",
+      "authenticated-orcid": false,
+      "given": "Yihui",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Xiamen China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yuan\u2010Ye",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Xiamen China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4105-1480",
+      "authenticated-orcid": false,
+      "given": "Qingshun Q.",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Xiamen China"
+        },
+        {
+          "name": "Graduate College of Biomedical Sciences Western University of Health Sciences Pomona CA USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        2
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_8_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-3180.2007.00559.x"
+    },
+    {
+      "issue": "3",
+      "key": "e_1_2_8_3_1",
+      "first-page": "168",
+      "article-title": "A review of environmental and genetic factors that affect height in Spartina alterniflora loisel. (Salt marsh cord grass)",
+      "volume": "3",
+      "author": "Anderson C. M.",
+      "year": "1980",
+      "journal-title": "Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz"
+    },
+    {
+      "key": "e_1_2_8_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1558-5646.2008.00471.x"
+    },
+    {
+      "key": "e_1_2_8_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.18637/jss.v067.i01"
+    },
+    {
+      "key": "e_1_2_8_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tree.2005.04.021"
+    },
+    {
+      "key": "e_1_2_8_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-016-1096-3"
+    },
+    {
+      "key": "e_1_2_8_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2261425"
+    },
+    {
+      "key": "e_1_2_8_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2699.2007.01764.x"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_8_10_1",
+      "first-page": "39",
+      "article-title": "Characterization of microsatellite loci in Spartina species (Poaceae)",
+      "volume": "4",
+      "author": "Blum M. J.",
+      "year": "2004",
+      "journal-title": "Molecular Ecology Resources"
+    },
+    {
+      "key": "e_1_2_8_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-005-0070-z"
+    },
+    {
+      "key": "e_1_2_8_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1139/f08-001"
+    },
+    {
+      "key": "e_1_2_8_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1242121"
+    },
+    {
+      "key": "e_1_2_8_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.2009.2231"
+    },
+    {
+      "key": "e_1_2_8_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.13162"
+    },
+    {
+      "key": "e_1_2_8_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2656962"
+    },
+    {
+      "key": "e_1_2_8_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10682-005-0912-5"
+    },
+    {
+      "key": "e_1_2_8_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.13183"
+    },
+    {
+      "key": "e_1_2_8_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-294X.2007.03538.x"
+    },
+    {
+      "issue": "1",
+      "key": "e_1_2_8_20_1",
+      "first-page": "11",
+      "article-title": "A rapid DNA isolation procedure for small quantities of fresh leaf tissue",
+      "volume": "19",
+      "author": "Doyle J. J.",
+      "year": "1987",
+      "journal-title": "Phytochemical Bulletin"
+    },
+    {
+      "key": "e_1_2_8_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rsbl.2006.0459"
+    },
+    {
+      "key": "e_1_2_8_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.97.13.7043"
+    },
+    {
+      "key": "e_1_2_8_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-294X.2005.02553.x"
+    },
+    {
+      "key": "e_1_2_8_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1755-0998.2010.02847.x"
+    },
+    {
+      "key": "e_1_2_8_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1420-9101.2005.00887.x"
+    },
+    {
+      "key": "e_1_2_8_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.cub.2008.01.063"
+    },
+    {
+      "key": "e_1_2_8_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/oxfordjournals.molbev.a003728"
+    },
+    {
+      "key": "e_1_2_8_28_1",
+      "volume-title": "An R companion to applied regression",
+      "author": "Fox J.",
+      "year": "2011"
+    },
+    {
+      "key": "e_1_2_8_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.94.6.948"
+    },
+    {
+      "key": "e_1_2_8_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/eva.12371"
+    },
+    {
+      "key": "e_1_2_8_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1526-100X.2005.00045.x"
+    },
+    {
+      "key": "e_1_2_8_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10750-014-2117-9"
+    },
+    {
+      "key": "e_1_2_8_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/eva.12445"
+    },
+    {
+      "key": "e_1_2_8_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1523-1739.2008.01137.x"
+    },
+    {
+      "key": "e_1_2_8_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/bimj.200810425"
+    },
+    {
+      "key": "e_1_2_8_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ele.12355"
+    },
+    {
+      "key": "e_1_2_8_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2656.12600"
+    },
+    {
+      "key": "e_1_2_8_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.14187"
+    },
+    {
+      "key": "e_1_2_8_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.0014-3820.2006.tb00503.x"
+    },
+    {
+      "key": "e_1_2_8_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ele.12891"
+    },
+    {
+      "key": "e_1_2_8_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2008.01188.x"
+    },
+    {
+      "key": "e_1_2_8_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1420-9101.2010.02037.x"
+    },
+    {
+      "key": "e_1_2_8_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2008.01834.x"
+    },
+    {
+      "key": "e_1_2_8_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature02807"
+    },
+    {
+      "key": "e_1_2_8_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.12223"
+    },
+    {
+      "key": "e_1_2_8_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2008.05.013"
+    },
+    {
+      "key": "e_1_2_8_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12926"
+    },
+    {
+      "key": "e_1_2_8_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/13-2283.1"
+    },
+    {
+      "key": "e_1_2_8_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12487"
+    },
+    {
+      "key": "e_1_2_8_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ecy.1815"
+    },
+    {
+      "key": "e_1_2_8_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-294X.2011.05322.x"
+    },
+    {
+      "key": "e_1_2_8_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.14122"
+    },
+    {
+      "key": "e_1_2_8_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms14315"
+    },
+    {
+      "key": "e_1_2_8_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12578"
+    },
+    {
+      "key": "e_1_2_8_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/bioinformatics/bts460"
+    },
+    {
+      "key": "e_1_2_8_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/08-0222.1"
+    },
+    {
+      "key": "e_1_2_8_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/genetics/155.2.945"
+    },
+    {
+      "key": "e_1_2_8_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-2540.1999.00617.x"
+    },
+    {
+      "key": "e_1_2_8_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tree.2014.02.003"
+    },
+    {
+      "key": "e_1_2_8_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tree.2007.07.002"
+    },
+    {
+      "key": "e_1_2_8_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.13405"
+    },
+    {
+      "key": "e_1_2_8_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2006.00889.x"
+    },
+    {
+      "key": "e_1_2_8_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1118229"
+    },
+    {
+      "key": "e_1_2_8_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-ecolsys-110512-135803"
+    },
+    {
+      "key": "e_1_2_8_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.2014.1073"
+    },
+    {
+      "key": "e_1_2_8_66_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ele.12743"
+    },
+    {
+      "key": "e_1_2_8_67_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00037152"
+    },
+    {
+      "key": "e_1_2_8_68_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/nph.12634"
+    },
+    {
+      "key": "e_1_2_8_69_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2011.02509.x"
+    },
+    {
+      "key": "e_1_2_8_70_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature14910"
+    },
+    {
+      "issue": "1815",
+      "key": "e_1_2_8_71_1",
+      "first-page": "20151478",
+      "article-title": "Admixture between native and invasive populations may increase invasiveness of Mimulus guttatus",
+      "volume": "282",
+      "author": "Kleunen M.",
+      "year": "2015",
+      "journal-title": "Proceedings of the Royal Society B: Biological Sciences"
+    },
+    {
+      "key": "e_1_2_8_72_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2656.12567"
+    },
+    {
+      "key": "e_1_2_8_73_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0135538"
+    },
+    {
+      "key": "e_1_2_8_74_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-294X.2002.01510.x"
+    },
+    {
+      "key": "e_1_2_8_75_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/ncomms14303"
+    },
+    {
+      "key": "e_1_2_8_76_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.aaf6268"
+    },
+    {
+      "key": "e_1_2_8_77_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/clen.201300882"
+    },
+    {
+      "key": "e_1_2_8_78_1",
+      "first-page": "212",
+      "article-title": "Preliminary studies of introduced Spartina alterniflora Loisel in China (I)",
+      "volume": "40",
+      "author": "Xu G. W.",
+      "year": "1985",
+      "journal-title": "Journal of Nanjing University (Natural Science)"
+    },
+    {
+      "key": "e_1_2_8_79_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.14124"
+    },
+    {
+      "key": "e_1_2_8_80_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13157-017-0950-0"
+    },
+    {
+      "key": "e_1_2_8_81_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/11-1302.1"
+    }
+  ],
+  "container-title": [
+    "Molecular Ecology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fmec.15192",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15192",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/mec.15192",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15192",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        9
+      ]
+    ],
+    "date-time": "2023-09-09T03:47:48Z",
+    "timestamp": 1694231268000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://onlinelibrary.wiley.com/doi/10.1111/mec.15192"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        9
+      ]
+    ]
+  },
+  "references-count": 80,
+  "journal-issue": {
+    "issue": "17",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/mec.15192"
+  ],
+  "URL": "https://doi.org/10.1111/mec.15192",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0962-1083",
+    "1365-294X"
+  ],
+  "issn-type": [
+    {
+      "value": "0962-1083",
+      "type": "print"
+    },
+    {
+      "value": "1365-294X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2018-11-27",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2019-07-12",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2019-09-02",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

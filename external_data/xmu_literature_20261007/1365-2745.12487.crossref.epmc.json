@@ -1,0 +1,44 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1111/1365-2745.12487",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "IND604789398",
+        "source": "AGR",
+        "doi": "10.1111/1365-2745.12487",
+        "title": "Geographical variation in vegetative growth and sexual reproduction of the invasive Spartina alterniflora in China",
+        "authorString": "Liu W, Maung\u2010Douglass K, Strong DR, Pennings SC, Zhang Y, Mack R.",
+        "journalTitle": "J Ecol",
+        "issue": "1",
+        "journalVolume": "104",
+        "pubYear": "2016",
+        "journalIssn": "0022-0477; 1365-2745; ",
+        "pageInfo": "173-181",
+        "pubType": "journal article",
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 35,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2016-01-01",
+        "firstIndexDate": "2016-04-12"
+      }
+    ]
+  }
+}

@@ -1,0 +1,811 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        23
+      ]
+    ],
+    "date-time": "2026-09-23T18:13:58Z",
+    "timestamp": 1790187238906,
+    "version": "4.1.0"
+  },
+  "reference-count": 69,
+  "publisher": "Wiley",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2021-01-06T00:00:00Z",
+        "timestamp": 1609891200000
+      },
+      "content-version": "am",
+      "delay-in-days": 366,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#am"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2020-01-06T00:00:00Z",
+        "timestamp": 1578268800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "31470485"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "31470485"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "31770464"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "31770464"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "41276078"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "41276078"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "OCE 12\u201037140"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "OCE 12\u201037140"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "aslopubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Limnology &amp; Oceanography"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Introduced plants provide a unique opportunity to examine how plants respond through plasticity and adaptation to changing climates. We compared plants of <jats:styled-content style=\"fixed-case\"><jats:italic>Spartina alterniflora</jats:italic></jats:styled-content> from the native (United States, 27\u201343\u00b0N) and introduced (China, 19\u201340\u00b0N) ranges. In the field and greenhouse, aboveground productivity of Chinese plants was greater than that of North American plants. Aboveground biomass in the field declined with increasing latitude in the native range, a pattern that persisted in the greenhouse, indicating a genetic basis. Aboveground biomass in the field displayed hump\u2010shaped relationships with latitude in China, but this pattern disappeared in field and greenhouse common gardens, indicating phenotypic plasticity. Relationships in both geographic regions were explained by temperature, which is probably the underlying environmental factor affecting aboveground biomass. <jats:styled-content style=\"fixed-case\"><jats:italic>S. alterniflora</jats:italic></jats:styled-content> has evolved greater biomass in China, but in the four decades since it was introduced, it has not yet evolved the genetic cline in biomass seen in its native range. By working at lower latitudes in the introduced range than have been sampled in the native range, we identified an optimum temperature in the introduced range above which aboveground productivity decreases.</jats:p>",
+  "DOI": "10.1002/lno.11395",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        6
+      ]
+    ],
+    "date-time": "2020-01-06T17:02:06Z",
+    "timestamp": 1578330126000
+  },
+  "page": "1399-1409",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 42,
+  "title": [
+    "Climate and geographic adaptation drive latitudinal clines in biomass of a widespread saltmarsh plant in its native and introduced ranges"
+  ],
+  "prefix": "10.1002",
+  "volume": "65",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-7585-2812",
+      "authenticated-orcid": false,
+      "given": "Wenwen",
+      "family": "Liu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems, College of the Environment and Ecology Xiamen University  Xiamen Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xincong",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems, College of the Environment and Ecology Xiamen University  Xiamen Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Donald R.",
+      "family": "Strong",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Section of Evolution and Ecology University of California  Davis California"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Steven C.",
+      "family": "Pennings",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biology and Biochemistry University of Houston  Houston Texas"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Matthew L.",
+      "family": "Kirwan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Virginia Institute of Marine Science College of William and Mary  Gloucester Point Virginia"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaolin",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems, College of the Environment and Ecology Xiamen University  Xiamen Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8710-2151",
+      "authenticated-orcid": false,
+      "given": "Yihui",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems, College of the Environment and Ecology Xiamen University  Xiamen Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_5_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1752-4571.2007.00013.x"
+    },
+    {
+      "key": "e_1_2_5_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-3180.2007.00559.x"
+    },
+    {
+      "key": "e_1_2_5_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2011.01620.x"
+    },
+    {
+      "key": "e_1_2_5_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/10-1510.1"
+    },
+    {
+      "key": "e_1_2_5_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.pp.31.060180.002423"
+    },
+    {
+      "key": "e_1_2_5_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-005-0070-z"
+    },
+    {
+      "key": "e_1_2_5_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12976"
+    },
+    {
+      "key": "e_1_2_5_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.1400014"
+    },
+    {
+      "key": "e_1_2_5_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/geb.12344"
+    },
+    {
+      "key": "e_1_2_5_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/08-0172.1"
+    },
+    {
+      "key": "e_1_2_5_12_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1007/BF00033900",
+      "article-title": "Niche theory and plant growth form",
+      "volume": "97",
+      "author": "Cody M. L.",
+      "year": "1991",
+      "journal-title": "Vegetatio"
+    },
+    {
+      "key": "e_1_2_5_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12237-016-0142-9"
+    },
+    {
+      "key": "e_1_2_5_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.1400534"
+    },
+    {
+      "key": "e_1_2_5_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2011.01596.x"
+    },
+    {
+      "key": "e_1_2_5_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature11533"
+    },
+    {
+      "key": "e_1_2_5_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10750-006-0529-x"
+    },
+    {
+      "key": "e_1_2_5_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2008.01181.x"
+    },
+    {
+      "key": "e_1_2_5_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/jxb/38.3.433"
+    },
+    {
+      "key": "e_1_2_5_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02732859"
+    },
+    {
+      "key": "e_1_2_5_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11258-011-9960-9"
+    },
+    {
+      "key": "e_1_2_5_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/eva.12112"
+    },
+    {
+      "key": "e_1_2_5_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00344767"
+    },
+    {
+      "key": "e_1_2_5_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/gcb.12221"
+    },
+    {
+      "key": "e_1_2_5_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/joc.1276"
+    },
+    {
+      "key": "e_1_2_5_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11258-010-9844-4"
+    },
+    {
+      "key": "e_1_2_5_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/geb.12635"
+    },
+    {
+      "key": "e_1_2_5_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0700958104"
+    },
+    {
+      "key": "e_1_2_5_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature12856"
+    },
+    {
+      "key": "e_1_2_5_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature11440"
+    },
+    {
+      "key": "e_1_2_5_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2008.01834.x"
+    },
+    {
+      "key": "e_1_2_5_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1420-9101.2009.01754.x"
+    },
+    {
+      "key": "e_1_2_5_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0807695106"
+    },
+    {
+      "key": "e_1_2_5_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1466-8238.2011.00740.x"
+    },
+    {
+      "key": "e_1_2_5_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-016-3699-x"
+    },
+    {
+      "key": "e_1_2_5_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/lno.10937"
+    },
+    {
+      "key": "e_1_2_5_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2435.13384"
+    },
+    {
+      "key": "e_1_2_5_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ecy.1815"
+    },
+    {
+      "key": "e_1_2_5_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12487"
+    },
+    {
+      "key": "e_1_2_5_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/03-4027"
+    },
+    {
+      "key": "e_1_2_5_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1466-882X.2004.00075.x"
+    },
+    {
+      "key": "e_1_2_5_42_1",
+      "volume-title": "Using growing degree days to predict plant stages",
+      "author": "Miller P.",
+      "year": "2001"
+    },
+    {
+      "key": "e_1_2_5_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2009.01526.x"
+    },
+    {
+      "key": "e_1_2_5_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ele.12262"
+    },
+    {
+      "key": "e_1_2_5_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/0012-9658(2002)083[2869:ROCWTR]2.0.CO;2"
+    },
+    {
+      "key": "e_1_2_5_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2009JF001566"
+    },
+    {
+      "key": "e_1_2_5_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecss.2006.05.041"
+    },
+    {
+      "key": "e_1_2_5_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/gcb.12126"
+    },
+    {
+      "key": "e_1_2_5_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.ecolsys.37.091305.110100"
+    },
+    {
+      "key": "e_1_2_5_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/lno.10962"
+    },
+    {
+      "key": "e_1_2_5_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1600-0587.1998.tb00556.x"
+    },
+    {
+      "key": "e_1_2_5_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.2017.0236"
+    },
+    {
+      "key": "e_1_2_5_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.15192"
+    },
+    {
+      "key": "e_1_2_5_54_1",
+      "unstructured": "R Development Core Team.2016. R: A language and environment for statistical computing. R Fundation for Statistical Computing Vienna Austria. ISBN 3\u2010900051\u201007\u20100. Available fromhttp://www.R-project.org/"
+    },
+    {
+      "key": "e_1_2_5_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2265768"
+    },
+    {
+      "key": "e_1_2_5_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11258-004-0841-3"
+    },
+    {
+      "key": "e_1_2_5_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/04-1257"
+    },
+    {
+      "key": "e_1_2_5_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.0022-0477.2001.00632.x"
+    },
+    {
+      "key": "e_1_2_5_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2015.04.035"
+    },
+    {
+      "key": "e_1_2_5_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-ecolsys-110512-135803"
+    },
+    {
+      "key": "e_1_2_5_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/08-1443.1"
+    },
+    {
+      "key": "e_1_2_5_62_1",
+      "first-page": "47",
+      "article-title": "Geographic variations in salt marsh macrophyte production: A review",
+      "volume": "20",
+      "author": "Turner R. E.",
+      "year": "1976",
+      "journal-title": "Contrib. Mar. Sci."
+    },
+    {
+      "key": "e_1_2_5_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/nph.15564"
+    },
+    {
+      "key": "e_1_2_5_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1078/1433-8319-00076"
+    },
+    {
+      "key": "e_1_2_5_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10021-013-9732-6"
+    },
+    {
+      "key": "e_1_2_5_66_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/11-1446.1"
+    },
+    {
+      "key": "e_1_2_5_67_1",
+      "first-page": "212",
+      "article-title": "Preliminary studies of introduced \n                     Spartina alterniflora\n                   Loisel in China (in Chinese)",
+      "volume": "40",
+      "author": "Xu G.",
+      "year": "1985",
+      "journal-title": "J. Nanjing Univ."
+    },
+    {
+      "key": "e_1_2_5_68_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/11-1302.1"
+    },
+    {
+      "key": "e_1_2_5_69_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/clen.201300844"
+    },
+    {
+      "key": "e_1_2_5_70_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2018.03.015"
+    }
+  ],
+  "container-title": [
+    "Limnology and Oceanography"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Flno.11395",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/lno.11395",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/lno.11395",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://aslopubs.onlinelibrary.wiley.com/doi/am-pdf/10.1002/lno.11395",
+      "content-type": "application/pdf",
+      "content-version": "am",
+      "intended-application": "syndication"
+    },
+    {
+      "URL": "https://aslopubs.onlinelibrary.wiley.com/doi/pdf/10.1002/lno.11395",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        6
+      ]
+    ],
+    "date-time": "2023-09-06T14:30:03Z",
+    "timestamp": 1694010603000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.11395"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        6
+      ]
+    ]
+  },
+  "references-count": 69,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/lno.11395"
+  ],
+  "URL": "https://doi.org/10.1002/lno.11395",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0024-3590",
+    "1939-5590"
+  ],
+  "issn-type": [
+    {
+      "value": "0024-3590",
+      "type": "print"
+    },
+    {
+      "value": "1939-5590",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        6
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2018-10-19",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2019-11-02",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-01-06",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1072 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2026-05-04T06:25:21Z",
+      "timestamp": 1777875921362,
+      "version": "3.51.4"
+    },
+    "reference-count": 77,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DEB 1026067"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DEB 1026067"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Genet."
+    ],
+    "abstract": "<jats:p>\n                    Partially clonal plants are common and often act as ecological foundation species. Patterns of clonal genotypes (genets) and their vegetative modules (ramets) in natural populations remain poorly documented. Knowledge gaps in ecological genetics include if environmental variation promotes or limits ramet production, and if random mechanisms or natural selection mainly shape variation in the frequency distributions and spatial organization of ramets and genets. We used genetic markers to measure genet and ramet patterns of\n                    <jats:italic>Spartina alterniflora</jats:italic>\n                    , a foundation plant species in North American Atlantic coastal salt marshes, along its natural gradient of tidal inundation and interspecific competition. In ten patches in a natural salt marsh, we sampled 935\u00a0\n                    <jats:italic>S. alterniflora</jats:italic>\n                    stems on 1\u00a0m grid transects spanning natural environmental gradients. Samples were genotyped with ten microsatellite loci that provided high exclusion probabilities. Genotypes showed 223 multilocus lineage genets (MLLs) genets that were unique to patches (except a single MLL) and excess homozygosity consistent with biparental mating among relatives or as much as 50% selfing. Patches showed low to no genetic differentiation and there was no isolation by distance within nor between patches. Distributions of ramets per genet were consistent with random sampling with replacement that was heterogeneous among patches, except three MLLs from two patches with high ramet counts. Spatial patterns of ramets within MLLs exhibited intermediate aggregation and interspersion consistent with vegetative expansion by rhizomes. Genotype frequencies, ramet and genet spatial patterns, and distributions of ramets per genet were overall consistent with life history (mating portfolio, vegetative growth by rhizomes) and neutral sampling mechanisms. The three MLLs with high ramet counts could be explained by a range of neutral mechanisms such as patch disturbance history or priority effects, while adaptation to environmental gradients of a few meters is unlikely since these MLLs spanned large areas. As ecosystems dominated by partially clonal species experience a myriad of anthropogenic impacts, our results support wider recognition of combined sexual and vegetative mating portfolios in foundation plant species and improved quantification of clonal patterns on landscapes to better understand and predict ecological genetic variation.\n                  </jats:p>",
+    "DOI": "10.3389/fgene.2026.1810782",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T22:10:10Z",
+      "timestamp": 1777587010000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spartina alterniflora) along salt marsh tidal gradients"
+    ],
+    "prefix": "10.3389",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Jewel",
+        "family": "Tomasula",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Georgetown University",
+            "place": [
+              "Washington, DC, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Seamus",
+        "family": "Caslin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Georgetown University",
+            "place": [
+              "Washington, DC, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gina M.",
+        "family": "Wimp",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Georgetown University",
+            "place": [
+              "Washington, DC, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthew B.",
+        "family": "Hamilton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biology, Georgetown University",
+            "place": [
+              "Washington, DC, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.ecss.2008.08.009",
+        "article-title": "Salt marsh dieback: an overview of recent events in the US",
+        "volume": "80",
+        "author": "Alber",
+        "year": "2008",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1111/j.1471-8286.2006.01522.x",
+        "article-title": "Genclone: a computer program to analyse genotypic data, test for clonality and describe spatial clonal organization",
+        "volume": "7",
+        "author": "Arnaud-Haond",
+        "year": "2007",
+        "journal-title": "Mol. Ecol. Notes"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "5115",
+        "DOI": "10.1111/j.1365-294X.2007.03535.x",
+        "article-title": "Standardizing methods to address clonality in population studies",
+        "volume": "16",
+        "author": "Arnaud-Haond",
+        "year": "2007",
+        "journal-title": "Mol. Ecol."
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "8859",
+        "DOI": "10.1073/pnas.1501712112",
+        "article-title": "Influences of clonality on plant sexual reproduction",
+        "volume": "112",
+        "author": "Barrett",
+        "year": "2015",
+        "journal-title": "PNAS"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1146/annurev-ecolsys-110316-023021",
+        "article-title": "The ecology of mating and its evolutionary consequences in seed plants",
+        "volume": "48",
+        "author": "Barrett",
+        "year": "2017",
+        "journal-title": "Annu. Rev. Ecol. Evol. Syst."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "2394",
+        "DOI": "10.1111/j.1365-294X.2010.04649.x",
+        "article-title": "The concept of population in clonal organisms: mosaics of temporally colonized patches are forming highly diverse meadows of Zostera marina in brittany",
+        "volume": "19",
+        "author": "Becheler",
+        "year": "2010",
+        "journal-title": "Mol. Ecol."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "138",
+        "DOI": "10.2307/1938909",
+        "article-title": "Zonation of Spartina patens and Spartina alterniflora in a new England salt marsh",
+        "volume": "72",
+        "author": "Bertness",
+        "year": "1991",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "288",
+        "DOI": "10.1002/j.1537-2197.1992.tb14550.x",
+        "article-title": "Consumer driven pollen limitation of seed production in marsh grasses",
+        "volume": "79",
+        "author": "Bertness",
+        "year": "1992",
+        "journal-title": "Am. J. Bot."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "e92916",
+        "DOI": "10.1371/journal.pone.0092916",
+        "article-title": "Herbivory drives the spread of salt marsh die-off",
+        "volume": "9",
+        "author": "Bertness",
+        "year": "2014",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1046/j.1471-8286.2003.00556.x",
+        "article-title": "Characterization of microsatellite loci in spartina species (poaceae)",
+        "volume": "4",
+        "author": "Blum",
+        "year": "2004",
+        "journal-title": "Mol. Ecol. Notes"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "2055",
+        "DOI": "10.1111/j.1365-2699.2007.01764.x",
+        "article-title": "Geographic structure, genetic diversity and source tracking of Spartina alterniflora",
+        "volume": "34",
+        "author": "Blum",
+        "year": "2007",
+        "journal-title": "J. Biogeogr."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "125",
+        "DOI": "10.1046/j.1365-2745.1998.00241.x",
+        "article-title": "Interactive effects of elevation and burial with wrack on plant community structure in some Rhode Island salt marshes",
+        "volume": "86",
+        "author": "Brewer",
+        "year": "1998",
+        "journal-title": "J. Ecol."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "606",
+        "DOI": "10.1038/sj.hdy.6800668",
+        "article-title": "Reconciling nuclear microsatellite and mitochondrial marker estimates of population structure: breeding population structure of Chesapeake Bay striped bass (Morone saxatilis)",
+        "volume": "94",
+        "author": "Brown",
+        "year": "2005",
+        "journal-title": "Heredity"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "2101",
+        "DOI": "10.1111/j.1365-294X.2004.02209.x",
+        "article-title": "A simple method for the calculation of microsatellite genotype distances irrespective of ploidy level",
+        "volume": "13",
+        "author": "Bruvo",
+        "year": "2004",
+        "journal-title": "Mol. Ecol."
+      },
+      {
+        "key": "B15",
+        "article-title": "Source attribution of a forensic DNA profile",
+        "volume": "2",
+        "author": "Budowle",
+        "year": "2000",
+        "journal-title": "Forensic Sci. Commun."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "106",
+        "DOI": "10.1093/jhered/esn088",
+        "article-title": "Simultaneous estimation of null alleles and inbreeding coefficients",
+        "volume": "100",
+        "author": "Chybicki",
+        "year": "2009",
+        "journal-title": "J. Hered."
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "553",
+        "DOI": "10.1023/A:1006556709662",
+        "article-title": "Variation in self-fertility and the reproductive advantage of self-fertility for an invading plant (Spartina alterniflora)",
+        "volume": "12",
+        "author": "Daehler",
+        "year": "1998",
+        "journal-title": "Evol. Ecol."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "307",
+        "DOI": "10.1002/j.1537-2197.1994.tb15448.x",
+        "article-title": "Variable reproductive output among clones of Spartina alterniflora (poaceae) invading San Francisco Bay, California: the influence of herbivory, pollination, and establishment site",
+        "volume": "81",
+        "author": "Daehler",
+        "year": "1994",
+        "journal-title": "Am. J. Bot."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "388",
+        "DOI": "10.1038/nature11533",
+        "article-title": "Coastal eutrophication as a driver of salt marsh loss",
+        "volume": "490",
+        "author": "Deegan",
+        "year": "2012",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "743",
+        "DOI": "10.2307/2259633",
+        "article-title": "Population dynamics and local specialization in a clonal perennial (ranunculus repens): I. The dynamics of ramets in contrasting habitats",
+        "volume": "69",
+        "author": "Doust",
+        "year": "1981",
+        "journal-title": "J. Ecol."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1007/BF02732855",
+        "article-title": "Genetic effects of a large-scale Spartina alterniflora (smooth cordgrass) dieback and recovery in the northern Gulf of Mexico",
+        "volume": "28",
+        "author": "Edwards",
+        "year": "2005",
+        "journal-title": "Estuaries"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "254",
+        "DOI": "10.1016/j.isci.2019.02.020",
+        "article-title": "Foundation species, non-trophic interactions, and the value of being common",
+        "volume": "13",
+        "author": "Ellison",
+        "year": "2019",
+        "journal-title": "iScience"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "123",
+        "DOI": "10.1002/j.1537-2197.1987.tb08586.x",
+        "article-title": "Patterns of genotypic diversity in clonal plant species",
+        "volume": "74",
+        "author": "Ellstrand",
+        "year": "1987",
+        "journal-title": "Am. J. Bot."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1016/j.aquabot.2009.02.001",
+        "article-title": "Seed flotation and germination of salt marsh plants: the effects of stratification, salinity, and/or inundation regime",
+        "volume": "91",
+        "author": "Elsey-Quirk",
+        "year": "2009",
+        "journal-title": "Aquat. Bot."
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "616",
+        "DOI": "10.1007/s00442-003-1303-7",
+        "article-title": "Recovery of a northern new England salt marsh plant community from winter icing",
+        "volume": "136",
+        "author": "Ewanchuk",
+        "year": "2003",
+        "journal-title": "Oecologia"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.1086/382810",
+        "article-title": "Mode of pollination, pollen germination, and seed set in smooth cordgrass (Spartina alterniflora, poaceae)",
+        "volume": "165",
+        "author": "Fang",
+        "year": "2004",
+        "journal-title": "Int. J. Plant Sci."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1005",
+        "DOI": "10.2307/1941255",
+        "article-title": "Persistent differences in two forms of spartina alterniflora: a common garden experiment",
+        "volume": "69",
+        "author": "Gallagher",
+        "year": "1988",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "B28",
+        "volume-title": "Population genetics",
+        "author": "Hamilton",
+        "year": "2021"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "367",
+        "DOI": "10.1086/284348",
+        "article-title": "The intrusion of clonal growth patterns on plant breeding systems",
+        "volume": "125",
+        "author": "Handel",
+        "year": "1985",
+        "journal-title": "Am. Nat."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "1875",
+        "DOI": "10.1111/nph.70262",
+        "article-title": "Intraspecific variation in plant\u2013fungal interactions across tidal elevation in a salt marsh",
+        "volume": "247",
+        "author": "Hanley",
+        "year": "2025",
+        "journal-title": "New Phytol."
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "591",
+        "DOI": "10.2307/2960530",
+        "article-title": "Probability of clonal identity: inferring the relative success of sexual versus clonal reproduction from spatial genetic patterns",
+        "volume": "85",
+        "author": "Harada",
+        "year": "1997",
+        "journal-title": "J. Ecol."
+      },
+      {
+        "key": "B32",
+        "volume-title": "Population biology of plants",
+        "author": "Harper",
+        "year": "1977"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "244",
+        "DOI": "10.2307/3544432",
+        "article-title": "Plant demography and ecological theory",
+        "volume": "35",
+        "author": "Harper",
+        "year": "1980",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1633",
+        "DOI": "10.1111/j.0014-3820.2005.tb01814.x",
+        "article-title": "A standardized genetic differentiation measure",
+        "volume": "59",
+        "author": "Hedrick",
+        "year": "2005",
+        "journal-title": "Evolution"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1648",
+        "DOI": "10.1111/ecog.04617",
+        "article-title": "Landscapemetrics: an open-source R tool to calculate landscape metrics",
+        "volume": "42",
+        "author": "Hesselbarth",
+        "year": "2019",
+        "journal-title": "Ecography"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "427",
+        "DOI": "10.1111/j.0030-1299.2005.13569.x",
+        "article-title": "Prolonged clonal growth: escape route or route to extinction?",
+        "volume": "108",
+        "author": "Honnay",
+        "year": "2005",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "B37",
+        "volume-title": "The unified neutral theory of biodiversity and biogeography",
+        "author": "Hubbell",
+        "year": "2001"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.3354/meps10565",
+        "article-title": "Genotypic diversity at multiple spatial scales in the foundation marsh species, Spartina alterniflora",
+        "volume": "497",
+        "author": "Hughes",
+        "year": "2014",
+        "journal-title": "Mar. Ecol. Prog. Ser."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "609",
+        "DOI": "10.1111/j.1461-0248.2008.01179.x",
+        "article-title": "Ecological consequences of genetic diversity",
+        "volume": "11",
+        "author": "Hughes",
+        "year": "2008",
+        "journal-title": "Ecol. Lett."
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "e01675",
+        "DOI": "10.1002/ecs2.1675",
+        "article-title": "Timing of disturbance affects biomass and flowering of a saltmarsh plant and attack by stem-boring herbivores",
+        "volume": "8",
+        "author": "Li",
+        "year": "2017",
+        "journal-title": "Ecosphere"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1414",
+        "DOI": "10.1890/10-1831.1",
+        "article-title": "Using the negative binomial distribution to model overdispersion in ecological count data",
+        "volume": "92",
+        "author": "Lind\u00e9n",
+        "year": "2011",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "119",
+        "DOI": "10.1007/s00442-009-1283-3",
+        "article-title": "Genetic mosaics of ecosystem functioning across aspen-dominated landscapes",
+        "volume": "160",
+        "author": "Madritch",
+        "year": "2009",
+        "journal-title": "Oecologia"
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "189",
+        "DOI": "10.1016/s0169-5347(03)00008-9",
+        "article-title": "Landscape genetics: combining landscape ecology and population genetics",
+        "volume": "18",
+        "author": "Manel",
+        "year": "2003",
+        "journal-title": "Trends Ecol. Evol."
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "2026",
+        "DOI": "10.3389/fpls.2017.02026",
+        "article-title": "Disturbance is an important driver of clonal richness in tropical seagrasses",
+        "volume": "8",
+        "author": "McMahon",
+        "year": "2017",
+        "journal-title": "Front. Plant Sci."
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "2839",
+        "DOI": "10.1111/j.1365-294X.2012.05578.x",
+        "article-title": "The trouble with isolation by distance",
+        "volume": "21",
+        "author": "Meirmans",
+        "year": "2012",
+        "journal-title": "Mol. Ecol."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "1126",
+        "DOI": "10.1111/1755-0998.13145",
+        "article-title": "Genodive version 3.0: easy-to-use software for the analysis of genetic data of diploids and polyploids",
+        "volume": "20",
+        "author": "Meirmans",
+        "year": "2020",
+        "journal-title": "Mol. Ecol. Resour."
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.1111/j.1755-0998.2010.02927.x",
+        "article-title": "Assessing population structure: F(ST) and related measures",
+        "volume": "11",
+        "author": "Meirmans",
+        "year": "2011",
+        "journal-title": "Mol. Ecol. Resour."
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "first-page": "868826",
+        "DOI": "10.3389/fevo.2022.868826",
+        "article-title": "Genetic and epigenetic differentiation across intertidal gradients in the foundation plant",
+        "volume": "10",
+        "author": "Mounger",
+        "year": "2022",
+        "journal-title": "Spartina Alterniflora. Front. Ecol. Evol."
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "first-page": "253",
+        "DOI": "10.1111/j.1469-1809.1983.tb00993.x",
+        "article-title": "Estimation of fixation indices and gene diversities",
+        "volume": "47",
+        "author": "Nei",
+        "year": "1983",
+        "journal-title": "Ann. Hum. Genet."
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "e03121",
+        "DOI": "10.1002/ecs2.3121",
+        "article-title": "Intraspecific diversity at two trophic levels influences plant\u2013herbivore interactions",
+        "volume": "11",
+        "author": "Noto",
+        "year": "2020",
+        "journal-title": "Ecosphere"
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1007/s13157-010-0046-6",
+        "article-title": "Genetic variation of Spartina alterniflora in the New York metropolitan area and its relevance for marsh restoration",
+        "volume": "30",
+        "author": "Novy",
+        "year": "2010",
+        "journal-title": "Wetlands"
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "first-page": "180",
+        "DOI": "10.1890/1051-0761(2003)013[0180:GAEISA]2.0.CO;2",
+        "article-title": "Genotype and elevation influence Spartina alterniflora colonization and growth in a created salt marsh",
+        "volume": "13",
+        "author": "Proffitt",
+        "year": "2003",
+        "journal-title": "Ecol. Appl."
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "first-page": "648",
+        "DOI": "10.1111/brv.12472",
+        "article-title": "The community and ecosystem consequences of intraspecific diversity: a meta-analysis",
+        "volume": "94",
+        "author": "Raffard",
+        "year": "2018",
+        "journal-title": "Biol. Rev."
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.cois.2021.02.010",
+        "article-title": "Global change in marine coastal habitats impacts insect populations and communities",
+        "volume": "47",
+        "author": "Rippel",
+        "year": "2021",
+        "journal-title": "Curr. Opin. Insect Sci."
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "first-page": "1219",
+        "DOI": "10.1093/genetics/145.4.1219",
+        "article-title": "Genetic differentiation and estimation of gene flow from F-statistics under isolation by distance",
+        "volume": "145",
+        "author": "Rousset",
+        "year": "1997",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "first-page": "658",
+        "DOI": "10.1126/science.203.4381.658",
+        "article-title": "Microevolution and clone structure in Spartina patens",
+        "volume": "203",
+        "author": "Silander",
+        "year": "1979",
+        "journal-title": "Science"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "first-page": "457",
+        "DOI": "10.1093/genetics/139.1.457",
+        "article-title": "A measure of population subdivision based on microsatellite allele frequencies",
+        "volume": "139",
+        "author": "Slatkin",
+        "year": "1995",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "first-page": "1049",
+        "DOI": "10.1007/s10592-005-9084-7",
+        "article-title": "Characterization of 24 additional microsatellite loci in spartina species (poaceae)",
+        "volume": "6",
+        "author": "Sloop",
+        "year": "2005",
+        "journal-title": "Conserv. Genet."
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "first-page": "e70122",
+        "DOI": "10.1111/rec.70122",
+        "article-title": "Revegetation decisions have genetic consequences: actively and passively restored salt marshes display different genetic diversity and composition",
+        "volume": "33",
+        "author": "Sperry",
+        "year": "2025",
+        "journal-title": "Restor. Ecol."
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "first-page": "471",
+        "DOI": "10.1146/annurev-ecolsys-120213-091917",
+        "article-title": "Biodiversity and ecosystem functioning",
+        "volume": "45",
+        "author": "Tilman",
+        "year": "2014",
+        "journal-title": "Annu. Rev. Ecol. Evol. Syst."
+      },
+      {
+        "key": "B62",
+        "volume-title": "Effects of environmental factors on intraspecific genetic diversity of a foundation plant species and the extended ecological consequences",
+        "author": "Tomasula",
+        "year": "2023"
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "first-page": "109882",
+        "DOI": "10.1016/j.biocon.2022.109882",
+        "article-title": "Conditions for collapse: chronic nutrient enrichment increases native insect density linked to salt marsh dieback",
+        "volume": "278",
+        "author": "Tomasula",
+        "year": "2023",
+        "journal-title": "Biol. Conserv."
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "first-page": "161",
+        "DOI": "10.1007/s00227-020-03777-9",
+        "article-title": "Shifts in coral clonality along a gradient of disturbance: insights on reproduction and dispersal of Pocillopora acuta",
+        "volume": "167",
+        "author": "Torres",
+        "year": "2020",
+        "journal-title": "Mar. Biol."
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1046/j.1526-100X.2002.10104.x",
+        "article-title": "A comparative assessment of genetic diversity among differently-aged populations of Spartina alterniflora on restored versus natural wetlands",
+        "volume": "10",
+        "author": "Travis",
+        "year": "2002",
+        "journal-title": "Restor. Ecol."
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "first-page": "30",
+        "DOI": "10.1016/j.aquabot.2008.05.003",
+        "article-title": "Genetic diversity and population genetic structure of saltmarsh Spartina alterniflora from four coastal Louisiana basins",
+        "volume": "90",
+        "author": "Utomo",
+        "year": "2009",
+        "journal-title": "Aquat. Bot."
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "first-page": "461",
+        "DOI": "10.1086/283290",
+        "article-title": "The nature of growth forms in the salt-marsh grass Spartina alterniflora",
+        "volume": "112",
+        "author": "Valiela",
+        "year": "1978",
+        "journal-title": "Am. Nat."
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.1146/annurev.ecolsys.110308.120258",
+        "article-title": "The ecological and evolutionary consequences of clonality for plant mating",
+        "volume": "41",
+        "author": "Vallejo-Marin",
+        "year": "2010",
+        "journal-title": "Annu. Rev. Ecol. Evol. Syst."
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "first-page": "8929",
+        "DOI": "10.1073/pnas.1501720112",
+        "article-title": "Consequences of clonality for sexual fitness: clonal expansion enhances fitness under spatially restricted dispersal",
+        "volume": "112",
+        "author": "Van Drunen",
+        "year": "2015",
+        "journal-title": "PNAS"
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "first-page": "1251",
+        "DOI": "10.1093/oxfordjournals.molbev.a004186",
+        "article-title": "Rate and pattern of mutation at microsatellite loci in maize",
+        "volume": "19",
+        "author": "Vigouroux",
+        "year": "2002",
+        "journal-title": "Mol. Biol. Evol."
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "first-page": "357",
+        "DOI": "10.1656/045.028.0309",
+        "article-title": "Genetic diversity and clonal structure of Spartina alterniflora in a Virginia marsh",
+        "volume": "28",
+        "author": "Walker",
+        "year": "2021",
+        "journal-title": "Northeast. Nat."
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "first-page": "506",
+        "DOI": "10.2144/000114018",
+        "article-title": "Chelex\u00ae 100 as a medium for simple extraction of DNA for PCR-based typing from forensic material",
+        "volume": "10",
+        "author": "Walsh",
+        "year": "1991",
+        "journal-title": "BioTechniques"
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "first-page": "559",
+        "DOI": "10.1890/0012-9658(2003)084[0559:CAEGAC]2.0.CO;2",
+        "article-title": "Community and ecosystem genetics: a consequence of the extended phenotype",
+        "volume": "84",
+        "author": "Whitham",
+        "year": "2003",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.2307/3546874",
+        "article-title": "The disturbing history of intermediate disturbance",
+        "volume": "84",
+        "author": "Wilkinson",
+        "year": "1999",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "B76",
+        "doi-asserted-by": "publisher",
+        "first-page": "1100",
+        "DOI": "10.1002/clen.201300868",
+        "article-title": "Variations in growth, clonal and sexual reproduction of Spartina alterniflora responding to changes in clonal integration and sand burial",
+        "volume": "43",
+        "author": "Xiao",
+        "year": "2015",
+        "journal-title": "Clean. Soil Air Water"
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4939-2818-7_18",
+        "article-title": "On VGAM family functions",
+        "volume-title": "Vector generalized linear and additive models with an implementation in R",
+        "author": "Yee",
+        "year": "2015"
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.3354/meps10349",
+        "article-title": "Snail behavioral preference for flowering stems does not impact Spartina alterniflora reproduction",
+        "volume": "487",
+        "author": "Zerebecki",
+        "year": "2013",
+        "journal-title": "Mar. Ecol. Prog. Ser."
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "publisher",
+        "first-page": "E152",
+        "DOI": "10.1086/716512",
+        "article-title": "Repeated genetic and adaptive phenotypic divergence across tidal elevation in a foundation plant species",
+        "volume": "198",
+        "author": "Zerebecki",
+        "year": "2021",
+        "journal-title": "Am. Nat."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Genetics"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fgene.2026.1810782/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T22:10:12Z",
+      "timestamp": 1777587012000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fgene.2026.1810782/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "references-count": 77,
+    "alternative-id": [
+      "10.3389/fgene.2026.1810782"
+    ],
+    "URL": "https://doi.org/10.3389/fgene.2026.1810782",
+    "relation": {},
+    "ISSN": [
+      "1664-8021"
+    ],
+    "issn-type": [
+      {
+        "value": "1664-8021",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "article-number": "1810782"
+  }
+}

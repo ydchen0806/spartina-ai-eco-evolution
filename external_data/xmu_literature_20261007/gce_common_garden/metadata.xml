@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="BOT-GCED-1912.1.0" system="gce-lter" xmlns:ds="https://eml.ecoinformatics.org/eml-dataset-2.2.0" xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.2.0 https://gce-lter.marsci.uga.edu/public/files/schemas/eml-220/eml.xsd">
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+<dataset>
+<title>Contrasting plant adaptation strategies to latitude in the native and invasive range of Spartina alterniflora: geographic survey (2014) and Common garden (2015-2017)</title>
+<creator id="GCE-LTER"><organizationName>Georgia Coastal Ecosystems LTER Project</organizationName>
+<address>
+<deliveryPoint>Dept. of Marine Sciences</deliveryPoint>
+<deliveryPoint>University of Georgia</deliveryPoint>
+<city>Athens</city>
+<administrativeArea>Georgia</administrativeArea>
+<postalCode>30602-3636</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>gcelter@uga.edu</electronicMailAddress>
+<onlineUrl>https://gce-lter.marsci.uga.edu/</onlineUrl>
+</creator>
+<creator>
+<individualName>
+<salutation>Dr.</salutation>
+<givenName>Steven</givenName>
+<givenName>C.</givenName>
+<surName>Pennings</surName>
+</individualName>
+<organizationName>University of Houston</organizationName>
+<address>
+<deliveryPoint>Department of Biology and Biochemistry</deliveryPoint>
+<deliveryPoint>University of Houston</deliveryPoint>
+<city>Houston</city>
+<administrativeArea>Texas</administrativeArea>
+<postalCode>77204-5513</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>scpennin@central.uh.edu</electronicMailAddress>
+<onlineUrl>https://uh.edu/nsm/biology-biochemistry/people/profiles/steven-pennings/</onlineUrl>
+<userId directory="https://orcid.org">https://orcid.org/0000-0003-4757-7125</userId>
+</creator>
+<metadataProvider><references>GCE-LTER</references></metadataProvider>
+<associatedParty>
+<individualName>
+<givenName>Wenwen</givenName>
+<surName>Liu</surName>
+</individualName>
+<organizationName>University of Houston</organizationName>
+<electronicMailAddress>hutcliuwenwen@163.com</electronicMailAddress>
+<role>co-investigator</role>
+</associatedParty>
+<associatedParty>
+<individualName>
+<salutation>Dr.</salutation>
+<givenName>Yihui</givenName>
+<surName>Zhang</surName>
+</individualName>
+<organizationName>Xiamen University</organizationName>
+<electronicMailAddress>zyh@xmu.edu.cn</electronicMailAddress>
+<role>co-investigator</role>
+</associatedParty>
+<associatedParty>
+<individualName>
+<givenName>Xincong</givenName>
+<surName>Chen</surName>
+</individualName>
+<organizationName>Xiamen University</organizationName>
+<role>co-investigator</role>
+</associatedParty>
+<associatedParty>
+<individualName>
+<givenName>Keith</givenName>
+<surName>Maung-Douglass</surName>
+</individualName>
+<organizationName>Louisiana State University</organizationName>
+<role>co-investigator</role>
+</associatedParty>
+<pubDate>2020</pubDate>
+<abstract>
+<para>We examined trait differences and evolution across geographic clines among continents of the intertidal grass Spartina alterniflora within its invasive and native ranges. Between September and November 2014, we sampled vegetative and reproductive traits in the field at 20 sites over 20° latitude in China (invasive range) and 28 sites over 17° latitude in the US (native range). We grew both Chinese and US plants in a greenhouse common garden for three years (2015 - 2017) to determine if differences in performance of S. alterniflora between the introduced and native ranges were due to genetic differences or differences in abiotic conditions.</para>
+</abstract>
+<keywordSet>
+<keyword keywordType="place">Georgia</keyword>
+<keyword keywordType="place">Sapelo Island</keyword>
+<keyword keywordType="place">USA</keyword>
+<keyword keywordType="theme">GCE</keyword>
+<keyword keywordType="theme">Georgia Coastal Ecosystems</keyword>
+<keyword keywordType="theme">introduced species</keyword>
+<keyword keywordType="theme">LTER</keyword>
+<keyword keywordType="theme">phenotypic plasticity</keyword>
+<keyword keywordType="theme">salt marsh</keyword>
+<keywordThesaurus>GCE-LTER Controlled Vocabulary</keywordThesaurus>
+</keywordSet>
+<keywordSet>
+<keyword keywordType="theme">evolution</keyword>
+<keyword keywordType="theme">latitude</keyword>
+<keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+</keywordSet>
+<keywordSet>
+<keyword keywordType="theme">Primary Production</keyword>
+<keywordThesaurus>LTER Core Research Areas</keywordThesaurus>
+</keywordSet>
+<intellectualRights>
+<para>This information is licensed under a Creative Commons Attribution 4.0 International License (see: https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) has an ethical obligation to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data.</para>
+</intellectualRights>
+<licensed>
+<licenseName>Creative Commons Attribution 4.0 International</licenseName>
+<url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+<identifier>CC-BY-4.0</identifier>
+</licensed>
+<distribution>
+<online>
+<url function="information">https://gce-lter.marsci.uga.edu/public/app/dataset_details.asp?accession=BOT-GCED-1912</url>
+</online>
+</distribution>
+<coverage>
+<temporalCoverage>
+<rangeOfDates>
+<beginDate>
+<calendarDate>2014-09-10</calendarDate>
+</beginDate>
+<endDate>
+<calendarDate>2014-11-22</calendarDate>
+</endDate>
+</rangeOfDates>
+</temporalCoverage>
+</coverage>
+<contact><positionName>GCE-LTER Information Manager</positionName>
+<address>
+<deliveryPoint>Dept. of Marine Sciences</deliveryPoint>
+<deliveryPoint>University of Georgia</deliveryPoint>
+<city>Athens</city>
+<administrativeArea>Georgia</administrativeArea>
+<postalCode>30602-3636</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>gcelter@uga.edu</electronicMailAddress>
+</contact>
+<publisher><references>GCE-LTER</references></publisher>
+<methods>
+<methodStep>
+<description>
+<section>
+<title>Method 1</title>
+<para>Location selection -- 10 locations from China and 14 from the United States were selected. Within each location, 2 sites were located 2-3 kilometers apart. This resulted in sampling 20 sites in China and 28 sites in the United States.</para>
+</section>
+</description>
+<instrumentation>none</instrumentation>
+</methodStep>
+<methodStep>
+<description>
+<section>
+<title>Method 2</title>
+<para>Sampling -- We focused on tall-form Spartina Alterniflora, which we defined as the tallest plants that were growing in each site. At each site, we sampled five 0.5 × 0.5 m quadrats in tall-form S. alterniflora stands, with individual quadrats spaced greater than 30 meters apart. In each quadrat, we measured the height of the three tallest S. alterniflora shoots and counted the number of shoots that were greater than 25 cm tall to calculate shoot density. We haphazardly collected 10 inflorescences within a meter of each quadrat and counted the number of filled seeds in each inflorescence, distinguishing filled from unfilled seeds. We calculated both seed set (100*filled seeds/(total seeds).</para>
+</section>
+</description>
+<instrumentation>none</instrumentation>
+</methodStep>
+<sampling>
+<studyExtent>
+<coverage>
+<temporalCoverage>
+<rangeOfDates>
+<beginDate>
+<calendarDate>2014-09-10</calendarDate>
+</beginDate>
+<endDate>
+<calendarDate>2014-11-22</calendarDate>
+</endDate>
+</rangeOfDates>
+</temporalCoverage>
+</coverage>
+<coverage>
+<geographicCoverage>
+<geographicDescription>GCE Study Site SE_Coast -- Southeastern USA Coast, USA.  Southeastern coast of the USA including the Gulf of Mexico</geographicDescription>
+<boundingCoordinates>
+<westBoundingCoordinate>-98.544432</westBoundingCoordinate>
+<eastBoundingCoordinate>-69.112506</eastBoundingCoordinate>
+<northBoundingCoordinate>43.800338</northBoundingCoordinate>
+<southBoundingCoordinate>24.167489</southBoundingCoordinate>
+</boundingCoordinates>
+</geographicCoverage>
+<geographicCoverage>
+<geographicDescription>GCE Study Site ChinaSA -- China Spartina Study, China.  Invasive Spartina alterniflora study site in China used by Steven Pennings and collaborators</geographicDescription>
+<boundingCoordinates>
+<westBoundingCoordinate>110.160000</westBoundingCoordinate>
+<eastBoundingCoordinate>121.960000</eastBoundingCoordinate>
+<northBoundingCoordinate>39.050000</northBoundingCoordinate>
+<southBoundingCoordinate>20.900000</southBoundingCoordinate>
+</boundingCoordinates>
+</geographicCoverage>
+</coverage>
+</studyExtent>
+<samplingDescription>
+<section>
+<title>Research Study</title>
+<para>not specified</para>
+<para>In China we sampled 10 locations ranging from 20.90 °N to 39.05 °N in September-November, 2014. To standardize phenology, we started at the southernmost location (Leizhou) when seed set began in late September and ended at the northernmost location (Tanggu) when seeds were being set in early November. In the United States we sampled 14 locations ranging from 27.70 °N to 43.32 °N in October and November 2014. Within each location, we worked at two sites, 2-3 km apart, with a total of 20 sites in China, and 28 sites in the United States. In both geographic ranges, S. alterniflora occupies lower elevations in the intertidal than other plant species. As a practical matter, the easiest way to standardize elevation across all sites was to focus on tall-form S. alterniflora, which we defined as the tallest plants that were growing at each site. These plants were invariably growing low in the marsh or along creek banks, and always occurred in monospecific stands.</para>
+<para>At each site, we sampled five 0.5 × 0.5 m quadrats in tall-form S. alterniflora stands, with individual quadrats spaced greater than 30 meters apart. In each quadrat, we measured the height of the three tallest S. alterniflora shoots and counted the number of shoots that were greater than 25 cm tall to calculate shoot density. We haphazardly collected 10 inflorescences within a meter of each quadrat and counted the number of filled seeds in each inflorescence, distinguishing filled from unfilled seeds. We calculated seed set (100*filled seeds/(total seeds)).</para>
+</section>
+</samplingDescription>
+<spatialSamplingUnits>
+<referencedEntityId>BOT-GCED-1912.kml</referencedEntityId>
+</spatialSamplingUnits>
+</sampling>
+</methods>
+<project>
+<title>Georgia Coastal Ecosystems LTER Project III</title>
+<personnel>
+<individualName>
+<givenName>Merryl</givenName>
+<surName>Alber</surName>
+</individualName>
+<role>principalInvestigator</role>
+</personnel>
+<personnel>
+<individualName>
+<givenName>Steven</givenName>
+<givenName>C.</givenName>
+<surName>Pennings</surName>
+</individualName>
+<role>principalInvestigator</role>
+</personnel>
+<personnel>
+<individualName>
+<givenName>Wade</givenName>
+<givenName>M.</givenName>
+<surName>Sheldon</surName>
+</individualName>
+<role>informationManager</role>
+</personnel>
+<abstract><para>The Georgia Coastal Ecosystems (GCE) LTER is located along three adjacent sounds on the Atlantic coast and includes both intertidal marshes and estuaries. Long-term drivers of climate change, sea level rise and human alterations of the landscape will cause transitions in dominant habitat types (state changes) within the GCE domain by changing the amounts and patterns of water delivery across the landscape. These changes in water delivery can be conceptualized as presses and pulses in river inflow, local runoff, groundwater input, and tidal inundation, which will in turn manifest themselves as changes in salinity and inundation patterns in the domain. The research proposed for GCE-III is designed to address how variations in salinity and inundation, driven by climate change and anthropogenic factors, affect biotic and ecosystem responses at different spatial and temporal scales, and to predict the consequences of these changes for habitat provisioning and carbon (C) sequestration across the coastal landscape. The goals are to: 1) Track long-term changes in climate and human actions in the watershed and adjacent uplands, and evaluate the effects of these drivers on domain boundary conditions. 2) Describe temporal and spatial variability in physical, chemical, geological and biological, and to evaluate how they are affected by variations in river inflow and other boundary conditions. 3) Characterize the responses of three dominant habitats in the domain to pulses and presses in salinity and inundation. 4) Describe patterns of habitat provisioning and C sequestration and export in the GCE domain, and to evaluate how these might be affected by changes in salinity and inundation. These efforts will be synthesized into a synoptic understanding of both biotic and ecosystem responses to variations in salinity and inundation driven by climate change and human activities, which will be used to assess thresholds between habitats and the potential for state changes in the domain.</para></abstract>
+<funding><para>NSF OCE 1237140</para></funding>
+<award>
+<funderName>National Science Foundatation</funderName>
+<funderIdentifier>https://doi.org/10.13039/00000001</funderIdentifier>
+<awardNumber>1237140</awardNumber>
+<title>LTER: Georgia Coastal Ecosystems-III</title>
+<awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1237140</awardUrl>
+</award>
+</project>
+<dataTable>
+<entityName>BOT-GCED-1912_Geographic</entityName>
+<entityDescription>Data table for the geographic survey</entityDescription>
+<physical>
+<objectName>BOT-GCED-1912_Geographic_1_0.CSV</objectName>
+<size unit="kilobyte">18.81</size>
+<characterEncoding>ASCII</characterEncoding>
+<dataFormat>
+<textFormat>
+<numHeaderLines>5</numHeaderLines>
+<numFooterLines>0</numFooterLines>
+<recordDelimiter>\r\n</recordDelimiter>
+<numPhysicalLinesPerRecord>1</numPhysicalLinesPerRecord>
+<attributeOrientation>column</attributeOrientation>
+<simpleDelimited>
+<fieldDelimiter>,</fieldDelimiter>
+<quoteCharacter>"</quoteCharacter>
+</simpleDelimited>
+</textFormat>
+</dataFormat>
+<distribution>
+<online>
+<onlineDescription>Spreadsheet comma-separated value (CSV) text file with a five line header containing the data set title, column titles, units and column types</onlineDescription>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=BOT-GCED-1912&amp;filename=BOT-GCED-1912_Geographic_1_0.CSV</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<physical>
+<objectName>BOT-GCED-1912_Geographic_1_0.TXT</objectName>
+<size unit="kilobyte">16.48</size>
+<characterEncoding>ASCII</characterEncoding>
+<dataFormat>
+<textFormat>
+<numHeaderLines>1</numHeaderLines>
+<numFooterLines>0</numFooterLines>
+<recordDelimiter>\r\n</recordDelimiter>
+<numPhysicalLinesPerRecord>1</numPhysicalLinesPerRecord>
+<attributeOrientation>column</attributeOrientation>
+<simpleDelimited>
+<fieldDelimiter>\t</fieldDelimiter>
+</simpleDelimited>
+</textFormat>
+</dataFormat>
+<distribution>
+<online>
+<onlineDescription>Tab-delimited ASCII data file with a one line header listing column titles</onlineDescription>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=BOT-GCED-1912&amp;filename=BOT-GCED-1912_Geographic_1_0.TXT</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<physical>
+<objectName>BOT-GCED-1912_Geographic_1_0_VARS.MAT</objectName>
+<size unit="kilobyte">15.37</size>
+<dataFormat>
+<externallyDefinedFormat>
+<formatName>application/matlab-mat</formatName>
+</externallyDefinedFormat>
+</dataFormat>
+<distribution>
+<online>
+<onlineDescription>MATLAB binary data file containing individual arrays for each data set column and formatted metadata as a character array</onlineDescription>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=BOT-GCED-1912&amp;filename=BOT-GCED-1912_Geographic_1_0_VARS.MAT</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<methods>
+<methodStep>
+<description><para>Data file post-processing in the GCE-LTER Information Management Office</para></description>
+<software><title>GCE Data Toolbox for MATLAB(r)</title>
+<creator>
+<individualName>
+<salutation>Mr.</salutation>
+<givenName>Wade</givenName>
+<givenName>M.</givenName>
+<surName>Sheldon</surName>
+</individualName>
+<address>
+<deliveryPoint>Dept. of Marine Sciences</deliveryPoint>
+<deliveryPoint>University of Georgia</deliveryPoint>
+<city>Athens</city>
+<administrativeArea>Georgia</administrativeArea>
+<postalCode>30602-3636</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>sheldon@uga.edu</electronicMailAddress>
+<onlineUrl>https://gce-lter.marsci.uga.edu/public/app/personnel_bios.asp?id=wsheldon</onlineUrl>
+</creator>
+<associatedParty>
+<organizationName>Georgia Coastal Ecosystems LTER Project</organizationName>
+<address>
+<deliveryPoint>Dept. of Marine Sciences</deliveryPoint>
+<deliveryPoint>University of Georgia</deliveryPoint>
+<city>Athens</city>
+<administrativeArea>Georgia</administrativeArea>
+<postalCode>30602-3636</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>gcelter@uga.edu</electronicMailAddress>
+<role>sponsoring research program</role>
+</associatedParty>
+<abstract>
+<para>The GCE Data Toolbox is a comprehensive library of functions for metadata-based analysis
+quality control, transformation and management of ecological data sets. The toolbox is based on the GCE Data 
+Structure, a MATLAB specification for storing tabular data along with all information required to interpret 
+the data and generate formatted metadata (documentation). Metadata fields in the structure are queried 
+by toolbox functions for all operations, allowing functions to process and format values appropriately 
+based on the type of information they represent. This semantic processing approach supports highly 
+automated and intelligent data analysis and ensures data set validity throughout all processing steps.</para>
+</abstract>
+<implementation>
+<distribution>
+<online>
+<url function="information">https://gce-lter.marsci.uga.edu/public/im/tools/toolbox_download.htm</url>
+</online>
+</distribution>
+<operatingSystem>Linux</operatingSystem>
+<operatingSystem>Microsoft Windows</operatingSystem>
+<operatingSystem>Sun Solaris</operatingSystem>
+<operatingSystem>Apple Macintosh OS/X</operatingSystem>
+<programmingLanguage>MATLAB</programmingLanguage>
+</implementation>
+<version>3.x</version></software>
+<subStep>
+<description>
+<para>12/09/2019: new GCE Data Structure 1.1 created ("newstruct")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: 240 rows imported from ASCII data file "geographic.txt" ("imp_ascii")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: 83 metadata fields in file header parsed ("parse_header")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: data structure validated ("gce_valid")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Q/C flagging criteria applied, "flags" field updated ("dataflag")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: automatically assigned study date metadata descriptors based on the range of date values in date/time columns (add_studydates)</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: manually edited data set metadata ("ui_editmetadata")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Data Type of column Number_of_shoots_per_square_meter changed from "f" to "d";Variable Type of column Number_of_shoots_per_square_meter changed from "data" to "calculation";Numeric Type of column Number_of_shoots_per_square_meter changed from "continuous" to "discrete ("ui_editor")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: updated 4 metadata fields ("addmeta")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: updated 15 metadata fields in the Status, Data sections to reflect attribute metadata ("updatecols")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: parsed and formatted metadata ("listmeta")</para>
+</description>
+</subStep>
+</methodStep>
+<qualityControl>
+<description>
+<para>Data Anomalies: Empty cells indicate no data</para>
+</description>
+</qualityControl>
+</methods>
+<attributeList>
+<attribute id="BOT-GCED-1912_Geographic.1">
+<attributeName>Year</attributeName>
+<attributeDefinition>Year the site was sampled</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>nominalYear</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.2">
+<attributeName>Month</attributeName>
+<attributeDefinition>Month the site was sampled</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<customUnit>nominalMonth</customUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+<bounds>
+<minimum exclusive="false">1</minimum>
+<maximum exclusive="false">12</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.3">
+<attributeName>Day</attributeName>
+<attributeDefinition>Day the site was sampled</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>nominalDay</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+<bounds>
+<minimum exclusive="false">1</minimum>
+<maximum exclusive="false">31</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.4">
+<attributeName>Range</attributeName>
+<attributeDefinition>Name of range</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of range</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.5">
+<attributeName>Source_type</attributeName>
+<attributeDefinition>Name of source type</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of source type</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.6">
+<attributeName>Location</attributeName>
+<attributeDefinition>Name of site</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of site</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.7">
+<attributeName>Latitude</attributeName>
+<attributeDefinition>Degrees latitude north</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>degree</standardUnit>
+</unit>
+<precision>0.01</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+<maximum exclusive="false">90</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.8">
+<attributeName>Longitude</attributeName>
+<attributeDefinition>Degrees longitude east (+) / west (-)</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>degree</standardUnit>
+</unit>
+<precision>0.01</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">-180</minimum>
+<maximum exclusive="false">180</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.9">
+<attributeName>Plot_number</attributeName>
+<attributeDefinition>Quadrat number within location</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<ordinal>
+<nonNumericDomain>
+<textDomain>
+<definition>Quadrat number within location</definition>
+</textDomain>
+</nonNumericDomain>
+</ordinal>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.10">
+<attributeName>Subsite_number</attributeName>
+<attributeDefinition>Subsite number within location</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<ordinal>
+<nonNumericDomain>
+<textDomain>
+<definition>Subsite number within location</definition>
+</textDomain>
+</nonNumericDomain>
+</ordinal>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.11">
+<attributeName>Subsite_family</attributeName>
+<attributeDefinition>Name of subsite</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of subsite</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.12">
+<attributeName>Plant_height</attributeName>
+<attributeDefinition>Average height of the three talles shoots (if less than three shoots, average of two tallest or single shoot)</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<ratio>
+<unit>
+<standardUnit>centimeter</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+</bounds>
+</numericDomain>
+</ratio>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.13">
+<attributeName>Number_of_shoots_per_square_meter</attributeName>
+<attributeDefinition>Number of shoots per square meter</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>number</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Geographic.14">
+<attributeName>Seed_set</attributeName>
+<attributeDefinition>Percent seed set</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<ratio>
+<unit>
+<customUnit>percent</customUnit>
+</unit>
+<precision>0.01</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+</bounds>
+</numericDomain>
+</ratio>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+<methods>
+<methodStep>
+<description>
+<para>Calculations: (filled_seeds/total_seeds)*100</para>
+</description>
+</methodStep>
+</methods>
+</attribute>
+</attributeList>
+<numberOfRecords>240</numberOfRecords>
+</dataTable>
+<dataTable>
+<entityName>BOT-GCED-1912_Greenhouse</entityName>
+<entityDescription>Data table for the commmon garden experiment</entityDescription>
+<physical>
+<objectName>BOT-GCED-1912_Greenhouse_1_0.CSV</objectName>
+<size unit="kilobyte">58.88</size>
+<characterEncoding>ASCII</characterEncoding>
+<dataFormat>
+<textFormat>
+<numHeaderLines>5</numHeaderLines>
+<numFooterLines>0</numFooterLines>
+<recordDelimiter>\r\n</recordDelimiter>
+<numPhysicalLinesPerRecord>1</numPhysicalLinesPerRecord>
+<attributeOrientation>column</attributeOrientation>
+<simpleDelimited>
+<fieldDelimiter>,</fieldDelimiter>
+<quoteCharacter>"</quoteCharacter>
+</simpleDelimited>
+</textFormat>
+</dataFormat>
+<distribution>
+<online>
+<onlineDescription>Spreadsheet comma-separated value (CSV) text file with a five line header containing the data set title, column titles, units and column types</onlineDescription>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=BOT-GCED-1912&amp;filename=BOT-GCED-1912_Greenhouse_1_0.CSV</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<physical>
+<objectName>BOT-GCED-1912_Greenhouse_1_0.TXT</objectName>
+<size unit="kilobyte">52.07</size>
+<characterEncoding>ASCII</characterEncoding>
+<dataFormat>
+<textFormat>
+<numHeaderLines>1</numHeaderLines>
+<numFooterLines>0</numFooterLines>
+<recordDelimiter>\r\n</recordDelimiter>
+<numPhysicalLinesPerRecord>1</numPhysicalLinesPerRecord>
+<attributeOrientation>column</attributeOrientation>
+<simpleDelimited>
+<fieldDelimiter>\t</fieldDelimiter>
+</simpleDelimited>
+</textFormat>
+</dataFormat>
+<distribution>
+<online>
+<onlineDescription>Tab-delimited ASCII data file with a one line header listing column titles</onlineDescription>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=BOT-GCED-1912&amp;filename=BOT-GCED-1912_Greenhouse_1_0.TXT</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<physical>
+<objectName>BOT-GCED-1912_Greenhouse_1_0_VARS.MAT</objectName>
+<size unit="kilobyte">30.58</size>
+<dataFormat>
+<externallyDefinedFormat>
+<formatName>application/matlab-mat</formatName>
+</externallyDefinedFormat>
+</dataFormat>
+<distribution>
+<online>
+<onlineDescription>MATLAB binary data file containing individual arrays for each data set column and formatted metadata as a character array</onlineDescription>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=BOT-GCED-1912&amp;filename=BOT-GCED-1912_Greenhouse_1_0_VARS.MAT</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<methods>
+<methodStep>
+<description><para>Data file post-processing in the GCE-LTER Information Management Office</para></description>
+<software><title>GCE Data Toolbox for MATLAB(r)</title>
+<creator>
+<individualName>
+<salutation>Mr.</salutation>
+<givenName>Wade</givenName>
+<givenName>M.</givenName>
+<surName>Sheldon</surName>
+</individualName>
+<address>
+<deliveryPoint>Dept. of Marine Sciences</deliveryPoint>
+<deliveryPoint>University of Georgia</deliveryPoint>
+<city>Athens</city>
+<administrativeArea>Georgia</administrativeArea>
+<postalCode>30602-3636</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>sheldon@uga.edu</electronicMailAddress>
+<onlineUrl>https://gce-lter.marsci.uga.edu/public/app/personnel_bios.asp?id=wsheldon</onlineUrl>
+</creator>
+<associatedParty>
+<organizationName>Georgia Coastal Ecosystems LTER Project</organizationName>
+<address>
+<deliveryPoint>Dept. of Marine Sciences</deliveryPoint>
+<deliveryPoint>University of Georgia</deliveryPoint>
+<city>Athens</city>
+<administrativeArea>Georgia</administrativeArea>
+<postalCode>30602-3636</postalCode>
+<country>USA</country>
+</address>
+<electronicMailAddress>gcelter@uga.edu</electronicMailAddress>
+<role>sponsoring research program</role>
+</associatedParty>
+<abstract>
+<para>The GCE Data Toolbox is a comprehensive library of functions for metadata-based analysis
+quality control, transformation and management of ecological data sets. The toolbox is based on the GCE Data 
+Structure, a MATLAB specification for storing tabular data along with all information required to interpret 
+the data and generate formatted metadata (documentation). Metadata fields in the structure are queried 
+by toolbox functions for all operations, allowing functions to process and format values appropriately 
+based on the type of information they represent. This semantic processing approach supports highly 
+automated and intelligent data analysis and ensures data set validity throughout all processing steps.</para>
+</abstract>
+<implementation>
+<distribution>
+<online>
+<url function="information">https://gce-lter.marsci.uga.edu/public/im/tools/toolbox_download.htm</url>
+</online>
+</distribution>
+<operatingSystem>Linux</operatingSystem>
+<operatingSystem>Microsoft Windows</operatingSystem>
+<operatingSystem>Sun Solaris</operatingSystem>
+<operatingSystem>Apple Macintosh OS/X</operatingSystem>
+<programmingLanguage>MATLAB</programmingLanguage>
+</implementation>
+<version>3.x</version></software>
+<subStep>
+<description>
+<para>12/09/2019: new GCE Data Structure 1.1 created ("newstruct")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: 720 rows imported from ASCII data file "garden.txt" ("imp_ascii")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: 13 metadata fields in file header parsed ("parse_header")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: data structure validated ("gce_valid")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Q/C flagging criteria applied, "flags" field updated ("dataflag")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: automatically assigned study date metadata descriptors based on the range of date values in date/time columns (add_studydates)</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: manually edited data set metadata ("ui_editmetadata")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Units of column Year changed from "none" to "YYYY"; Units of column Month changed from "none" to "M"; Units of column Day changed from "none" to "D"; Units of column Latitude changed from "degrees  " to "degrees"; Units of column Longitude changed from "degrees  " to "degrees";Q/C Criteria of column Day changed from "x&lt;1="I";x&gt;31="I";x&lt;3="Q";x&gt;11="Q"" to "x&lt;1="I";x&gt;31="I";x&lt;3="Q";x&gt;30="Q""; Q/C Criteria of column Latitude changed from "x&lt;0="I";x&gt;90="I";x&lt;20="Q";x&gt;43="Q"" to "x&lt;0="I";x&gt;90="I";x&lt;20="Q";x&gt;44="Q" ("ui_editor")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Q/C flagging criteria applied for column(s) Day and Latitude, "flags" field updated ("dataflag")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: updated 1 metadata fields in the Dataset sections ("addmeta")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: imported Dataset, Project, Site, Study, Status, Supplement metadata descriptors from the GCE Metabase ("imp_gcemetadata")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: updated 49 metadata fields in the Dataset, Project, Site, Status, Study, Supplement sections ("addmeta")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Precision of column Latitude changed from 1 to 2; Precision of column Longitude changed from 1 to  ("ui_editor")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: Name of column Name of source type changed to Source_type;Data Type of column Number_of_shoots_per_square_meter changed from "f" to "d";Variable Type of column Number_of_shoots_per_square_meter changed from "data" to "calculation";Numeric Type of column Number_of_shoots_per_square_meter changed from "continuous" to "discrete ("ui_editor")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: updated 4 metadata fields ("addmeta")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: updated 15 metadata fields in the Status, Data sections to reflect attribute metadata ("updatecols")</para>
+</description>
+</subStep>
+<subStep>
+<description>
+<para>12/09/2019: parsed and formatted metadata ("listmeta")</para>
+</description>
+</subStep>
+</methodStep>
+</methods>
+<attributeList>
+<attribute id="BOT-GCED-1912_Greenhouse.1">
+<attributeName>Year</attributeName>
+<attributeDefinition>Year the site was sampled</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>nominalYear</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.2">
+<attributeName>Month</attributeName>
+<attributeDefinition>Month the site was sampled</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<customUnit>nominalMonth</customUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+<bounds>
+<minimum exclusive="false">1</minimum>
+<maximum exclusive="false">12</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.3">
+<attributeName>Day</attributeName>
+<attributeDefinition>Day the site was sampled</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>nominalDay</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+<bounds>
+<minimum exclusive="false">1</minimum>
+<maximum exclusive="false">31</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.4">
+<attributeName>Range</attributeName>
+<attributeDefinition>Name of range</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of range</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.5">
+<attributeName>Source_type</attributeName>
+<attributeDefinition>Name of source type</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of source type</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.6">
+<attributeName>Location</attributeName>
+<attributeDefinition>Name of site</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of site</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.7">
+<attributeName>Latitude</attributeName>
+<attributeDefinition>Degrees latitude north</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>degree</standardUnit>
+</unit>
+<precision>0.01</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+<maximum exclusive="false">90</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.8">
+<attributeName>Longitude</attributeName>
+<attributeDefinition>Degrees longitude east (+) / west (-)</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>degree</standardUnit>
+</unit>
+<precision>0.01</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">-180</minimum>
+<maximum exclusive="false">180</maximum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.9">
+<attributeName>Plot_number</attributeName>
+<attributeDefinition>Quadrat number within location</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<ordinal>
+<nonNumericDomain>
+<textDomain>
+<definition>Quadrat number within location</definition>
+</textDomain>
+</nonNumericDomain>
+</ordinal>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.10">
+<attributeName>Subsite_number</attributeName>
+<attributeDefinition>Subsite number within location</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<ordinal>
+<nonNumericDomain>
+<textDomain>
+<definition>Subsite number within location</definition>
+</textDomain>
+</nonNumericDomain>
+</ordinal>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.11">
+<attributeName>Subsite_family</attributeName>
+<attributeDefinition>Name of subsite</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of subsite</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.12">
+<attributeName>Block_design</attributeName>
+<attributeDefinition>Name of block</attributeDefinition>
+<storageType>string</storageType>
+<measurementScale>
+<nominal>
+<nonNumericDomain>
+<textDomain>
+<definition>Name of block</definition>
+</textDomain>
+</nonNumericDomain>
+</nominal>
+</measurementScale>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.13">
+<attributeName>Plant_height</attributeName>
+<attributeDefinition>Height of shoot</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<ratio>
+<unit>
+<standardUnit>centimeter</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+</bounds>
+</numericDomain>
+</ratio>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.14">
+<attributeName>Number_of_shoots_per_square_meter</attributeName>
+<attributeDefinition>Number of shoots per square meter</attributeDefinition>
+<storageType>integer</storageType>
+<measurementScale>
+<interval>
+<unit>
+<standardUnit>number</standardUnit>
+</unit>
+<precision>1</precision>
+<numericDomain>
+<numberType>whole</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+</bounds>
+</numericDomain>
+</interval>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+</attribute>
+<attribute id="BOT-GCED-1912_Greenhouse.15">
+<attributeName>Seed_set</attributeName>
+<attributeDefinition>Percent seed set</attributeDefinition>
+<storageType>float</storageType>
+<measurementScale>
+<ratio>
+<unit>
+<customUnit>percent</customUnit>
+</unit>
+<precision>0.01</precision>
+<numericDomain>
+<numberType>real</numberType>
+<bounds>
+<minimum exclusive="false">0</minimum>
+</bounds>
+</numericDomain>
+</ratio>
+</measurementScale>
+<missingValueCode>
+<code>NaN</code>
+<codeExplanation>value not recorded or censored based on quality control analysis (see methods)</codeExplanation>
+</missingValueCode>
+<methods>
+<methodStep>
+<description>
+<para>Calculations: (filled_seeds/total_seeds)*100</para>
+</description>
+</methodStep>
+</methods>
+</attribute>
+</attributeList>
+<numberOfRecords>720</numberOfRecords>
+</dataTable>
+<otherEntity id="BOT-GCED-1912.kml">
+<entityName>BOT-GCED-1912.kml</entityName>
+<entityDescription>Google Earth Keyhole Markup Language file describing the geographic locations sampled in data set BOT-GCED-1912.1.0</entityDescription>
+<physical>
+<objectName>BOT-GCED-1912.kml</objectName>
+<dataFormat>
+<externallyDefinedFormat>
+<formatName>application/vnd.google-earth.kml+xml</formatName>
+</externallyDefinedFormat>
+</dataFormat>
+<distribution>
+<online>
+<url function="download">https://gce-lter.marsci.uga.edu/public/app/send_kml.asp?filename=BOT-GCED-1912.kml&amp;uri=http%3A%2F%2Fgce-lter.marsci.uga.edu%2Fgce_metabase%2Fxml%2Fdataset_geography.kml%3FAccession%3DBOT-GCED-1912</url>
+</online>
+<access authSystem="gce-lter" order="allowFirst" scope="document">
+<allow>
+<principal>gce-user</principal>
+<permission>read</permission>
+</allow>
+<allow>
+<principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+</distribution>
+</physical>
+<entityType>KML</entityType>
+</otherEntity>
+</dataset>
+<additionalMetadata>
+<metadata>
+<stmml:unitList xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" xsi:schemaLocation="http://www.xml-cml.org/schema/stmml-1.2 https://gce-lter.marsci.uga.edu/public/files/schemas/eml-220/stmml.xsd">
+<!--note that the unitTypes here are taken from the eml-unitDictionary.xml--><stmml:unit id="nominalMonth" name="nominalMonth">
+<stmml:description>one month including a variable number of seconds</stmml:description>
+</stmml:unit>
+<stmml:unit id="percent" name="percent" unitType="dimensionless" abbreviation="%" multiplierToSI="1">
+<stmml:description>ratio of two quantities as percent composition (1:100)</stmml:description>
+</stmml:unit>
+</stmml:unitList>
+</metadata>
+</additionalMetadata>
+</eml:eml>

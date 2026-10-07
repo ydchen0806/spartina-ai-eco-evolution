@@ -1,0 +1,45 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "DOI:10.1002/ecy.1815",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "28316076",
+        "source": "MED",
+        "pmid": "28316076",
+        "doi": "10.1002/ecy.1815",
+        "title": "Provenance-by-environment interaction of reproductive traits in the invasion of Spartina alterniflora in China.",
+        "authorString": "Liu W, Strong DR, Pennings SC, Zhang Y.",
+        "journalTitle": "Ecology",
+        "issue": "6",
+        "journalVolume": "98",
+        "pubYear": "2017",
+        "journalIssn": "1939-9170",
+        "pageInfo": "1591-1599",
+        "pubType": "journal article",
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 28,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstPublicationDate": "2017-05-15",
+        "firstIndexDate": "2017-03-20"
+      }
+    ]
+  }
+}

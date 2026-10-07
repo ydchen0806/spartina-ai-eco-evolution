@@ -1,0 +1,788 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2026-10-05T20:34:41Z",
+    "timestamp": 1791232481688,
+    "version": "4.1.0"
+  },
+  "reference-count": 75,
+  "publisher": "Wiley",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            23
+          ]
+        ],
+        "date-time": "2021-03-23T00:00:00Z",
+        "timestamp": 1616457600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100002858",
+      "name": "China Postdoctoral Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2019M662239"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2019M662239"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002858",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002858",
+      "name": "China Postdoctoral Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2020T130363"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2020T130363"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002858",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "31770464"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "31770464"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "32001234"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "32001234"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "32025026"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "32025026"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "esajournals.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Ecology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        5
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Patterns of flowering phenology can affect the success of plant invasions, especially when introduced species spread across a wide range of latitude into different climatic conditions. We combined a 4\u2010yr field survey and a 3\u2010yr common garden experiment with the invasive grass<jats:italic>Spartina alterniflora</jats:italic>that is now widespread along the coast of China to document the latitudinal pattern of flowering phenology, determine if phenology was related to climate or oceanographic variables, and determine whether phenology patterns were fixed versus plastic. In the field, first flowering day displayed a hump\u2010shaped relationship with latitude, with low\u2010 and high\u2010latitude plants flowering 100\u00a0d and 10\u00a0d earlier than plants at middle latitudes, respectively. Peak flowering day showed a similar hump\u2010shaped relationship with latitude, with the interval between first and peak flowering day decreasing with increasing latitude. First flowering day had a hump\u2010shaped relationship with annual growing degree days but a linear positive relationship with tidal range. In the common garden, first flowering day decreased linearly with increasing latitude of origin, as did peak flowering day, and the interval between first and peak flowering day increased with increasing latitude. First flowering day in the common garden had weak or no relationships with abiotic variables at the sites of origin. In both the field and common garden, first flowering day was later in site years for which plants were taller. These results indicate a high degree of plasticity in flowering phenology, with plants flowering later in the field at sites with intermediate temperatures and high tide ranges. Common garden results indicate some selection for earlier flowering at sites with low temperatures, consistent with a shorter growing season. Consistent with life\u2010history theory, plants flowered later under conditions favoring vigorous growth. Earlier flowering and smaller size of plants at high and low latitudes suggests that<jats:italic>S. alterniflora</jats:italic>has already occupied much of the geographic range favorable for it on the East Coast of Asia.</jats:p>",
+  "DOI": "10.1002/ecy.3311",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        15
+      ]
+    ],
+    "date-time": "2021-02-15T04:26:07Z",
+    "timestamp": 1613363167000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 21,
+  "title": [
+    "Plasticity and selection drive hump\u2010shaped latitudinal patterns of flowering phenology in an invasive intertidal plant"
+  ],
+  "prefix": "10.1002",
+  "volume": "102",
+  "author": [
+    {
+      "given": "Xincong",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian 361102 China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wenwen",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian 361102 China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4757-7125",
+      "authenticated-orcid": false,
+      "given": "Steven C.",
+      "family": "Pennings",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biology and Biochemistry University of Houston Houston Texas 77204 USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8710-2151",
+      "authenticated-orcid": false,
+      "given": "Yihui",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian 361102 China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_6_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ecy.2924"
+    },
+    {
+      "key": "e_1_2_6_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2011.01951.x"
+    },
+    {
+      "key": "e_1_2_6_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-3180.2007.00559.x"
+    },
+    {
+      "key": "e_1_2_6_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.2012.1051"
+    },
+    {
+      "key": "e_1_2_6_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1472-4642.2007.00414.x"
+    },
+    {
+      "key": "e_1_2_6_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1420-9101.1994.7050549.x"
+    },
+    {
+      "key": "e_1_2_6_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2011.02405.x"
+    },
+    {
+      "key": "e_1_2_6_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.1400014"
+    },
+    {
+      "key": "e_1_2_6_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1242121"
+    },
+    {
+      "key": "e_1_2_6_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1752-4571.2008.00053.x"
+    },
+    {
+      "key": "e_1_2_6_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/jxb/erp196"
+    },
+    {
+      "key": "e_1_2_6_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.1400534"
+    },
+    {
+      "key": "e_1_2_6_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2011.01596.x"
+    },
+    {
+      "key": "e_1_2_6_15_1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/oso/9780199218752.001.0001",
+      "volume-title": "Invasion biology",
+      "author": "Davis M. A",
+      "year": "2009"
+    },
+    {
+      "key": "e_1_2_6_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00484-014-0789-5"
+    },
+    {
+      "key": "e_1_2_6_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.13183"
+    },
+    {
+      "key": "e_1_2_6_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/650373"
+    },
+    {
+      "key": "e_1_2_6_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1078/1433-8319-00053"
+    },
+    {
+      "key": "e_1_2_6_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature11056"
+    },
+    {
+      "key": "e_1_2_6_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00344767"
+    },
+    {
+      "key": "e_1_2_6_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/591683"
+    },
+    {
+      "key": "e_1_2_6_23_1",
+      "first-page": "1",
+      "article-title": "Trait evolution in invasive species",
+      "volume": "1",
+      "author": "Hodgins K. A.",
+      "year": "2018",
+      "journal-title": "Annual Plant Reviews Online"
+    },
+    {
+      "key": "e_1_2_6_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/114608a0"
+    },
+    {
+      "key": "e_1_2_6_25_1",
+      "unstructured": "SAS Institute.2012.JMP Statistical Software Package. Version 10.0. SAS Institute Cary North Carolina USA."
+    },
+    {
+      "key": "e_1_2_6_26_1",
+      "first-page": "111",
+      "article-title": "A research review for establishing effective management practices of the highly invasive cordgrass (Spartina spp.). Weed and Turfgrass",
+      "volume": "5",
+      "author": "Kim J. S.",
+      "year": "2016",
+      "journal-title": "Science"
+    },
+    {
+      "key": "e_1_2_6_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2008.01834.x"
+    },
+    {
+      "key": "e_1_2_6_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s004420050519"
+    },
+    {
+      "key": "e_1_2_6_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-016-3666-6"
+    },
+    {
+      "key": "e_1_2_6_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-014-3127-z"
+    },
+    {
+      "key": "e_1_2_6_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0309133316656558"
+    },
+    {
+      "key": "e_1_2_6_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/lno.11395"
+    },
+    {
+      "key": "e_1_2_6_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12487"
+    },
+    {
+      "key": "e_1_2_6_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2435.13384"
+    },
+    {
+      "key": "e_1_2_6_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ecy.1815"
+    },
+    {
+      "key": "e_1_2_6_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/nph.16371"
+    },
+    {
+      "key": "e_1_2_6_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/0-306-47534-0_5"
+    },
+    {
+      "key": "e_1_2_6_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1466-822X.2006.00247.x"
+    },
+    {
+      "key": "e_1_2_6_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1420-9101.2007.01456.x"
+    },
+    {
+      "key": "e_1_2_6_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2011.01601.x"
+    },
+    {
+      "key": "e_1_2_6_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/130260"
+    },
+    {
+      "key": "e_1_2_6_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-294x.1999.00752.x"
+    },
+    {
+      "key": "e_1_2_6_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/jeb.12047"
+    },
+    {
+      "key": "e_1_2_6_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10021-019-00418-1"
+    },
+    {
+      "key": "e_1_2_6_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.rse.2017.11.009"
+    },
+    {
+      "key": "e_1_2_6_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2011.02515.x"
+    },
+    {
+      "key": "e_1_2_6_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/lno.10962"
+    },
+    {
+      "key": "e_1_2_6_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tplants.2008.03.004"
+    },
+    {
+      "key": "e_1_2_6_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/mec.15192"
+    },
+    {
+      "key": "e_1_2_6_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.2018.1072"
+    },
+    {
+      "key": "e_1_2_6_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.13401"
+    },
+    {
+      "key": "e_1_2_6_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/aps3.1228"
+    },
+    {
+      "key": "e_1_2_6_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.aquabot.2018.11.003"
+    },
+    {
+      "key": "e_1_2_6_54_1",
+      "volume-title": "Distribution of Spartina alterniflora in Padilla Bay, Washington, in 1991",
+      "author": "Riggs S. R.",
+      "year": "1992"
+    },
+    {
+      "key": "e_1_2_6_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.tree.2014.02.003"
+    },
+    {
+      "key": "e_1_2_6_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-94-007-6925-0"
+    },
+    {
+      "key": "e_1_2_6_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/j.1537-2197.1974.tb14034.x"
+    },
+    {
+      "key": "e_1_2_6_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev.ecolsys.110308.120304"
+    },
+    {
+      "key": "e_1_2_6_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/j.1537-2197.1981.tb06349.x"
+    },
+    {
+      "key": "e_1_2_6_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-ecolsys-110512-135803"
+    },
+    {
+      "key": "e_1_2_6_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/jxb/eri254"
+    },
+    {
+      "key": "e_1_2_6_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-ecolsys-110617-062654"
+    },
+    {
+      "key": "e_1_2_6_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2009.01418.x"
+    },
+    {
+      "key": "e_1_2_6_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2011.01628.x"
+    },
+    {
+      "key": "e_1_2_6_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0027127"
+    },
+    {
+      "key": "e_1_2_6_66_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1078/1433-8319-00083"
+    },
+    {
+      "key": "e_1_2_6_67_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10021-013-9732-6"
+    },
+    {
+      "key": "e_1_2_6_68_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rstb.2010.0128"
+    },
+    {
+      "key": "e_1_2_6_69_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/100033"
+    },
+    {
+      "key": "e_1_2_6_70_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/aobpla/plu013"
+    },
+    {
+      "key": "e_1_2_6_71_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/nph.12599"
+    },
+    {
+      "key": "e_1_2_6_72_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/11-1446.1"
+    },
+    {
+      "key": "e_1_2_6_73_1",
+      "first-page": "212",
+      "article-title": "Preliminary studies of introduced Spartina alterniflora Loisel in China. [In Chinese with English abstract.]",
+      "volume": "40",
+      "author": "Xu G.",
+      "year": "1985",
+      "journal-title": "Journal of Nanjing University (Natural Science)"
+    },
+    {
+      "key": "e_1_2_6_74_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13157-017-0950-0"
+    },
+    {
+      "key": "e_1_2_6_75_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/11-1302.1"
+    },
+    {
+      "key": "e_1_2_6_76_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3724/SP.J.1003.2008.08108"
+    }
+  ],
+  "container-title": [
+    "Ecology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.3311",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/ecy.3311",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.3311",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        24
+      ]
+    ],
+    "date-time": "2024-08-24T06:38:16Z",
+    "timestamp": 1724481496000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3311"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        23
+      ]
+    ]
+  },
+  "references-count": 75,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/ecy.3311"
+  ],
+  "URL": "https://doi.org/10.1002/ecy.3311",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0012-9658",
+    "1939-9170"
+  ],
+  "issn-type": [
+    {
+      "value": "0012-9658",
+      "type": "print"
+    },
+    {
+      "value": "1939-9170",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2020-02-14",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-12-06",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2021-03-23",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e03311"
+}

@@ -1,0 +1,3457 @@
+{
+  "data": [
+    {
+      "id": "10.6073/pasta/e5e854be6597aa4335a2058ffece7fe8",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/e5e854be6597aa4335a2058ffece7fe8",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/27/30",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Plant allometry at GCE sampling sites 1-10 in October, 2002"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2014,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2014",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1016/j.aquabot.2024.103821",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The relationship between height and mass (allometry) was measured for plants collected from Georgia Coastal Ecosystems sampling sites 1-10 in October 2002. Shoots or leaves (Juncus) were collected adjacent to permanent plots in each marsh zone by clipping at the soil surface. Dead leaves were removed from shoots. Height, flowering status (Spartina species only), number of leaves (Spartina species and Zizaniopsis), and dry mass were measured for each plant. The allometric relationships determined in this study will allow annual GCE plant monitoring data to be converted from height to mass. This study may be repeated in the future to examine temporal trends in relation to environmental changes.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.27.30",
+        "contentUrl": null,
+        "metadataVersion": 7,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 5,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2014-06-23T15:29:25Z",
+        "registered": "2014-06-23T15:29:27Z",
+        "published": null,
+        "updated": "2025-01-02T22:32:30Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/a6269f79b2ca601f77c865ac2ef5d86c",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/a6269f79b2ca601f77c865ac2ef5d86c",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/577/11",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2015 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2015 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). New plots were added each year as necessary to replace those lost due to catastrophic wrack disturbance or creek bank erosion, and the creek bank plots at site 3 were relocated in 2013 due to a shift in the creek location. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set, and an additional set of observations were recorded for the creek bank zone at site 3 prior to relocation (identified as Zone -1) for comparison with the relocated plots. Detailed disturbance data can be found in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.577.11",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T18:02:17Z",
+        "registered": "2021-05-03T18:02:19Z",
+        "published": null,
+        "updated": "2024-11-06T18:45:42Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/4f0c0cb6f27ae791769705e111306b12",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/4f0c0cb6f27ae791769705e111306b12",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/472/9",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2014 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2014 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). New plots were added each year as necessary to replace those lost due to catastrophic wrack disturbance or creek bank erosion, and the creek bank plots at site 3 were relocated in 2013 due to a shift in the creek location. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set, and an additional set of observations were recorded for the creek bank zone at site 3 prior to relocation (identified as Zone -1) for comparison with the relocated plots. Detailed disturbance data can be found in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.472.9",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:58:24Z",
+        "registered": "2021-05-03T17:58:26Z",
+        "published": null,
+        "updated": "2024-11-06T18:45:31Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/57891bcd993c3343ddf1c72772510c7c",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/57891bcd993c3343ddf1c72772510c7c",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/456/11",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2013 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2013 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003, 2004, 2009, 2010 and 2012 to replace those lost due to catastrophic wrack disturbance or creek bank erosion, and the creek bank plots at site 3 were relocated in 2013 due to a shift in the creek location. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set, and an additional set of observations were recorded for the creek bank zone at site 3 prior to relocation (identified as Zone -1) for comparison with the relocated plots. Detailed disturbance data can be found in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.456.11",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:56:51Z",
+        "registered": "2021-05-03T17:56:53Z",
+        "published": null,
+        "updated": "2024-11-06T18:45:16Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/d6ab31e17f7579c8d1134afce1820cb4",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/d6ab31e17f7579c8d1134afce1820cb4",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/454/14",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2012 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2012 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003, 2004, 2009, 2010 and 2012 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set with additional details recorded in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.454.14",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:55:17Z",
+        "registered": "2021-05-03T17:55:18Z",
+        "published": null,
+        "updated": "2024-11-06T18:45:08Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/9469e845b70bfbaaf3869de7d704824b",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/9469e845b70bfbaaf3869de7d704824b",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/336/30",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2011 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2011 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003, 2004, 2009 and 2010 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set with additional details recorded in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.336.30",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:52:57Z",
+        "registered": "2021-05-03T17:52:59Z",
+        "published": null,
+        "updated": "2024-11-06T18:44:59Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/90373f59d9f5163fef72f9cccffb7688",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/90373f59d9f5163fef72f9cccffb7688",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/327/21",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Soil salinity and organic content at GCE-LTER vegetation monitoring plots in October 2009"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Soil samples were collected in conjunction with Fall 2009 plant monitoring at half of the permanent vegetation monitoring plots in the creekbank and midmarsh zones at 10 GCE study sites. Pore-water salinity was determined by analysis of supernatant salinity in dried soil samples hydrated with a measured volume of deionized water. Organic content was measured gravimetrically by comparing ash-free dry weight and total weight of soil samples.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.327.21",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-03-20T22:54:22Z",
+        "registered": "2015-03-20T22:54:23Z",
+        "published": null,
+        "updated": "2024-11-06T18:44:48Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/ac00482f823d2a060e1ecc0fce1b8aca",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/ac00482f823d2a060e1ecc0fce1b8aca",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/325/27",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2010 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2010 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003, 2004, 2009 and 2010 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set with additional details recorded in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.325.27",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:51:24Z",
+        "registered": "2021-05-03T17:51:26Z",
+        "published": null,
+        "updated": "2024-11-06T18:44:29Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/bc399eb53c1695cf3ce42608017a65c2",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/bc399eb53c1695cf3ce42608017a65c2",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/319/26",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2009 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2009 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003 and 2004 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set with additional details recorded in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.319.26",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:49:51Z",
+        "registered": "2021-05-03T17:49:52Z",
+        "published": null,
+        "updated": "2024-11-06T18:44:16Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/bc3cad2310fcde5367dd321f25adae45",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/bc3cad2310fcde5367dd321f25adae45",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/312/29",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2008 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2008 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003 and 2004 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set with additional disturbance details recorded in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.312.29",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:48:17Z",
+        "registered": "2021-05-03T17:48:18Z",
+        "published": null,
+        "updated": "2024-11-06T18:44:04Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/af2e227c108e8f255f353980e9f7a112",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/af2e227c108e8f255f353980e9f7a112",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/303/29",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0003-4757-7125"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2007 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2021,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2021",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2007 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003 and 2004 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set with additional details recorded in GCE data set PLT-GCEM-1801. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.303.29",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2021-05-03T17:46:44Z",
+        "registered": "2021-05-03T17:46:45Z",
+        "published": null,
+        "updated": "2024-11-06T18:43:53Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/c2cdce07ebfea87b3a8d61a38f904cf4",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/c2cdce07ebfea87b3a8d61a38f904cf4",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/280/24",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2006 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2006 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003 and 2004 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.280.24",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:56:31Z",
+        "registered": "2015-02-06T20:56:32Z",
+        "published": null,
+        "updated": "2024-11-06T18:43:40Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/cbfe8e72966ab54d130eb129aae63f19",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/cbfe8e72966ab54d130eb129aae63f19",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/266/23",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2005 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2005 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003 and 2004 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.266.23",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:54:58Z",
+        "registered": "2015-02-06T20:54:59Z",
+        "published": null,
+        "updated": "2024-11-06T18:43:32Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/525a5caa4605265a1501d0e3b4328e78",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/525a5caa4605265a1501d0e3b4328e78",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/230/24",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2004 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2004 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002, 2003 and 2004 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.230.24",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:53:23Z",
+        "registered": "2015-02-06T20:53:24Z",
+        "published": null,
+        "updated": "2024-11-06T18:43:17Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/513ca8b52f80be7532e0ed76b8b1f68d",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/513ca8b52f80be7532e0ed76b8b1f68d",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/178/25",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2003 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2003 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001, 2002 and 2003 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.178.25",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:51:50Z",
+        "registered": "2015-02-06T20:51:51Z",
+        "published": null,
+        "updated": "2024-11-06T18:43:04Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/afc3da441ad419b3fd78b094118e44d9",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/afc3da441ad419b3fd78b094118e44d9",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/26/24",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2002 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2002 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2002 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.26.24",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:48:43Z",
+        "registered": "2015-02-06T20:48:44Z",
+        "published": null,
+        "updated": "2024-11-06T18:42:27Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/36be548028b40b2a979d31a076fba007",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/36be548028b40b2a979d31a076fba007",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/8/26",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2001 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2001 to measure the species and size distribution of plants at 10 GCE LTER sampling sites. The quadrats were established as permanent plots at GCE sampling sites in October 2000 by placing wooden stakes at random locations across two nominal zones at each site, designated based on marsh structure (creekbank and high marsh). Several new plots were also added in October 2001 to replace those lost due to catastrophic wrack disturbance or creek bank erosion. The plots were visually surveyed and the species, shoot height, and flowering status was recorded individually for each shoot over 10 cm in height present in each plot. Observations from plots exhibiting signs of disturbance were noted in the data set. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.8.26",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 3,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:47:55Z",
+        "registered": "2015-02-06T20:47:57Z",
+        "published": null,
+        "updated": "2024-11-06T18:42:14Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/beafc321d556c6a408013f200a5334f4",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/beafc321d556c6a408013f200a5334f4",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/281/35",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2006 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2006 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0612a, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.281.35",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:57:18Z",
+        "registered": "2015-02-06T20:57:19Z",
+        "published": null,
+        "updated": "2024-10-31T18:46:05Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/1a781e75d57b0f999090c42032b3a52d",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/1a781e75d57b0f999090c42032b3a52d",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/267/34",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2005 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2005 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0511a, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.267.34",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:55:45Z",
+        "registered": "2015-02-06T20:55:46Z",
+        "published": null,
+        "updated": "2024-10-31T18:45:47Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/674fec2640e4ff3ad5f96a3303f7f0c3",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/674fec2640e4ff3ad5f96a3303f7f0c3",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/231/34",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2004 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2004 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0501a, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.231.34",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:54:10Z",
+        "registered": "2015-02-06T20:54:11Z",
+        "published": null,
+        "updated": "2024-10-31T18:45:29Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/45680d2b15b34154d496022967fc0496",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/45680d2b15b34154d496022967fc0496",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/179/45",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2003 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2003 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0311a, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.179.45",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:52:37Z",
+        "registered": "2015-02-06T20:52:38Z",
+        "published": null,
+        "updated": "2024-10-31T18:45:11Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/3124fd475a71ac2e8b23dfc4e87f4542",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/3124fd475a71ac2e8b23dfc4e87f4542",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/94/43",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2002 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2002 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0211, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.94.43",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:51:03Z",
+        "registered": "2015-02-06T20:51:04Z",
+        "published": null,
+        "updated": "2024-10-31T18:44:53Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/fb7d782b7f9e5d91b2346faff623c99a",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/fb7d782b7f9e5d91b2346faff623c99a",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/93/44",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2001 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2001 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0110, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.93.44",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:50:16Z",
+        "registered": "2015-02-06T20:50:17Z",
+        "published": null,
+        "updated": "2024-10-31T18:44:45Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/0a82de490612fd997260349572b95704",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/0a82de490612fd997260349572b95704",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/92/44",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2000 plant monitoring survey -- biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1007/s10021-013-9732-6",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "The biomass of plants surveyed in permanent plots at 10 GCE LTER sampling sites in October 2000 was estimated based on allometric relationships between biomass and shoot height and flowering status derived for each site, zone, and species in October 2002. Biomass was only calculated for dominant species, including Spartina alterniflora, S. cynosuroides, Juncus roemerianus, and Zizaniopsis miliacea. This data set is based on GCE plant monitoring survey data set PLT-GCEM-0101, and allometric relationships were based on GCE data set PLT-GCEM-0211b.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.92.44",
+        "contentUrl": null,
+        "metadataVersion": 5,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 2,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:49:29Z",
+        "registered": "2015-02-06T20:49:30Z",
+        "published": null,
+        "updated": "2024-10-31T18:44:38Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/23357feac07867298ee58ca022f471d5",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/23357feac07867298ee58ca022f471d5",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/2/25",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fall 2000 plant monitoring survey -- shoot height and flowering status of plants in permanent plots at GCE sampling sites 1-10"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecs2.1487",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ecy.3278",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "A quadrat survey was conducted in October 2000 to measure the species and size distribution of plants in the permanent plots at 10 GCE LTER sampling sites. The permanent plots were subdivided into two nominal zones (creek and high marsh), and 8 quadrats were randomly placed within each zone. The species, shoot height, and flowering status was recorded individually for each plant present in each quadrat. This survey will be repeated annually to assess changes in plant distribution and biomass in relation to environmental changes documented by other GCE LTER monitoring efforts.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.2.25",
+        "contentUrl": null,
+        "metadataVersion": 4,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 2,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T20:47:10Z",
+        "registered": "2015-02-06T20:47:11Z",
+        "published": null,
+        "updated": "2022-07-21T21:48:57Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/d0e55b8da9bb0e71d4a8b893fc9a0c7a",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/d0e55b8da9bb0e71d4a8b893fc9a0c7a",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/579/8",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2015"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2017,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2017",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Soil samples were collected in conjunction with Fall 2015 plant monitoring at half of the permanent vegetation monitoring plots in the creekbank and midmarsh zones at 10 GCE study sites. Pore-water salinity was determined by analysis of supernatant salinity in dried soil samples hydrated with a measured volume of deionized water.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.579.8",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2017-04-04T15:46:57Z",
+        "registered": "2017-04-04T15:46:58Z",
+        "published": null,
+        "updated": "2022-01-12T14:55:07Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/c8ca5865d19b3de6d6b70d53dc0833db",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/c8ca5865d19b3de6d6b70d53dc0833db",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/488/4",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2014"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2016,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2016",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Soil samples were collected in conjunction with Fall 2014 plant monitoring at half of the permanent vegetation monitoring plots in the creekbank and midmarsh zones at 10 GCE study sites. Pore-water salinity was determined by analysis of supernatant salinity in dried soil samples hydrated with a measured volume of deionized water.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.488.4",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2016-01-26T18:56:49Z",
+        "registered": "2016-01-26T18:56:50Z",
+        "published": null,
+        "updated": "2022-01-12T14:54:55Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/24d15af4f2dab97aff5148d5ae17d3aa",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/24d15af4f2dab97aff5148d5ae17d3aa",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/487/5",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2013"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Soil samples were collected in conjunction with Fall 2013 plant monitoring at half of the permanent vegetation monitoring plots in the creekbank and midmarsh zones at 10 GCE study sites. Pore-water salinity was determined by analysis of supernatant salinity in dried soil samples hydrated with a measured volume of deionized water.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.487.5",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-02-06T21:24:19Z",
+        "registered": "2015-02-06T21:24:20Z",
+        "published": null,
+        "updated": "2022-01-12T14:54:44Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/f940e82462b8964242eec9cb531c440d",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/f940e82462b8964242eec9cb531c440d",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/433/8",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2012"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2014,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2014",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Soil samples were collected in conjunction with Fall 2011 plant monitoring at half of the permanent vegetation monitoring plots in the creekbank and midmarsh zones at 10 GCE study sites. Pore-water salinity was determined by analysis of supernatant salinity in dried soil samples hydrated with a measured volume of deionized water.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.433.8",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2014-05-01T22:07:41Z",
+        "registered": "2014-05-01T22:07:42Z",
+        "published": null,
+        "updated": "2022-01-12T14:54:34Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6073/pasta/e53d69beecaa3a6832dc8dc8205d623b",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/e53d69beecaa3a6832dc8dc8205d623b",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/425/6",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Soil salinity and organic content at GCE-LTER vegetation monitoring plots in October 2011"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2015,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2015",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/1365-2435.13384",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Soil samples were collected in conjunction with Fall 2011 plant monitoring at half of the permanent vegetation monitoring plots in the creekbank and midmarsh zones at 10 GCE study sites. Pore-water salinity was determined by analysis of supernatant salinity in dried soil samples hydrated with a measured volume of deionized water. Organic content was measured gravimetrically by comparing ash-free dry weight and total weight of soil samples.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.425.6",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2015-03-20T23:17:47Z",
+        "registered": "2015-03-20T23:17:48Z",
+        "published": null,
+        "updated": "2022-01-12T14:54:22Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 40,
+    "totalPages": 2,
+    "page": 1
+  },
+  "links": {
+    "self": "https://api.datacite.org/dois?query=relatedIdentifiers.relatedIdentifier%3A%2210.1111%2F1365-2435.13384%22&page%5Bsize%5D=30",
+    "next": "https://api.datacite.org/dois?page%5Bnumber%5D=2&page%5Bsize%5D=30&query=relatedIdentifiers.relatedIdentifier%3A%2210.1111%2F1365-2435.13384%22"
+  }
+}

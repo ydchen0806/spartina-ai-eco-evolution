@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "id": "10.6073/pasta/b83b995ed23d9224f8846aa1d7e4b59d",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6073/pasta/b83b995ed23d9224f8846aa1d7e4b59d",
+        "identifiers": [
+          {
+            "identifier": "https://pasta.lternet.edu/package/eml/knb-lter-gce/697/6",
+            "identifierType": "URL"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Georgia Coastal Ecosystems LTER",
+            "familyName": "Project",
+            "name": "Project, Georgia Coastal Ecosystems LTER",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [],
+            "givenName": "Steven C.",
+            "familyName": "Pennings",
+            "name": "Pennings, Steven C.",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Contrasting plant adaptation strategies to latitude in the native and invasive range of Spartina alterniflora: geographic survey (2014) and Common garden (2015-2017)"
+          }
+        ],
+        "publisher": "Environmental Data Initiative",
+        "container": {},
+        "publicationYear": 2019,
+        "subjects": [],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2019",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataPackage"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/nph.16371",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "We examined trait differences and evolution across geographic clines among continents of the intertidal grass Spartina alterniflora within its invasive and native ranges. Between September and November 2014, we sampled vegetative and reproductive traits in the field at 20 sites over 20\u00b0 latitude in China (invasive range) and 28 sites over 17\u00b0 latitude in the US (native range). We grew both Chinese and US plants in a greenhouse common garden for three years (2015 - 2017) to determine if differences in performance of S. alterniflora between the introduced and native ranges were due to genetic differences or differences in abiotic conditions.",
+            "lang": "en-US"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-gce.697.6",
+        "contentUrl": null,
+        "metadataVersion": 1,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 1,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2019-12-10T19:23:44Z",
+        "registered": "2019-12-10T19:23:45Z",
+        "published": null,
+        "updated": "2022-01-13T21:17:25Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "edi.edi",
+            "type": "clients"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 1,
+    "totalPages": 1,
+    "page": 1
+  },
+  "links": {
+    "self": "https://api.datacite.org/dois?query=relatedIdentifiers.relatedIdentifier%3A%2210.1111%2Fnph.16371%22&page%5Bsize%5D=30"
+  }
+}

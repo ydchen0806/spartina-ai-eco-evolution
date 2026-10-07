@@ -1,0 +1,861 @@
+{
+  "files": [
+    {
+      "id": 64150624,
+      "name": "Data Sheet 1_Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spar.zip",
+      "size": 482463,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/64150624",
+      "supplied_md5": "dfe699ff3bdc2f627354e0345f5e19cd",
+      "computed_md5": "dfe699ff3bdc2f627354e0345f5e19cd",
+      "mimetype": "application/zip"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 23820529,
+      "full_name": "Jewel Tomasula",
+      "first_name": "Jewel",
+      "last_name": "Tomasula",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 23820532,
+      "full_name": "Seamus Caslin",
+      "first_name": "Seamus",
+      "last_name": "Caslin",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 7432043,
+      "full_name": "Gina M. Wimp",
+      "first_name": "Gina M.",
+      "last_name": "Wimp",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 23820535,
+      "full_name": "Matthew B. Hamilton",
+      "first_name": "Matthew B.",
+      "last_name": "Hamilton",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Mating_portfolio_and_neutral_mechanisms_are_primary_causes_of_genet-ramet_frequencies_and_spatial_distributions_in_smooth_cordgrass_Spartina_alterniflora_along_salt_marsh_tidal_gradients_zip/32141245",
+  "download_disabled": false,
+  "description": "<p>Partially clonal plants are common and often act as ecological foundation species. Patterns of clonal genotypes (genets) and their vegetative modules (ramets) in natural populations remain poorly documented. Knowledge gaps in ecological genetics include if environmental variation promotes or limits ramet production, and if random mechanisms or natural selection mainly shape variation in the frequency distributions and spatial organization of ramets and genets. We used genetic markers to measure genet and ramet patterns of Spartina alterniflora, a foundation plant species in North American Atlantic coastal salt marshes, along its natural gradient of tidal inundation and interspecific competition. In ten patches in a natural salt marsh, we sampled 935\u00a0S. alterniflora stems on 1\u00a0m grid transects spanning natural environmental gradients. Samples were genotyped with ten microsatellite loci that provided high exclusion probabilities. Genotypes showed 223 multilocus lineage genets (MLLs) genets that were unique to patches (except a single MLL) and excess homozygosity consistent with biparental mating among relatives or as much as 50% selfing. Patches showed low to no genetic differentiation and there was no isolation by distance within nor between patches. Distributions of ramets per genet were consistent with random sampling with replacement that was heterogeneous among patches, except three MLLs from two patches with high ramet counts. Spatial patterns of ramets within MLLs exhibited intermediate aggregation and interspersion consistent with vegetative expansion by rhizomes. Genotype frequencies, ramet and genet spatial patterns, and distributions of ramets per genet were overall consistent with life history (mating portfolio, vegetative growth by rhizomes) and neutral sampling mechanisms. The three MLLs with high ramet counts could be explained by a range of neutral mechanisms such as patch disturbance history or priority effects, while adaptation to environmental gradients of a few meters is unlikely since these MLLs spanned large areas. As ecosystems dominated by partially clonal species experience a myriad of anthropogenic impacts, our results support wider recognition of combined sexual and vegetative mating portfolios in foundation plant species and improved quantification of clonal patterns on landscapes to better understand and predict ecological genetic variation.</p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 482463,
+  "created_date": "2026-04-30T22:01:21Z",
+  "modified_date": "2026-04-30T22:01:21Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "clonal reproduction",
+    "environmental gradient",
+    "genetic diversity",
+    "ramets per genet",
+    "salt marsh",
+    "spatial genetic variation"
+  ],
+  "keywords": [
+    "clonal reproduction",
+    "environmental gradient",
+    "genetic diversity",
+    "ramets per genet",
+    "salt marsh",
+    "spatial genetic variation"
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "title": "Genetics",
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10
+    }
+  ],
+  "references": [
+    "https://doi.org//10.1016/j.ecss.2008.08.009",
+    "https://doi.org//10.1111/j.1471-8286.2006.01522.x",
+    "https://doi.org//10.1111/j.1365-294X.2007.03535.x",
+    "https://doi.org//10.1073/pnas.1501712112",
+    "https://doi.org//10.1146/annurev-ecolsys-110316-023021",
+    "https://doi.org//10.1111/j.1365-294X.2010.04649.x",
+    "https://doi.org//10.2307/1938909",
+    "https://doi.org//10.1002/j.1537-2197.1992.tb14550.x",
+    "https://doi.org//10.1371/journal.pone.0092916",
+    "https://doi.org//10.1046/j.1471-8286.2003.00556.x",
+    "https://doi.org//10.1111/j.1365-2699.2007.01764.x",
+    "https://doi.org//10.1046/j.1365-2745.1998.00241.x",
+    "https://doi.org//10.1038/sj.hdy.6800668",
+    "https://doi.org//10.1111/j.1365-294X.2004.02209.x",
+    "https://doi.org//10.1093/jhered/esn088",
+    "https://doi.org//10.1023/A%3A1006556709662",
+    "https://doi.org//10.1002/j.1537-2197.1994.tb15448.x",
+    "https://doi.org//10.1038/nature11533",
+    "https://doi.org//10.2307/2259633",
+    "https://doi.org//10.1007/BF02732855",
+    "https://doi.org//10.1016/j.isci.2019.02.020",
+    "https://doi.org//10.1002/j.1537-2197.1987.tb08586.x",
+    "https://doi.org//10.1016/j.aquabot.2009.02.001",
+    "https://doi.org//10.1007/s00442-003-1303-7",
+    "https://doi.org//10.1086/382810",
+    "https://doi.org//10.2307/1941255",
+    "https://doi.org//10.1086/284348",
+    "https://doi.org//10.1111/nph.70262",
+    "https://doi.org//10.2307/2960530",
+    "https://doi.org//10.2307/3544432",
+    "https://doi.org//10.1111/j.0014-3820.2005.tb01814.x",
+    "https://doi.org//10.1111/ecog.04617",
+    "https://doi.org//10.1111/j.0030-1299.2005.13569.x",
+    "https://doi.org//10.3354/meps10565",
+    "https://doi.org//10.1111/j.1461-0248.2008.01179.x",
+    "https://doi.org//10.1002/ecs2.1675",
+    "https://doi.org//10.1890/10-1831.1",
+    "https://doi.org//10.1007/s00442-009-1283-3",
+    "https://doi.org//10.1016/s0169-5347%2803%2900008-9",
+    "https://doi.org//10.3389/fpls.2017.02026",
+    "https://doi.org//10.1111/j.1365-294X.2012.05578.x",
+    "https://doi.org//10.1111/1755-0998.13145",
+    "https://doi.org//10.1111/j.1755-0998.2010.02927.x",
+    "https://doi.org//10.3389/fevo.2022.868826",
+    "https://doi.org//10.1111/j.1469-1809.1983.tb00993.x",
+    "https://doi.org//10.1002/ecs2.3121",
+    "https://doi.org//10.1007/s13157-010-0046-6",
+    "https://doi.org//10.1890/1051-0761%282003%29013%5B0180%3AGAEISA%5D2.0.CO;2",
+    "https://doi.org//10.1111/brv.12472",
+    "https://doi.org//10.1016/j.cois.2021.02.010",
+    "https://doi.org//10.1093/genetics/145.4.1219",
+    "https://doi.org//10.1126/science.203.4381.658",
+    "https://doi.org//10.1093/genetics/139.1.457",
+    "https://doi.org//10.1007/s10592-005-9084-7",
+    "https://doi.org//10.1111/rec.70122",
+    "https://doi.org//10.1146/annurev-ecolsys-120213-091917",
+    "https://doi.org//10.1016/j.biocon.2022.109882",
+    "https://doi.org//10.1007/s00227-020-03777-9",
+    "https://doi.org//10.1046/j.1526-100X.2002.10104.x",
+    "https://doi.org//10.1016/j.aquabot.2008.05.003",
+    "https://doi.org//10.1086/283290",
+    "https://doi.org//10.1146/annurev.ecolsys.110308.120258",
+    "https://doi.org//10.1073/pnas.1501720112",
+    "https://doi.org//10.1093/oxfordjournals.molbev.a004186",
+    "https://doi.org//10.1656/045.028.0309",
+    "https://doi.org//10.2144/000114018",
+    "https://doi.org//10.1890/0012-9658%282003%29084%5B0559%3ACAEGAC%5D2.0.CO;2",
+    "https://doi.org//10.2307/3546874",
+    "https://doi.org//10.1002/clen.201300868",
+    "https://doi.org//10.1007/978-1-4939-2818-7_18",
+    "https://doi.org//10.3354/meps10349",
+    "https://doi.org//10.1086/716512",
+    "https://doi.org/10.3389/fgene.2026.1810782"
+  ],
+  "has_linked_file": false,
+  "citation": "Tomasula, Jewel; Caslin, Seamus; Wimp, Gina M.; Hamilton, Matthew B. (2026). Data Sheet 1_Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spartina alterniflora) along salt marsh tidal gradients.zip. Frontiers. Dataset. https://doi.org/10.3389/fgene.2026.1810782.s002",
+  "related_materials": [
+    {
+      "id": 276683353,
+      "identifier": "https://doi.org//10.1016/j.ecss.2008.08.009",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ecss.2008.08.009"
+    },
+    {
+      "id": 276683359,
+      "identifier": "https://doi.org//10.1111/j.1471-8286.2006.01522.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1471-8286.2006.01522.x"
+    },
+    {
+      "id": 276683362,
+      "identifier": "https://doi.org//10.1111/j.1365-294X.2007.03535.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1365-294X.2007.03535.x"
+    },
+    {
+      "id": 276683368,
+      "identifier": "https://doi.org//10.1073/pnas.1501712112",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1501712112"
+    },
+    {
+      "id": 276683374,
+      "identifier": "https://doi.org//10.1146/annurev-ecolsys-110316-023021",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev-ecolsys-110316-023021"
+    },
+    {
+      "id": 276683377,
+      "identifier": "https://doi.org//10.1111/j.1365-294X.2010.04649.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1365-294X.2010.04649.x"
+    },
+    {
+      "id": 276683380,
+      "identifier": "https://doi.org//10.2307/1938909",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/1938909"
+    },
+    {
+      "id": 276683383,
+      "identifier": "https://doi.org//10.1002/j.1537-2197.1992.tb14550.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/j.1537-2197.1992.tb14550.x"
+    },
+    {
+      "id": 276683386,
+      "identifier": "https://doi.org//10.1371/journal.pone.0092916",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1371/journal.pone.0092916"
+    },
+    {
+      "id": 276683392,
+      "identifier": "https://doi.org//10.1046/j.1471-8286.2003.00556.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1471-8286.2003.00556.x"
+    },
+    {
+      "id": 276683395,
+      "identifier": "https://doi.org//10.1111/j.1365-2699.2007.01764.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1365-2699.2007.01764.x"
+    },
+    {
+      "id": 276683398,
+      "identifier": "https://doi.org//10.1046/j.1365-2745.1998.00241.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1365-2745.1998.00241.x"
+    },
+    {
+      "id": 276683404,
+      "identifier": "https://doi.org//10.1038/sj.hdy.6800668",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/sj.hdy.6800668"
+    },
+    {
+      "id": 276683407,
+      "identifier": "https://doi.org//10.1111/j.1365-294X.2004.02209.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1365-294X.2004.02209.x"
+    },
+    {
+      "id": 276683413,
+      "identifier": "https://doi.org//10.1093/jhered/esn088",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/jhered/esn088"
+    },
+    {
+      "id": 276683416,
+      "identifier": "https://doi.org//10.1023/A:1006556709662",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1023/A:1006556709662"
+    },
+    {
+      "id": 276683422,
+      "identifier": "https://doi.org//10.1002/j.1537-2197.1994.tb15448.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/j.1537-2197.1994.tb15448.x"
+    },
+    {
+      "id": 276683425,
+      "identifier": "https://doi.org//10.1038/nature11533",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nature11533"
+    },
+    {
+      "id": 276683431,
+      "identifier": "https://doi.org//10.2307/2259633",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/2259633"
+    },
+    {
+      "id": 276683437,
+      "identifier": "https://doi.org//10.1007/BF02732855",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/BF02732855"
+    },
+    {
+      "id": 276683440,
+      "identifier": "https://doi.org//10.1016/j.isci.2019.02.020",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.isci.2019.02.020"
+    },
+    {
+      "id": 276683446,
+      "identifier": "https://doi.org//10.1002/j.1537-2197.1987.tb08586.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/j.1537-2197.1987.tb08586.x"
+    },
+    {
+      "id": 276683449,
+      "identifier": "https://doi.org//10.1016/j.aquabot.2009.02.001",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.aquabot.2009.02.001"
+    },
+    {
+      "id": 276683452,
+      "identifier": "https://doi.org//10.1007/s00442-003-1303-7",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00442-003-1303-7"
+    },
+    {
+      "id": 276683458,
+      "identifier": "https://doi.org//10.1086/382810",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1086/382810"
+    },
+    {
+      "id": 276683461,
+      "identifier": "https://doi.org//10.2307/1941255",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/1941255"
+    },
+    {
+      "id": 276683467,
+      "identifier": "https://doi.org//10.1086/284348",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1086/284348"
+    },
+    {
+      "id": 276683473,
+      "identifier": "https://doi.org//10.1111/nph.70262",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/nph.70262"
+    },
+    {
+      "id": 276683476,
+      "identifier": "https://doi.org//10.2307/2960530",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/2960530"
+    },
+    {
+      "id": 276683482,
+      "identifier": "https://doi.org//10.2307/3544432",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/3544432"
+    },
+    {
+      "id": 276683485,
+      "identifier": "https://doi.org//10.1111/j.0014-3820.2005.tb01814.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.0014-3820.2005.tb01814.x"
+    },
+    {
+      "id": 276683491,
+      "identifier": "https://doi.org//10.1111/ecog.04617",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/ecog.04617"
+    },
+    {
+      "id": 276683497,
+      "identifier": "https://doi.org//10.1111/j.0030-1299.2005.13569.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.0030-1299.2005.13569.x"
+    },
+    {
+      "id": 276683500,
+      "identifier": "https://doi.org//10.3354/meps10565",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3354/meps10565"
+    },
+    {
+      "id": 276683506,
+      "identifier": "https://doi.org//10.1111/j.1461-0248.2008.01179.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1461-0248.2008.01179.x"
+    },
+    {
+      "id": 276683512,
+      "identifier": "https://doi.org//10.1002/ecs2.1675",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/ecs2.1675"
+    },
+    {
+      "id": 276683515,
+      "identifier": "https://doi.org//10.1890/10-1831.1",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1890/10-1831.1"
+    },
+    {
+      "id": 276683521,
+      "identifier": "https://doi.org//10.1007/s00442-009-1283-3",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00442-009-1283-3"
+    },
+    {
+      "id": 276683527,
+      "identifier": "https://doi.org//10.1016/s0169-5347(03)00008-9",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/s0169-5347(03)00008-9"
+    },
+    {
+      "id": 276683530,
+      "identifier": "https://doi.org//10.3389/fpls.2017.02026",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fpls.2017.02026"
+    },
+    {
+      "id": 276683536,
+      "identifier": "https://doi.org//10.1111/j.1365-294X.2012.05578.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1365-294X.2012.05578.x"
+    },
+    {
+      "id": 276683539,
+      "identifier": "https://doi.org//10.1111/1755-0998.13145",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/1755-0998.13145"
+    },
+    {
+      "id": 276683545,
+      "identifier": "https://doi.org//10.1111/j.1755-0998.2010.02927.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1755-0998.2010.02927.x"
+    },
+    {
+      "id": 276683551,
+      "identifier": "https://doi.org//10.3389/fevo.2022.868826",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fevo.2022.868826"
+    },
+    {
+      "id": 276683554,
+      "identifier": "https://doi.org//10.1111/j.1469-1809.1983.tb00993.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1469-1809.1983.tb00993.x"
+    },
+    {
+      "id": 276683560,
+      "identifier": "https://doi.org//10.1002/ecs2.3121",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/ecs2.3121"
+    },
+    {
+      "id": 276683566,
+      "identifier": "https://doi.org//10.1007/s13157-010-0046-6",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s13157-010-0046-6"
+    },
+    {
+      "id": 276683569,
+      "identifier": "https://doi.org//10.1890/1051-0761(2003)013[0180:GAEISA]2.0.CO;2",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1890/1051-0761(2003)013[0180:GAEISA]2.0.CO;2"
+    },
+    {
+      "id": 276683575,
+      "identifier": "https://doi.org//10.1111/brv.12472",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/brv.12472"
+    },
+    {
+      "id": 276683578,
+      "identifier": "https://doi.org//10.1016/j.cois.2021.02.010",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cois.2021.02.010"
+    },
+    {
+      "id": 276683584,
+      "identifier": "https://doi.org//10.1093/genetics/145.4.1219",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/genetics/145.4.1219"
+    },
+    {
+      "id": 276683587,
+      "identifier": "https://doi.org//10.1126/science.203.4381.658",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1126/science.203.4381.658"
+    },
+    {
+      "id": 276683590,
+      "identifier": "https://doi.org//10.1093/genetics/139.1.457",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/genetics/139.1.457"
+    },
+    {
+      "id": 276683593,
+      "identifier": "https://doi.org//10.1007/s10592-005-9084-7",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s10592-005-9084-7"
+    },
+    {
+      "id": 276683596,
+      "identifier": "https://doi.org//10.1111/rec.70122",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/rec.70122"
+    },
+    {
+      "id": 276683599,
+      "identifier": "https://doi.org//10.1146/annurev-ecolsys-120213-091917",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev-ecolsys-120213-091917"
+    },
+    {
+      "id": 276683602,
+      "identifier": "https://doi.org//10.1016/j.biocon.2022.109882",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biocon.2022.109882"
+    },
+    {
+      "id": 276683605,
+      "identifier": "https://doi.org//10.1007/s00227-020-03777-9",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00227-020-03777-9"
+    },
+    {
+      "id": 276683608,
+      "identifier": "https://doi.org//10.1046/j.1526-100X.2002.10104.x",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1526-100X.2002.10104.x"
+    },
+    {
+      "id": 276683611,
+      "identifier": "https://doi.org//10.1016/j.aquabot.2008.05.003",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.aquabot.2008.05.003"
+    },
+    {
+      "id": 276683614,
+      "identifier": "https://doi.org//10.1086/283290",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1086/283290"
+    },
+    {
+      "id": 276683617,
+      "identifier": "https://doi.org//10.1146/annurev.ecolsys.110308.120258",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev.ecolsys.110308.120258"
+    },
+    {
+      "id": 276683620,
+      "identifier": "https://doi.org//10.1073/pnas.1501720112",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1501720112"
+    },
+    {
+      "id": 276683623,
+      "identifier": "https://doi.org//10.1093/oxfordjournals.molbev.a004186",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/oxfordjournals.molbev.a004186"
+    },
+    {
+      "id": 276683626,
+      "identifier": "https://doi.org//10.1656/045.028.0309",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1656/045.028.0309"
+    },
+    {
+      "id": 276683629,
+      "identifier": "https://doi.org//10.2144/000114018",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2144/000114018"
+    },
+    {
+      "id": 276683632,
+      "identifier": "https://doi.org//10.1890/0012-9658(2003)084[0559:CAEGAC]2.0.CO;2",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1890/0012-9658(2003)084[0559:CAEGAC]2.0.CO;2"
+    },
+    {
+      "id": 276683635,
+      "identifier": "https://doi.org//10.2307/3546874",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2307/3546874"
+    },
+    {
+      "id": 276683638,
+      "identifier": "https://doi.org//10.1002/clen.201300868",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/clen.201300868"
+    },
+    {
+      "id": 276683641,
+      "identifier": "https://doi.org//10.1007/978-1-4939-2818-7_18",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/978-1-4939-2818-7_18"
+    },
+    {
+      "id": 276683644,
+      "identifier": "https://doi.org//10.3354/meps10349",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3354/meps10349"
+    },
+    {
+      "id": 276683647,
+      "identifier": "https://doi.org//10.1086/716512",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1086/716512"
+    },
+    {
+      "id": 276683650,
+      "identifier": "10.3389/fgene.2026.1810782",
+      "title": "Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spartina alterniflora) along salt marsh tidal gradients",
+      "relation": "IsSupplementTo",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fgene.2026.1810782"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 32141245,
+  "title": "Data Sheet 1_Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spartina alterniflora) along salt marsh tidal gradients.zip",
+  "doi": "10.3389/fgene.2026.1810782.s002",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/32141245",
+  "published_date": "2026-04-30T22:01:21Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": 11806,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/32141245",
+  "url_public_api": "https://api.figshare.com/v2/articles/32141245",
+  "url_private_html": "https://figshare.com/account/articles/32141245",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Mating_portfolio_and_neutral_mechanisms_are_primary_causes_of_genet-ramet_frequencies_and_spatial_distributions_in_smooth_cordgrass_Spartina_alterniflora_along_salt_marsh_tidal_gradients_zip/32141245",
+  "timeline": {
+    "posted": "2026-04-30T22:01:21"
+  },
+  "resource_title": "Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spartina alterniflora) along salt marsh tidal gradients",
+  "resource_doi": "10.3389/fgene.2026.1810782"
+}

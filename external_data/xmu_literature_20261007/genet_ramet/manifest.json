@@ -1,0 +1,22 @@
+{
+  "article": 32141245,
+  "doi": "10.3389/fgene.2026.1810782.s002",
+  "paper_doi": "10.3389/fgene.2026.1810782",
+  "file": {
+    "id": 64150624,
+    "name": "Data Sheet 1_Mating portfolio and neutral mechanisms are primary causes of genet-ramet frequencies and spatial distributions in smooth cordgrass (Spar.zip",
+    "size": 482463,
+    "is_link_only": false,
+    "download_url": "https://ndownloader.figshare.com/files/64150624",
+    "supplied_md5": "dfe699ff3bdc2f627354e0345f5e19cd",
+    "computed_md5": "dfe699ff3bdc2f627354e0345f5e19cd",
+    "mimetype": "application/zip"
+  },
+  "sha256": "69e32e475712a3c52cb4b3315ed0ae4edea83f5800e4c611c56effdbed193383",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "version": 1
+}

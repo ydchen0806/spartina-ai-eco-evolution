@@ -1,0 +1,538 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        24
+      ]
+    ],
+    "date-time": "2026-09-24T04:07:37Z",
+    "timestamp": 1790222857640,
+    "version": "4.1.0"
+  },
+  "reference-count": 47,
+  "publisher": "Wiley",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            5,
+            15
+          ]
+        ],
+        "date-time": "2017-05-15T00:00:00Z",
+        "timestamp": 1494806400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "41276078"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "41276078"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "31470485"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "31470485"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Ecology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2017,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Ecological invasions are facilitated by pre\u2010adaptation and phenotypic plasticity, upon which evolution can act. The rapid invasion of the intertidal grass<jats:italic>Spartina alterniflora</jats:italic>in China during the last 36\u00a0yr is a test case for the roles of these mechanisms. A previous study of<jats:italic>S.\u00a0alterniflora</jats:italic>in China found strong latitudinal clines in vegetative and sexual traits and concluded that most of this variation was due to phenotypic plasticity. Recent observations suggested provenance\u2010by\u2010environment interactions, and we employed common gardens at multiple latitudes as a test of this idea. Phenotypically, field plant height, which correlates strongly with biomass and other indices of vegetative performance in this species, showed a hump\u2010shaped relationship across 10 sites, covering 19\u00b0 of latitude; field seed set increased linearly with latitude. To assess the role of plasticity vs. genetic differentiation in these patterns, we grew plants from the ten field sites in three common gardens at low (20.9\u00b0 N), mid (28.3\u00b0 N), and high (38.0\u00b0 N) latitudes to maturity, at 18\u00a0months. Plant height varied among common gardens, with the tallest plants at mid latitude, mirroring the field pattern, consistent with the previous study. Within the gardens, latitude of origin also affected plant height. Seed set varied among the gardens, with the greatest values at high latitudes, again mirroring the field pattern and indicating substantial plasticity. Evidence of evolution was found as increasing seed set with latitude among provenances within common gardens. However, the effect differed among common gardens, with the greatest slope in the high\u2010latitude garden, lower slope in the mid\u2010latitude garden, and no relationship in the low\u2010latitude garden, indicating a provenance\u2010by\u2010environment interaction. The number of surviving plants also suggested a provenance\u2010by\u2010environment interaction; no relationship with latitude among provenances in the two southern gardens and increasing survival with latitude in the northern garden. Field seedling density was ~200\u2010fold greater at high than at low latitude sites. The profuse seed germination and recruitment in the north could have created high selection intensity resulting in evolution of reproductive traits at high latitudes with the result that the mechanisms of the invasion differ with latitude.</jats:p>",
+  "DOI": "10.1002/ecy.1815",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        3,
+        19
+      ]
+    ],
+    "date-time": "2017-03-19T05:52:06Z",
+    "timestamp": 1489902726000
+  },
+  "page": "1591-1599",
+  "source": "Crossref",
+  "is-referenced-by-count": 60,
+  "title": [
+    "Provenance\u2010by\u2010environment interaction of reproductive traits in the invasion of<i>Spartina alterniflora</i>in China"
+  ],
+  "prefix": "10.1002",
+  "volume": "98",
+  "author": [
+    {
+      "given": "Wenwen",
+      "family": "Liu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian 361102 China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Donald R.",
+      "family": "Strong",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Section\u00a0of Evolution and Ecology University of California Davis California 95616 USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4757-7125",
+      "authenticated-orcid": false,
+      "given": "Steven C.",
+      "family": "Pennings",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biology and Biochemistry University of Houston Houston Texas 77204 USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yihui",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian 361102 China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        5,
+        15
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_6_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-3180.2007.00559.x"
+    },
+    {
+      "key": "e_1_2_6_3_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "187",
+      "DOI": "10.1111/j.1472-4642.2007.00414.x",
+      "article-title": "Sexual reproduction of cordgrass hybrids (Spartina foliosa x alterniflora) invading tidal marshes in San Francisco Bay",
+      "volume": "141",
+      "author": "Ayres D. R.",
+      "year": "2008",
+      "journal-title": "Diversity and Distributions"
+    },
+    {
+      "key": "e_1_2_6_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-016-1096-3"
+    },
+    {
+      "key": "e_1_2_6_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2699.2007.01764.x"
+    },
+    {
+      "key": "e_1_2_6_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2008.01363.x"
+    },
+    {
+      "key": "e_1_2_6_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1242121"
+    },
+    {
+      "key": "e_1_2_6_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12237-016-0142-9"
+    },
+    {
+      "key": "e_1_2_6_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.1400534"
+    },
+    {
+      "key": "e_1_2_6_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s13157-016-0737-8"
+    },
+    {
+      "key": "e_1_2_6_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/j.1537-2197.1994.tb15448.x"
+    },
+    {
+      "key": "e_1_2_6_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2011.01596.x"
+    },
+    {
+      "key": "e_1_2_6_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.0405230101"
+    },
+    {
+      "key": "e_1_2_6_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10750-009-9822-9"
+    },
+    {
+      "key": "e_1_2_6_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-010-9834-4"
+    },
+    {
+      "key": "e_1_2_6_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-294X.2007.03508.x"
+    },
+    {
+      "key": "e_1_2_6_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/382810"
+    },
+    {
+      "key": "e_1_2_6_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/659457"
+    },
+    {
+      "key": "e_1_2_6_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10750-014-2117-9"
+    },
+    {
+      "key": "e_1_2_6_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12244"
+    },
+    {
+      "key": "e_1_2_6_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-010-9907-4"
+    },
+    {
+      "key": "e_1_2_6_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2008.01834.x"
+    },
+    {
+      "key": "e_1_2_6_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-016-3699-x"
+    },
+    {
+      "key": "e_1_2_6_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/13-2283.1"
+    },
+    {
+      "key": "e_1_2_6_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2008.05.013"
+    },
+    {
+      "key": "e_1_2_6_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12487"
+    },
+    {
+      "key": "e_1_2_6_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00442-012-2352-6"
+    },
+    {
+      "key": "e_1_2_6_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1351966"
+    },
+    {
+      "key": "e_1_2_6_29_1",
+      "unstructured": "Mobberley D. G.1953.Taxonomy and distribution of the genus Spartina. PhD dissertation Iowa State College Ames Iowa USA."
+    },
+    {
+      "key": "e_1_2_6_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/0012-9658(2002)083[2869:ROCWTR]2.0.CO;2"
+    },
+    {
+      "key": "e_1_2_6_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/130260"
+    },
+    {
+      "key": "e_1_2_6_32_1",
+      "volume-title": "R: a language and environment for statistical computing, version 3.3.2",
+      "author": "R Development Core Team",
+      "year": "2015"
+    },
+    {
+      "key": "e_1_2_6_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1461-0248.2006.00950.x"
+    },
+    {
+      "key": "e_1_2_6_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11258-004-0841-3"
+    },
+    {
+      "key": "e_1_2_6_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/04-1257"
+    },
+    {
+      "key": "e_1_2_6_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.0022-0477.2001.00632.x"
+    },
+    {
+      "key": "e_1_2_6_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/j.1537-2197.1974.tb14034.x"
+    },
+    {
+      "key": "e_1_2_6_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-014-0796-9"
+    },
+    {
+      "key": "e_1_2_6_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-008-9385-0"
+    },
+    {
+      "key": "e_1_2_6_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/j.1537-2197.1981.tb06349.x"
+    },
+    {
+      "key": "e_1_2_6_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-ecolsys-110512-135803"
+    },
+    {
+      "key": "e_1_2_6_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecss.2009.07.034"
+    },
+    {
+      "key": "e_1_2_6_43_1",
+      "first-page": "47",
+      "article-title": "Geographic variations in salt marsh macrophyte production: a review",
+      "volume": "20",
+      "author": "Turner R. E.",
+      "year": "1976",
+      "journal-title": "Contributions in Marine Science"
+    },
+    {
+      "key": "e_1_2_6_44_1",
+      "first-page": "212",
+      "article-title": "Preliminary studies of introduced Spartina alterniflora Loisel in China [In Chinese with English abstract.]",
+      "volume": "40",
+      "author": "Xu G. W.",
+      "year": "1985",
+      "journal-title": "Journal of Nanjing University (Natural Science)"
+    },
+    {
+      "key": "e_1_2_6_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ele.12278"
+    },
+    {
+      "key": "e_1_2_6_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10530-013-0607-8"
+    },
+    {
+      "key": "e_1_2_6_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/11-1302.1"
+    },
+    {
+      "key": "e_1_2_6_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2011.12.014"
+    }
+  ],
+  "container-title": [
+    "Ecology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fecy.1815",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.1815",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        23
+      ]
+    ],
+    "date-time": "2024-06-23T03:30:37Z",
+    "timestamp": 1719113437000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.1815"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        5,
+        15
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/ecy.1815"
+  ],
+  "URL": "https://doi.org/10.1002/ecy.1815",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0012-9658",
+    "1939-9170"
+  ],
+  "issn-type": [
+    {
+      "value": "0012-9658",
+      "type": "print"
+    },
+    {
+      "value": "1939-9170",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2017,
+        5,
+        15
+      ]
+    ]
+  }
+}

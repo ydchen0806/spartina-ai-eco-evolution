@@ -1,0 +1,874 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ],
+    "date-time": "2026-09-27T02:52:41Z",
+    "timestamp": 1790477561146,
+    "version": "4.1.0"
+  },
+  "reference-count": 103,
+  "publisher": "Wiley",
+  "issue": "10",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            6,
+            28
+          ]
+        ],
+        "date-time": "2019-06-28T00:00:00Z",
+        "timestamp": 1561680000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100004543",
+      "name": "China Scholarship Council",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100004543",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "besjournals.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Functional Ecology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        10
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>\n<jats:list>\n\n<jats:list-item><jats:p>Plants adjust their size and reproductive effort in response to numerous selection pressures and constraints. The self\u2010thinning law describes a well\u2010known trade\u2010off between size and density. Plants also trade\u2010off investment into growth vs. sexual reproduction, as described by life\u2010history theory.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>We build on past work on plant allometry and life history by examining both self\u2010thinning and size\u2010dependent reproduction in a single plant species, the saltmarsh grass <jats:italic>Spartina alterniflora</jats:italic>, across a wide range of settings: three landscape positions, two habitats and eight sites, across sixteen years.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>Plants in different landscape positions and years varied tremendously in size and shoot density. However, all this variation could be explained by a single allometric relationship consistent with the self\u2010thinning law, but with a lower slope. Flowering was size\u2010dependent, and the size at which plants had a 50% probability of flowering varied among habitat, sites and years. Plants that were stressed reproduced at a smaller size than plants that were growing under good conditions, and this pattern was consistent among habitat, sites and years. Finally, reproductive biomass and the proportion of shoots flowering increased with increasing vegetative size (plant height or shoot biomass). Combining these two patterns, <jats:italic>S.\u00a0alterniflora</jats:italic> plants growing high density are small and reproduce at a smaller size than large plants growing at low density.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>Although there is tremendous spatial and temporal variation in <jats:italic>S.\u00a0alterniflora</jats:italic> growth and reproductive patterns, all this variation can be understood as resulting from two simple allometric trade\u2010offs. Because saltmarsh plants often occur in monospecific stands, they may serve as simple, model systems for studies of plant life history.</jats:p></jats:list-item>\n</jats:list>\n</jats:p><jats:p>A free <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.13384/suppinfo\">Plain Language Summary</jats:ext-link> can be found within the Supporting Information of this article.</jats:p>",
+  "DOI": "10.1111/1365-2435.13384",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        7
+      ]
+    ],
+    "date-time": "2019-06-07T16:00:46Z",
+    "timestamp": 1559923246000
+  },
+  "page": "1830-1841",
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 28,
+  "title": [
+    "Self\u2010thinning and size\u2010dependent flowering of the grass <i>Spartina alterniflora</i> across space and time"
+  ],
+  "prefix": "10.1111",
+  "volume": "33",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-7585-2812",
+      "authenticated-orcid": false,
+      "given": "Wenwen",
+      "family": "Liu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Biology and Biochemistry University of Houston Houston Texas USA"
+        },
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems, College of the Environment and Ecology Xiamen University Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4757-7125",
+      "authenticated-orcid": false,
+      "given": "Steven C.",
+      "family": "Pennings",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biology and Biochemistry University of Houston Houston Texas USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_8_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/3545013"
+    },
+    {
+      "key": "e_1_2_8_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actao.2010.03.007"
+    },
+    {
+      "key": "e_1_2_8_4_1",
+      "volume-title": "Ime4: Linear mixed\u2010effects models using S4 classes",
+      "author": "Bates D."
+    },
+    {
+      "key": "e_1_2_8_5_1",
+      "volume-title": "Ecology: From individuals to ecosystems",
+      "author": "Begon M.",
+      "year": "2006"
+    },
+    {
+      "key": "e_1_2_8_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1420-9101.1994.7050549.x"
+    },
+    {
+      "key": "e_1_2_8_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1940564"
+    },
+    {
+      "key": "e_1_2_8_8_1",
+      "first-page": "260",
+      "article-title": "The ecology of a New England salt marsh",
+      "volume": "80",
+      "author": "Bertness M. D.",
+      "year": "1992",
+      "journal-title": "American Scientist"
+    },
+    {
+      "key": "e_1_2_8_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/0-306-47534-0_4"
+    },
+    {
+      "key": "e_1_2_8_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.2007.0030-1299.16142.x"
+    },
+    {
+      "key": "e_1_2_8_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0302-3524(79)90050-1"
+    },
+    {
+      "key": "e_1_2_8_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/B978-0-12-586450-3.50006-8"
+    },
+    {
+      "key": "e_1_2_8_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2261254"
+    },
+    {
+      "key": "e_1_2_8_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3732/ajb.1400534"
+    },
+    {
+      "key": "e_1_2_8_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rsbl.2009.0228"
+    },
+    {
+      "key": "e_1_2_8_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2006.01141.x"
+    },
+    {
+      "key": "e_1_2_8_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11258-010-9763-4"
+    },
+    {
+      "key": "e_1_2_8_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1938480"
+    },
+    {
+      "key": "e_1_2_8_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/25977"
+    },
+    {
+      "key": "e_1_2_8_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1941255"
+    },
+    {
+      "key": "e_1_2_8_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1351574"
+    },
+    {
+      "key": "e_1_2_8_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/279148a0"
+    },
+    {
+      "key": "e_1_2_8_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2011.01884.x"
+    },
+    {
+      "key": "e_1_2_8_24_1",
+      "volume-title": "Population biology of plants",
+      "author": "Harper J. L.",
+      "year": "1977"
+    },
+    {
+      "key": "e_1_2_8_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/591683"
+    },
+    {
+      "key": "e_1_2_8_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.flora.2014.10.003"
+    },
+    {
+      "key": "e_1_2_8_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2260155"
+    },
+    {
+      "key": "e_1_2_8_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2486.2008.01834.x"
+    },
+    {
+      "key": "e_1_2_8_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/592867"
+    },
+    {
+      "key": "e_1_2_8_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02067553"
+    },
+    {
+      "key": "e_1_2_8_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ecs2.1487"
+    },
+    {
+      "key": "e_1_2_8_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1351542"
+    },
+    {
+      "key": "e_1_2_8_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1365-2745.12487"
+    },
+    {
+      "key": "e_1_2_8_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1351966"
+    },
+    {
+      "key": "e_1_2_8_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/0-306-47534-0_5"
+    },
+    {
+      "key": "e_1_2_8_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.0030-1299.2004.12335.x"
+    },
+    {
+      "key": "e_1_2_8_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1440-1703.2002.00459.x"
+    },
+    {
+      "key": "e_1_2_8_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1938633"
+    },
+    {
+      "key": "e_1_2_8_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5670/oceanog.2013.48"
+    },
+    {
+      "key": "e_1_2_8_40_1",
+      "volume-title": "Georgia Division 9 Palmer Drought Severity Index (PDSI) from Jan\u20101895 to Jan\u20102018",
+      "author": "National Oceanic and Atmospheric Administration",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_8_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0302-3524(77)90043-3"
+    },
+    {
+      "key": "e_1_2_8_42_1",
+      "volume-title": "Plant allometry: The scaling of form and process",
+      "author": "Niklas K. J.",
+      "year": "1994"
+    },
+    {
+      "key": "e_1_2_8_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/anbo.1995.1015"
+    },
+    {
+      "key": "e_1_2_8_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/rs8060477"
+    },
+    {
+      "key": "e_1_2_8_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2260629"
+    },
+    {
+      "key": "e_1_2_8_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00377375"
+    },
+    {
+      "key": "e_1_2_8_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/lno.10962"
+    },
+    {
+      "key": "e_1_2_8_48_1",
+      "article-title": "Fall 2000 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2003",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_49_1",
+      "article-title": "Fall 2001 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2003",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_50_1",
+      "article-title": "Fall 2002 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2003",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_51_1",
+      "article-title": "Fall 2003 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2004",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_52_1",
+      "article-title": "Fall 2004 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2006",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_53_1",
+      "article-title": "Fall 2005 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2006",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_54_1",
+      "article-title": "Fall 2006 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2007",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_55_1",
+      "article-title": "Fall 2007 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2009",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_56_1",
+      "article-title": "Fall 2008 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2009",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_57_1",
+      "article-title": "Fall 2009 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2011",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_58_1",
+      "article-title": "Fall 2010 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2011",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_59_1",
+      "article-title": "Soil salinity and water content at GCE-LTER vegetation monitoring plots in October 2010",
+      "author": "Pennings S. C.",
+      "year": "2011",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_60_1",
+      "article-title": "Fall 2011 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2012",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_61_1",
+      "article-title": "Fall 2012 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2013",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_62_1",
+      "article-title": "Soil salinity and organic content at GCE-LTER vegetation monitoring plots in October 2011",
+      "author": "Pennings S. C.",
+      "year": "2013",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_63_1",
+      "article-title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2012",
+      "author": "Pennings S. C.",
+      "year": "2013",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_64_1",
+      "article-title": "Fall 2013 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2014",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_65_1",
+      "article-title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2013",
+      "author": "Pennings S. C.",
+      "year": "2014",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_66_1",
+      "article-title": "Fall 2014 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2015",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_67_1",
+      "article-title": "Soil salinity at GCE-LTER vegetation monitoring plots in October 2014",
+      "author": "Pennings S. C.",
+      "year": "2015",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_68_1",
+      "article-title": "Fall 2015 plant monitoring survey \u2013 biomass calculated from shoot height and flowering status of plants in permanent plots at GCE sampling sites 1\u201310",
+      "author": "Pennings S. C.",
+      "year": "2016",
+      "journal-title": "Environmental Data Initiative"
+    },
+    {
+      "key": "e_1_2_8_69_1",
+      "volume-title": "Soil salinity at GCE\u2010LTER vegetation monitoring plots in October 2015. Environmental Data Initiative",
+      "author": "Pennings S. C.",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_8_70_1",
+      "first-page": "289",
+      "volume-title": "Marine community ecology",
+      "author": "Pennings S. C.",
+      "year": "2001"
+    },
+    {
+      "key": "e_1_2_8_71_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/0012-9658(2000)081[0709:TAOCIU]2.0.CO;2"
+    },
+    {
+      "key": "e_1_2_8_72_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1442-9993.2003.01313.x"
+    },
+    {
+      "key": "e_1_2_8_73_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/1051-0761(2003)013[0180:GAEISA]2.0.CO;2"
+    },
+    {
+      "key": "e_1_2_8_74_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1098/rspb.2018.1072"
+    },
+    {
+      "key": "e_1_2_8_75_1",
+      "volume-title": "R: A language and environment for statistical computing, version 3.3.2",
+      "author": "R Development Core Team",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_8_76_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1139/b97-160"
+    },
+    {
+      "key": "e_1_2_8_77_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11258-004-0841-3"
+    },
+    {
+      "key": "e_1_2_8_78_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/jpe/rtw013"
+    },
+    {
+      "key": "e_1_2_8_79_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5670/oceanog.2013.50"
+    },
+    {
+      "key": "e_1_2_8_80_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1558-5646.1986.tb00560.x"
+    },
+    {
+      "key": "e_1_2_8_81_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-ecolsys-110512-135803"
+    },
+    {
+      "key": "e_1_2_8_82_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1046/j.1365-2435.1998.00187.x"
+    },
+    {
+      "key": "e_1_2_8_83_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2011.01830.x"
+    },
+    {
+      "key": "e_1_2_8_84_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4319/lo.1996.41.4.0802"
+    },
+    {
+      "key": "e_1_2_8_85_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1139/b91-061"
+    },
+    {
+      "key": "e_1_2_8_86_1",
+      "first-page": "47",
+      "article-title": "Geographic variations in salt marsh macrophyte production: A review",
+      "volume": "20",
+      "author": "Turner R. E.",
+      "year": "1976",
+      "journal-title": "Contributions in Marine Science"
+    },
+    {
+      "key": "e_1_2_8_87_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02782001"
+    },
+    {
+      "key": "e_1_2_8_88_1",
+      "volume-title": "Monthly mean water level data were acquired from the NOAA/NOS Center for Operational Oceanographic Products and Services (CO\u2010OPS) database",
+      "author": "Wade M.",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_8_89_1",
+      "volume-title": "Monthly Summary of Daily Summary of Data from the USGS gaging station on the Altamaha River at Doctortown from 01\u2010Jan\u20101932 to 30\u2010Aug\u20102018",
+      "author": "Wade M.",
+      "year": "2018"
+    },
+    {
+      "key": "e_1_2_8_90_1",
+      "volume-title": "Monthly Summary of Daily climatological observations from the National Weather Service weather station at the Malcolm McKinnon Airport in Brunswick, Georgia from 01\u2010Aug\u20101948 through 12\u2010June\u20102019",
+      "author": "Wade M.",
+      "year": "2019"
+    },
+    {
+      "key": "e_1_2_8_91_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ecs2.2219"
+    },
+    {
+      "key": "e_1_2_8_92_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.2041-210X.2011.00153.x"
+    },
+    {
+      "key": "e_1_2_8_93_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0022-5193(80)90297-0"
+    },
+    {
+      "key": "e_1_2_8_94_1",
+      "first-page": "228",
+      "article-title": "The influence of competition on plant reproduction",
+      "author": "Weiner J. A. C. O. B.",
+      "year": "1988",
+      "journal-title": "Plant Reproductive Ecology: Patterns and Strategies"
+    },
+    {
+      "key": "e_1_2_8_95_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1078/1433-8319-00083"
+    },
+    {
+      "key": "e_1_2_8_96_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1365-2745.2009.01559.x"
+    },
+    {
+      "key": "e_1_2_8_97_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/hdy.1995.59"
+    },
+    {
+      "key": "e_1_2_8_98_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1890/0012-9658(1997)078[2118:TSFFID]2.0.CO;2"
+    },
+    {
+      "key": "e_1_2_8_99_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10021-013-9732-6"
+    },
+    {
+      "key": "e_1_2_8_100_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.flora.2010.12.003"
+    },
+    {
+      "key": "e_1_2_8_101_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10750-010-0505-3"
+    },
+    {
+      "key": "e_1_2_8_102_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/clen.201300868"
+    },
+    {
+      "key": "e_1_2_8_103_1",
+      "first-page": "107",
+      "article-title": "Self\u2010thinning in overcrowded pure stands under cultivated and natural conditions",
+      "volume": "14",
+      "author": "Yoda K.",
+      "year": "1963",
+      "journal-title": "Journal of Biology, Osaka City University"
+    },
+    {
+      "key": "e_1_2_8_104_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2018.03.015"
+    }
+  ],
+  "container-title": [
+    "Functional Ecology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1365-2435.13384",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2435.13384",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/1365-2435.13384",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2435.13384",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        7
+      ]
+    ],
+    "date-time": "2023-09-07T08:18:30Z",
+    "timestamp": 1694074710000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13384"
+    }
+  },
+  "subtitle": [],
+  "editor": [
+    {
+      "given": "Janne",
+      "family": "Alahuhta",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "editor"
+        }
+      ]
+    }
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        28
+      ]
+    ]
+  },
+  "references-count": 103,
+  "journal-issue": {
+    "issue": "10",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/1365-2435.13384"
+  ],
+  "URL": "https://doi.org/10.1111/1365-2435.13384",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0269-8463",
+    "1365-2435"
+  ],
+  "issn-type": [
+    {
+      "value": "0269-8463",
+      "type": "print"
+    },
+    {
+      "value": "1365-2435",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        6,
+        28
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2018-11-17",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2019-05-27",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2019-06-28",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

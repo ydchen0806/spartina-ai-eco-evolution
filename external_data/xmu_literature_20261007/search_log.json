@@ -1,0 +1,22 @@
+{
+  "retrieved_on": "2026-10-07",
+  "sources": [
+    "Crossref works metadata and abstracts",
+    "DataCite relatedIdentifiers queries",
+    "Europe PMC DOI queries",
+    "Figshare article search",
+    "GCE-LTER public metadata catalogue"
+  ],
+  "focused_query": "DataCite query=relatedIdentifiers.relatedIdentifier:\"ARTICLE_DOI\"; page[size]=30",
+  "caveat": "DataCite matches may be IsCitedBy or references to other articles; a search match is not proof of being raw data for the target paper. Broad discovery caches retained locally.",
+  "verified_xmu_dois": [
+    "10.1002/ecy.3311",
+    "10.1002/ecy.1815",
+    "10.1111/nph.16371",
+    "10.1111/1365-2435.13384",
+    "10.1111/mec.15192",
+    "10.1002/lno.11395",
+    "10.1111/1365-2745.12487"
+  ],
+  "genet_dataset_pinned_figshare_version": 1
+}

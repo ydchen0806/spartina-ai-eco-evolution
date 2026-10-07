@@ -1,0 +1,90 @@
+{
+  "pdf_pages": 24,
+  "figure_pages": [
+    {
+      "page": 13,
+      "label": "Figure 1",
+      "text_chars": 358,
+      "vector_drawings": 0,
+      "images": 1
+    },
+    {
+      "page": 14,
+      "label": "Figure 2",
+      "text_chars": 867,
+      "vector_drawings": 76,
+      "images": 0
+    },
+    {
+      "page": 15,
+      "label": "Figure 3",
+      "text_chars": 933,
+      "vector_drawings": 39,
+      "images": 0
+    },
+    {
+      "page": 16,
+      "label": "Figure 4",
+      "text_chars": 689,
+      "vector_drawings": 93,
+      "images": 0
+    },
+    {
+      "page": 17,
+      "label": "Extended Data Figure 1",
+      "text_chars": 339,
+      "vector_drawings": 0,
+      "images": 1
+    },
+    {
+      "page": 18,
+      "label": "Extended Data Figure 2",
+      "text_chars": 1009,
+      "vector_drawings": 159,
+      "images": 1
+    },
+    {
+      "page": 19,
+      "label": "Extended Data Figure 3",
+      "text_chars": 460,
+      "vector_drawings": 15,
+      "images": 8
+    },
+    {
+      "page": 20,
+      "label": "Extended Data Figure 4",
+      "text_chars": 472,
+      "vector_drawings": 360,
+      "images": 0
+    },
+    {
+      "page": 21,
+      "label": "Extended Data Figure 5",
+      "text_chars": 1082,
+      "vector_drawings": 128,
+      "images": 3
+    },
+    {
+      "page": 22,
+      "label": "Extended Data Figure 6",
+      "text_chars": 1010,
+      "vector_drawings": 189,
+      "images": 0
+    },
+    {
+      "page": 23,
+      "label": "Extended Data Figure 7",
+      "text_chars": 837,
+      "vector_drawings": 32,
+      "images": 0
+    },
+    {
+      "page": 24,
+      "label": "Extended Data Figure 8",
+      "text_chars": 2264,
+      "vector_drawings": 521,
+      "images": 0
+    }
+  ],
+  "figures_have_same_page_caption": true
+}

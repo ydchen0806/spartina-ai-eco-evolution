@@ -96,3 +96,30 @@ The recovered archive supports descriptive annual growth differences and a model
 ## License
 
 Code is released under the MIT License. Data remain subject to the provenance and terms recorded in the companion dataset metadata and source-provider licenses.
+
+### Xiamen literature and publication figures (7 October 2026)
+
+See [the evidence and research update](docs/XMU_RESEARCH_REFINEMENT_2026-10-07.md).
+Seven Xiamen-affiliated studies now anchor the distinctions among plasticity,
+source-by-environment responses, self-thinning and genetic admixture.
+The source register records affiliations, review scope and acquisition status.
+A separate native-range genetic supplement supplies 935 stems and 223 inferred
+lineages in ten field-defined patches; it does not validate local image objects.
+
+```bash
+# Rebuild unrestricted analyses and vector figure panels from archived sources.
+python analysis/reanalyze_genet_ramet.py
+python analysis/build_publication_figures.py
+python analysis/build_working_manuscript.py --output manuscript/Spartina_working_draft_20261007.docx --pdf
+# GCE raw files and these outputs are local-only pending reconciliation of terms.
+python analysis/reanalyze_xmu_common_garden.py --source /path/to/gce_source --output /path/to/local_analysis
+python analysis/verify_xmu_common_garden.py --source /path/to/gce_source --output /path/to/local_analysis
+```
+
+`download_genet_ramet.py` accepts an optional `MICAO_DOWNLOAD_PROXY` environment
+variable. `download_xmu_common_garden.py` follows the original GCE registration
+forms and requires user-supplied registration details; credentials and form
+responses are not archived in this release. The manuscript remains a working
+draft with independent validation incomplete. New core figures use 183 mm
+width, editable vector text and separately saved source data. Review exports
+place figures and their legends together.
