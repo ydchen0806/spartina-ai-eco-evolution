@@ -1,0 +1,13 @@
+plot_type,treatment_type,plot#,PAR
+experimental,clipped,1,1748.8878518518518
+experimental,control,2,419.6636533333333
+experimental,clipped,3,1707.272311111111
+experimental,control,4,308.1146958518518
+experimental,clipped,5,1706.5328444444444
+experimental,control,6,159.07518918518522
+checking,clipped,1,1774.0708
+checking,control,2,1688.0461777777778
+checking,clipped,3,1708.2582666666667
+checking,control,4,1623.3428444444444
+checking,clipped,5,1675.5984888888888
+checking,control,6,587.6741773333333

@@ -123,3 +123,32 @@ responses are not archived in this release. The manuscript remains a working
 draft with independent validation incomplete. New core figures use 183 mm
 width, editable vector text and separately saved source data. Review exports
 place figures and their legends together.
+
+### Additional external data (7 October 2026)
+
+The [external-data expansion report](docs/EXTERNAL_DATA_EXPANSION_2026-10-07.md)
+documents a complete 2.08 GB marsh imagery/competition archive, 24 years of GCE
+plant monitoring with soil data, and published summaries from ten Chinese coastal
+sites. It distinguishes source records, repeated measurements, geographic overlap
+and independent validation. [GSM figure](data/derived/gsm_competition_20261007/gsm_external_evidence.png)
+and [Chinese site context](data/derived/china_patch_traits_20261007/published_site_context.png)
+have PDF/SVG counterparts and source tables. Three large original GSM rasters are
+on [Hugging Face](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data/tree/main/external_sources/gsm_competition_20261007),
+with verified hashes. GCE originals and new numerical analyses remain local
+pending reconciliation of provider terms.
+
+```bash
+# All 19 GSM files: ~2.08 GB; optional MICAO_DOWNLOAD_PROXY for Figshare.
+python analysis/download_mechanism_sources.py --dataset gsm --output /path/to/gsm_source
+python analysis/reanalyze_gsm_competition.py --source /path/to/gsm_source --output data/derived/gsm_competition_20261007
+# Published Chinese supplement and full Methods are already archived.
+python analysis/audit_china_patch_sites.py --source external_data/china_patch_traits_20261007 --output data/derived/china_patch_traits_20261007
+# GCE download uses GCE_REGISTRATION_NAME and GCE_REGISTRATION_EMAIL.
+# Keep both directories outside the public release.
+python analysis/download_mechanism_sources.py --dataset gce --output /path/to/local_gce_source
+python analysis/audit_gce_longterm.py --source /path/to/local_gce_source --output /path/to/local_gce_analysis
+```
+
+The China source downloader (`--dataset china`) verifies archived SHA-256 values;
+if the publisher changes its XML snapshot, use the reviewed copy here or review
+and document the new version before updating the pinned hash.

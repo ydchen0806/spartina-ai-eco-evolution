@@ -1,0 +1,11 @@
+region,site,longitude,latitude,resolution_m,low_patch_count,low_cover_fraction,high_patch_count,high_cover_fraction,campaign_month,window_area_m2,low_patch_density_per_1000_m2,low_covered_area_m2_approx,high_patch_density_per_1000_m2,high_covered_area_m2_approx,nominal_point_in_local_image,rounded_coordinate_cell_intersects_local_image
+Yancheng,Site1,119.81,34.47,0.028,83,0.02,379,0.08,2025-06,2500,33.2,50.0,151.60000000000002,200.0,False,False
+Yancheng,Site2,120.48,33.85,0.029,70,0.03,307,0.1,2025-06,2500,28.0,75.0,122.80000000000001,250.0,False,False
+Yancheng,Site3,120.92,32.95,0.031,284,0.1,403,0.14,2025-06,2500,113.60000000000001,250.0,161.20000000000002,350.00000000000006,False,False
+Nantong,Site4,120.96,32.62,0.022,21,0.02,39,0.04,2025-06,2500,8.4,50.0,15.6,100.0,False,False
+Nantong,Site5,121.79,31.98,0.029,59,0.05,75,0.18,2025-06,2500,23.599999999999998,125.0,30.0,450.0,False,False
+Ningbo,Site6,121.53,29.2,0.049,19,0.44,18,0.61,2023-10,2500,7.6,1100.0,7.2,1525.0,False,False
+Wenzhou,Site7,120.97,27.89,0.033,57,0.24,97,0.32,2023-10,2500,22.8,600.0,38.800000000000004,800.0,False,False
+Zhangzhou,Site8,117.91,24.48,0.029,82,0.08,237,0.16,2025-09,2500,32.800000000000004,200.0,94.8,400.0,False,False
+Zhangzhou,Site9,117.77,23.98,0.029,52,0.05,54,0.08,2025-09,2500,20.8,125.0,21.6,200.0,False,False
+Zhangzhou,Site10,117.43,23.93,0.028,27,0.13,28,0.15,2025-09,2500,10.8,325.0,11.2,375.0,True,True

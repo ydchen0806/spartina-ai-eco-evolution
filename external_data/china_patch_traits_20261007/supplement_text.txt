@@ -1,0 +1,19 @@
+Supplementary Material
+Supplementary Figures and Tables
+Supplementary Tables
+Table S1. Supplementary information on the study sites. 
+
+
+Table S2. Detailed descriptions of sample variables.
+Table S3. Effects of patch position, tidal position and their interaction on plant functional traits.
+Note: Models were linear mixed-effects models with province and site as random intercepts. LDMC and SLA were ln-transformed in the models; Plant height was fitted on the original scale. Patch position = Center vs Edge; Tidal position = High vs Low tidal position; Tidal × Patch = their interaction. p values are shown with significance codes: *** p < 0.001, ** p < 0.01, * p < 0.05, .  p < 0.10.
+
+Supplementary Figures
+
+Figure S1. Principal component analysis of bare-soil variables. (a) PCA loading plot showing the distribution of bare-soil variables on PC1 and PC2. (b) Signed loadings of each variable on PC1, ranked by absolute loading magnitude. The PC1 scores were standardized and used in Fig. 2.
+
+ 
+Figure S2. Effects of soil properties and patch position on plant functional traits between low and high tidal positions. Standardized coefficients (β ± 95% CI) from linear mixed-effects models showing the effects of selected soil variables and patch position on LDMC, SLA, and plant height at low and high tidal positions. Predictor categories are color-coded: green, soil nutrients; blue, soil physical properties; red, Ec; purple, patch position (edge vs. center). Stacked bars indicate the proportional contribution of each category to retained predictors. R²ₘ, marginal R². Significance codes: *** p < 0.001, ** p < 0.01, * p < 0.05, · p < 0.10.
+
+
+Figure S3. Relationships between marine environmental variables and leaf economic trait lnRR. Panels show the relationships of LDMC lnRR (a–c) and SLA lnRR (d–f) with salinity, phosphate, and nitrate. Points represent site-level means, and error bars indicate SE. Orange and blue points denote high and low tidal positions, respectively. Black lines show overall linear regressions fitted across both tidal positions, with grey bands indicating 95% confidence intervals. Dashed horizontal lines indicate lnRR = 0, where trait values do not differ between patch centers and edges. Reported R² and p values are from univariate linear regressions.

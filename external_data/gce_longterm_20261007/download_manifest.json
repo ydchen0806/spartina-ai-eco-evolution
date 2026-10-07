@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "accession": "PLT-GCES-1609",
+      "name": "PLT-GCES-1609_Biomass_Stats_7_0.CSV",
+      "url": "https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=PLT-GCES-1609&filename=PLT-GCES-1609_Biomass_Stats_7_0.CSV",
+      "expected_records": 4085,
+      "bytes": 277057,
+      "sha256": "89a10bd0463841578fe0c98d017bf20e38073c81dc044888ab97659af79e6c90"
+    },
+    {
+      "accession": "PLT-GCES-1609",
+      "name": "PLT-GCES-1609_Observations_7_0_VARS.MAT",
+      "url": "https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=PLT-GCES-1609&filename=PLT-GCES-1609_Observations_7_0_VARS.MAT",
+      "expected_records": 75236,
+      "bytes": 1024218,
+      "sha256": "29aa0c9e44630fc19720ced76dbb12b4b24657331d5e607f652c0ef7d9c8e23f"
+    },
+    {
+      "accession": "PLT-GCES-1609",
+      "name": "PLT-GCES-1609_Shoots_Flowering_7_0.CSV",
+      "url": "https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=PLT-GCES-1609&filename=PLT-GCES-1609_Shoots_Flowering_7_0.CSV",
+      "expected_records": 4534,
+      "bytes": 272824,
+      "sha256": "18634e11de9964a685b6218a395d3ea63344ace387a1f3f92688d8182216c805"
+    },
+    {
+      "accession": "POR-GCES-2106",
+      "name": "POR-GCES-2106_4_0.CSV",
+      "url": "https://gce-lter.marsci.uga.edu/public/app/send_file.asp?accession=POR-GCES-2106&filename=POR-GCES-2106_4_0.CSV",
+      "expected_records": 1308,
+      "bytes": 225353,
+      "sha256": "9b38c3e7df5e8dbd94a80dd1dcb273b2059e49cc861cc6a7c0c5eab8ca612e72"
+    }
+  ],
+  "licence_note": "Keep raw data and derived numbers local until EML CC-BY versus legacy portal terms reconciled."
+}

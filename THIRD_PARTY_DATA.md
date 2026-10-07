@@ -57,3 +57,35 @@ is deferred until this discrepancy is resolved. No messages to authors were sent
 Source metadata and contributor names remain attached. EDI metadata discovery
 and GCE original-file downloads are distinguished; no byte equivalence between
 repository revisions has been established.
+
+GSM competition and remote-sensing archive: Yuyang Wang, Ivan Valiela and
+Kelsey Chenoweth, Figshare v1, https://doi.org/10.6084/m9.figshare.30068944.v1.
+Dataset licence **CC-BY-4.0**; associated paper
+https://doi.org/10.1016/j.envc.2026.101453 has separate article terms.
+All 19 originals were provider-MD5 verified. Sixteen small originals and metadata
+are in `external_data/gsm_competition_20261007/`; three unchanged rasters are on
+Hugging Face under `external_sources/gsm_competition_20261007/`, with the manifest
+in both releases. Our adaptations in `data/derived/gsm_competition_20261007/`
+retain attribution and CC-BY-4.0. The authors have not endorsed our analyses.
+
+GCE-LTER long-term monitoring: Steven C. Pennings, PLT-GCES-1609 (2016), v7.0,
+https://doi.org/10.6073/pasta/935872ae9b32d59d2c59b26856f0ea95; and
+POR-GCES-2106 (2021), v4.0,
+https://doi.org/10.6073/pasta/89075cf18fa3761b0cb17646845e5ab9. Georgia Coastal
+Ecosystems LTER Project, University of Georgia. Only metadata, provenance and
+our scripts are released. Raw tables and newly computed numerical results remain
+local because EML CC-BY-4.0 and legacy portal redistribution/notification terms
+differ. No notifications to authors were sent. The derived biomass and flowering
+summaries overlap with the original observation table and are not extra samples.
+
+Chinese coastal patch traits: Yiwen Liu, Qian Dong, Ziyu Zheng, Wensi Hu,
+Yuxiang Li, Chi Xu and Shuqing N. Teng (2026), *Environmental stress and
+plant-plant interactions jointly shape intertidal cordgrass traits across broad
+spatial scales*, https://doi.org/10.3389/fpls.2026.1913369; supplement
+https://doi.org/10.3389/fpls.2026.1913369.s001, Figshare 33251937, file 67534884.
+Article XML and supplement **CC-BY-4.0**, archived in
+`external_data/china_patch_traits_20261007/`. Our table extraction, area
+conversions, overlap screen and plots in `data/derived/china_patch_traits_20261007/`
+are adaptations under the same attribution and licence; not endorsed by the
+source authors. Only published aggregate data are included. Raw imagery and
+individual trait measurements were not acquired.

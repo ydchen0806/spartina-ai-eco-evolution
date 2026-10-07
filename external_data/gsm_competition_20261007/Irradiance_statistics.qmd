@@ -1,0 +1,51 @@
+---
+title: "Irradiance statistics"
+author: "Yuyang Wang"
+format: html
+---
+
+```{r}
+## p-value
+data <- ("~/Shading/Irridiance_for_statistics")
+
+head(data)
+
+# Filter experimental plots
+exp_data <- subset(data, `plot_type` == "experimental")
+
+# T-test: experimental clipped vs control
+t_exp <- t.test(PAR ~ `treatment_type`, data = exp_data)
+print(t_exp)
+
+# Filter additional plots
+add_data <- subset(data, `plot_type` == "checking")
+
+# T-test: additional clipped vs control
+t_add <- t.test(PAR ~ `treatment_type`, data = add_data)
+print(t_add)
+
+```
+
+```{r}
+## effect size (Cohen's d)
+
+library(effectsize)
+
+data <- Irridiance_for_statistics
+
+exp_data <- subset(data, `plot_type` == "experimental")
+add_data <- subset(data, `plot_type` == "checking")
+
+# Assuming you already did:
+t_exp <- t.test(PAR ~ treatment_type, data = exp_data)
+t_add <- t.test(PAR ~ treatment_type, data = add_data)
+
+# Compute effect sizes
+d_exp <- cohens_d(PAR ~ treatment_type, data = exp_data)
+d_add <- cohens_d(PAR ~ treatment_type, data = add_data)
+
+print(d_exp)
+print(d_add)
+
+```
+

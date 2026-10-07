@@ -1,0 +1,218 @@
+{
+  "doi": "10.6084/m9.figshare.30068944.v1",
+  "paper_doi": "10.1016/j.envc.2026.101453",
+  "license": "CC-BY-4.0",
+  "files": [
+    {
+      "id": 61711597,
+      "name": "README.txt",
+      "size": 3494,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711597",
+      "supplied_md5": "d236584b9ca789484493d19be24cf086",
+      "computed_md5": "d236584b9ca789484493d19be24cf086",
+      "mimetype": "text/plain",
+      "sha256": "ff40c844cc199a4569b0711659e9024ac6274e70cd55631a57821934a9bb2678"
+    },
+    {
+      "id": 61711471,
+      "name": "GSM_classification.py",
+      "size": 13548,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711471",
+      "supplied_md5": "24027042bc8f3896021cfa2f3d27c1eb",
+      "computed_md5": "24027042bc8f3896021cfa2f3d27c1eb",
+      "mimetype": "text/x-script.python",
+      "sha256": "3b2362b98c2ee65b2633bfb07cead8d983a60236a8237b9b5ea1091a4bd226f1"
+    },
+    {
+      "id": 61711477,
+      "name": "GSM_training_data_2023.shp",
+      "size": 71908,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711477",
+      "supplied_md5": "715d0d6f02f457ecba0f1e9d5b00a803",
+      "computed_md5": "715d0d6f02f457ecba0f1e9d5b00a803",
+      "mimetype": "application/octet-stream",
+      "sha256": "ed1dca15c536066d4af3258bebcd7acdf4f8c71dd6c2ab9b4c2cadf02b082b9d"
+    },
+    {
+      "id": 61711462,
+      "name": "GSM_boundary_2015.shp",
+      "size": 26892,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711462",
+      "supplied_md5": "6a4e38a455304607ad685d50b20213dc",
+      "computed_md5": "6a4e38a455304607ad685d50b20213dc",
+      "mimetype": "application/octet-stream",
+      "sha256": "ac594298c784561cfc7149352e7f4d2fa0ca37d454c73222ba8bab279943d3dc"
+    },
+    {
+      "id": 61711465,
+      "name": "GSM_boundary_2015_forest.shp",
+      "size": 8156,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711465",
+      "supplied_md5": "825729c206d02d8d01555e07c971438f",
+      "computed_md5": "825729c206d02d8d01555e07c971438f",
+      "mimetype": "application/octet-stream",
+      "sha256": "3f87c4601b75f594d833c1154a6a05d6b9056b528804c0b187e31af3f9f9d8cf"
+    },
+    {
+      "id": 61711456,
+      "name": "GSM_validation_points_150_AOI2015_minus_forest.xlsx",
+      "size": 19011,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711456",
+      "supplied_md5": "f5e1c9b5db5be10abc6fc7f339c378f7",
+      "computed_md5": "f5e1c9b5db5be10abc6fc7f339c378f7",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "aad005326f104b954ba8c927e6184f393d8b2e52a7882ee3b647f1ac84fc59a4"
+    },
+    {
+      "id": 61711474,
+      "name": "GSM_validation_points_150_AOI2015_minus_forest.gpkg",
+      "size": 122880,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711474",
+      "supplied_md5": "2f15be1921f405a98b17736c4642bd49",
+      "computed_md5": "2f15be1921f405a98b17736c4642bd49",
+      "mimetype": "application/x-sqlite3",
+      "sha256": "5cd90d607a83dafe0c44cebdb4705a3ced838d21c4450700cf8b351d8f4fa0db"
+    },
+    {
+      "id": 61711468,
+      "name": "GSM_validation_points_150_AOI2015_minus_forest_ADJUSTED_AREA_RESULTS.csv",
+      "size": 403,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711468",
+      "supplied_md5": "bfff290fa2a02e01cb993804ead8c092",
+      "computed_md5": "bfff290fa2a02e01cb993804ead8c092",
+      "mimetype": "text/csv",
+      "sha256": "1e7e065c2c82e46b245fd820e9f61b49675688c637ab876184ced4d32dbb1002"
+    },
+    {
+      "id": 57936433,
+      "name": "Elevation_Vegetation_Intersection.xlsx",
+      "size": 20307,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936433",
+      "supplied_md5": "61037919cf4363cd1f1eac31d612af82",
+      "computed_md5": "61037919cf4363cd1f1eac31d612af82",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "397aa9df5d339e5ac8becd92b9cb3515de6df966f6b7ac857d6a94b9efef25e0"
+    },
+    {
+      "id": 57936439,
+      "name": "visual_estimation_check.xlsx",
+      "size": 10156,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936439",
+      "supplied_md5": "e823826a95284f9021e65db9745729c0",
+      "computed_md5": "e823826a95284f9021e65db9745729c0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "f60a9cf8b078dd7bd018c84624a8c705f3a8e81a72eefc331018aeaaa7f38f1a"
+    },
+    {
+      "id": 57936436,
+      "name": "Elevation_statistics.qmd",
+      "size": 4001,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936436",
+      "supplied_md5": "2599ca17cb4dbb757b098f1a04663208",
+      "computed_md5": "2599ca17cb4dbb757b098f1a04663208",
+      "mimetype": "text/plain",
+      "sha256": "292c171b4866692577e0a3b12465b9fc68c8ec8f7ad0835df46a6cda1ba420b2"
+    },
+    {
+      "id": 57936442,
+      "name": "Intersection_stats.xlsx",
+      "size": 9524,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936442",
+      "supplied_md5": "fb9e1419d492e1458adcee724fbf1ec4",
+      "computed_md5": "fb9e1419d492e1458adcee724fbf1ec4",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "c35b15d1911cbfe69f148ed83888603db79cf558dc357a467129b7a24672dea6"
+    },
+    {
+      "id": 57936445,
+      "name": "clipping_experiment.xlsx",
+      "size": 21642,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936445",
+      "supplied_md5": "277f0f4e137b49f3e94fd12c7be1711d",
+      "computed_md5": "277f0f4e137b49f3e94fd12c7be1711d",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "c0c741d7d2711866a06f1b27787de9f240deb2ec9e506f977a77e1621eac269c"
+    },
+    {
+      "id": 57936448,
+      "name": "Irradiance_statistics.qmd",
+      "size": 1056,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936448",
+      "supplied_md5": "468ee63243d478c86d857c2f77ec899d",
+      "computed_md5": "468ee63243d478c86d857c2f77ec899d",
+      "mimetype": "text/plain",
+      "sha256": "0a26b8f450bd113b5872d1d9e8387527321c2b573d4b49fd79eb27ec8d6573b2"
+    },
+    {
+      "id": 57936451,
+      "name": "shading_raw_data.xlsx",
+      "size": 20616,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936451",
+      "supplied_md5": "2136d4e3af1c5a4b83a2593b95fab110",
+      "computed_md5": "2136d4e3af1c5a4b83a2593b95fab110",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "a0dede1fa5cd682888c1df558eaed5f150e13d9fffa0116c28a5eb890f3e9824"
+    },
+    {
+      "id": 57936454,
+      "name": "Irridiance_for_statistics.xlsx",
+      "size": 9462,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/57936454",
+      "supplied_md5": "bf0c07a20fefa3c8cb1a88f1fa3b912f",
+      "computed_md5": "bf0c07a20fefa3c8cb1a88f1fa3b912f",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "sha256": "96b04fa4454b40e1691cd91e4af5c28d2ab9f851a21c22ec53ac637f9f44ca9c"
+    },
+    {
+      "id": 61711459,
+      "name": "GSM_boundary_2023_clipped.tif",
+      "size": 55874872,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711459",
+      "supplied_md5": "14739b1d364ea3228ebaec9ea91df1be",
+      "computed_md5": "14739b1d364ea3228ebaec9ea91df1be",
+      "mimetype": "image/tiff",
+      "sha256": "ccbec47091eada488acbeccdfef47e66e7dc42cd7e1b0997610099e167388fdb"
+    },
+    {
+      "id": 61711492,
+      "name": "GSM_20230811.tif",
+      "size": 2017587198,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711492",
+      "supplied_md5": "717e81316c2c3137b56a5c751c37abd2",
+      "computed_md5": "717e81316c2c3137b56a5c751c37abd2",
+      "mimetype": "image/tiff",
+      "sha256": "35d67e02c47dd42af6808e0947ae56de538abcb0206adf1a49684a7c241bb196"
+    },
+    {
+      "id": 61711453,
+      "name": "GSM_2023_RF_classified_AOI2015_minus_forest.tif",
+      "size": 10996209,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/61711453",
+      "supplied_md5": "bfde5a141b973aeb98070a058f78363c",
+      "computed_md5": "bfde5a141b973aeb98070a058f78363c",
+      "mimetype": "image/tiff",
+      "sha256": "3f25d02577396fb87c243b2a636df907d3527ecb445e979f04960e1e2796cdde"
+    }
+  ],
+  "total_bytes": 2084821335,
+  "provider_md5_verified": true
+}

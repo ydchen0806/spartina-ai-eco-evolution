@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.3" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">Front. Plant Sci.</journal-id>
+<journal-title-group>
+<journal-title>Frontiers in Plant Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Front. Plant Sci.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">1664-462X</issn>
+<publisher>
+<publisher-name>Frontiers Media S.A.</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.3389/fpls.2026.1913369</article-id>
+<article-version article-version-type="Version of Record" vocab="NISO-RP-8-2008"/>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Original Research</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Environmental stress and plant-plant interactions jointly shape intertidal cordgrass traits across broad spatial scales</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name><surname>Liu</surname><given-names>Yiwen</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<uri xlink:href="https://loop.frontiersin.org/people/3644643/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Dong</surname><given-names>Qian</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<uri xlink:href="https://loop.frontiersin.org/people/3562622/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Zheng</surname><given-names>Ziyu</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<uri xlink:href="https://loop.frontiersin.org/people/3644704/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Hu</surname><given-names>Wensi</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<uri xlink:href="https://loop.frontiersin.org/people/3424902/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Li</surname><given-names>Yuxiang</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<uri xlink:href="https://loop.frontiersin.org/people/3163955/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name><surname>Xu</surname><given-names>Chi</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<xref ref-type="corresp" rid="c001"><sup>*</sup></xref>
+<uri xlink:href="https://loop.frontiersin.org/people/652238/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project-administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name><surname>Teng</surname><given-names>Shuqing N.</given-names></name>
+<xref ref-type="aff" rid="aff1"/>
+<xref ref-type="corresp" rid="c001"><sup>*</sup></xref>
+<uri xlink:href="https://loop.frontiersin.org/people/3571166/overview"/>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+<role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+</contrib>
+</contrib-group>
+<aff id="aff1"><institution>School of Life Sciences, Nanjing University</institution>, <city>Nanjing</city>,&#xa0;<country country="cn">China</country></aff>
+<author-notes>
+<corresp id="c001"><label>*</label>Correspondence: Chi Xu, <email xlink:href="mailto:xuchi@nju.edu.cn">xuchi@nju.edu.cn</email>; Shuqing N. Teng, <email xlink:href="mailto:shuqingteng@nju.edu.cn">shuqingteng@nju.edu.cn</email></corresp>
+</author-notes>
+<pub-date publication-format="electronic" date-type="pub" iso-8601-date="2026-08-14">
+<day>14</day>
+<month>08</month>
+<year>2026</year>
+</pub-date>
+<pub-date publication-format="electronic" date-type="collection">
+<year>2026</year>
+</pub-date>
+<volume>17</volume>
+<elocation-id>1913369</elocation-id>
+<history>
+<date date-type="received">
+<day>18</day>
+<month>06</month>
+<year>2026</year>
+</date>
+<date date-type="rev-recd">
+<day>21</day>
+<month>07</month>
+<year>2026</year>
+</date>
+<date date-type="accepted">
+<day>31</day>
+<month>07</month>
+<year>2026</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>Copyright &#xa9; 2026 Liu, Dong, Zheng, Hu, Li, Xu and Teng.</copyright-statement>
+<copyright-year>2026</copyright-year>
+<copyright-holder>Liu, Dong, Zheng, Hu, Li, Xu and Teng</copyright-holder>
+<license>
+<ali:license_ref start_date="2026-08-14">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+<license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+</license>
+</permissions>
+<abstract>
+<p>In intertidal ecosystems, plant functional traits are strongly shaped by environmental stress induced by e.g. hydrodynamic disturbance and salinity. Meanwhile, local-scale plant-plant interactions (such as facilitation) can also affect plant traits to a certain extent. However, it remains unclear how these abiotic and biotic factors jointly shape plant traits across broad geographic gradients. Here, we focused on within-patch functional differentiations of a cordgrass species <italic>Spartina alterniflora</italic> growing patchily at low and high tidal positions located in 10 Chinese coastal sites spanning 10 latitudinal degrees. Three key functional traits of the species, namely leaf dry mass content (LDMC), specific leaf area (SLA), and plant height, were considered. Soil properties within and outside vegetation patches, as well as marine environmental variables (salinity, dissolved oxygen, nitrate and phosphate concentrations), were included as predictors in linear regression analyses. As the response variable, a trait lnRR was calculated as the logarithm ratio of the trait value at the center to that at the edge of a vegetation patch, representing within-patch facilitation strength. We found that at high tidal positions, where hydrodynamic stress was relatively weak, plants at patch centers had 15.6% higher LDMC and 13.3% lower SLA than those at patch edges. By contrast, at low tidal positions, center plants were 13.4% taller than edge plants. At both tidal positions, soil properties explained the greatest (<italic>R</italic>&#xb2; = 0.670 and 0.479 at low and high tidal positions, respectively) proportion of variations in plant height lnRR and the least (<italic>R</italic>&#xb2; = 0.079 and 0.105 at low and high tidal positions, respectively) variations in SLA lnRR. Across all sites, plant height lnRR increased with salinity (<italic>r</italic>&#xa0;=&#xa0;0.79, <italic>p</italic>&#xa0;&lt;&#xa0;0.001) but decreased with dissolved oxygen (<italic>r</italic>&#xa0;=&#xa0;-0.61, <italic>p</italic>&#xa0;=&#xa0;0.004) and nitrate concentration (<italic>r</italic>&#xa0;=&#xa0;-0.78, <italic>p</italic>&#xa0;&lt;&#xa0;0.001), reflecting greater center&#x2013;edge height differences under harsher environmental conditions. These findings suggest that within-patch functional trait differences can broadly provide a signature of local facilitation, with facilitative effects becoming more pronounced under more stressful intertidal conditions. Our work not only advances our understanding of how patch-forming coastal plants organize functional variation under spatially heterogeneous and changing intertidal conditions, but also provides useful implications for practices of wetland management and restoration in coastal ecosystems.</p>
+</abstract>
+<kwd-group>
+<kwd>facilitation</kwd>
+<kwd>functional traits</kwd>
+<kwd>salt marsh</kwd>
+<kwd>scale-dependent feedback</kwd>
+<kwd>stress gradient hypothesis</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The author(s) declared that financial support was received for this work and/or its publication. This work was supported by the National Key R&amp;D Program of China (2022YFF1301000).</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="6"/>
+<table-count count="0"/>
+<equation-count count="1"/>
+<ref-count count="58"/>
+<page-count count="11"/>
+<word-count count="5775"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>section-at-acceptance</meta-name>
+<meta-value>Functional Plant Ecology</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1" sec-type="intro">
+<label>1</label>
+<title>Introduction</title>
+<p>Salt marshes are highly productive and biogeochemically active ecosystems that provide critical ecological services, including shoreline stabilization, blue carbon sequestration, nutrient cycling, and habitat provision for coastal biodiversity (<xref ref-type="bibr" rid="B3">Barbier et&#xa0;al., 2011</xref>; <xref ref-type="bibr" rid="B12">Duarte et&#xa0;al., 2013</xref>; <xref ref-type="bibr" rid="B19">Macreadie et&#xa0;al., 2021</xref>; <xref ref-type="bibr" rid="B20">Mcleod et al., 2011</xref>; <xref ref-type="bibr" rid="B43">Temmerman et&#xa0;al., 2013</xref>). The tidal front zone is a particularly dynamic and vulnerable interface where inundation frequency, wave forcing, substrate instability, salinity stress and nutrient heterogeneity jointly constrain plant survival and growth (<xref ref-type="bibr" rid="B2">Balke et&#xa0;al., 2016</xref>; <xref ref-type="bibr" rid="B13">Fagherazzi et&#xa0;al., 2012</xref>; <xref ref-type="bibr" rid="B24">Morris et&#xa0;al., 2002</xref>). Under such interacting stresses, vegetation often occurs as discrete patches embedded within unvegetated flats, forming irregular, self-organized spatial patterns driven by &#x2018;scale-dependent feedbacks&#x2019; (short-range positive feedback and long-range negative feedback) (<xref ref-type="bibr" rid="B45">van de Koppel et&#xa0;al., 2005</xref>; <xref ref-type="bibr" rid="B32">Rietkerk et&#xa0;al., 2004</xref>; <xref ref-type="bibr" rid="B57">Zhao et&#xa0;al., 2019</xref>).</p>
+<p>Mostly, these intertidal patches are internally heterogeneous, in terms of both abiotic (micro-habitat) conditions and biotic interactions among plant individuals. Particularly, due to the presence of scale-dependent feedbacks, vegetation patch center is often dominated by stronger positive plant-plant interactions (facilitation) that may affect plant traits therein (<xref ref-type="bibr" rid="B57">Zhao et&#xa0;al., 2019</xref>, <xref ref-type="bibr" rid="B58">2021</xref>). Within a patch, the spatial organization of soil properties and plant performance is shaped by local facilitation: established vegetation reduces flow velocity and wave energy (<xref ref-type="bibr" rid="B6">Bouma et&#xa0;al., 2009</xref>; <xref ref-type="bibr" rid="B46">van Wesenbeeck et&#xa0;al., 2008</xref>; <xref ref-type="bibr" rid="B23">M&#xf6;ller et&#xa0;al., 2014</xref>), thus promoting fine-sediment deposition and surface accretion (<xref ref-type="bibr" rid="B45">van de Koppel et&#xa0;al., 2005</xref>; <xref ref-type="bibr" rid="B36">Schwarz et&#xa0;al., 2018</xref>), further shortening inundation duration and reducing salinity stress, and ultimately enhancing plant growth (<xref ref-type="bibr" rid="B45">van de Koppel et&#xa0;al., 2005</xref>). In response to the radially decreasing local facilitation, vegetated patches can exhibit a small-scale gradient (i.e., from patch centers to bare flats) in both soil properties and plant performance. This key role of short-range positive feedback has been supported by transplant experiments showing that aboveground biomass and stem density are consistently higher at patch centers than patch edges (<xref ref-type="bibr" rid="B57">Zhao et&#xa0;al., 2019</xref>).</p>
+<p>At larger scales, e.g., across the tidal gradient, vegetation patches are embedded in fundamentally different abiotic contexts. Patches at low tidal positions usually experience more frequent inundation, stronger hydrodynamic forcing, and greater sediment exchange, whereas patches at high tidal positions with less physical disturbance often experience greater salinity accumulation, nutrient enrichment, and competitive pressure (<xref ref-type="bibr" rid="B24">Morris et&#xa0;al., 2002</xref>; <xref ref-type="bibr" rid="B26">Pennings and Callaway, 1992</xref>; <xref ref-type="bibr" rid="B39">Silvestri et&#xa0;al., 2005</xref>). These abiotic context differences may alter the primary process through which environmental drivers regulate plant traits. In other words, tidal position may act as a broad environmental filter that shapes not only where patches occur, but also how within-patch soil&#x2013;trait relationships are represented. Apart from these abiotic processes, how plant-plant interactions vary along tidal gradients has been addressed by the stress gradient hypothesis (<xref ref-type="bibr" rid="B4">Bertness and Callaway, 1994</xref>), where facilitative interactions tend to intensify with abiotic stress gradients at broad scales (<xref ref-type="bibr" rid="B14">He et&#xa0;al., 2013</xref>). In saltmarsh zones, for example, facilitation among neighboring plants has been found to enhance survival more strongly at low tidal positions that are more physically stressful (<xref ref-type="bibr" rid="B38">Silliman et&#xa0;al., 2015</xref>).</p>
+<p>Importantly, how these abiotic and biotic factors jointly shape plant traits across broad geographic gradients remains unclear. To address this knowledge gap, plant functional traits offer a mechanistic framework for linking soil properties to plant performance (<xref ref-type="bibr" rid="B16">Lavorel and Garnier, 2002</xref>; <xref ref-type="bibr" rid="B50">Violle et&#xa0;al., 2007</xref>), serving as suitable proxies for local positive feedback. Typically, leaf dry matter content (LDMC) and specific leaf area (SLA) are closely related to leaf resource-use strategies (<xref ref-type="bibr" rid="B11">D&#xed;az et&#xa0;al., 2016</xref>; <xref ref-type="bibr" rid="B55">Wright et&#xa0;al., 2004</xref>). In coastal salt marshes, SLA shows a hump-shaped response to inundation, peaking at approximately 30%, whereas leaf dry mass increases monotonically along the same gradient (<xref ref-type="bibr" rid="B51">Wang et&#xa0;al., 2023</xref>). Additionally, plant height provides a structural aspect. In tidal marshes, better-aerated and resource-rich sediments generally support greater plant stature and above-ground production (<xref ref-type="bibr" rid="B21">Minden et&#xa0;al., 2012</xref>; <xref ref-type="bibr" rid="B35">Schulte Ostermann et&#xa0;al., 2021</xref>). In general, these three functional traits respond sensitively to environmental gradients.</p>
+<p>Our study focused on salt marshes along the eastern coast of China, where <italic>S. alterniflora</italic> is a widespread invasive species that has displaced native vegetation and formed distinct patchy patterns in tidal front zone. Here, we test three main predictions. First, high and low tidal positions would differ in nutrient availability, sediment texture, and salinity background, and plant height at low tidal positions would be lower and exhibit more conservative leaf strategies (i.e., higher LDMC and lower SLA). Second, at the patch scale, stronger positive feedbacks at patch centers would lead to higher plant heights, lower LDMC, and higher SLA than at patch edges, together with greater nutrient accumulation, finer sediments, and lower salinity. Third, center&#x2013;edge trait variation would be jointly influenced by variation in soil properties, the surrounding bare-flat matrix, marine environmental conditions, and may serve as a functional indicator of local positive-feedback strength.</p>
+</sec>
+<sec id="s2" sec-type="materials|methods">
+<label>2</label>
+<title>Materials and methods</title>
+<sec id="s2_1">
+<label>2.1</label>
+<title>Study area and sampling design</title>
+<p>This study was conducted in coastal salt marshes across the distribution range of <italic>S. alterniflora</italic> in eastern China. 10 sites were selected along a broad latitudinal gradient from 23.93&#xb0;N to 34.46&#xb0;N (<xref ref-type="fig" rid="f1"><bold>Figure&#xa0;1a</bold></xref>; <xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Table&#xa0;1</bold></xref>). Field surveys were conducted in Zhejiang Province in October 2023, Jiangsu Province in June 2025, and Fujian Province in September 2025, all during the local active growing period of <italic>S. alterniflora</italic>. To capture within-site tidal heterogeneity, two tidal positions were established at each site: a low tidal position and a high tidal position, separated by at least 50&#xa0;m (<xref ref-type="fig" rid="f1"><bold>Figure&#xa0;1b</bold></xref>). For each tidal position, UAV imagery was acquired and clipped in QGIS 3.30.2 to a 50&#xa0;m &#xd7; 50&#xa0;m window centered on the sampling area. The clipped imagery was imported into eCognition Developer 9.0, where multi-resolution segmentation followed by threshold-based classification was used to distinguish vegetated pixels from non-vegetated ones. Vegetation cover and patch number were then derived for each 50&#xa0;m &#xd7; 50&#xa0;m window (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Table&#xa0;1</bold></xref>).</p>
+<fig id="f1" position="float">
+<label>Figure&#xa0;1</label>
+<caption>
+<p>Study sites and sampling design in coastal salt marshes of eastern China. <bold>(a)</bold> Geographical distribution of the 10 study sites across coastal wetlands of eastern China. Red points indicate sampling sites from Jiangsu (1&#x2013;5), Zhejiang (6&#x2013;7) and Fujian (8&#x2013;10) provinces. <bold>(b)</bold> Representative high-resolution UAV-derived orthomosaic from Sheyang, Yancheng, Jiangsu Province (33.86&#xb0;N, 120.48&#xb0;E), showing discrete <italic>S. alterniflora</italic> patches under low and high tidal positions. Blue and orange rectangles indicate low and high tidal-position sampling zones, respectively; circles denote four replicated vegetation patches selected within each tidal position. <bold>(c)</bold> Patch-scale sampling design. For each selected vegetation patch, three 0.5&#xa0;m &#xd7; 0.5&#xa0;m quadrats were established along the local center&#x2013;edge&#x2013;bare soil gradient. <bold>(d)</bold> Conceptual framework showing the drivers of center&#x2013;edge functional trait differentiation within vegetation patches.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fpls-17-1913369-g001.tif">
+<alt-text content-type="machine-generated">Composite scientific figure with four panels: (a) Satellite map of southeastern China showing ten coastal sites marked with red dots, (b) aerial view of marsh vegetation divided into low and high tidal position zones highlighted in blue and orange boxes with circles indicating sampling locations, (c) close-up of a plant patch with three red squares marking sampling positions at the patch center, patch edge, and adjacent bare soil, (d) conceptual diagram illustrating the drivers of center&#x2013;edge functional trait differentiation within vegetation patches.</alt-text>
+</graphic></fig>
+<p>Within each tidal position, four <italic>S. alterniflora</italic> vegetation patches were randomly selected for field sampling, yielding 80 patches across all sites. For each patch, three 0.5&#xa0;m &#xd7; 0.5&#xa0;m quadrats were established along a patch-scale microhabitat gradient: patch center, patch edge, and adjacent bare soil (<xref ref-type="fig" rid="f1"><bold>Figure&#xa0;1c</bold></xref>). The center quadrat was placed in the patch interior, the edge quadrat was located within the vegetated patch boundary, and the bare-soil quadrat was placed on nearby unvegetated sediment within 1&#xa0;m of the patch margin. Plant measurements were conducted in the center and edge quadrats, whereas soil samples were collected from all three quadrat types. Within each site, all plant and soil samples were collected during the same field campaign following an identical protocol. In total, 160 vegetation quadrats and 240 soil samples were collected across the ten sites.</p>
+</sec>
+<sec id="s2_2">
+<label>2.2</label>
+<title>Measurement of plant traits and soil properties</title>
+<p>In each center and edge vegetation quadrat, plant height was measured for 3&#x2013;10 randomly selected mature and healthy individuals, and the quadrat mean was used in subsequent analyses. For leaf trait measurements, 3&#x2013;10 mature individuals per quadrat were collected and kept in the dark in black plastic bags at 4&#xa0;&#xb0;C for approximately 12&#xa0;h, with their basal ends immersed in clean water to minimize water loss. After rehydration, fully expanded mature leaves were excised, gently blotted to remove surface water, and weighed to obtain saturated fresh mass. Leaves were then scanned, and leaf area was quantified using ImageJ. The same leaves were oven-dried at 65&#xa0;&#xb0;C to constant mass and weighed to obtain dry mass. SLA was calculated as leaf area divided by leaf dry mass (cm&#xb2;/g), and LDMC was calculated as leaf dry mass divided by saturated fresh mass (<xref ref-type="bibr" rid="B27">P&#xe9;rez-Harguindeguy et&#xa0;al., 2013</xref>).</p>
+<p>Soil samples were collected from the 10&#x2013;30 cm depth layer in patch-center, patch-edge, and adjacent bare-soil quadrats. Our sampling sites were located in intertidal marsh front zones, where frequent inundation and direct exposure to tidal currents make the sediment surface particularly dynamic. Marsh surface sediment deposition can vary substantially among individual tidal events and over short spatial distances, while higher tides may enhance sediment resuspension and delivery to the marsh surface (<xref ref-type="bibr" rid="B18">Ma et&#xa0;al., 2018</xref>; <xref ref-type="bibr" rid="B34">Schuerch et&#xa0;al., 2019</xref>; <xref ref-type="bibr" rid="B29">Reed et&#xa0;al., 1999</xref>). In addition, the physicochemical conditions of surficial intertidal sediments are influenced by repeated inundation, drainage and flushing, as well as evaporation-related changes in salinity (<xref ref-type="bibr" rid="B22">Moffett and Gorelick, 2016</xref>; <xref ref-type="bibr" rid="B37">Shen et&#xa0;al., 2018</xref>). Considering these disturbance processes present in surficial sediments, we excluded the uppermost 0&#x2013;10 cm layer and consistently sampled the 10&#x2013;30 cm depth interval across all sites. Soil samples were collected and analyzed for physical and chemical properties (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Table&#xa0;2</bold></xref>). Samples were air-dried at room temperature, ground, and passed through a 2&#xa0;mm sieve before laboratory analyses. Bulk density (BD) was determined from undisturbed soil cores using the cutting-ring method. Particle-size distribution was measured by laser diffraction, from which clay, silt, sand fractions and median particle diameter (D50) were derived. Specific surface area (SSA) was calculated from the particle-size distribution assuming spherical particle geometry. Soil electrical conductivity (Ec) was measured potentiometrically in a 1:2.5 soil-to-water suspension using a conductivity electrode. Total nitrogen (TN) was determined by the Kjeldahl method after acid digestion. Total phosphorus (TP) was measured by alkali fusion followed by the molybdenum&#x2013;antimony colorimetric method, and available phosphorus (AP) was extracted with sodium bicarbonate and determined using the same colorimetric method. Total potassium (TK) was measured by alkali fusion followed by flame photometry, and available potassium (AK) was extracted with ammonium acetate and measured by flame photometry. Nitrate nitrogen (NO<sub>3</sub><sup>-</sup>&#x2013;N) was extracted with potassium chloride and determined by ultraviolet spectrophotometry, whereas ammonium nitrogen (NH<sub>4</sub><sup>+</sup>&#x2013;N) was extracted with potassium chloride and determined using the indophenol blue colorimetric method.</p>
+</sec>
+<sec id="s2_3">
+<label>2.3</label>
+<title>Data analysis</title>
+<p>All analyses were conducted in R (4.5.0). For all linear mixed-effects models (LMMs), patch position, tidal position, and their interaction were fitted as fixed effects, whereas province and sampling site were fitted as random intercepts. Each site was sampled on a single date, and seasonal or phenological offset among sites was absorbed into the site- and province-level intercepts. We examined normality of the predictors and applied log-transformations to LDMC, SLA TP, Ec, NO<sub>3</sub><sup>-</sup>-N, NH<sub>4</sub><sup>+</sup>-N and D50 to achieve symmetry and linearity. To characterize bare-soil conditions across tidal positions, we applied PCA to standardized values of TN, TP, TK, AP, NH<sub>4</sub><sup>+</sup>-N, NO<sub>3</sub><sup>-</sup>-N, AK, clay, silt, sand, D50, SSA, and BD. PCA was conducted on standardized variables, and PC1 scores were direction-corrected so that higher values represented finer, more resource-rich conditions. Separate models were fitted for ln(LDMC), ln(SLA), and plant height. <italic>Post hoc</italic> comparisons among patch-position &#xd7; tidal-position groups were based on estimated marginal means with Sidak adjustment. To assess leaf economic coordination, we modelled ln(LDMC) as a function of ln(SLA), group identity, and their interaction, where groups represented the four patch-position &#xd7; tidal-position combinations. Group-specific slopes were estimated using marginal trends. Radial variation in individual soil variables was analyzed across patch centers, patch edges, and adjacent bare soils.</p>
+<p>Center&#x2013;edge functional trait variation was quantified as log response ratios (lnRR):</p>
+<disp-formula>
+<mml:math display="block" id="M1"><mml:mrow><mml:mi>X</mml:mi><mml:mo>&#xa0;</mml:mo><mml:mi>l</mml:mi><mml:mi>n</mml:mi><mml:mi>R</mml:mi><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mtext>l</mml:mtext><mml:mi>n</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>X</mml:mi><mml:mrow><mml:mi>C</mml:mi><mml:mi>e</mml:mi><mml:mi>n</mml:mi><mml:mi>t</mml:mi><mml:mi>e</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>X</mml:mi><mml:mrow><mml:mi>E</mml:mi><mml:mi>d</mml:mi><mml:mi>g</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math>
+</disp-formula>
+<p>for each trait and soil variable (denoted by <italic>X</italic>), with positive values indicating higher values at patch centers. For each tidal position, trait lnRRs, serving as the external proxy for the positive feedback strength (<xref ref-type="fig" rid="f1"><bold>Figure 1d</bold></xref>), were regressed against two predictor sets: within-patch soil contrasts (soil lnRRs) and external matrix conditions (adjacent bare-soil properties). Candidate predictors were screened via single-predictor LMMs, then filtered for collinearity (|r| &lt; 0.70, VIF &lt; 5), with no more than three predictors retained per final model. Fixed-effect explanatory power was reported as marginal R&#xb2; (R<sup>2</sup>m). Marine environmental variables (salinity, dissolved oxygen, nitrate, and phosphate) were obtained from the Bio-ORACLE v2.0 dataset (<xref ref-type="bibr" rid="B1">Assis et&#xa0;al., 2018</xref>), representing long-term monthly means (2000&#x2013;2014) at 5 arcmin resolution.</p>
+</sec>
+</sec>
+<sec id="s3" sec-type="results">
+<label>3</label>
+<title>Results</title>
+<sec id="s3_1">
+<label>3.1</label>
+<title>Tidal position divergence in bare soil background and patch structure</title>
+<p>Bare-flat environmental conditions diverged clearly between tidal positions (<xref ref-type="fig" rid="f2"><bold>Figures&#xa0;2a, b</bold></xref>). High tidal positions had significantly higher bare-soil PC1 and Ec than low tidal positions, indicating a shift towards finer-textured, more saline substrate conditions with higher values along the multivariate soil-resource axis. This PCA-derived axis explained 61% of the total variation and was defined by positive loadings of silt, SSA, clay and several nutrient variables, and negative loadings of sand, D50 and bulk density (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Figure&#xa0;1</bold></xref>). Across the 10 study sites, high tidal positions generally supported greater patch cover and patch number than low tidal positions, although the magnitude of this difference varied among sites (<xref ref-type="fig" rid="f2"><bold>Figures&#xa0;2c, d</bold></xref>).</p>
+<fig id="f2" position="float">
+<label>Figure&#xa0;2</label>
+<caption>
+<p>Tidal-position differences in bare-flat soil conditions and patch structure. <bold>(a)</bold> Bare-soil PC1 and <bold>(b)</bold> bare-soil Ec at low and high tidal positions. Points and error bars represent estimated marginal means &#xb1; 95% confidence intervals. Different letters indicate significant tidal-position contrasts derived from linear mixed-effects models and subsequent <italic>emmeans</italic> comparisons, rather than significance inferred from overlap between the confidence intervals of individual group means. <bold>(c)</bold> Patch cover and <bold>(d)</bold> patch number across the ten study sites at low and high tidal positions.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fpls-17-1913369-g002.tif">
+<alt-text content-type="machine-generated">Four-panel scientific figure comparing bare-soil variables and patch attributes between low and high tidal positions using blue and orange for each position. Panel (a) shows higher mean bare-soil PC1 at high tidal position, with error bars; panel (b) shows higher mean bare-soil electrical conductivity (Ec) at high tidal position, also with error bars. Panel (c) is a bar chart of patch cover by site, generally higher at high tidal position for most sites. Panel (d) is a bar chart of patch number by site, also mostly higher at high tidal position.</alt-text>
+</graphic></fig>
+</sec>
+<sec id="s3_2">
+<label>3.2</label>
+<title>Plant functional traits variation and leaf economic coordination across patch and tidal positions</title>
+<p>The plant functional traits responded differently to patch and tidal positions (<xref ref-type="fig" rid="f3"><bold>Figure&#xa0;3</bold></xref>). LDMC showed significant effects of patch position (F&#xa0;=&#xa0;4.24, <italic>p</italic>&#xa0;=&#xa0;0.041; <xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Table&#xa0;3</bold></xref>), tidal position (F&#xa0;=&#xa0;17.06, <italic>p</italic>&#xa0;&lt;&#xa0;0.001), and their interaction (F&#xa0;=&#xa0;10.02, <italic>p</italic>&#xa0;=&#xa0;0.002), with patch-center plants showing 15.6% higher LDMC than patch-edge plants at the high tidal position. SLA variation was mainly explained by the tidal &#xd7; patch interaction, with only a marginal patch-position effect and no independent tidal-position effect (F&#xa0;=&#xa0;2.85, <italic>p</italic>&#xa0;=&#xa0;0.094). At the high tidal position, patch-center plants had 13.3% lower SLA than patch-edge plants. In contrast, plant height was affected only by patch position (F&#xa0;=&#xa0;11.73, <italic>p</italic>&#xa0;&lt;&#xa0;0.001), with no significant tidal position or interaction effect. At the low tidal position, patch-center plants were 13.4% taller than patch-edge plants. The relationship between ln(SLA) and ln(LDMC) was negative across all groups (<xref ref-type="fig" rid="f3"><bold>Figure&#xa0;3d</bold></xref>). The negative slope was strongest in low-edge plants (slope = &#x2212;0.490, <italic>p</italic>&#xa0;&lt;&#xa0;0.001), followed by high-edge plants (slope = &#x2212;0.354, <italic>p</italic>&#xa0;&lt;&#xa0;0.001), high-center plants (slope = &#x2212;0.264, <italic>p</italic>&#xa0;&lt;&#xa0;0.01), and low-center plants (slope = &#x2212;0.197, <italic>p</italic>&#xa0;=&#xa0;0.078). Thus, the SLA&#x2013;LDMC relationship remained consistently negative, but its strength varied among patch and tidal contexts, with edge plants showing steeper trait coordination than center plants.</p>
+<fig id="f3" position="float">
+<label>Figure&#xa0;3</label>
+<caption>
+<p>Variation in plant functional traits and leaf economic coordination across patch positions and tidal backgrounds. <bold>(a&#x2013;c)</bold> Variation in LDMC, SLA, and plant height between patch centers and edges under low and high tidal positions. Regarding Sidak-adjusted <italic>post hoc</italic> comparisons among patch-position &#xd7; tidal-position groups, no lowercase letter in common indicates significant difference at the 0.05 level, whereas sharing at least one lowercase letter does otherwise. <bold>(d)</bold> Relationship between ln(SLA) and ln(LDMC) across the four patch-position &#xd7; tidal-position groups. Lines represent fitted group-specific linear relationships, with shaded bands indicating 95% confidence intervals. Solid and dashed lines indicate significant and non-significant slopes, respectively.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fpls-17-1913369-g003.tif">
+<alt-text content-type="machine-generated">Four-panel figure comparing functional traits by tidal position and patch position and assessing leaf economic coordination. Panel (a): patch-center plants showing higher LDMC than patch-edge plants at the high tidal position. Panel (b): patch-center plants had lower SLA than patch-edge plants at the high tidal position. Panel (c): at the low tidal position, patch-center plants were taller than patch-edge plants. Panel (d): Scatter plot shows negative correlations between ln LDMC and ln SLA, with regression lines for each group; slopes and significance are labeled, and shaded regions denote confidence intervals.</alt-text>
+</graphic></fig>
+</sec>
+<sec id="s3_3">
+<label>3.3</label>
+<title>Radial heterogeneity of soil properties from patch centers to bare soil</title>
+<p>The differentiation in soil properties across patch centers, patch edges and adjacent bare soils varied with tidal positions (<xref ref-type="fig" rid="f4"><bold>Figure&#xa0;4</bold></xref>). Across all radial positions, high tidal positions generally showed higher TN, AP, Ec, SSA and Silt, but lower Sand content than low tidal positions, indicating consistently finer-textured, more saline and more resource-rich soil conditions at high tidal positions. Within patches, soil properties also varied along the center&#x2013;edge&#x2013;bare soil gradient, but the strength of this radial pattern depended on tidal background. At high tidal positions, SSA and Silt were highest at patch edges and declined towards bare soils, while Sand showed the opposite pattern, suggesting stronger sediment fining within vegetated patches. TN remained higher at high than low tidal positions, particularly at patch centers and bare soils, whereas AP increased from patch centers to bare soils in both tidal positions. Ec differed mainly between tidal positions rather than among radial positions, with consistently higher values at high tidal positions.</p>
+<fig id="f4" position="float">
+<label>Figure&#xa0;4</label>
+<caption>
+<p>Radial variation in key soil properties across vegetation patches at low and high tidal positions. Points and error bars show group mean &#xb1; SE of selected soil nutrient, salinity and sediment properties across patch centers, patch edges and adjacent bare soils at low and high tidal positions. Statistical significance was tested using linear mixed-effects models. Blue and orange symbols represent low and high tidal positions, respectively. No lowercase letter in common indicates significant difference among patch positions for a given tidal position, based on Sidak-adjusted post hoc comparisions. Asterisks indicate significant difference between tidal positions for a given patch position. Significance levels are denoted as ***<italic>p</italic>&#xa0;&lt;&#xa0;0.001, **<italic>p</italic>&#xa0;&lt;&#xa0;0.01 and *<italic>p</italic>&#xa0;&lt;&#xa0;0.05.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fpls-17-1913369-g004.tif">
+<alt-text content-type="machine-generated">Six-panel figure comparing low and high tidal positions (blue and orange) for center, edge, and bare soil, across six variables: TN, AP, Ec, SSA, sand, and silt. Panel titles report units, and vertical axes show means with error bars. Within each tidal position, significant differences among patch positions are indicated by lowercase letters; For each tidal position, significant difference at the 0.05 level among patch positions is indicated by no lowercase letter in common. For each patch position, significant difference between tidal positions is indicated by asterisks. Legend identifies colors for tidal positions.</alt-text>
+</graphic></fig>
+</sec>
+<sec id="s3_4">
+<label>3.4</label>
+<title>Within-patch soil&#x2013;trait links</title>
+<p>Within-patch soil&#x2013;trait links differed markedly between tidal positions and among traits (<xref ref-type="fig" rid="f5"><bold>Figure&#xa0;5</bold></xref>). At the low tidal position, plant height lnRR was most strongly explained (R&#xb2;m = 0.670), increasing with both the within-patch clay gradient (Clay lnRR) and bare-soil clay content, indicating that sediment texture at both internal and external scales could be the main driver of center&#x2013;edge height variation. Plant height itself also increased with clay content at the low tidal position (R&#xb2;m = 0.631; <xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Figure 2</bold></xref>), further supporting the role of fine sediments in promoting structural growth. LDMC lnRR was moderately explained by bare-soil nutrients and salinity (R&#xb2;m = 0.348), with positive effects of bare-soil NH<sub>4</sub><sup>+</sup>-N and TP. SLA lnRR showed minimal explanatory power (R&#xb2;m = 0.079). At the high tidal position, explanatory power was generally lower across all traits. Plant height lnRR decreased significantly with bare-soil D50 and increased with TP (R&#xb2;m = 0.479), while SLA lnRR increased marginally with the within-patch AK gradient (R&#xb2;m = 0.105). No predictor in the LDMC lnRR model reached significance (R&#xb2;m = 0.370). Overall, within-patch height differentiation at the low tidal position showed the strongest association with soil conditions. This pattern was shaped not only by internal soil gradients within vegetation patches, but also by the surrounding bare-flat matrix.</p>
+<fig id="f5" position="float">
+<label>Figure&#xa0;5</label>
+<caption>
+<p>Forest plots showing within-patch soil&#x2013;trait associations grouped by tidal position. Trait lnRR was calculated as the natural logarithm of the response ratio of patch-center values to patch-edge values. Points indicate standardized regression coefficients, and horizontal lines represent 95% confidence intervals. Blue and green symbols denote patch soil lnRR and bare-soil properties, respectively. Patch soil lnRR refers to the natural logarithm of the response ratio of a given patch center&#x2019;s soil variables to the patch edge&#x2019;s, whereas BS indicates bare-soil properties measured outside vegetation patches. Significant effects are indicated by symbols: ***<italic>p</italic>&#xa0;&lt;&#xa0;0.001, **<italic>p</italic>&#xa0;&lt;&#xa0;0.01, *<italic>p</italic>&#xa0;&lt;&#xa0;0.05, and <italic>p</italic> &lt; 0.10. Marginal R&#xb2; (R<sup>2</sup>m) and AIC are shown for each model.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fpls-17-1913369-g005.tif">
+<alt-text content-type="machine-generated">Grouped figure with six panels showing regression coefficient plots for effects of within-patch soil and bare soil properties on LDMC, SLA, and plant height at low and high tidal positions. Blue points represent within-patch soil lnRR, green points indicate bare soil properties, with significant results marked by asterisks and confidence intervals represented by horizontal lines. Percentages on left highlight relative contribution of variable groups.</alt-text>
+</graphic></fig>
+</sec>
+<sec id="s3_5">
+<label>3.5</label>
+<title>Relationships between marine environmental context and center&#x2013;edge trait variation</title>
+<p>Marine environmental variables were strongly associated with plant height lnRR (<xref ref-type="fig" rid="f6"><bold>Figure&#xa0;6</bold></xref>), but showed much weaker relationships with leaf economic trait lnRR (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Figure&#xa0;3</bold></xref>). Plant height lnRR increased with salinity (R&#xb2; = 0.63, <italic>p</italic>&#xa0;&lt;&#xa0;0.001), but decreased with dissolved molecular oxygen (R&#xb2; = 0.37, <italic>p</italic>&#xa0;=&#xa0;0.004) and nitrate (R&#xb2; = 0.61, <italic>p</italic>&#xa0;&lt;&#xa0;0.001). These relationships indicate that broader marine environmental gradients were closely linked to the magnitude and direction of center&#x2013;edge height variation, with more saline and nitrate-poor conditions associated with greater relative height at patch centers. By contrast, LDMC and SLA lnRR showed limited associations with the same marine variables (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Figure&#xa0;3</bold></xref>). LDMC lnRR was weakly related to salinity and nitrate, but showed a modest positive association with phosphate (R&#xb2; = 0.21, <italic>p</italic>&#xa0;=&#xa0;0.040). SLA lnRR was not significantly associated with these variables.</p>
+<fig id="f6" position="float">
+<label>Figure&#xa0;6</label>
+<caption>
+<p>Linear correlations between marine environmental variables and plant height lnRR. Plant height lnRR was calculated as the natural logarithm of the response ratio of patch-center height to patch-edge height. Points show site-level means, and error bars indicate SE. Orange and blue points represent high and low tidal positions, respectively. Black lines show the overall linear regression fitted across both tidal positions, and grey bands indicate 95% confidence intervals. Dashed horizontal lines indicate lnRR = 0, where plant height does not differ between patch center and edge. R&#xb2; and <italic>p</italic> values are from univariate linear regressions.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fpls-17-1913369-g006.tif">
+<alt-text content-type="machine-generated">Three scatter plots compare plant height lnRR with salinity, dissolved molecular oxygen, and nitrate. Positive correlation is observed with salinity; negative correlations with dissolved oxygen and nitrate. High and low tidal positions are color coded.</alt-text>
+</graphic></fig>
+</sec>
+</sec>
+<sec id="s4" sec-type="discussion">
+<label>4</label>
+<title>Discussion</title>
+<p>In patchy <italic>S. alterniflora</italic> marsh fronts, environmental stress varies multidimensionally across tidal positions. Low tidal positions experience stronger hydrodynamic disturbance and more frequent inundation, which limits nutrient accumulation, whereas high tidal positions show the opposite pattern. Thus, in salt marshes, soil salinity is not necessarily higher closer to the sea. As <italic>S. alterniflora</italic> patches colonize the seaward marsh front, they can enhance sediment deposition and elevate local surfaces, progressively reducing salt input to more landward zones and generating a hump-shaped salinity profile across the saltmarsh (<xref ref-type="bibr" rid="B52">Wang et&#xa0;al., 2022</xref>). Consistent with this evidence, our study found higher Ec, a proxy for soil salinity, at high tidal positions than at low tidal positions within patchy front zone.</p>
+<p>Tidal position further modulated plant functional traits as a broad environmental filter. Consistent with our prediction, LDMC was higher at low than at high tidal positions, suggesting a more conservative leaf strategy under stronger hydrodynamic disturbance and prolonged inundation. In contrast, SLA did not differ significantly between tidal positions. This lack of a simple tidal contrast is consistent with the hump-shaped response of SLA to inundation (<xref ref-type="bibr" rid="B51">Wang et&#xa0;al., 2023</xref>), with maximum values occurring at intermediate flooding frequencies rather than at either end of the gradient. At high tidal positions, where salinity stress was stronger, leaf economic traits showed the greatest sensitivity to local soil conditions (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Figure&#xa0;2</bold></xref>). Elevated salinity can reduce soil water potential and disrupt ion homeostasis, promoting denser and more conservative leaf tissue (<xref ref-type="bibr" rid="B9">Dabravolski and Isayenkov, 2023</xref>; <xref ref-type="bibr" rid="B48">Van Zelm et&#xa0;al., 2020</xref>). The consistently negative SLA&#x2013;LDMC relationship across all microsites confirms a leaf economic trade-off (<xref ref-type="fig" rid="f3"><bold>Figure&#xa0;3</bold></xref>), but the steeper slope at patch edges, particularly at low tidal positions, suggests that edge environments impose stronger coordination between leaf construction and resource acquisition (<xref ref-type="bibr" rid="B25">Pan et&#xa0;al., 2020</xref>; <xref ref-type="bibr" rid="B31">Ries et&#xa0;al., 2004</xref>; <xref ref-type="bibr" rid="B49">Violle et&#xa0;al., 2012</xref>). Although plants at low-tidal patch edges were shorter, plant height did not show a general decline at low tidal positions despite stronger physical stress (<xref ref-type="fig" rid="f3"><bold>Figure&#xa0;3C</bold></xref>, <xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Table&#xa0;3</bold></xref>), possibly because local facilitation within established patches partially buffered hydrodynamic constraints on vertical growth (<xref ref-type="bibr" rid="B38">Silliman et&#xa0;al., 2015</xref>).</p>
+<p>At patch scale, contrary to our prediction, patch centers at high tidal positions had higher LDMC and lower SLA than patch edges. One possible explanation is that edge plants occupy more open and dynamic environments, where lower LDMC and higher SLA may facilitate rapid leaf-area deployment and resource acquisition, reflecting a more acquisitive growth or expansion strategy (<xref ref-type="bibr" rid="B25">Pan et&#xa0;al., 2020</xref>; <xref ref-type="bibr" rid="B54">Wilson et&#xa0;al., 1999</xref>; <xref ref-type="bibr" rid="B55">Wright et&#xa0;al., 2004</xref>). Turning to within-patch soil conditions, vegetated patches had finer sediment composition than adjacent bare soils, with higher SSA and silt content but lower sand content at high tidal position (<xref ref-type="fig" rid="f4"><bold>Figure&#xa0;4</bold></xref>). Such sediment fining can enhance water and nutrient retention, potentially reinforcing plant-soil feedbacks and contributing to the greater patch cover and number observed at high tidal positions (<xref ref-type="bibr" rid="B44">Temmink et&#xa0;al., 2020</xref>; <xref ref-type="bibr" rid="B53">Wilburn et&#xa0;al., 2024</xref>). At low tidal positions, by contrast, stronger tidal flushing limited fine-sediment accumulation within patches, patch centers showed evidence of nitrogen accumulation even under stronger tidal exposure. Nitrogen is a primary limiting nutrient in salt-marsh systems, and its enrichment can enhance aboveground production in <italic>Spartina</italic> marshes (<xref ref-type="bibr" rid="B15">Hill et&#xa0;al., 2018</xref>; <xref ref-type="bibr" rid="B47">Van Wijnen and Bakker, 1999</xref>), consistent with our prediction of greater plant height at patch centers. Across both tidal contexts, available phosphorus was consistently lower in patch centers than in adjacent bare soils, a pattern compatible with rapid uptake or progressive depletion following plant growth (<xref ref-type="bibr" rid="B58">Zhao et&#xa0;al., 2021</xref>).</p>
+<p>The contrasting within-patch patterns between two tidal positions raise a broader question: what does center&#x2013;edge functional differentiation represent ecologically? We interpret the trait variation as a functional signature of scale-dependent positive feedbacks, whereby established vegetation ameliorates abiotic stress more strongly at patch centers than at exposed edges. Its magnitude therefore reflects the strength of center-associated environmental buffering (<xref ref-type="bibr" rid="B57">Zhao et&#xa0;al., 2019</xref>). In our study, Plant height was the most sensitive indicator of center&#x2013;edge variation, with clay content emerging as its strongest soil correlate, particularly at low tidal positions (<xref ref-type="supplementary-material" rid="SM1"><bold>Supplementary Figure&#xa0;2</bold></xref>). There, height lnRR increased with both clay lnRR and bare-flat clay content, linking finer sediments to a greater structural advantage at patch centers. Beyond local soil conditions, plant height lnRR increased with ambient marine salinity and decreased with dissolved oxygen and nitrate across sites, indicating that harsher marine environments amplified center-to-edge height variation, which is consistent with the stress gradient hypothesis (<xref ref-type="bibr" rid="B4">Bertness &amp; Callaway, 1994</xref>; <xref ref-type="bibr" rid="B14">He et&#xa0;al., 2013</xref>), and suggests that plant height lnRR may serve as a scalable functional index for quantifying positive feedback strength across environmental gradients.</p>
+<p>By contrast, the measured soil variables did not clearly identify the environmental mechanisms underlying the within-patch differences in SLA. SLA lnRR was weakly explained by the selected soil predictors at both low and high tidal positions (R&#xb2;m = 0.079 and 0.105, respectively). A broad meta-analysis showed that leaf mass per area, the inverse of SLA, responded most strongly to irradiance, temperature and submergence (<xref ref-type="bibr" rid="B28">Poorter et&#xa0;al., 2009</xref>). In salt marshes, SLA has also been shown to be more strongly constrained by salt&#x2013;waterlogging gradients than by nutrient availability (<xref ref-type="bibr" rid="B21">Minden et&#xa0;al., 2012</xref>). This may partly reflect the sensitivity of SLA to light and key hydrological conditions that were not directly quantified in our study. Another possible explanation for the unexpected weak SLA&#x2013;soil relationship may be related to the soil properties measured only from the 10&#x2013;30 cm layer, which was meant to correspond to the non-transient nature of plant growth. Indeed, the vertical heterogeneity of marsh soil horizons could be associated with leaf trait development through various soil effects on the root system (<xref ref-type="bibr" rid="B56">Zhao et&#xa0;al., 2024</xref>). For the upper 0&#x2013;15 cm surface sediments, horizontal changes in ammonium and sulfide concentrations have been found to be closely related to plant growth and leaf C:N status (<xref ref-type="bibr" rid="B58">Zhao et&#xa0;al., 2021</xref>). For intervals deeper than 30&#xa0;cm, on the other hand, the relationships between soil physicochemical conditions and leaf traits have rarely been examined. While belowground biomass of <italic>S. alterniflora</italic> has been detected to a depth of 55&#xa0;cm and some rhizomes may extend beyond 1&#xa0;m in creek-bank marshes (<xref ref-type="bibr" rid="B30">Reid et&#xa0;al., 2013</xref>; <xref ref-type="bibr" rid="B10">Deegan et&#xa0;al., 2012</xref>), most live roots are concentrated within the upper 20&#xa0;cm, which contains approximately 80% of total root biomass (<xref ref-type="bibr" rid="B5">Blum, 1993</xref>; <xref ref-type="bibr" rid="B10">Deegan et&#xa0;al., 2012</xref>). Overall, it remains unclear about which sediment depth interval is most closely associated with SLA variation.</p>
+<p>Overall, our study demonstrates that along the near-tropical to near-temperate geographical gradient, the functional traits of <italic>S. alterniflora</italic> are shaped consistently by the interplay of abiotic constraints and biotic interactions. Moreover, within-patch functional differences, particularly in plant height, can serve as a proxy for local facilitation. This local-scale functional contrast provides a stress-sensitive indicator of how strongly vegetation patches rely on local facilitation to persist under harsh intertidal conditions. These findings offer valuable implications for coastal wetland management and the implementation of Nature-based Solutions (NbS). Although <italic>S. alterniflora</italic> is an invasive species in China, the genus <italic>Spartina</italic> remains one of the most frequently utilized taxa in coastal marsh restoration projects worldwide owing to their strong capacity to establish vegetation and modify sedimentary conditions (<xref ref-type="bibr" rid="B7">Castillo and Figueroa, 2009</xref>; <xref ref-type="bibr" rid="B42">Strong and Ayres, 2009</xref>; <xref ref-type="bibr" rid="B8">Curado et&#xa0;al., 2020</xref>; <xref ref-type="bibr" rid="B33">Rohal et&#xa0;al., 2025</xref>; <xref ref-type="bibr" rid="B41">Sloey et&#xa0;al., 2025</xref>; <xref ref-type="bibr" rid="B17">Liu et&#xa0;al., 2024</xref>). Global meta-analyses indicate that the success of salt-marsh restoration primarily hinges on three key factors: intrinsic species characteristics, abiotic environmental constraints, and biotic interactions (e.g., facilitation, competition and herbivory) (<xref ref-type="bibr" rid="B17">Liu et&#xa0;al., 2024</xref>). Among these typical biotic interactions, however, there are hardly feasible approaches to quantifying the strength of facilitation, impeding the link between plant functional traits and wetland-restoration (<xref ref-type="bibr" rid="B40">Sloey et&#xa0;al., 2023</xref>). Although our study suggests that within-patch trait differences can suffice to characterize the functional outcome of local facilitation, it is important to bear in mind that the functional dimensions reflecting local facilitation may be taxon-specific. For example, scale-dependent feedbacks in the Chinese native species <italic>Scirpus mariqueter</italic> were associated with changes in shoot-to-root allocation and rhizome branching and extension (<xref ref-type="bibr" rid="B57">Zhao et&#xa0;al., 2019</xref>). As climate change and sea-level rise are likely to intensify inundation, salinity stress, and hydrodynamic disturbance, tracking such functional contrasts could help identify marsh areas that are approaching environmental limits and thus require prioritized conservation, restoration, or adaptive management.</p>
+</sec>
+<sec id="s5" sec-type="conclusions">
+<label>5</label>
+<title>Conclusion</title>
+<p>Our study shows that the functional organization of <italic>S. alterniflora</italic> patches is jointly shaped by biotic and abiotic processes operating across tidal, within-patch, and broader marine scales. Tidal position established contrasting bare-flat backgrounds and altered the relationships between plant traits and local soil conditions. Within patches, center&#x2013;edge trait variation reflected both radial soil differentiation and the influence of the surrounding bare-flat matrix, with leaf economic traits differentiating most strongly at high tidal positions and plant height at low tidal positions. Plant height variation was particularly sensitive to environmental context, indicating that height variation within patches may provide a functional signature of spatial variation in local positive feedback strength. These findings highlight vegetation-patch configuration as an important component of ecosystem engineering and coastal restoration. As sea-level rise and climate change intensify intertidal stress, center&#x2013;edge height variation may offer a practical signal for identifying marshes nearing environmental thresholds and guiding restoration priorities.</p>
+</sec>
+</body>
+<back>
+<sec id="s6" sec-type="data-availability">
+<title>Data availability statement</title>
+<p>The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.</p></sec>
+<sec id="s7" sec-type="author-contributions">
+<title>Author contributions</title>
+<p>YWL: Methodology, Formal analysis, Writing &#x2013; original draft, Data curation, Writing &#x2013; review &amp; editing, Investigation. QD: Investigation, Formal analysis, Writing &#x2013; review &amp; editing. ZZ: Formal analysis, Writing &#x2013; review &amp; editing, Data curation. WH: Formal analysis, Writing &#x2013; review &amp; editing, Methodology. YXL: Formal analysis, Writing &#x2013; review &amp; editing. CX: Supervision, Investigation, Resources, Writing &#x2013; review &amp; editing, Project administration, Funding acquisition. ST: Formal analysis, Writing &#x2013; original draft, Investigation, Writing &#x2013; review &amp; editing, Supervision.</p></sec>
+<sec id="s9" sec-type="COI-statement">
+<title>Conflict of interest</title>
+<p>The author(s) declared that this work was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></sec>
+<sec id="s10" sec-type="ai-statement">
+<title>Generative AI statement</title>
+<p>The author(s) declared that generative AI was used in the creation of this manuscript. We use AI to polish language and conceptual framework in <xref ref-type="fig" rid="f1"><bold>Figure&#xa0;1</bold></xref>.</p>
+<p>Any alternative text (alt text) provided alongside figures in this article has been generated by Frontiers with the support of artificial intelligence and reasonable efforts have been made to ensure accuracy, including review by the authors wherever possible. If you identify any issues, please contact us.</p></sec>
+<sec id="s11" sec-type="disclaimer">
+<title>Publisher&#x2019;s note</title>
+<p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec>
+<sec id="s12" sec-type="supplementary-material">
+<title>Supplementary material</title>
+<p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="https://www.frontiersin.org/articles/10.3389/fpls.2026.1913369/full#supplementary-material">https://www.frontiersin.org/articles/10.3389/fpls.2026.1913369/full#supplementary-material</ext-link></p>
+<supplementary-material xlink:href="Table1.docx" id="SM1" mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/></sec>
+<ref-list>
+<title>References</title>
+<ref id="B1">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Assis</surname> <given-names>J.</given-names></name>
+<name><surname>Tyberghein</surname> <given-names>L.</given-names></name>
+<name><surname>Bosch</surname> <given-names>S.</given-names></name>
+<name><surname>Verbruggen</surname> <given-names>H.</given-names></name>
+<name><surname>Serr&#xe3;o</surname> <given-names>E. A.</given-names></name>
+<name><surname>De Clerck</surname> <given-names>O.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Bio&#x2010;ORACLE v2.0: Extending marine data layers for bioclimatic modelling</article-title>. <source>Global Ecol. Biogeogr.</source> <volume>27</volume>, <fpage>277</fpage>&#x2013;<lpage>284</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/geb.12693</pub-id><pub-id pub-id-type="pmid">40046247</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B2">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Balke</surname> <given-names>T.</given-names></name>
+<name><surname>Stock</surname> <given-names>M.</given-names></name>
+<name><surname>Jensen</surname> <given-names>K.</given-names></name>
+<name><surname>Bouma</surname> <given-names>T. J.</given-names></name>
+<name><surname>Kleyer</surname> <given-names>M.</given-names></name>
+</person-group> (<year>2016</year>). 
+<article-title>A global analysis of the seaward salt marsh extent: The importance of tidal range</article-title>. <source>Water Resour. Res.</source> <volume>52</volume>, <fpage>3775</fpage>&#x2013;<lpage>3786</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1002/2015wr018318</pub-id><pub-id pub-id-type="pmid">41531421</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B3">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Barbier</surname> <given-names>E. B.</given-names></name>
+<name><surname>Hacker</surname> <given-names>S. D.</given-names></name>
+<name><surname>Kennedy</surname> <given-names>C.</given-names></name>
+<name><surname>Koch</surname> <given-names>E. W.</given-names></name>
+<name><surname>Stier</surname> <given-names>A. C.</given-names></name>
+<name><surname>Silliman</surname> <given-names>B. R.</given-names></name>
+</person-group> (<year>2011</year>). 
+<article-title>The value of estuarine and coastal ecosystem services</article-title>. <source>Ecol. Monogr.</source> <volume>81</volume>, <fpage>169</fpage>&#x2013;<lpage>193</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1890/10-1510.1</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B4">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bertness</surname> <given-names>M. D.</given-names></name>
+<name><surname>Callaway</surname> <given-names>R.</given-names></name>
+</person-group> (<year>1994</year>). 
+<article-title>Positive interactions in communities</article-title>. <source>Trends Ecol. Evol.</source> <volume>9</volume>, <fpage>191</fpage>&#x2013;<lpage>193</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/0169-5347(94)90088-4</pub-id><pub-id pub-id-type="pmid">21236818</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B5">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Blum</surname> <given-names>L. K.</given-names></name>
+</person-group> (<year>1993</year>). 
+<article-title>Spartina alterniflora root dynamics in a Virginia marsh</article-title>. <source>Mar. Ecol. Prog. Ser.</source> <volume>102</volume>, <fpage>169</fpage>&#x2013;<lpage>178</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.3354/meps102169</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B6">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bouma</surname> <given-names>T. J.</given-names></name>
+<name><surname>Friedrichs</surname> <given-names>M.</given-names></name>
+<name><surname>Van Wesenbeeck</surname> <given-names>B. K.</given-names></name>
+<name><surname>Temmerman</surname> <given-names>S.</given-names></name>
+<name><surname>Graf</surname> <given-names>G.</given-names></name>
+<name><surname>Herman</surname> <given-names>P. M. J.</given-names></name>
+</person-group> (<year>2009</year>). 
+<article-title>Density&#x2010;dependent linkage of scale&#x2010;dependent feedbacks: A flume study on the intertidal macrophyte Spartina anglica</article-title>. <source>Oikos</source> <volume>118</volume>, <fpage>260</fpage>&#x2013;<lpage>268</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/j.1600-0706.2008.16892.x</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B7">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Castillo</surname> <given-names>J. M.</given-names></name>
+<name><surname>Figueroa</surname> <given-names>E.</given-names></name>
+</person-group> (<year>2009</year>). 
+<article-title>Restoring salt marshes using small cordgrass, Spartina maritima</article-title>. <source>Restor. Ecol.</source> <volume>17</volume>, <fpage>324</fpage>&#x2013;<lpage>326</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/j.1526-100X.2008.00465.x</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B8">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Curado</surname> <given-names>G.</given-names></name>
+<name><surname>Gallego-T&#xe9;var</surname> <given-names>B.</given-names></name>
+<name><surname>Figueroa</surname> <given-names>E.</given-names></name>
+<name><surname>Castillo</surname> <given-names>J. M.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>Effects of removal of alien Spartina densiflora and restoration of native S. maritima on succession and zonation in European salt marshes</article-title>. <source>Estuar. Coast. Shelf Sci.</source> <volume>244</volume>, <fpage>105815</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/j.ecss.2018.04.011</pub-id><pub-id pub-id-type="pmid">38826717</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B9">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dabravolski</surname> <given-names>S. A.</given-names></name>
+<name><surname>Isayenkov</surname> <given-names>S. V.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>The regulation of plant cell wall organisation under salt stress</article-title>. <source>Front. Plant Sci.</source> <volume>14</volume>, <elocation-id>1118313</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.3389/fpls.2023.1118313</pub-id><pub-id pub-id-type="pmid">36968390</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B10">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Deegan</surname> <given-names>L. A.</given-names></name>
+<name><surname>Johnson</surname> <given-names>D. S.</given-names></name>
+<name><surname>Warren</surname> <given-names>R. S.</given-names></name>
+<name><surname>Peterson</surname> <given-names>B. J.</given-names></name>
+<name><surname>Fleeger</surname> <given-names>J. W.</given-names></name>
+<name><surname>Fagherazzi</surname> <given-names>S.</given-names></name>
+<etal/>
+</person-group>. (<year>2012</year>). 
+<article-title>Coastal eutrophication as a driver of salt marsh loss</article-title>. <source>Nature</source> <volume>490</volume>, <fpage>388</fpage>&#x2013;<lpage>392</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/nature11533</pub-id><pub-id pub-id-type="pmid">23075989</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B11">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>D&#xed;az</surname> <given-names>S.</given-names></name>
+<name><surname>Kattge</surname> <given-names>J.</given-names></name>
+<name><surname>Cornelissen</surname> <given-names>J. H.</given-names></name>
+<name><surname>Wright</surname> <given-names>I. J.</given-names></name>
+<name><surname>Lavorel</surname> <given-names>S.</given-names></name>
+<name><surname>Dray</surname> <given-names>S.</given-names></name>
+<etal/>
+</person-group>. (<year>2016</year>). 
+<article-title>The global spectrum of plant form and function</article-title>. <source>Nature</source> <volume>529</volume>, <fpage>167</fpage>&#x2013;<lpage>171</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/nature16489</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B12">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Duarte</surname> <given-names>C. M.</given-names></name>
+<name><surname>Losada</surname> <given-names>I. J.</given-names></name>
+<name><surname>Hendriks</surname> <given-names>I. E.</given-names></name>
+<name><surname>Mazarrasa</surname> <given-names>I.</given-names></name>
+<name><surname>Marb&#xe0;</surname> <given-names>N.</given-names></name>
+</person-group> (<year>2013</year>). 
+<article-title>The role of coastal plant communities for climate change mitigation and adaptation</article-title>. <source>Nat. Clim. Change</source> <volume>3</volume>, <fpage>961</fpage>&#x2013;<lpage>968</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/nclimate1970</pub-id><pub-id pub-id-type="pmid">37880705</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B13">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Fagherazzi</surname> <given-names>S.</given-names></name>
+<name><surname>Kirwan</surname> <given-names>M. L.</given-names></name>
+<name><surname>Mudd</surname> <given-names>S. M.</given-names></name>
+<name><surname>Guntenspergen</surname> <given-names>G. R.</given-names></name>
+<name><surname>Temmerman</surname> <given-names>S.</given-names></name>
+<name><surname>D&#x2019;Alpaos</surname> <given-names>A.</given-names></name>
+<etal/>
+</person-group>. (<year>2012</year>). 
+<article-title>Numerical models of salt marsh evolution: Ecological, geomorphic, and climatic factors</article-title>. <source>Rev. Geophys.</source> <volume>50</volume>, <elocation-id>RG1002</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.1029/2011rg000359</pub-id><pub-id pub-id-type="pmid">29143083</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B14">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>He</surname> <given-names>Q.</given-names></name>
+<name><surname>Bertness</surname> <given-names>M. D.</given-names></name>
+<name><surname>Altieri</surname> <given-names>A. H.</given-names></name>
+</person-group> (<year>2013</year>). 
+<article-title>Global shifts towards positive species interactions with increasing environmental stress</article-title>. <source>Ecol. Lett.</source> <volume>16</volume>, <fpage>695</fpage>&#x2013;<lpage>706</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/ele.12080</pub-id><pub-id pub-id-type="pmid">23363430</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B15">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hill</surname> <given-names>T. D.</given-names></name>
+<name><surname>Sommer</surname> <given-names>N. R.</given-names></name>
+<name><surname>Kanaskie</surname> <given-names>C. R.</given-names></name>
+<name><surname>Santos</surname> <given-names>E. A.</given-names></name>
+<name><surname>Oczkowski</surname> <given-names>A. J.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Nitrogen uptake and allocation estimates for Spartina alterniflora and Distichlis spicata</article-title>. <source>J. Exp. Mar. Biol. Ecol.</source> <volume>507</volume>, <fpage>53</fpage>&#x2013;<lpage>60</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/j.jembe.2018.07.006</pub-id><pub-id pub-id-type="pmid">31296971</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B16">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lavorel</surname> <given-names>S.</given-names></name>
+<name><surname>Garnier</surname> <given-names>E.</given-names></name>
+</person-group> (<year>2002</year>). 
+<article-title>Predicting changes in community composition and ecosystem functioning from plant traits: Revisiting the Holy Grail</article-title>. <source>Funct. Ecol.</source> <volume>16</volume>, <fpage>545</fpage>&#x2013;<lpage>556</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1046/j.1365-2435.2002.00664.x</pub-id><pub-id pub-id-type="pmid">37945311</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B17">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Liu</surname> <given-names>Z.</given-names></name>
+<name><surname>Fagherazzi</surname> <given-names>S.</given-names></name>
+<name><surname>He</surname> <given-names>Q.</given-names></name>
+<name><surname>Gourgue</surname> <given-names>O.</given-names></name>
+<name><surname>Bai</surname> <given-names>J.</given-names></name>
+<name><surname>Liu</surname> <given-names>X.</given-names></name>
+<etal/>
+</person-group>. (<year>2024</year>). 
+<article-title>A global meta-analysis on the drivers of salt marsh planting success and implications for ecosystem services</article-title>. <source>Nat. Commun.</source> <volume>15</volume>, <fpage>3643</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/s41467-024-47769-5</pub-id><pub-id pub-id-type="pmid">38684646</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B18">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ma</surname> <given-names>Z.</given-names></name>
+<name><surname>Ysebaert</surname> <given-names>T.</given-names></name>
+<name><surname>Van Der Wal</surname> <given-names>D.</given-names></name>
+<name><surname>Herman</surname> <given-names>P. M. J.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Conditional effects of tides and waves on short&#x2010;term marsh sedimentation dynamics</article-title>. <source>Earth Surf. Processes Landforms</source> <volume>43</volume>, <fpage>2243</fpage>&#x2013;<lpage>2255</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1002/esp.4357</pub-id><pub-id pub-id-type="pmid">41531421</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B19">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Macreadie</surname> <given-names>P. I.</given-names></name>
+<name><surname>Costa</surname> <given-names>M. D. P.</given-names></name>
+<name><surname>Atwood</surname> <given-names>T. B.</given-names></name>
+<name><surname>Friess</surname> <given-names>D. A.</given-names></name>
+<name><surname>Kelleway</surname> <given-names>J. J.</given-names></name>
+<name><surname>Kennedy</surname> <given-names>H.</given-names></name>
+<etal/>
+</person-group>. (<year>2021</year>). 
+<article-title>Blue carbon as a natural climate solution</article-title>. <source>Nat. Rev. Earth Environ.</source> <volume>2</volume>, <fpage>826</fpage>&#x2013;<lpage>839</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/s43017-021-00224-1</pub-id><pub-id pub-id-type="pmid">37880705</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B20">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mcleod</surname> <given-names>E.</given-names></name>
+<name><surname>Chmura</surname> <given-names>G. L.</given-names></name>
+<name><surname>Bouillon</surname> <given-names>S.</given-names></name>
+<name><surname>Salm</surname> <given-names>R.</given-names></name>
+<name><surname>Bj&#xf6;rk</surname> <given-names>M.</given-names></name>
+<name><surname>Duarte</surname> <given-names>C. M.</given-names></name>
+<etal/>
+</person-group>. (<year>2011</year>). 
+<article-title>A blueprint for blue carbon: Toward an improved understanding of the role of vegetated coastal habitats in sequestering CO<sub>2</sub></article-title>. <source>Front. Ecol. Environ.</source> <volume>9</volume>, <fpage>552</fpage>&#x2013;<lpage>560</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.4324/9781315398266-16</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B21">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Minden</surname> <given-names>V.</given-names></name>
+<name><surname>Andratschke</surname> <given-names>S.</given-names></name>
+<name><surname>Spalke</surname> <given-names>J.</given-names></name>
+<name><surname>Timmermann</surname> <given-names>H.</given-names></name>
+<name><surname>Kleyer</surname> <given-names>M.</given-names></name>
+</person-group> (<year>2012</year>). 
+<article-title>Plant trait&#x2013;environment relationships in salt marshes: Deviations from predictions by ecological concepts</article-title>. <source>Perspect. Plant Ecol. Evol. Syst.</source> <volume>14</volume>, <fpage>183</fpage>&#x2013;<lpage>192</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/j.ppees.2012.01.002</pub-id><pub-id pub-id-type="pmid">38826717</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B22">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Moffett</surname> <given-names>K. B.</given-names></name>
+<name><surname>Gorelick</surname> <given-names>S. M.</given-names></name>
+</person-group> (<year>2016</year>). 
+<article-title>Relating salt marsh pore water geochemistry patterns to vegetation zones and hydrologic influences</article-title>. <source>Water Resour. Res.</source> <volume>52</volume>, <fpage>1729</fpage>&#x2013;<lpage>1745</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1002/2015wr017406</pub-id><pub-id pub-id-type="pmid">41531421</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B23">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>M&#xf6;ller</surname> <given-names>I.</given-names></name>
+<name><surname>Kudella</surname> <given-names>M.</given-names></name>
+<name><surname>Rupprecht</surname> <given-names>F.</given-names></name>
+<name><surname>Spencer</surname> <given-names>T.</given-names></name>
+<name><surname>Paul</surname> <given-names>M.</given-names></name>
+<name><surname>Van Wesenbeeck</surname> <given-names>B. K.</given-names></name>
+<etal/>
+</person-group>. (<year>2014</year>). 
+<article-title>Wave attenuation over coastal salt marshes under storm surge conditions</article-title>. <source>Nat. Geosci.</source> <volume>7</volume>, <fpage>727</fpage>&#x2013;<lpage>731</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/ngeo2251</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B24">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Morris</surname> <given-names>J. T.</given-names></name>
+<name><surname>Sundareshwar</surname> <given-names>P. V.</given-names></name>
+<name><surname>Nietch</surname> <given-names>C. T.</given-names></name>
+<name><surname>Kjerfve</surname> <given-names>B.</given-names></name>
+<name><surname>Cahoon</surname> <given-names>D. R.</given-names></name>
+</person-group> (<year>2002</year>). 
+<article-title>Responses of coastal wetlands to rising sea level</article-title>. <source>Ecology</source> <volume>83</volume>, <fpage>2869</fpage>&#x2013;<lpage>2877</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1890/0012-9658(2002)083[2869:rocwtr]2.0.co;2</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B25">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Pan</surname> <given-names>Y.</given-names></name>
+<name><surname>Cieraad</surname> <given-names>E.</given-names></name>
+<name><surname>Armstrong</surname> <given-names>J.</given-names></name>
+<name><surname>Armstrong</surname> <given-names>W.</given-names></name>
+<name><surname>Clarkson</surname> <given-names>B. R.</given-names></name>
+<name><surname>Colmer</surname> <given-names>T. D.</given-names></name>
+<etal/>
+</person-group>. (<year>2020</year>). 
+<article-title>Global patterns of the leaf economics spectrum in wetlands</article-title>. <source>Nat. Commun.</source> <volume>11</volume>, <fpage>4519</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/s41467-020-18354-3</pub-id><pub-id pub-id-type="pmid">32908150</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B26">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Pennings</surname> <given-names>S. C.</given-names></name>
+<name><surname>Callaway</surname> <given-names>R. M.</given-names></name>
+</person-group> (<year>1992</year>). 
+<article-title>Salt marsh plant zonation: the relative importance of competition and physical factors</article-title>. <source>Ecology</source> <volume>73</volume>, <fpage>681</fpage>&#x2013;<lpage>690</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.2307/1940774</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B27">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>P&#xe9;rez-Harguindeguy</surname> <given-names>N.</given-names></name>
+<name><surname>D&#xed;az</surname> <given-names>S.</given-names></name>
+<name><surname>Garnier</surname> <given-names>E.</given-names></name>
+<name><surname>Lavorel</surname> <given-names>S.</given-names></name>
+<name><surname>Poorter</surname> <given-names>H.</given-names></name>
+<name><surname>Jaureguiberry</surname> <given-names>P.</given-names></name>
+<etal/>
+</person-group>. (<year>2013</year>). 
+<article-title>New handbook for standardised measurement of plant functional traits worldwide</article-title>. <source>Aust. J. Bot.</source> <volume>61</volume>, <fpage>167</fpage>&#x2013;<lpage>234</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1071/bt12225</pub-id><pub-id pub-id-type="pmid">38477348</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B28">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Poorter</surname> <given-names>H.</given-names></name>
+<name><surname>Niinemets</surname> <given-names>&#xdc;.</given-names></name>
+<name><surname>Poorter</surname> <given-names>L.</given-names></name>
+<name><surname>Wright</surname> <given-names>I. J.</given-names></name>
+<name><surname>Villar</surname> <given-names>R.</given-names></name>
+</person-group> (<year>2009</year>). 
+<article-title>Causes and consequences of variation in leaf mass per area (LMA): A meta&#x2010;analysis</article-title>. <source>New Phytol.</source> <volume>182</volume>, <fpage>565</fpage>&#x2013;<lpage>588</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/j.1469-8137.2009.02830.x</pub-id><pub-id pub-id-type="pmid">19434804</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B29">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Reed</surname> <given-names>D. J.</given-names></name>
+<name><surname>Spencer</surname> <given-names>T.</given-names></name>
+<name><surname>Murray</surname> <given-names>A. L.</given-names></name>
+<name><surname>French</surname> <given-names>J. R.</given-names></name>
+<name><surname>Leonard</surname> <given-names>L.</given-names></name>
+</person-group> (<year>1999</year>). 
+<article-title>Marsh surface sediment deposition and the role of tidal creeks: Implications for created and managed coastal marshes</article-title>. <source>J. Coast. Conserv.</source> <volume>5</volume>, <fpage>81</fpage>&#x2013;<lpage>90</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1007/bf02802742</pub-id><pub-id pub-id-type="pmid">30311153</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B30">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Reid</surname> <given-names>M. C.</given-names></name>
+<name><surname>Tripathee</surname> <given-names>R.</given-names></name>
+<name><surname>Sch&#xe4;fer</surname> <given-names>K. V. R.</given-names></name>
+<name><surname>Jaff&#xe9;</surname> <given-names>P. R.</given-names></name>
+</person-group> (<year>2013</year>). 
+<article-title>Tidal marsh methane dynamics: Difference in seasonal lags in emissions driven by storage in vegetated versus unvegetated sediments</article-title>. <source>J. Geophysical Research: Biogeosci.</source> <volume>118</volume>, <fpage>1802</fpage>&#x2013;<lpage>1813</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1002/2013jg002438</pub-id><pub-id pub-id-type="pmid">41531421</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B31">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ries</surname> <given-names>L.</given-names></name>
+<name><surname>Fletcher</surname> <given-names>R. J.</given-names></name>
+<name><surname>Battin</surname> <given-names>J.</given-names></name>
+<name><surname>Sisk</surname> <given-names>T. D.</given-names></name>
+</person-group> (<year>2004</year>). 
+<article-title>Ecological responses to habitat edges: mechanisms, models, and variability explained</article-title>. <source>Annu. Rev. Ecol. Evol. Syst.</source> <volume>35</volume>, <fpage>491</fpage>&#x2013;<lpage>522</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1146/annurev.ecolsys.35.112202.130148</pub-id><pub-id pub-id-type="pmid">41139587</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B32">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rietkerk</surname> <given-names>M.</given-names></name>
+<name><surname>Dekker</surname> <given-names>S. C.</given-names></name>
+<name><surname>Ruiter</surname> <given-names>P. C.</given-names></name>
+<name><surname>van de Koppel</surname> <given-names>J.</given-names></name>
+</person-group> (<year>2004</year>). 
+<article-title>Self-organized patchiness and catastrophic shifts in ecosystems</article-title>. <source>Sci. New Ser.</source> <volume>305</volume>, <fpage>1926</fpage>&#x2013;<lpage>1929</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1126/science.1101867</pub-id><pub-id pub-id-type="pmid">15448261</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B33">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rohal</surname> <given-names>C. B.</given-names></name>
+<name><surname>Yu</surname> <given-names>X.</given-names></name>
+<name><surname>Crawford</surname> <given-names>J. M.</given-names></name>
+<name><surname>Montgomery</surname> <given-names>O.</given-names></name>
+<name><surname>Reynolds</surname> <given-names>L. K.</given-names></name>
+<name><surname>Adams</surname> <given-names>C. R.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>Sediment stability is optimized by manipulating planting design during coastal marsh establishment</article-title>. <source>Sci. Rep.</source> <volume>15</volume>, <fpage>19854</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/s41598-025-04281-0</pub-id><pub-id pub-id-type="pmid">40473808</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B34">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schuerch</surname> <given-names>M.</given-names></name>
+<name><surname>Spencer</surname> <given-names>T.</given-names></name>
+<name><surname>Evans</surname> <given-names>B.</given-names></name>
+</person-group> (<year>2019</year>). 
+<article-title>Coupling between tidal mudflats and salt marshes affects marsh morphology</article-title>. <source>Mar. Geol.</source> <volume>412</volume>, <fpage>95</fpage>&#x2013;<lpage>106</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/j.margeo.2019.03.008</pub-id><pub-id pub-id-type="pmid">38826717</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B35">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schulte Ostermann</surname> <given-names>T.</given-names></name>
+<name><surname>Heuner</surname> <given-names>M.</given-names></name>
+<name><surname>Fuchs</surname> <given-names>E.</given-names></name>
+<name><surname>Temmerman</surname> <given-names>S.</given-names></name>
+<name><surname>Schoutens</surname> <given-names>K.</given-names></name>
+<name><surname>Bouma</surname> <given-names>T. J.</given-names></name>
+<etal/>
+</person-group>. (<year>2021</year>). 
+<article-title>Unraveling plant strategies in tidal marshes by investigating plant traits and environmental conditions</article-title>. <source>J. Veg. Sci.</source> <volume>32</volume>, <elocation-id>e13038</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/jvs.13038</pub-id><pub-id pub-id-type="pmid">40046247</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B36">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schwarz</surname> <given-names>C.</given-names></name>
+<name><surname>Gourgue</surname> <given-names>O.</given-names></name>
+<name><surname>van Belzen</surname> <given-names>J.</given-names></name>
+<name><surname>Zhu</surname> <given-names>Z.</given-names></name>
+<name><surname>Bouma</surname> <given-names>T. J.</given-names></name>
+<name><surname>van de Koppel</surname> <given-names>J.</given-names></name>
+<etal/>
+</person-group>. (<year>2018</year>). 
+<article-title>Self-organization of a biogeomorphic landscape controlled by plant life-history traits</article-title>. <source>Nat. Geosci.</source> <volume>11</volume>, <fpage>672</fpage>&#x2013;<lpage>677</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/s41561-018-0180-y</pub-id><pub-id pub-id-type="pmid">37880705</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B37">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Shen</surname> <given-names>C.</given-names></name>
+<name><surname>Zhang</surname> <given-names>C.</given-names></name>
+<name><surname>Xin</surname> <given-names>P.</given-names></name>
+<name><surname>Kong</surname> <given-names>J.</given-names></name>
+<name><surname>Li</surname> <given-names>L.</given-names></name>
+</person-group> (<year>2018</year>). 
+<article-title>Salt dynamics in coastal marshes: formation of hypersaline zones</article-title>. <source>Water Resour. Res.</source> <volume>54</volume>, <fpage>3259</fpage>&#x2013;<lpage>3276</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1029/2017wr022021</pub-id><pub-id pub-id-type="pmid">29143083</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B38">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Silliman</surname> <given-names>B. R.</given-names></name>
+<name><surname>Schrack</surname> <given-names>E.</given-names></name>
+<name><surname>He</surname> <given-names>Q.</given-names></name>
+<name><surname>Cope</surname> <given-names>R.</given-names></name>
+<name><surname>Santoni</surname> <given-names>A.</given-names></name>
+<name><surname>Van Der Heide</surname> <given-names>T.</given-names></name>
+<etal/>
+</person-group>. (<year>2015</year>). 
+<article-title>Facilitation shifts paradigms and can amplify coastal restoration efforts</article-title>. <source>Proc. Natl. Acad. Sci.</source> <volume>112</volume>, <fpage>14295</fpage>&#x2013;<lpage>14300</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1073/pnas.1515297112</pub-id><pub-id pub-id-type="pmid">26578775</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B39">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Silvestri</surname> <given-names>S.</given-names></name>
+<name><surname>Defina</surname> <given-names>A.</given-names></name>
+<name><surname>Marani</surname> <given-names>M.</given-names></name>
+</person-group> (<year>2005</year>). 
+<article-title>Tidal regime, salinity and salt marsh plant zonation</article-title>. <source>Estuar. Coast. Shelf Sci.</source> <volume>62</volume>, <fpage>119</fpage>&#x2013;<lpage>130</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/j.ecss.2004.08.010</pub-id><pub-id pub-id-type="pmid">38826717</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B40">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sloey</surname> <given-names>T. M.</given-names></name>
+<name><surname>Ellis</surname> <given-names>V. S.</given-names></name>
+<name><surname>Kettenring</surname> <given-names>K. M.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Using plant functional traits to inform wetland restoration</article-title>. <source>Wetlands</source> <volume>43</volume>, <fpage>92</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1007/s13157-023-01741-z</pub-id><pub-id pub-id-type="pmid">30311153</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B41">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sloey</surname> <given-names>T. M.</given-names></name>
+<name><surname>Gieser</surname> <given-names>K. D.</given-names></name>
+<name><surname>Pounders</surname> <given-names>K.</given-names></name>
+<name><surname>B&#xe1;ez</surname> <given-names>S. E.</given-names></name>
+<name><surname>Whytlaw</surname> <given-names>J. L.</given-names></name>
+</person-group> (<year>2025</year>). 
+<article-title>Efficacy of stress acclimation techniques in coastal wetland plants (Spartina alterniflora and S. patens): Implications for restoration and nursery production</article-title>. <source>Wetlands Ecol. Manage.</source> <volume>33</volume>, <fpage>64</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1007/s11273-025-10079-8</pub-id><pub-id pub-id-type="pmid">30311153</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B42">
+<mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Strong</surname> <given-names>D. R.</given-names></name>
+<name><surname>Ayres</surname> <given-names>D. A.</given-names></name>
+</person-group> (<year>2009</year>). &#x201c;
+<article-title>Spartina introductions and consequences in salt marshes</article-title>,&#x201d; in <source>Human Impacts on Salt Marshes: A Global Perspective</source> (
+<publisher-name>University of California Press</publisher-name>, <publisher-loc>Berkeley and Los Angeles</publisher-loc>), <fpage>3</fpage>&#x2013;<lpage>22</lpage>.
+</mixed-citation>
+</ref>
+<ref id="B43">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Temmerman</surname> <given-names>S.</given-names></name>
+<name><surname>Meire</surname> <given-names>P.</given-names></name>
+<name><surname>Bouma</surname> <given-names>T. J.</given-names></name>
+<name><surname>Herman</surname> <given-names>P. M. J.</given-names></name>
+<name><surname>Ysebaert</surname> <given-names>T.</given-names></name>
+<name><surname>De Vriend</surname> <given-names>H. J.</given-names></name>
+</person-group> (<year>2013</year>). 
+<article-title>Ecosystem-based coastal defence in the face of global change</article-title>. <source>Nature</source> <volume>504</volume>, <fpage>79</fpage>&#x2013;<lpage>83</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/nature12859</pub-id><pub-id pub-id-type="pmid">24305151</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B44">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Temmink</surname> <given-names>R. J. M.</given-names></name>
+<name><surname>Christianen</surname> <given-names>M. J. A.</given-names></name>
+<name><surname>Fivash</surname> <given-names>G. S.</given-names></name>
+<name><surname>Angelini</surname> <given-names>C.</given-names></name>
+<name><surname>Bostr&#xf6;m</surname> <given-names>C.</given-names></name>
+<name><surname>Didderen</surname> <given-names>K.</given-names></name>
+<etal/>
+</person-group>. (<year>2020</year>). 
+<article-title>Mimicry of emergent traits amplifies coastal restoration success</article-title>. <source>Nat. Commun.</source> <volume>11</volume>, <fpage>3668</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/s41467-020-17438-4</pub-id><pub-id pub-id-type="pmid">32699271</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B45">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>van de Koppel</surname> <given-names>J.</given-names></name>
+<name><surname>Wal</surname> <given-names>D. V. D.</given-names></name>
+<name><surname>Bakker</surname> <given-names>J. P.</given-names></name>
+<name><surname>Herman</surname> <given-names>P. M.</given-names></name>
+</person-group> (<year>2005</year>). 
+<article-title>Self-organization and vegetation collapse in salt marsh ecosystems</article-title>. <source>Am. Nat.</source> <volume>165</volume>, <fpage>E1</fpage>&#x2013;<lpage>E12</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1086/426602</pub-id><pub-id pub-id-type="pmid">15729634</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B46">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>van Wesenbeeck</surname> <given-names>B. K.</given-names></name>
+<name><surname>van de Koppel</surname> <given-names>J.</given-names></name>
+<name><surname>Herman</surname> <given-names>P. M. J.</given-names></name>
+<name><surname>Bouma</surname> <given-names>T. J.</given-names></name>
+</person-group> (<year>2008</year>). 
+<article-title>Does scale&#x2010;dependent feedback explain spatial complexity in salt&#x2010;marsh ecosystems</article-title>? <source>Oikos</source> <volume>117</volume>, <fpage>152</fpage>&#x2013;<lpage>159</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/j.2007.0030-1299.16245.x</pub-id><pub-id pub-id-type="pmid">40046247</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B47">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Van Wijnen</surname> <given-names>H. J.</given-names></name>
+<name><surname>Bakker</surname> <given-names>J. P.</given-names></name>
+</person-group> (<year>1999</year>). 
+<article-title>Nitrogen and phosphorus limitation in a coastal barrier salt marsh: The implications for vegetation succession</article-title>. <source>J. Ecol.</source> <volume>87</volume>, <fpage>265</fpage>&#x2013;<lpage>272</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1046/j.1365-2745.1999.00349.x</pub-id><pub-id pub-id-type="pmid">37945311</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B48">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Van Zelm</surname> <given-names>E.</given-names></name>
+<name><surname>Zhang</surname> <given-names>Y.</given-names></name>
+<name><surname>Testerink</surname> <given-names>C.</given-names></name>
+</person-group> (<year>2020</year>). 
+<article-title>Salt tolerance mechanisms of plants</article-title>. <source>Annu. Rev. Plant Biol.</source> <volume>71</volume>, <fpage>403</fpage>&#x2013;<lpage>433</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1146/annurev-arplant-050718-100005</pub-id><pub-id pub-id-type="pmid">32167791</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B49">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Violle</surname> <given-names>C.</given-names></name>
+<name><surname>Enquist</surname> <given-names>B. J.</given-names></name>
+<name><surname>McGill</surname> <given-names>B. J.</given-names></name>
+<name><surname>Jiang</surname> <given-names>L.</given-names></name>
+<name><surname>Albert</surname> <given-names>C. H.</given-names></name>
+<name><surname>Hulshof</surname> <given-names>C.</given-names></name>
+<etal/>
+</person-group>. (<year>2012</year>). 
+<article-title>The return of the variance: Intraspecific variability in community ecology</article-title>. <source>Trends Ecol. Evol.</source> <volume>27</volume>, <fpage>244</fpage>&#x2013;<lpage>252</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1016/j.tree.2011.11.014</pub-id><pub-id pub-id-type="pmid">22244797</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B50">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Violle</surname> <given-names>C.</given-names></name>
+<name><surname>Navas</surname> <given-names>M.</given-names></name>
+<name><surname>Vile</surname> <given-names>D.</given-names></name>
+<name><surname>Kazakou</surname> <given-names>E.</given-names></name>
+<name><surname>Fortunel</surname> <given-names>C.</given-names></name>
+<name><surname>Hummel</surname> <given-names>I.</given-names></name>
+<etal/>
+</person-group>. (<year>2007</year>). 
+<article-title>Let the concept of trait be functional</article-title>! <source>Oikos</source> <volume>116</volume>, <fpage>882</fpage>&#x2013;<lpage>892</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/j.0030-1299.2007.15559.x</pub-id><pub-id pub-id-type="pmid">40046247</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B51">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wang</surname> <given-names>W. W.</given-names></name>
+<name><surname>Han</surname> <given-names>W. P.</given-names></name>
+<name><surname>Liu</surname> <given-names>W. W.</given-names></name>
+</person-group> (<year>2023</year>). 
+<article-title>Short-term response of leaf functional traits of the invasive plant Spartina alterniflora to a tidal gradient in coastal wetlands</article-title>. <source>Chin. J. Plant Ecol.</source> <volume>47</volume>, <fpage>216</fpage>&#x2013;<lpage>226</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.17521/cjpe.2022.0194</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B52">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wang</surname> <given-names>B.</given-names></name>
+<name><surname>Zhang</surname> <given-names>K.</given-names></name>
+<name><surname>Liu</surname> <given-names>Q. X.</given-names></name>
+<name><surname>He</surname> <given-names>Q.</given-names></name>
+<name><surname>van de Koppel</surname> <given-names>J.</given-names></name>
+<name><surname>Teng</surname> <given-names>S. N.</given-names></name>
+<etal/>
+</person-group>. (<year>2022</year>). 
+<article-title>Long-distance facilitation of coastal ecosystem structure and resilience</article-title>. <source>Proc. Natl. Acad. Sci.</source> <volume>119</volume>, <elocation-id>e2123274119</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.1073/pnas.2123274119</pub-id><pub-id pub-id-type="pmid">35759652</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B53">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wilburn</surname> <given-names>B. P.</given-names></name>
+<name><surname>Raper</surname> <given-names>K.</given-names></name>
+<name><surname>Raposa</surname> <given-names>K. B.</given-names></name>
+<name><surname>Gray</surname> <given-names>A. B.</given-names></name>
+<name><surname>Mozdzer</surname> <given-names>T. J.</given-names></name>
+<name><surname>Watson</surname> <given-names>E. B.</given-names></name>
+</person-group> (<year>2024</year>). 
+<article-title>Promoting success in thin layer sediment placement: Effects of sediment grain size and amendments on salt marsh plant growth and greenhouse gas exchange</article-title>. <source>Restor. Ecol.</source> <volume>32</volume>, <elocation-id>e14141</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.1111/rec.14141</pub-id><pub-id pub-id-type="pmid">40046247</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B54">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wilson</surname> <given-names>P. J.</given-names></name>
+<name><surname>Thompson</surname> <given-names>K.</given-names></name>
+<name><surname>Hodgson</surname> <given-names>J. G.</given-names></name>
+</person-group> (<year>1999</year>). 
+<article-title>Specific leaf area and leaf dry matter content as alternative predictors of plant strategies</article-title>. <source>New Phytol.</source> <volume>143</volume>, <fpage>155</fpage>&#x2013;<lpage>162</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1046/j.1469-8137.1999.00427.x</pub-id><pub-id pub-id-type="pmid">37945311</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B55">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wright</surname> <given-names>I. J.</given-names></name>
+<name><surname>Reich</surname> <given-names>P. B.</given-names></name>
+<name><surname>Westoby</surname> <given-names>M.</given-names></name>
+<name><surname>Ackerly</surname> <given-names>D. D.</given-names></name>
+<name><surname>Baruch</surname> <given-names>Z.</given-names></name>
+<name><surname>Bongers</surname> <given-names>F.</given-names></name>
+<etal/>
+</person-group>. (<year>2004</year>). 
+<article-title>The worldwide leaf economics spectrum</article-title>. <source>Nature</source> <volume>428</volume>, <fpage>821</fpage>&#x2013;<lpage>827</lpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1038/nature02403</pub-id><pub-id pub-id-type="pmid">15103368</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B56">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhao</surname> <given-names>J.</given-names></name>
+<name><surname>Guo</surname> <given-names>B.</given-names></name>
+<name><surname>Hou</surname> <given-names>Y.</given-names></name>
+<name><surname>Yang</surname> <given-names>Q.</given-names></name>
+<name><surname>Feng</surname> <given-names>Z.</given-names></name>
+<name><surname>Zhao</surname> <given-names>Y.</given-names></name>
+<etal/>
+</person-group>. (<year>2024</year>). 
+<article-title>Multi-dimensionality in plant root traits: progress and challenges</article-title>. <source>J. Plant Ecol.</source> <volume>17</volume>, <elocation-id>rtae043</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.1093/jpe/rtae043</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B57">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhao</surname> <given-names>L. X.</given-names></name>
+<name><surname>Xu</surname> <given-names>C.</given-names></name>
+<name><surname>Ge</surname> <given-names>Z. M.</given-names></name>
+<name><surname>Van De Koppel</surname> <given-names>J.</given-names></name>
+<name><surname>Liu</surname> <given-names>Q. X.</given-names></name>
+</person-group> (<year>2019</year>). 
+<article-title>The shaping role of self-organization: linking vegetation patterning, plant traits and ecosystem functioning</article-title>. <source>Proc. R. Soc. B. Biol. Sci.</source> <volume>286</volume>, <fpage>20182859</fpage>. doi:&#xa0;<pub-id pub-id-type="doi">10.1098/rspb.2018.2859</pub-id><pub-id pub-id-type="pmid">30966990</pub-id>
+</mixed-citation>
+</ref>
+<ref id="B58">
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhao</surname> <given-names>L. X.</given-names></name>
+<name><surname>Zhang</surname> <given-names>K.</given-names></name>
+<name><surname>Siteur</surname> <given-names>K.</given-names></name>
+<name><surname>Li</surname> <given-names>X. Z.</given-names></name>
+<name><surname>Liu</surname> <given-names>Q. X.</given-names></name>
+<name><surname>van de Koppel</surname> <given-names>J.</given-names></name>
+</person-group> (<year>2021</year>). 
+<article-title>Fairy circles reveal the resilience of self-organized salt marshes</article-title>. <source>Sci. Adv.</source> <volume>7</volume>, <elocation-id>eabe1100</elocation-id>. doi:&#xa0;<pub-id pub-id-type="doi">10.1126/sciadv.abe1100</pub-id><pub-id pub-id-type="pmid">33547078</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+<fn-group>
+<fn id="n1" fn-type="custom" custom-type="edited-by">
+<p>Edited by: <ext-link ext-link-type="uri" xlink:href="https://loop.frontiersin.org/people/1905283">Amrit Mishra</ext-link>, James Cook University, Australia</p></fn>
+<fn id="n2" fn-type="custom" custom-type="reviewed-by">
+<p>Reviewed by: <ext-link ext-link-type="uri" xlink:href="https://loop.frontiersin.org/people/3206333">Kripa Shankar</ext-link>, ICAR - Indian Institute of Soil and Water Conservation, India</p>
+<p><ext-link ext-link-type="uri" xlink:href="https://loop.frontiersin.org/people/1567204">Zezheng Liu</ext-link>, Sun Yat-sen University, China</p></fn>
+</fn-group>
+</back>
+</article>

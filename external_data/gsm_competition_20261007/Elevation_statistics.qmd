@@ -1,0 +1,121 @@
+---
+title: "Elevation statistics"
+author: "Yuyang Wang"
+format: html
+---
+
+## load libraries
+```{r}
+library(readxl)
+library(dplyr)
+```
+
+
+# Load the Excel file
+```{r}
+df <- read_excel("~/Elevation/Intersection_stats.xlsx")
+```
+
+## Mann-Whitney test 
+```{r}
+library(readxl)
+library(dplyr)
+
+# Convert "0.1-0.2" -> 0.15
+bin_midpoint <- function(bin) {
+  v <- as.numeric(strsplit(bin, "-", fixed = TRUE)[[1]])
+  mean(v)
+}
+midpoints_vec <- function(bins) vapply(bins, function(b) bin_midpoint(b), numeric(1))
+
+# Expand frequencies (%) into pseudo-observations
+expand_by_freq <- function(midpoints, freqs) {
+  freqs <- replace(freqs, is.na(freqs), 0)
+  rep(midpoints, pmax(0L, as.integer(round(freqs))))
+}
+
+# Mann–Whitney Z with tie correction and continuity correction
+wilcox_z <- function(x, y, alternative = "greater", correct = TRUE) {
+  n1 <- length(x); n2 <- length(y); N <- n1 + n2
+  zvals <- c(x, y)
+
+  # Rank and compute U (sum of ranks for x minus n1(n1+1)/2)
+  r <- rank(zvals, ties.method = "average")
+  W <- sum(r[seq_len(n1)])
+  U <- W - n1 * (n1 + 1) / 2
+
+  # Mean and variance of U under H0 with tie correction
+  muU <- n1 * n2 / 2
+  tcount <- table(zvals)                # tie groups
+  tie_term <- sum(tcount^3 - tcount)    # sum(t_k^3 - t_k)
+  sigma2U <- n1 * n2 / 12 * (N + 1 - tie_term / (N * (N - 1)))
+  sigmaU  <- sqrt(sigma2U)
+
+  # Continuity correction
+  cc <- if (correct) 0.5 else 0
+  z <- switch(alternative,
+              "greater"   = (U - muU - cc) / sigmaU,
+              "less"      = (U - muU + cc) / sigmaU,
+              "two.sided" = sign(U - muU) * (abs(U - muU) - cc) / sigmaU)
+
+  # One-sided p-values
+  p <- switch(alternative,
+              "greater"   = 1 - pnorm(z),
+              "less"      = pnorm(z),
+              "two.sided" = 2 * min(pnorm(z), 1 - pnorm(z)))
+
+  list(U = U, W = W, muU = muU, sigmaU = sigmaU, z = z, p = p)
+}
+
+# Optional: Glass rank-biserial (same quantity via two equivalent formulas)
+glass_rb_means <- function(x, y) {
+  r <- rank(c(x, y), ties.method = "average")
+  n1 <- length(x); N <- length(r)
+  rbar1 <- mean(r[seq_len(n1)])
+  rbar2 <- mean(r[-seq_len(n1)])
+  2 * (rbar1 - rbar2) / N
+}
+glass_rb_fromU <- function(x, y) {
+  n1 <- length(x); n2 <- length(y)
+  # Compute U the same way as wilcox_z did
+  r <- rank(c(x, y), ties.method = "average")
+  W <- sum(r[seq_len(n1)])
+  U <- W - n1 * (n1 + 1) / 2
+  2 * U / (n1 * n2) - 1
+}
+
+# ----------------- load binned/rescaled data -----------------
+freq <- read_excel("~/Elevation/Intersection_stats.xlsx") %>%
+  mutate(midpoint = vapply(elevation, bin_midpoint, numeric(1)))
+
+# ----------------- 2023: P.aus (higher) vs S.alt -----------------
+f23 <- freq %>% filter(transect_type == 2023)
+x_23 <- expand_by_freq(f23$midpoint, f23$`P.aus`)  # group 1
+y_23 <- expand_by_freq(f23$midpoint, f23$`S.alt`)  # group 2
+
+# One-sided: "greater" = group1 higher elevations than group2
+w23 <- wilcox.test(x_23, y_23, alternative = "greater", exact = FALSE, correct = TRUE)
+z23 <- wilcox_z(x_23, y_23, alternative = "greater", correct = TRUE)
+
+cat("=== 2023 (P.aus > S.alt ?) ===\n")
+print(w23)
+cat(sprintf("Z (tie+cc): %.4f, one-sided p = %.6f\n", z23$z, z23$p))
+# Optional effect size (Glass rank-biserial; two equivalent ways)
+cat(sprintf("Glass r (means): %.4f | Glass r (U): %.4f\n\n",
+            glass_rb_means(x_23, y_23), glass_rb_fromU(x_23, y_23)))
+
+# ----------------- 1984: HM (higher) vs S.alt -----------------
+f84 <- freq %>% filter(transect_type == 1984)
+x_84 <- expand_by_freq(f84$midpoint, f84$HM)       # group 1
+y_84 <- expand_by_freq(f84$midpoint, f84$`S.alt`)  # group 2
+
+w84 <- wilcox.test(x_84, y_84, alternative = "greater", exact = FALSE, correct = TRUE)
+z84 <- wilcox_z(x_84, y_84, alternative = "greater", correct = TRUE)
+
+cat("=== 1984 (HM > S.alt ?) ===\n")
+print(w84)
+cat(sprintf("Z (tie+cc): %.4f, one-sided p = %.6f\n", z84$z, z84$p))
+cat(sprintf("Glass r (means): %.4f | Glass r (U): %.4f\n",
+            glass_rb_means(x_84, y_84), glass_rb_fromU(x_84, y_84)))
+
+```

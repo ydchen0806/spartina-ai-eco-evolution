@@ -1,0 +1,53 @@
+{
+  "dataset_doi": "10.6084/m9.figshare.30068944.v1",
+  "paper_doi": "10.1016/j.envc.2026.101453",
+  "source_files": 19,
+  "source_bytes": 2084821335,
+  "provider_md5_verified_on_download": true,
+  "sampled_domain_fraction_of_nonzero_map": 0.498861855899082,
+  "reference_points": 150,
+  "reference_points_agree_with_raster": 150,
+  "unweighted_reference_agreement": 0.5466666666666666,
+  "area_weighted_reference_agreement": 0.8277443439877346,
+  "published_adjusted_area_max_error_m2": 2.9103830456733704e-11,
+  "clipping_plots": 6,
+  "plots_per_treatment": 3,
+  "clipping_plot_dates": 66,
+  "last_observed_cover_difference_pp": 55.889444444444436,
+  "first_to_last_difference_in_change_pp": 55.805833333333325,
+  "missing_training_sidecars": [
+    "GSM_training_data_2023.dbf",
+    "GSM_training_data_2023.shx",
+    "GSM_training_data_2023.prj"
+  ],
+  "raster": {
+    "crs": "EPSG:26919",
+    "width": 2227,
+    "height": 4933,
+    "resolution_m": [
+      0.3,
+      0.3
+    ],
+    "transform": [
+      0.3,
+      0.0,
+      362905.80000000005,
+      0.0,
+      -0.3,
+      4606038.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": 0.0,
+    "domain": "Only strata 1,2,3 sampled; codes 4-7 unsampled and their class names undocumented in supplied code; 0 nodata. No whole-map inference."
+  },
+  "limits": [
+    "Spartina is native here; Phragmites is the invader. This is not an independent Chinese Spartina invasion replicate.",
+    "LM/HM are community classes, not independent species segmentation masks.",
+    "Reference points were labelled using the source image, not independent field measurements; uncertainty intervals condition on those labels.",
+    "Stratified samples must be weighted by mapped area; classes 4-7 are nonzero but unsampled, so reference agreement cannot assess the whole map.",
+    "Three plots per clipping arm with repeated dates; assignment/randomization and pairing are not established from the archived metadata. No causal P value or treatment-effect confidence interval is asserted.",
+    "Original RF checkpoint and complete training shapefile components are unavailable; original training accuracy is not independently reproduced."
+  ]
+}

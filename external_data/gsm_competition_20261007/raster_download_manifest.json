@@ -1,0 +1,35 @@
+[
+  {
+    "id": 61711459,
+    "name": "GSM_boundary_2023_clipped.tif",
+    "size": 55874872,
+    "is_link_only": false,
+    "download_url": "https://ndownloader.figshare.com/files/61711459",
+    "supplied_md5": "14739b1d364ea3228ebaec9ea91df1be",
+    "computed_md5": "14739b1d364ea3228ebaec9ea91df1be",
+    "mimetype": "image/tiff",
+    "sha256": "ccbec47091eada488acbeccdfef47e66e7dc42cd7e1b0997610099e167388fdb"
+  },
+  {
+    "id": 61711492,
+    "name": "GSM_20230811.tif",
+    "size": 2017587198,
+    "is_link_only": false,
+    "download_url": "https://ndownloader.figshare.com/files/61711492",
+    "supplied_md5": "717e81316c2c3137b56a5c751c37abd2",
+    "computed_md5": "717e81316c2c3137b56a5c751c37abd2",
+    "mimetype": "image/tiff",
+    "sha256": "35d67e02c47dd42af6808e0947ae56de538abcb0206adf1a49684a7c241bb196"
+  },
+  {
+    "id": 61711453,
+    "name": "GSM_2023_RF_classified_AOI2015_minus_forest.tif",
+    "size": 10996209,
+    "is_link_only": false,
+    "download_url": "https://ndownloader.figshare.com/files/61711453",
+    "supplied_md5": "bfde5a141b973aeb98070a058f78363c",
+    "computed_md5": "bfde5a141b973aeb98070a058f78363c",
+    "mimetype": "image/tiff",
+    "sha256": "3f25d02577396fb87c243b2a636df907d3527ecb445e979f04960e1e2796cdde"
+  }
+]
