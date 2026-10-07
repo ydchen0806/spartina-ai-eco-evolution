@@ -105,3 +105,28 @@ archive on HF under `external_sources/local_sentinel_c1_20261007/`. Provider
 product XML hashes were verified; full-band source checksums were not, because
 only intersecting source tiles were acquired. CCAV map strata retain the Li et al.
 attribution above. These analyses are not endorsed by ESA, the EU or Element 84.
+
+Zhangjiang UAV V4: Minmin Huang, Yihui Zhang, Zeyou Zhou and Xudong Zhu (2023),
+*A dataset of the UAV remote sensing spatial distribution of Spartina alterniflora
+in the Zhangjiang Estuary of Fujian Province from 2013 to 2022*, Science Data Bank,
+https://doi.org/10.57760/sciencedb.o00119.00069. Associated data paper:
+https://doi.org/10.11922/11-6035.csd.2023.0011.zh. **CC-BY-NC-SA-4.0**, including
+attribution, noncommercial use and share-alike conditions. All 20 originals are
+mirrored on HF under `external_sources/zhangjiang_uav_20261007/`; each provider
+MD5 and uploaded LFS SHA-256 was verified. Source metadata are in
+`external_data/zhangjiang_uav_20261007/`. Our adapted rasters, area tables,
+source-correspondence panels and figures in `data/derived/zhangjiang_uav_20261007/`
+retain CC-BY-NC-SA-4.0. The embedded Extended Data Figure 10 retains that licence
+within the manuscript. MIT applies only to our code, not to these data or figures.
+No endorsement by the original authors is implied. Two early orthomosaics are
+near-identical to recovered imagery on a diagnostic grid, so we do not claim
+independent historical sampling.
+
+Zhangjiang field summary: Yihui Zhang, Guanmin Huang, Wenqing Wang, Luzhen Chen and
+Guanghui Lin (2012), *Interactions between mangroves and exotic Spartina in an
+anthropogenically disturbed estuary in southern China*, Ecology 93:588–597,
+Appendix C, https://doi.org/10.6084/m9.figshare.3552801.v1, Figshare file 5621259.
+Provider licence **CC0**. Original HTML and attribution metadata are in
+`external_data/zhangjiang_field_20261007/`, provider MD5 verified. The appendix
+contains means±SE, not individual observations. Caption year 2007 and repository
+title year 2008 disagree and remain unresolved. No exact local plot match claimed.

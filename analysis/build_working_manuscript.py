@@ -17,7 +17,8 @@ FIGURES=[
  ('Extended Data Figure 6','data/derived/clonal_common_garden_20261007/clonal_block_sensitivity.png'),
  ('Extended Data Figure 7','data/derived/clonal_common_garden_20261007/clonal_leave_origin_out.png'),
  ('Extended Data Figure 8','data/derived/genet_ramet_20261007/genet_ramet_units.png'),
- ('Extended Data Figure 9','data/derived/local_sentinel_c1_20261007/local_sentinel_extension.png')]
+ ('Extended Data Figure 9','data/derived/local_sentinel_c1_20261007/local_sentinel_extension.png'),
+ ('Extended Data Figure 10','data/derived/zhangjiang_uav_20261007/zhangjiang_uav_extension.png')]
 
 def paragraph(doc,text):
     p=doc.add_paragraph()

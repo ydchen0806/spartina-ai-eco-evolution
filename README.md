@@ -180,3 +180,25 @@ The archived STAC responses pin the experiment; empty-source downloads query the
 live catalogue, which can change as reprocessing continues. Use the archived ZIP
 for exact acquisition replay. Contains modified Copernicus Sentinel data
 [2019–2025]; see `THIRD_PARTY_DATA.md` for terms.
+
+### Same-estuary 20 cm UAV originals recovered from a public data paper
+
+The [new retrieval and analysis report](docs/ZHANGJIANG_UAV_RECOVERY_2026-10-07.md)
+documents ten orthomosaics and ten distribution maps from 2013–2022, **1.84 GB**,
+all provider-MD5 verified. All map rectangles lie within our full UAV footprint.
+The December 2021 and June 2022 products add acquisition months absent from the
+original 15-date archive. Earlier same-month images are near-identical to recovered
+imagery and are not treated as independent replication. The
+[new figure](data/derived/zhangjiang_uav_20261007/zhangjiang_uav_extension.png)
+and updated working manuscript distinguish landscape-positive labels from
+isolated objects, biological events and source independence.
+
+Originals are on [HF](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data/tree/main/external_sources/zhangjiang_uav_20261007),
+under **CC-BY-NC-SA-4.0**, also retained by our adaptations. These are Huang et al.'s
+ScienceDB V4 data, not the still-unobtained raw 2025 Site10 material. Source zeros
+are NoData/unlabelled, not verified species absence.
+
+```bash
+python analysis/download_zhangjiang_uav.py --output /path/to/zhangjiang_uav
+python analysis/analyze_zhangjiang_uav.py --source /path/to/zhangjiang_uav --output data/derived/zhangjiang_uav_20261007
+```

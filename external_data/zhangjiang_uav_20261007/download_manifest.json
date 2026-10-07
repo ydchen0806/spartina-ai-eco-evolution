@@ -1,0 +1,169 @@
+{
+  "doi": "10.57760/sciencedb.o00119.00069",
+  "version": "V4",
+  "license": "CC-BY-NC-SA-4.0",
+  "files": [
+    {
+      "file": "classified/202206-classified.tif",
+      "bytes": 1398887,
+      "provider_md5": "a595f9e9ecff8dd0163317ce386030ca",
+      "provider_md5_verified": true,
+      "sha256": "e295037d2488c159ac5fc090a7aa7fad8c9f460cc07ac53f828bd2654fd91086",
+      "url": "https://china.scidb.cn/download?fileId=69b4dd06df7f6807d51fc38178647982"
+    },
+    {
+      "file": "classified/202112-classified.tif",
+      "bytes": 1305325,
+      "provider_md5": "f7af4995fc7b6cbe4828a67bf5f0438d",
+      "provider_md5_verified": true,
+      "sha256": "75c0bcc2c21cc9d57d02343312776341eb2e532b5495e73fadb8d55ed613f6d3",
+      "url": "https://china.scidb.cn/download?fileId=07c494255583a0174c70a88fc5858628"
+    },
+    {
+      "file": "classified/202012-classified.tif",
+      "bytes": 1427191,
+      "provider_md5": "d506792c983759d50b28807c2d868133",
+      "provider_md5_verified": true,
+      "sha256": "4f3f29fab3b90d98e2d38f22be5178d530882a066732e26d87c51b2d56816903",
+      "url": "https://china.scidb.cn/download?fileId=3ad7cf265f41ab5fa24e496c12bc728a"
+    },
+    {
+      "file": "classified/201912-classified.tif",
+      "bytes": 1902541,
+      "provider_md5": "88d443012d4fcaf1e94c3de9ddc70866",
+      "provider_md5_verified": true,
+      "sha256": "99667c9093a91ca758f0506f57c71a819342120926f228e90b32f30649143b32",
+      "url": "https://china.scidb.cn/download?fileId=17b65bb79a2baba7081b9b461862c3bb"
+    },
+    {
+      "file": "classified/201811-classified.tif",
+      "bytes": 1175323,
+      "provider_md5": "c40a94efa00d9d4eb84f5c1564506e63",
+      "provider_md5_verified": true,
+      "sha256": "5cc742e2a6677f06e462b6b8f1f3824a535b31bf4b60fadb6af6f5da9223a8a3",
+      "url": "https://china.scidb.cn/download?fileId=bda2c82cd538a35ef7eeaa0b8727b25f"
+    },
+    {
+      "file": "classified/201711-classified.tif",
+      "bytes": 1095543,
+      "provider_md5": "f1a61c0d5ed757c33d993d1ba43ae81a",
+      "provider_md5_verified": true,
+      "sha256": "4ffcb7ba40d19631de9a1d565ae41cb64110dcfb3b06cc86631e2a31ce718d36",
+      "url": "https://china.scidb.cn/download?fileId=86c1a986991f4981e394c21bc794c663"
+    },
+    {
+      "file": "classified/201611-classified.tif",
+      "bytes": 964789,
+      "provider_md5": "2a94515851434f1a5f9e6e470ff34760",
+      "provider_md5_verified": true,
+      "sha256": "f64cd340773114c84697438c42ccbc30d2097b1a8c54f31e984dcd688e6975bb",
+      "url": "https://china.scidb.cn/download?fileId=6b7500f9f19e94f0022d8333df87e394"
+    },
+    {
+      "file": "classified/201508-classified.tif",
+      "bytes": 916435,
+      "provider_md5": "8cd7b3e8f76a7406362471bc94f544f4",
+      "provider_md5_verified": true,
+      "sha256": "5645ef0c0583ac9741644dd58a04e24ab9c5d6e92d68122a00c2287a81223903",
+      "url": "https://china.scidb.cn/download?fileId=58bb1a328b63fe1c99d22e55b2334b6e"
+    },
+    {
+      "file": "classified/201408-classified.tif",
+      "bytes": 793021,
+      "provider_md5": "197e986086a2c6d5b45bfa88afe16abb",
+      "provider_md5_verified": true,
+      "sha256": "3e0793012779c68e2718d157948f2402b11ed1082c6c783edba6bb7366cc434f",
+      "url": "https://china.scidb.cn/download?fileId=6d9d8012082afa4c0da179d65ba7e5f4"
+    },
+    {
+      "file": "classified/201308-classified.tif",
+      "bytes": 724001,
+      "provider_md5": "f6831463e2798a6a986796c58a4b9154",
+      "provider_md5_verified": true,
+      "sha256": "66ef25b0067fa61c9f7b7d12166d932b58cf23473f3eee08deccca207d175b62",
+      "url": "https://china.scidb.cn/download?fileId=995ad7efac15619032cacb69f4162428"
+    },
+    {
+      "file": "DOM/202206-DOM-RTK.tif",
+      "bytes": 224859412,
+      "provider_md5": "5a1b43bd541448f4688cb7ef3f345021",
+      "provider_md5_verified": true,
+      "sha256": "a88dcabd3a96cb2259e7f1ec21c7c17201e8fcfe73f57bcd33930c29683cae26",
+      "url": "https://china.scidb.cn/download?fileId=ea39560a087726e58a8757c61fea3969"
+    },
+    {
+      "file": "DOM/202112-DOM-RTK.tif",
+      "bytes": 207984236,
+      "provider_md5": "636db2c681874d0ec8290a8d1520a4b5",
+      "provider_md5_verified": true,
+      "sha256": "1df921d0f85142a11ba6a9f836320e2af42d3715b23987659d5a7f53526e191d",
+      "url": "https://china.scidb.cn/download?fileId=c390fd980e9aedf4fa7f4a02ff9653ef"
+    },
+    {
+      "file": "DOM/202012-DOM-RTK.tif",
+      "bytes": 202338724,
+      "provider_md5": "ae0c09a93f588754357db9e3d3563873",
+      "provider_md5_verified": true,
+      "sha256": "3d900f8b2b5d4688eb690c7c8e1102e13bb4726b581f9717745e829a492c2ff3",
+      "url": "https://china.scidb.cn/download?fileId=8f7c4942d4e44b4d677993ecb6d61150"
+    },
+    {
+      "file": "DOM/201912-DOM.tif",
+      "bytes": 179944755,
+      "provider_md5": "4c1434434785f7a6531c1711fa7eff31",
+      "provider_md5_verified": true,
+      "sha256": "76533424190cb5c503bb7e2612c60be243b6a5abff3a3e7e1b50b52d292520cc",
+      "url": "https://china.scidb.cn/download?fileId=c93b2a8e26b0fe672ba9aabf3a6b564f"
+    },
+    {
+      "file": "DOM/201811-DOM.tif",
+      "bytes": 183951176,
+      "provider_md5": "6d7c07eb348e8d3b799f0705599f6fb1",
+      "provider_md5_verified": true,
+      "sha256": "0cb6f2495251c875f93bcb0bcbbf339c09b3f3db90ece520914adb836e30aa99",
+      "url": "https://china.scidb.cn/download?fileId=125e57f3f70e6e3ecce39a6cce809bb2"
+    },
+    {
+      "file": "DOM/201711-DOM.tif",
+      "bytes": 181434351,
+      "provider_md5": "d469283d0875a0d1631acf0aa89dd0fd",
+      "provider_md5_verified": true,
+      "sha256": "77c0fcf9d861cdc0f9948e36199cafe9299d33a4e363cfc7bd7b20f4f376006e",
+      "url": "https://china.scidb.cn/download?fileId=df41a2a4a88e8f55e37e8e38febb4961"
+    },
+    {
+      "file": "DOM/201611-DOM.tif",
+      "bytes": 182847500,
+      "provider_md5": "33d7ecc37eb3fb0929d4289469d24658",
+      "provider_md5_verified": true,
+      "sha256": "9f40f24d2f17342c0c00cbb711993c52e7a3bd76d033234918c6f3d6a8788334",
+      "url": "https://china.scidb.cn/download?fileId=f724e2a1c10d44052492b1f3cadc10c9"
+    },
+    {
+      "file": "DOM/201508-DOM.tif",
+      "bytes": 187200553,
+      "provider_md5": "92f70e156387183197284ad2a3efc7d2",
+      "provider_md5_verified": true,
+      "sha256": "c37f865be914d2d963c33bdd1b6855fa1acfbcb053a65c11feee861633dbcb2e",
+      "url": "https://china.scidb.cn/download?fileId=84851246e65af1e66d0d0fa99a7efbf5"
+    },
+    {
+      "file": "DOM/201408-DOM.tif",
+      "bytes": 178333435,
+      "provider_md5": "21bcbbcf90e66cbdcba8523ea9bd4830",
+      "provider_md5_verified": true,
+      "sha256": "10638f980eef83051bfc3f3ad13762fdec51352032cf0cc8075ec5c05e1ec740",
+      "url": "https://china.scidb.cn/download?fileId=f5ab4906f113cd6fff8548b5609c5707"
+    },
+    {
+      "file": "DOM/201308-DOM.tif",
+      "bytes": 103475605,
+      "provider_md5": "ddcfa664b417888ca689f6a5cc1555ed",
+      "provider_md5_verified": true,
+      "sha256": "7fd772d754f254aa7305945c3e198d033851bc990f0f800d73e76f2e60d9a5f3",
+      "url": "https://china.scidb.cn/download?fileId=be5e66e20798e843b63793745482bd3c"
+    }
+  ],
+  "total_bytes": 1844072803,
+  "all_provider_md5_verified": true
+}

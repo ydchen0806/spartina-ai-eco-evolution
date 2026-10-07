@@ -1,0 +1,11 @@
+{
+  "doi": "10.6084/m9.figshare.3552801.v1",
+  "license": "CC0",
+  "provider_md5_verified": true,
+  "sha256": "6521546c4070cc57079b4c815a50211147e28ceb2a3fbb22820bea1c558fe44b",
+  "source": "Zhang et al. 2012 Ecology93:588\u2013597, Appendix C",
+  "scope": "Published means \u00b1SE by four salinity zones and three growth stages; no individual records or exact local plot coordinates.",
+  "year_discrepancy": "Figshare title says 2008; original Appendix C caption says 2007. Unresolved, do not assign a verified sample year.",
+  "raw_replication_count_acquired": false,
+  "potential_use": "Mechanistic context for salinity, density and lateral expansion; not a local validation table."
+}

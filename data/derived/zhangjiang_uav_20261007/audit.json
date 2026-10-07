@@ -1,0 +1,36 @@
+{
+  "source_doi": "10.57760/sciencedb.o00119.00069",
+  "license": "CC-BY-NC-SA-4.0",
+  "files_verified": 20,
+  "total_bytes": 1844072803,
+  "dates": [
+    "201308",
+    "201408",
+    "201508",
+    "201611",
+    "201711",
+    "201811",
+    "201912",
+    "202012",
+    "202112",
+    "202206"
+  ],
+  "native_resolution_m": 0.2,
+  "source_map_rectangles_within_local_image": true,
+  "all_dates_common_support_ha": 248.935,
+  "endpoint_header_origin_offset_m": 0.00010928977280855179,
+  "endpoint_observed_overlap_ha": 250.16311200000007,
+  "endpoint_retained_positive_ha": 111.69728800000001,
+  "endpoint_removed_positive_ha": 0.3049760000000001,
+  "endpoint_added_positive_ha": 11.326048000000002,
+  "grid_approximation_max_abs_area_difference_ha": 0.0007579999999841675,
+  "limits": [
+    "Binary maps have foreground1 and NoData0; zero cannot establish absence, bare substrate or death.",
+    "2021 December versus 2022 June compares different seasons.",
+    "RTK filenames do not independently establish local coregistration error.",
+    "2014 August and 2015 August overlap acquisition months in recovered archive; historical-source independence unestablished.",
+    "2013\u20132022 maps represent reported distribution, not independent field-labelled validation.",
+    "Mapped-positive area inventories and label transitions are not demographic rates.",
+    "Common support uses nearest-neighbour RGB observation masks and source map rectangles on a 1m grid; native endpoint transitions pair original 20cm classified array cells after checking header-origin difference <1mm; this does not verify physical registration."
+  ]
+}

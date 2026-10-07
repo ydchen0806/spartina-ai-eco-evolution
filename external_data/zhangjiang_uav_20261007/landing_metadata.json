@@ -1,0 +1,128 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileObject": "cr:fileObject",
+    "fileProperty": "cr:fileProperty",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform",
+    "wd": "https://www.wikidata.org/wiki/"
+  },
+  "@id": "https://doi.org/10.57760/sciencedb.o00119.00069",
+  "@type": "sc:Dataset",
+  "citeAs": "@data{ 434575a010a249a195fcb91b9efdc035,\n  title        = {{A dataset of the UAV remote sensing spatial distribution of Spartina alterniflora in the Zhangjiang Estuary of Fujian Province from 2013 to 2022}},\n  author       = {{Minmin Huang and Yihui Zhang and Zeyou Zhou and Xudong Zhu}},\n  year        = {{2023}},\n  month       = {{July}},\n  publisher   = {{Science Data Bank}},\n  doi         = {{10.57760/sciencedb.o00119.00069}},\n  url         = {{https://doi.org/10.57760/sciencedb.o00119.00069}},\n  version     = {{V4}}\n}",
+  "conditionsOfAccess": "PUBLIC",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "creator": [
+    {
+      "@type": "sc:Person",
+      "affiliation": [
+        {
+          "@id": "https://ror.org/00mcjh785",
+          "@type": "sc:Organization",
+          "name": "Xiamen University"
+        }
+      ],
+      "name": "Minmin Huang"
+    },
+    {
+      "@type": "sc:Person",
+      "affiliation": [
+        {
+          "@id": "https://ror.org/00mcjh785",
+          "@type": "sc:Organization",
+          "name": "Xiamen University"
+        }
+      ],
+      "name": "Yihui Zhang"
+    },
+    {
+      "@type": "sc:Person",
+      "affiliation": [
+        {
+          "@type": "sc:Organization",
+          "name": "Fujian Environmental Protection Design Institute Company Limited"
+        }
+      ],
+      "name": "Zeyou Zhou"
+    },
+    {
+      "@type": "sc:Person",
+      "affiliation": [
+        {
+          "@id": "https://ror.org/00mcjh785",
+          "@type": "sc:Organization",
+          "name": "Xiamen University"
+        }
+      ],
+      "name": "Xudong Zhu"
+    }
+  ],
+  "datePublished": "2022-12-15T00:00:00Z",
+  "description": "This remote sensing image dataset includes orthomosaics and Spartina alterniflora spatial data, derived from drone-based RGB photos over Zhangjiang Estuary, Fujian Province from 2013 to 2022. The drone photos were collected via automatic flight planning mainly during daytime low-tide periods. Based on the structure-from-motion three-dimension reconstruction technique, for each campaign the drone photos can be mosaiced into a digital orthophoto map, which is then used for extracting the spatial distribution of Spartina alterniflora.        The dataset contains 2 folders including 10 orthomosaics and 10 Spartina alterniflora data, respectively. The file sizes are 1.7GB and 10.7MB for the orthomosaics and Spartina alterniflora data, respectively. All the data are in TIF format, and you can use GIS or remote sensing softwares like ArcGIS and ENVI to open them. The orthomosaics are named as &quot;date-DOM&quot; or the datasets with network RTK positioning service are named as &quot;date-DOM-RTK&quot;. For example, the orthmosaic in June, 2022 is named as &quot;202206-DOM-RTK.tif&quot;. Spartina alterniflora datasets are named &quot;date-classified&quot;. The resolution of all data is 20 cm and the coordinate system is WGS84/UTM zone 50N. The drones used are different for these flights, and there is a slight deviation in positioning accuracy.",
+  "identifier": "https://doi.org/10.57760/sciencedb.o00119.00069",
+  "inLanguage": "en_US",
+  "includedInDataCatalog": {
+    "@id": "https://www.scidb.cn",
+    "@type": "sc:DataCatalog",
+    "@url": "http://www.scidb.cn",
+    "name": "Science Data Bank"
+  },
+  "keywords": [
+    "coastal wetland",
+    "Spartina alterniflora",
+    "drone",
+    "digital orthophoto"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "name": "A dataset of the UAV remote sensing spatial distribution of Spartina alterniflora in the Zhangjiang Estuary of Fujian Province from 2013 to 2022",
+  "publisher": {
+    "@type": "sc:Organization",
+    "@url": "http://www.scidb.cn",
+    "name": "Science Data Bank"
+  },
+  "size": {
+    "@type": "sc:QuantitativeValue",
+    "unitText": "bytes",
+    "value": 1844072803
+  },
+  "url": "https://doi.org/10.57760/sciencedb.o00119.00069",
+  "version": "4.0.0"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "date": "201408",
+    "public_file": "201408-DOM.tif",
+    "recovered_file": "201408ddyw.tif",
+    "geographic_grid_gray_correlation": 0.9990732779085585,
+    "sift_ratio_matches": 1773,
+    "ransac_inliers": 1769,
+    "diagnostic_affine_on_downsampled_grid": [
+      [
+        1.000007787501264,
+        4.046073859625005e-07,
+        0.0033548765415539698
+      ],
+      [
+        -4.046073859625005e-07,
+        1.000007787501264,
+        -0.00683268993023351
+      ]
+    ],
+    "interpretation": "Same-month spatial imagery correspondence diagnostic; repeated persistent features and colour processing prevent proof of shared raw flights. Not independent ground validation."
+  },
+  {
+    "date": "201508",
+    "public_file": "201508-DOM.tif",
+    "recovered_file": "201508ddyw.tif",
+    "geographic_grid_gray_correlation": 0.9988786707720031,
+    "sift_ratio_matches": 3104,
+    "ransac_inliers": 3104,
+    "diagnostic_affine_on_downsampled_grid": [
+      [
+        1.0000048996541018,
+        2.828743444316902e-06,
+        0.012771921548893771
+      ],
+      [
+        -2.828743444316902e-06,
+        1.0000048996541018,
+        -0.004999405362623143
+      ]
+    ],
+    "interpretation": "Same-month spatial imagery correspondence diagnostic; repeated persistent features and colour processing prevent proof of shared raw flights. Not independent ground validation."
+  }
+]

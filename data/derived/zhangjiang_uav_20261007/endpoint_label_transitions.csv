@@ -1,0 +1,5 @@
+label_202112,label_202206,pixels,area_ha,interpretation
+0,0,31708700,126.83480000000003,unlabelled both
+0,1,2831512,11.326048000000002,positive added; earlier unlabelled
+1,0,76244,0.3049760000000001,positive removed; later unlabelled
+1,1,27924322,111.69728800000001,positive retained

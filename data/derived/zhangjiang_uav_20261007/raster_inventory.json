@@ -1,0 +1,302 @@
+[
+  {
+    "date": "201308",
+    "classified_file": "201308-classified.tif",
+    "dom_file": "201308-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.19999999999999776,
+      0.19999999999998236
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 0.0,
+    "classified_bounds_wgs84": [
+      117.41099462339038,
+      23.916697884775022,
+      117.42983037396897,
+      23.935413239035366
+    ],
+    "dom_bounds_wgs84": [
+      117.40941516913557,
+      23.916502738432477,
+      117.42992057942637,
+      23.935632618092566
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "201408",
+    "classified_file": "201408-classified.tif",
+    "dom_file": "201408-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.19999999999999551,
+      0.19999999999999116
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 65535.0,
+    "classified_bounds_wgs84": [
+      117.41104348128492,
+      23.916560048992665,
+      117.42985422565667,
+      23.93544333537305
+    ],
+    "dom_bounds_wgs84": [
+      117.40947217635646,
+      23.916519129617935,
+      117.42989495224488,
+      23.935618076695075
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "201508",
+    "classified_file": "201508-classified.tif",
+    "dom_file": "201508-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.19999999999999551,
+      0.19999999999999116
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 65535.0,
+    "classified_bounds_wgs84": [
+      117.41106695432477,
+      23.916560044786568,
+      117.42985601772604,
+      23.93542340285565
+    ],
+    "dom_bounds_wgs84": [
+      117.40947217635623,
+      23.91651921198928,
+      117.4298949522578,
+      23.935618159066397
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "201611",
+    "classified_file": "201611-classified.tif",
+    "dom_file": "201611-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.19999999999999551,
+      0.20000000000000884
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.41104473020411,
+      23.91653035541818,
+      117.42988311047996,
+      23.935451653821673
+    ],
+    "dom_bounds_wgs84": [
+      117.40947205141644,
+      23.916519197725744,
+      117.42989483328043,
+      23.93561995121306
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "201711",
+    "classified_file": "201711-classified.tif",
+    "dom_file": "201711-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.19999999999998427,
+      0.19999999999996468
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.41134811708531,
+      23.91660202285424,
+      117.42985061903923,
+      23.935563965598156
+    ],
+    "dom_bounds_wgs84": [
+      117.40947210680882,
+      23.91651882863833,
+      117.42989488862185,
+      23.93561958213295
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "201811",
+    "classified_file": "201811-classified.tif",
+    "dom_file": "201811-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.20000000000000226,
+      0.20000000000000884
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.41057519264562,
+      23.916570680830752,
+      117.42982409622624,
+      23.9354424905783
+    ],
+    "dom_bounds_wgs84": [
+      117.40947084995518,
+      23.916518028405804,
+      117.42989559678153,
+      23.935618787231277
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "201912",
+    "classified_file": "201912-classified.tif",
+    "dom_file": "201912-DOM.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.19999999999999102,
+      0.20000000000000884
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.410499786248,
+      23.916560405223485,
+      117.42985509192336,
+      23.935519210817926
+    ],
+    "dom_bounds_wgs84": [
+      117.4094707111196,
+      23.91651898077937,
+      117.42989545807804,
+      23.93561973958651
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "202012",
+    "classified_file": "202012-classified.tif",
+    "dom_file": "202012-DOM-RTK.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.20000000000000673,
+      0.20000000000003534
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.41096138580102,
+      23.91657965485097,
+      117.42982355463982,
+      23.935564234082577
+    ],
+    "dom_bounds_wgs84": [
+      117.40947174745381,
+      23.916519621798894,
+      117.42989452335904,
+      23.935618568820125
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "202112",
+    "classified_file": "202112-classified.tif",
+    "dom_file": "202112-DOM-RTK.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.20000000000000673,
+      0.20000000000000884
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.4110044077768,
+      23.91663598718518,
+      117.42979961463323,
+      23.935573417699803
+    ],
+    "dom_bounds_wgs84": [
+      117.4094713766442,
+      23.91651944677037,
+      117.42989415845076,
+      23.935620200169854
+    ],
+    "class_rect_within_local_full_image": true
+  },
+  {
+    "date": "202206",
+    "classified_file": "202206-classified.tif",
+    "dom_file": "202206-DOM-RTK.tif",
+    "class_crs": "EPSG:32650",
+    "dom_crs": "EPSG:32650",
+    "class_resolution_m": [
+      0.2,
+      0.2
+    ],
+    "dom_resolution_m": [
+      0.20000000000000226,
+      0.20000000000000884
+    ],
+    "class_nodata": 0.0,
+    "dom_nodata": 256.0,
+    "classified_bounds_wgs84": [
+      117.41100440777991,
+      23.9166359881723,
+      117.42979961463648,
+      23.93557341868692
+    ],
+    "dom_bounds_wgs84": [
+      117.40947052472457,
+      23.916519294283436,
+      117.4298952717062,
+      23.93562005306624
+    ],
+    "class_rect_within_local_full_image": true
+  }
+]
