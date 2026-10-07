@@ -1,0 +1,129 @@
+footprint,shift_x_m,shift_y_m,year,code,label,pixels,area_ha,footprint_pixels
+full_image,0,0,2016,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2016,1,S. alterniflora,13246,132.46,77572
+full_image,0,0,2016,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2016,3,P. australis,4174,41.74,77572
+full_image,0,0,2016,4,T. chinensis,0,0.0,77572
+full_image,0,0,2016,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2016,6,Mangroves,10993,109.93,77572
+full_image,0,0,2016,255,No data / unmapped,49159,491.59000000000003,77572
+full_image,0,0,2017,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2017,1,S. alterniflora,7778,77.78,77572
+full_image,0,0,2017,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2017,3,P. australis,6605,66.05,77572
+full_image,0,0,2017,4,T. chinensis,0,0.0,77572
+full_image,0,0,2017,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2017,6,Mangroves,17124,171.24,77572
+full_image,0,0,2017,255,No data / unmapped,46065,460.65000000000003,77572
+full_image,0,0,2018,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2018,1,S. alterniflora,8665,86.65,77572
+full_image,0,0,2018,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2018,3,P. australis,5279,52.79,77572
+full_image,0,0,2018,4,T. chinensis,0,0.0,77572
+full_image,0,0,2018,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2018,6,Mangroves,16363,163.63,77572
+full_image,0,0,2018,255,No data / unmapped,47265,472.65000000000003,77572
+full_image,0,0,2019,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2019,1,S. alterniflora,5048,50.480000000000004,77572
+full_image,0,0,2019,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2019,3,P. australis,7853,78.53,77572
+full_image,0,0,2019,4,T. chinensis,0,0.0,77572
+full_image,0,0,2019,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2019,6,Mangroves,22447,224.47,77572
+full_image,0,0,2019,255,No data / unmapped,42224,422.24,77572
+full_image,0,0,2020,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2020,1,S. alterniflora,7078,70.78,77572
+full_image,0,0,2020,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2020,3,P. australis,0,0.0,77572
+full_image,0,0,2020,4,T. chinensis,0,0.0,77572
+full_image,0,0,2020,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2020,6,Mangroves,22885,228.85,77572
+full_image,0,0,2020,255,No data / unmapped,47609,476.09000000000003,77572
+full_image,0,0,2021,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2021,1,S. alterniflora,6804,68.04,77572
+full_image,0,0,2021,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2021,3,P. australis,5676,56.76,77572
+full_image,0,0,2021,4,T. chinensis,0,0.0,77572
+full_image,0,0,2021,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2021,6,Mangroves,21840,218.4,77572
+full_image,0,0,2021,255,No data / unmapped,43252,432.52,77572
+full_image,0,0,2022,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2022,1,S. alterniflora,10074,100.74000000000001,77572
+full_image,0,0,2022,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2022,3,P. australis,2056,20.56,77572
+full_image,0,0,2022,4,T. chinensis,0,0.0,77572
+full_image,0,0,2022,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2022,6,Mangroves,18070,180.70000000000002,77572
+full_image,0,0,2022,255,No data / unmapped,47372,473.72,77572
+full_image,0,0,2023,0,Undocumented zero,0,0.0,77572
+full_image,0,0,2023,1,S. alterniflora,5796,57.96,77572
+full_image,0,0,2023,2,Suaeda spp.,0,0.0,77572
+full_image,0,0,2023,3,P. australis,3384,33.84,77572
+full_image,0,0,2023,4,T. chinensis,0,0.0,77572
+full_image,0,0,2023,5,S. mariqueter,0,0.0,77572
+full_image,0,0,2023,6,Mangroves,12760,127.60000000000001,77572
+full_image,0,0,2023,255,No data / unmapped,55632,556.32,77572
+historical_roi,0,0,2016,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2016,1,S. alterniflora,9762,97.62,32155
+historical_roi,0,0,2016,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2016,3,P. australis,3689,36.89,32155
+historical_roi,0,0,2016,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2016,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2016,6,Mangroves,6616,66.16,32155
+historical_roi,0,0,2016,255,No data / unmapped,12088,120.88,32155
+historical_roi,0,0,2017,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2017,1,S. alterniflora,5192,51.92,32155
+historical_roi,0,0,2017,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2017,3,P. australis,5340,53.4,32155
+historical_roi,0,0,2017,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2017,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2017,6,Mangroves,12410,124.10000000000001,32155
+historical_roi,0,0,2017,255,No data / unmapped,9213,92.13,32155
+historical_roi,0,0,2018,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2018,1,S. alterniflora,5951,59.51,32155
+historical_roi,0,0,2018,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2018,3,P. australis,3819,38.19,32155
+historical_roi,0,0,2018,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2018,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2018,6,Mangroves,12300,123.0,32155
+historical_roi,0,0,2018,255,No data / unmapped,10085,100.85000000000001,32155
+historical_roi,0,0,2019,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2019,1,S. alterniflora,2482,24.82,32155
+historical_roi,0,0,2019,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2019,3,P. australis,3861,38.61,32155
+historical_roi,0,0,2019,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2019,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2019,6,Mangroves,17419,174.19,32155
+historical_roi,0,0,2019,255,No data / unmapped,8393,83.93,32155
+historical_roi,0,0,2020,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2020,1,S. alterniflora,3864,38.64,32155
+historical_roi,0,0,2020,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2020,3,P. australis,0,0.0,32155
+historical_roi,0,0,2020,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2020,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2020,6,Mangroves,17922,179.22,32155
+historical_roi,0,0,2020,255,No data / unmapped,10369,103.69,32155
+historical_roi,0,0,2021,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2021,1,S. alterniflora,3766,37.660000000000004,32155
+historical_roi,0,0,2021,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2021,3,P. australis,3266,32.660000000000004,32155
+historical_roi,0,0,2021,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2021,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2021,6,Mangroves,17120,171.20000000000002,32155
+historical_roi,0,0,2021,255,No data / unmapped,8003,80.03,32155
+historical_roi,0,0,2022,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2022,1,S. alterniflora,7164,71.64,32155
+historical_roi,0,0,2022,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2022,3,P. australis,1092,10.92,32155
+historical_roi,0,0,2022,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2022,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2022,6,Mangroves,13605,136.05,32155
+historical_roi,0,0,2022,255,No data / unmapped,10294,102.94,32155
+historical_roi,0,0,2023,0,Undocumented zero,0,0.0,32155
+historical_roi,0,0,2023,1,S. alterniflora,3522,35.22,32155
+historical_roi,0,0,2023,2,Suaeda spp.,0,0.0,32155
+historical_roi,0,0,2023,3,P. australis,2325,23.25,32155
+historical_roi,0,0,2023,4,T. chinensis,0,0.0,32155
+historical_roi,0,0,2023,5,S. mariqueter,0,0.0,32155
+historical_roi,0,0,2023,6,Mangroves,8442,84.42,32155
+historical_roi,0,0,2023,255,No data / unmapped,17866,178.66,32155

@@ -1,0 +1,170 @@
+{
+  "DOI": "10.5194/essd-18-2907-2026",
+  "title": [
+    "CCAV-10m: an annual spatiotemporal dataset for eastern coastal China’s wetland vegetation by integrating Sentinel-1/2 observations via deep learning"
+  ],
+  "author": [
+    {
+      "given": "Yuying",
+      "family": "Li",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2163-4550",
+      "authenticated-orcid": false,
+      "given": "Lina",
+      "family": "Yuan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02n96ep67",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "East China Normal University (Shanghai, China)"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        },
+        {
+          "role": "corresponding-author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0001-5925-9936",
+      "authenticated-orcid": false,
+      "given": "Ting",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zijiang",
+      "family": "Song",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shuang",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zilong",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Min",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02n96ep67",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "East China Normal University (Shanghai, China)"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        },
+        {
+          "role": "corresponding-author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Earth System Science Data"
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        27
+      ]
+    ]
+  },
+  "volume": "18",
+  "issue": "4",
+  "page": "2907-2927",
+  "article-number": null,
+  "abstract": "<jats:p>\n                    Coastal wetland vegetation plays a vital role in shoreline protection and ecosystem management, highlighting the need for accurate and high-resolution mapping of these unique and vulnerable habitats. Here, we present CCAV-10m, the first publicly available annual species-level wetland dataset for eastern coastal China at 10 m resolution (2016–2023). This dataset was generated using a novel phenology-guided coastal wetland vegetation classification network (P_SVCN), which integrates Sentinel-1/2 satellite imagery with extensive in situ observations. Validation based on 4668 in situ samples confirms that P_SVCN delivers strong classification performance, achieving an overall accuracy of 0.916 and a Kappa coefficient of 0.898. Spatiotemporal analysis of CCAV-10m reveals that\n                    <jats:italic>Suaeda</jats:italic>\n                    spp. is the dominant vegetation type, followed by\n                    <jats:italic>Spartina alterniflora</jats:italic>\n                    , whose coverage nearly equals the combined extent of\n                    <jats:italic>Phragmites australis</jats:italic>\n                    , mangroves,\n                    <jats:italic>Scirpus mariqueter</jats:italic>\n                    , and\n                    <jats:italic>Tamarix chinensis</jats:italic>\n                    . Notably, this work fills critical gaps in both spatial detail and temporal consistency across existing coastal wetland datasets, demonstrating the effectiveness of deep-learning-based fusion of optical and SAR data for high-resolution vegetation mapping. Regular updates to CCAV-10m will support long-term coastal wetland research, enhance invasive species monitoring, and inform wetland restoration and precision management efforts. The CCAV-10m dataset is openly accessible at https://doi.org/10.57760/sciencedb.31077 (Li et al., 2025).\n                  </jats:p>",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2026-04-27T00:00:00Z",
+        "timestamp": 1777248000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "link": [
+    {
+      "URL": "https://essd.copernicus.org/articles/18/2907/2026/essd-18-2907-2026.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "URL": "https://doi.org/10.5194/essd-18-2907-2026"
+}

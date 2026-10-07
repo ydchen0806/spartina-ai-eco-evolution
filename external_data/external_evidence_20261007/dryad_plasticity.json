@@ -1,0 +1,151 @@
+{
+  "_links": {
+    "self": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.j3tx95xsc"
+    },
+    "stash:versions": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.j3tx95xsc/versions"
+    },
+    "stash:version": {
+      "href": "/api/v2/versions/359901"
+    },
+    "stash:download": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.j3tx95xsc/download"
+    },
+    "curies": [
+      {
+        "name": "stash",
+        "href": "https://github.com/datadryad/dryad-app/blob/main/documentation/apis/link_relations.md#{rel}",
+        "templated": "true"
+      }
+    ]
+  },
+  "identifier": "doi:10.5061/dryad.j3tx95xsc",
+  "id": 156262,
+  "storageSize": 142097,
+  "relatedPublicationISSN": "0030-1299",
+  "title": "Data and code from: Temperature affects the relative importance of phenotypic plasticity and natural selection contributing to the niche breadth of invasive plants",
+  "authors": [
+    {
+      "firstName": "Wenwen",
+      "lastName": "Liu",
+      "email": "hutcliuwenwen@163.com",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ],
+      "orcid": "0000-0001-7585-2812"
+    },
+    {
+      "firstName": "Lin",
+      "lastName": "Li",
+      "email": "1027229088@qq.com",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ],
+      "order": 1
+    },
+    {
+      "firstName": "Congting",
+      "lastName": "Ye",
+      "email": "yec@xmu.edu.cn",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ],
+      "order": 2
+    },
+    {
+      "firstName": "Xincong",
+      "lastName": "Chen",
+      "email": "chendpwsp@outlook.com",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ],
+      "order": 3
+    },
+    {
+      "firstName": "Yihui",
+      "lastName": "Zhang",
+      "email": "zyh@xmu.edu.cn",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ],
+      "orcid": "0000-0002-8710-2151",
+      "order": 4
+    }
+  ],
+  "abstract": "<p>Plant species adapt to changing climates through phenotypic plasticity and natural selection, affecting invasive plants’ niche breadth. However, our limited understanding of how temperature affects the relative importance of phenotypic plasticity and natural selection contributes to invasive plants' niche breadth across latitudes. Here, we used a model system, the salt marsh grass <em>Spartina alterniflora</em>,<em> </em>native<em> </em>to the United States but was introduced into China in 1979, spreading over 20° latitude. We collected seeds of <em>S</em>.<em> alterniflora</em> from nine locations across different latitudes in China, measured phenotypic plasticity, natural selection, and niche breadth of germination and post-germination traits in three greenhouse common garden experiments (low-latitude: 20.9° N, mid-latitude: 28.3° N, and high-latitude: 37.4° N) spread across the latitude in China. We found that germination time, germination percentage, germination index, and seedling survival all increased with latitude within the common gardens. Germination time showed a lower slope at the high-latitude common garden sites, but the other variables had higher slopes at the high-latitude common garden sites. The phenotypic plasticity of germination and post-germination traits across latitudes decreased with increasing latitude of origin, similar to germination niche breadth. Furthermore, temperature negatively affected the natural selection but positively affected the phenotypic plasticity. These results indicated that climate-driven selection favors sexual reproduction at higher latitudes and higher phenotypic plasticity at lower latitudes. Our findings highlight that phenotypic plasticity and natural selection could drive the niche breadth across latitudes. This is critical for predicting the niche breadths of invasive species and the potential management of biological invasions in future climate conditions.</p>",
+  "funders": [
+    {
+      "organization": "National Natural Science Foundation of China",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/01h0zpd94",
+      "awardNumber": "32222054",
+      "awardDescription": "",
+      "order": 0
+    },
+    {
+      "organization": "National Natural Science Foundation of China",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/01h0zpd94",
+      "awardNumber": "32025026",
+      "awardDescription": "",
+      "order": 1
+    }
+  ],
+  "keywords": [
+    "Invasive species",
+    "Salt marsh",
+    "Climate change"
+  ],
+  "fieldOfScience": "Biological sciences",
+  "methods": "<p>We selected nine field sites in the Hainan, Guangdong, Fujian, Zhejiang, Shanghai, Jiangsu, and Shandong provinces spanning the latitudinal gradient (19–38° N) of <em>S</em>. <em>alterniflora</em> in China. Seeds were collected from nine field sites along a latitudinal gradient from south to north at maturity between September and November 2019 . At each site, we sampled 10 quadrats (0.5 × 0.5 m) that were separated by &gt; 30 m to avoid repeated collection of the same clone belongs to the same lineage with <em>S</em>. <em>alterniflora</em> occurred in monospecific stands. The filled seeds from each quadrate were placed into separate zip-lock bags and stored in 10 PSU seawater at 4 ºC. To standard the local climate and document the mechanisms of seed germination and seedling establishment in <em>S. alterniflora</em> at different latitudes, we established three greenhouse common gardens across the latitudinal gradient of the species in Dongying (37.46° N, 121.39° E), Taizhou (28.65° N, 121.41° E), and Zhanjiang (21.27° N, 110.35° E), in November 2019. Each common garden comprised 10 rectangular plastic pools as blocks (length: 1.10 m, width: 0.82 m, depth: 0.26 m). Each pool contained nine plastic pots as provenance (18 cm diameter and 24 cm depth) grouped into three rows and three columns. Each bucket was filled with a mixture of 50% Jiffy peat substrate (Jiffy Products International BV, Moerdijk, Netherlands) and 50% vermiculite (v/v). In November 2019 (High-latitude common garden: November 8<sup>th</sup>, 2019; Mid-latitude common garden: November 15<sup>th</sup>, 2019; Low-latitude common garden: November 13<sup>th</sup>, 2019), 20 filled seeds were randomly selected from each quadrat for sowing, and 1800 seeds were sown in a single garden (20 seeds/quadrat × 10 quadrants × 9 sampling sites). Seeds from each quadrat were randomly sown on a 4 × 5-hole grid plate placed at the center of each plastic pot to accurately record the germination time of each seed. The locations of sampling sites varied haphazardly within each pool. The seeds were covered with a thin layer of soil of approximately 0.2 cm after sowing. Fresh water was sprayed on the soil surface above the seeds daily to keep them wet. Germinated seeds were counted daily beginning on November 15<sup>th</sup>, 2019 (when all seeds were sown in the three common gardens), and the germination time of each seed was recorded. Seed germination was assessed when the seed germ was exposed to the soil surface. The germination experiment ended when no new germinations occurred in a consecutive week (7 days). Seedlings were observed until May 30<sup>th</sup>, 2020 for a total of 197 days and the seedling survival rate was determined at the end of the germination common garden experiment.</p>",
+  "relatedWorks": [
+    {
+      "relationship": "primary_article",
+      "identifierType": "DOI",
+      "identifier": "https://doi.org/10.1002/oik.11347"
+    }
+  ],
+  "versionNumber": 8,
+  "versionStatus": "submitted",
+  "curationStatus": "Published",
+  "versionChanges": "files_changed",
+  "publicationDate": "2025-04-21",
+  "lastModificationDate": "2025-04-21",
+  "visibility": "public",
+  "sharingLink": "http://datadryad.org/dataset/doi:10.5061/dryad.j3tx95xsc",
+  "changedFields": [
+    "data_files"
+  ],
+  "license": "https://spdx.org/licenses/CC0-1.0.html",
+  "metrics": {
+    "views": 18,
+    "downloads": 6,
+    "citations": 1
+  }
+}

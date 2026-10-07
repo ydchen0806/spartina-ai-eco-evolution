@@ -1,0 +1,5 @@
+paper_doi,material_reviewed,dataset_doi,data_status,design,permitted_use,limitation
+10.5194/essd-18-2907-2026,full text XML and raw product,10.57760/sciencedb.31077,raw data downloaded and analyzed,annual 10m maps and sample coordinates,landscape class context,unknown split; no independent local validation
+10.1002/ece3.8681,full text XML,10.5061/dryad.2rbnzs7q7,metadata only; raw file downloads HTTP403,26 source populations; 10 blocks; 260 planned plants,source-associated biomass and flowering hypotheses,one garden; maternal/ancestry effects; not local temporal evolution
+10.1002/oik.11347,Crossref abstract and Dryad methods; no full text,10.5061/dryad.j3tx95xsc,metadata only; raw file downloads HTTP403,9 seed origins; 3 garden sites; blocks within gardens,environment-dependent germination and survival hypotheses,garden-level temperature confounded; life stage differs; coordinates need checking
+10.3389/fgene.2020.00284,public full text,not retrieved,literature only,715 samples; 18 populations; 8 microsatellite loci,ancestry and introduction-history alternatives,neutral differentiation does not prove adaptive growth change

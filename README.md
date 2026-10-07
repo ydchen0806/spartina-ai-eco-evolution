@@ -24,12 +24,18 @@ The full [working manuscript](docs/MANUSCRIPT_WORKING_DRAFT.md) is available as
 strict prediction baseline, sensitivity analyses and explicit evidence limits;
 it is not a submission-ready claim of evolution.
 
-The [latest report](docs/VALIDATION_AND_MANUSCRIPT_2026-10-07.md) documents the
-480-crop independent annotation pilot, frozen spatial splits, image-centred
-meteorological context and checked literature metadata. Crops and the working
-annotation page remain on the project server; this package contains their
-sampling manifest, generation code and browser template. Expert labels remain
-uncompleted.
+The [external-evidence report](docs/EXTERNAL_EVIDENCE_2026-10-07.md) adds an
+actual reanalysis of eight CCAV-10m annual vegetation maps, verified sample
+provenance and a mechanism-focused review of common-garden and genetic studies.
+[Satellite maps](data/derived/ccav_20261007/ccav_annual_site_maps.png),
+[classified areas](data/derived/ccav_20261007/ccav_classified_area.png) and
+[agreement across scales](data/derived/ccav_20261007/isolated_mask_ccav_agreement.png)
+remain explicitly unvalidated locally. See [third-party attribution](THIRD_PARTY_DATA.md).
+
+The [validation report](docs/VALIDATION_AND_MANUSCRIPT_2026-10-07.md) documents the
+480-crop annotation pilot and frozen spatial splits. Crops and the annotation
+page remain on the project server; this package contains sampling metadata,
+generation code and the browser template. Expert labels remain uncompleted.
 
 ## What is included
 

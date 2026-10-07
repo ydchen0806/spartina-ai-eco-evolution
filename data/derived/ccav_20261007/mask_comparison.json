@@ -1,0 +1,13 @@
+{
+  "dates": 12,
+  "source": "recovered 15-date masks; historical ROI; foreground pixel centres projected to CCAV common grid",
+  "count_conservation": true,
+  "independent_component_area_totals_match": true,
+  "limitations": [
+    "Both products unvalidated locally; agreement is not accuracy.",
+    "Annual composites differ from individual UAV dates.",
+    "Header coordinates assumed; absolute georeferencing not independently verified.",
+    "Small patches below 10m support can occur within other satellite classes.",
+    "No pixels from the frozen expert-validation pilot were labelled or used for tuning."
+  ]
+}

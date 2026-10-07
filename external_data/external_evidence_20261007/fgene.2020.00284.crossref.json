@@ -1,0 +1,88 @@
+{
+  "DOI": "10.3389/fgene.2020.00284",
+  "title": [
+    "Rapid Genetic Divergence of an Invasive Species, Spartina alterniflora, in China"
+  ],
+  "author": [
+    {
+      "given": "Lu",
+      "family": "Xia",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Qifang",
+      "family": "Geng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shuqing",
+      "family": "An",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Frontiers in Genetics"
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        24
+      ]
+    ]
+  },
+  "volume": "11",
+  "issue": null,
+  "page": null,
+  "article-number": "284",
+  "abstract": null,
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            24
+          ]
+        ],
+        "date-time": "2020-04-24T00:00:00Z",
+        "timestamp": 1587686400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "link": [
+    {
+      "URL": "https://www.frontiersin.org/article/10.3389/fgene.2020.00284/full",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "URL": "https://doi.org/10.3389/fgene.2020.00284"
+}

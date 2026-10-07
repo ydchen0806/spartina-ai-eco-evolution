@@ -1,0 +1,918 @@
+{
+  "data": [
+    {
+      "id": "10.6084/m9.figshare.33329481.v1",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6084/m9.figshare.33329481.v1",
+        "identifiers": [],
+        "creators": [
+          {
+            "givenName": "Xincong",
+            "familyName": "Chen",
+            "name": "Xincong Chen",
+            "affiliation": [],
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "clonal traits data of the invasive Spartina alterniflora in China"
+          }
+        ],
+        "publisher": "figshare",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [
+          {
+            "classificationCode": "310307",
+            "schemeUri": "http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E",
+            "subject": "Population ecology",
+            "subjectScheme": "ANZSRC Fields of Research"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2026-08-25",
+            "dateType": "Created"
+          },
+          {
+            "date": "2026-08-25",
+            "dateType": "Updated"
+          },
+          {
+            "date": "2026-08-25",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "Dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsIdenticalTo",
+            "relatedIdentifier": "10.6084/m9.figshare.33329481",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "25576 Bytes"
+        ],
+        "formats": [],
+        "version": "1",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "This study used a multiple common-garden experiment with eight populations of Spartina alterniflora spanning its introduced range in China to examine phenotypic variation and covariance in key clonal traits. We found that low-latitude environments promoted earlier ramet emergence and greater ramet production, while low-latitude populations consistently exhibited a coordinated strategy of earlier emergence and higher ramet production. These findings highlight the potential role of clonal trait covariation in facilitating local adaptation of invasive plants across environmental gradients."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://figshare.com/articles/dataset/clonal_traits_data_of_the_invasive_Spartina_alterniflora_in_China/33329481/1",
+        "contentUrl": null,
+        "metadataVersion": 1,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 2,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2026-08-25T14:12:15Z",
+        "registered": "2026-08-25T14:12:16Z",
+        "published": null,
+        "updated": "2026-08-25T14:16:22Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "figshare.ars",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6084/m9.figshare.33329481",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6084/m9.figshare.33329481",
+        "identifiers": [],
+        "creators": [
+          {
+            "givenName": "Xincong",
+            "familyName": "Chen",
+            "name": "Xincong Chen",
+            "affiliation": [],
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "clonal traits data of the invasive Spartina alterniflora in China"
+          }
+        ],
+        "publisher": "figshare",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [
+          {
+            "classificationCode": "310307",
+            "schemeUri": "http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E",
+            "subject": "Population ecology",
+            "subjectScheme": "ANZSRC Fields of Research"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2026-08-25",
+            "dateType": "Created"
+          },
+          {
+            "date": "2026-08-25",
+            "dateType": "Updated"
+          },
+          {
+            "date": "2026-08-25",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "Dataset"
+        },
+        "relatedIdentifiers": [],
+        "relatedItems": [],
+        "sizes": [
+          "25576 Bytes"
+        ],
+        "formats": [],
+        "version": null,
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "This study used a multiple common-garden experiment with eight populations of Spartina alterniflora spanning its introduced range in China to examine phenotypic variation and covariance in key clonal traits. We found that low-latitude environments promoted earlier ramet emergence and greater ramet production, while low-latitude populations consistently exhibited a coordinated strategy of earlier emergence and higher ramet production. These findings highlight the potential role of clonal trait covariation in facilitating local adaptation of invasive plants across environmental gradients."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://figshare.com/articles/dataset/clonal_traits_data_of_the_invasive_Spartina_alterniflora_in_China/33329481",
+        "contentUrl": null,
+        "metadataVersion": 1,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2026-08-25T14:12:15Z",
+        "registered": "2026-08-25T14:12:16Z",
+        "published": null,
+        "updated": "2026-08-25T14:16:21Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "figshare.ars",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5061/dryad.j3tx95xsc",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5061/dryad.j3tx95xsc",
+        "identifiers": [],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Wenwen",
+            "familyName": "Liu",
+            "name": "Liu, Wenwen",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0001-7585-2812"
+              }
+            ]
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Lin",
+            "familyName": "Li",
+            "name": "Li, Lin",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Congting",
+            "familyName": "Ye",
+            "name": "Ye, Congting",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Xincong",
+            "familyName": "Chen",
+            "name": "Chen, Xincong",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Yihui",
+            "familyName": "Zhang",
+            "name": "Zhang, Yihui",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0002-8710-2151"
+              }
+            ]
+          }
+        ],
+        "titles": [
+          {
+            "title": "Data and code from: Temperature affects the relative importance of phenotypic plasticity and natural selection contributing to the niche breadth of invasive plants"
+          }
+        ],
+        "publisher": "Dryad",
+        "container": {},
+        "publicationYear": 2025,
+        "subjects": [
+          {
+            "schemeUri": "https://web-archive.oecd.org/2012-06-15/138575-38235147.pdf",
+            "subject": "FOS: Biological sciences",
+            "subjectScheme": "fos"
+          },
+          {
+            "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+            "subject": "FOS: Biological sciences",
+            "subjectScheme": "Fields of Science and Technology (FOS)"
+          },
+          {
+            "schemeUri": "https://github.com/PLOS/plos-thesaurus",
+            "subject": "Invasive species",
+            "subjectScheme": "PLOS Subject Area Thesaurus"
+          },
+          {
+            "subject": "Salt marsh"
+          },
+          {
+            "schemeUri": "https://github.com/PLOS/plos-thesaurus",
+            "subject": "Climate change",
+            "subjectScheme": "PLOS Subject Area Thesaurus"
+          }
+        ],
+        "contributors": [
+          {
+            "affiliation": [],
+            "name": "Xiamen University",
+            "nameIdentifiers": [],
+            "contributorType": "Sponsor"
+          }
+        ],
+        "dates": [
+          {
+            "date": "2025-04-08T04:22:06Z",
+            "dateType": "Created"
+          },
+          {
+            "date": "2025-04-08T04:22:19Z",
+            "dateType": "Submitted"
+          },
+          {
+            "date": "2025-04-21T00:00:00Z",
+            "dateType": "Issued"
+          },
+          {
+            "date": "2025-04-21T00:00:00Z",
+            "dateType": "Available"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/oik.11347",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "142097 bytes"
+        ],
+        "formats": [],
+        "version": "8",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Zero v1.0 Universal",
+            "rightsIdentifier": "cc0-1.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Plant species adapt to changing climates through phenotypic plasticity and\n natural selection, affecting invasive plants\u2019 niche breadth. However, our\n limited understanding of how temperature affects the relative importance\n of phenotypic plasticity and natural selection contributes to invasive\n plants' niche breadth across latitudes. Here, we used a model system,\n the salt marsh grass Spartina alterniflora, native to the United States\n but was introduced into China in 1979, spreading over 20\u00b0 latitude. We\n collected seeds of S. alterniflora from nine locations across different\n latitudes in China, measured phenotypic plasticity, natural selection, and\n niche breadth of germination and post-germination traits in three\n greenhouse common garden experiments (low-latitude: 20.9\u00b0 N, mid-latitude:\n 28.3\u00b0 N, and high-latitude: 37.4\u00b0 N) spread across the latitude in China.\n We found that germination time, germination percentage, germination index,\n and seedling survival all increased with latitude within the common\n gardens. Germination time showed a lower slope at the high-latitude common\n garden sites, but the other variables had higher slopes at the\n high-latitude common garden sites. The phenotypic plasticity of\n germination and post-germination traits across latitudes decreased with\n increasing latitude of origin, similar to germination niche breadth.\n Furthermore, temperature negatively affected the natural selection but\n positively affected the phenotypic plasticity. These results indicated\n that climate-driven selection favors sexual reproduction at higher\n latitudes and higher phenotypic plasticity at lower latitudes. Our\n findings highlight that phenotypic plasticity and natural selection could\n drive the niche breadth across latitudes. This is critical for predicting\n the niche breadths of invasive species and the potential management of\n biological invasions in future climate conditions."
+          },
+          {
+            "descriptionType": "Methods",
+            "description": "We selected nine field sites in the Hainan, Guangdong, Fujian,\n Zhejiang, Shanghai, Jiangsu, and Shandong provinces spanning the\n latitudinal gradient (19\u201338\u00b0 N) of\u00a0<em>S</em>.\n <em>alterniflora</em> in China. Seeds were collected from nine\n field sites along a latitudinal gradient from south to north at maturity\n between September and November 2019 .\u00a0At each site, we sampled 10 quadrats\n (0.5 \u00d7 0.5 m) that were separated by &gt; 30 m to avoid repeated\n collection of the same clone belongs to the same lineage with\n <em>S</em>. <em>alterniflora</em> occurred in\n monospecific stands. The filled seeds from each quadrate were placed into\n separate zip-lock bags and stored in 10 PSU seawater at 4 \u00baC.\u00a0To standard\n the local climate and document the mechanisms of seed germination and\n seedling establishment in <em>S. alterniflora</em> at\n different latitudes, we established three greenhouse common gardens across\n the latitudinal gradient of the species in Dongying (37.46\u00b0 N, 121.39\u00b0 E),\n Taizhou (28.65\u00b0 N, 121.41\u00b0 E), and Zhanjiang (21.27\u00b0 N, 110.35\u00b0 E), in\n November 2019. Each common garden comprised 10 rectangular plastic pools\n as blocks (length: 1.10 m, width: 0.82 m, depth: 0.26 m). Each pool\n contained nine plastic pots as provenance (18 cm diameter and 24 cm depth)\n grouped into three rows and three columns. Each bucket was filled with a\n mixture of 50% Jiffy peat substrate (Jiffy Products International BV,\n Moerdijk, Netherlands) and 50% vermiculite (v/v). In November 2019\n (High-latitude common garden: November 8<sup>th</sup>, 2019;\n Mid-latitude common garden: November 15<sup>th</sup>, 2019;\n Low-latitude common garden: November 13<sup>th</sup>, 2019),\n 20 filled seeds were randomly selected from each quadrat for sowing, and\n 1800 seeds were sown in a single garden (20 seeds/quadrat \u00d7 10 quadrants \u00d7\n 9 sampling sites). Seeds from each quadrat were randomly sown on a 4 \u00d7\n 5-hole grid plate placed at the center of each plastic pot to accurately\n record the germination time of each seed. The locations of sampling sites\n varied haphazardly within each pool. The seeds were covered with a thin\n layer of soil of approximately 0.2 cm after sowing. Fresh water was\n sprayed on the soil surface above the seeds daily to keep them\n wet.\u00a0Germinated seeds were counted daily beginning on November\n 15<sup>th</sup>, 2019 (when all seeds were sown in the three\n common gardens), and the germination time of each seed was recorded. Seed\n germination was assessed when the seed germ was exposed to the soil\n surface. The germination experiment ended when no new germinations\n occurred in a consecutive week (7 days). Seedlings were observed until May\n 30<sup>th</sup>, 2020 for a total of 197 days and the seedling\n survival rate was determined at the end of the germination common garden\n experiment."
+          },
+          {
+            "descriptionType": "TechnicalInfo",
+            "description": "# Temperature affects the relative importance of phenotypic plasticity and\n natural selection contributing to the niche breadth of invasive plants\n **1.Germination traits raw data**: Cumulative germination, Germination\n index, Germination num, Germination rate, T50, Survival rate, GI\n plasticity, GR plasticity, GS plasticity, T50 Plasticity, Niche breadth. *\n Garden_location: garden site name - Provenance: field seed collection site\n name * Garden_latitude: garden site latitude (N) - Block_NO: block number\n * Provenance_Latitude: field seed collection site latitude (N) -\n Cumulative_per: germination rate per observation day * Germination_day:\n day of observation - T50: mean germiantion time (days) * Germination_rate:\n germination percentage - Germination_index: germination index *\n Survival_rate: survival percentage - Survival_num_mean: mean seeding\n survival number per provenance * GI plasticity: germination index\n plasticity - GR plasticity: germination rate plasticity * GS plasticity:\n Germination survival plasticity - T50 plasticity: mean germination time\n plasticity **2.Germination traits and provenance climate factors raw\n data**: Germination index-T4C, Germination index-Tmax, Germination\n index-Tmean, Germination index-Tmin, Germination rate-T4C, Germination\n rate-Tmax, Germination rate-Tmean, Germination rate-Tmin, T50-T4C,\n T50-Tmax, T50-Tmean, T50-Tmin, Survival-T4C, Survival-Tmax,\n Survival-Tmean, Survival-Tmin, GI.Plasticity-T4C, GI.Plasticity-Tmax,\n GI.Plasticity-Tmean, GI.Plasticity-Tmin, GR.Plasticity-T4C,\n GR.Plasticity-Tmax, GR.Plasticity-Tmean, GR.Plasticity-Tmin,\n T50.Plasticity-T4C, T50.Plasticity-Tmax, T50.Plasticity-Tmean,\n T50.Plasticity-Tmin, GS.Plasticity-T4C, GS.Plasticity-Tmax,\n GS.Plasticity-Tmean, GS.Plasticity-Tmin. * Garden_location: garden site\n name - Provenance: field seed collection site name * Garden_latitude:\n garden site latitude (N) - Block_NO: block number * Provenance_Latitude:\n field seed collection site latitude (N) - Cumulative_per: germination rate\n per observation day * Germination_day: day of observation - T50: mean\n germiantion time (days) - Germination_rate: germination percentage -\n Germination_index: germination index - Survival_rate: survival percentage\n - Survival_num_mean: mean seeding survival number per provenance - GI\n plasticity: germination index plasticity - GR plasticity: germination rate\n plasticity - GS plasticity: Germination survival plasticity - T4C: total\n number of days less than 4 \u2103 (days) - Tmax: average daily maximum\n temperature (\u2103) - Tmean: annual mean daily temperature (\u2103) - Tmin: average\n daily minimum temperature (\u2103) **3.Germination traits and garden location\n climate factors raw data**: Germination index-T4C(Garden), Germination\n index-Tmax(Garden), Germination index-Tmean(Garden), Germination\n index-Tmin(Garden), Germination rate-T4C(Garden), Germination\n rate-Tmax(Garden), Germination rate-Tmean(Garden), Germination\n rate-Tmin(Garden), T50-T4C(Garden), T50-Tmax(Garden), T50-Tmean(Garden),\n T50-Tmin(Garden), Survival-T4C(Garden), Survival-Tmax(Garden),\n Survival-Tmean(Garden), Survival-Tmin(Garden) * Garden_location: garden\n site name * Provenance: field seed collection site name * Garden_latitude:\n garden site latitude (N) * Block_NO: block number * Provenance_Latitude:\n field seed collection site latitude (N) * Cumulative_per: germination rate\n per observation day * Germination_day: day of observation * T50: mean\n germiantion time (days) * Germination_rate: germination percentage *\n Germination_index: germination index * Survival_rate: survival percentage\n * Survival_num_mean: mean seeding survival number per provenance * GI\n plasticity: germination index plasticity * GR plasticity: germination rate\n plasticity * GS plasticity: Germination survival plasticity * T4C: number\n of days less than 4\u2103 (days) * Tmax: average daily maximum temperature (\u2103)\n * Tmean: annual mean daily temperature (\u2103) * Tmin: annual mean daily\n temperature (\u2103) \u00a0**4.Germination data analysis code:** *\n R_Code_for_Germination_MS(Figure 2.3.4):\u00a0This R code is used to calculate\n or analyze the Germination data and the results of this analysis are\n displayed in Figure 2.3.4. *\n R_Code_for_Cor_between_Trait_and_Field_weather(Figure 5):\u00a0The R code used\n to calculate the correlation (Cor) between a specific trait (such as plant\n height, yield, etc.) and field weather data (like temperature, rainfall,\n humidity), with the results shown in Figure 5 of the related paper. *\n R_Code_for_Cor_between_Plasticity_and_Field_weather(Figure 6):\u00a0R code used\n to calculate the correlation between plasticity and field weather data,\n which is visualized or summarized in Figure 6 of the related paper *\n R_Code_for_Cor_between_Trait_and_Garden_weather(Figure S):\u00a0This R code\n calculates the relationship between a specific trait and the weather data\n collected from a garden environment, and the results are presented in\n Figure S. * Repeated_Measures_Analysis:\u00a0This code is analyzing germination\n data using two different statistical methods: Repeated Measures ANOVA\n (RMANOVA) and a Linear Mixed Model. * Summary of AVOVAs: The code\n evaluates relationships between various factors, such as Garden_location,\n Pro.latitude, Provenance_Latitude. The script was created using version\n 4.3.2 **5.Data Description**\u00a0 Categorical Variables\u00a0 This dataset includes\n categorical variables representing **field seed collection sites**\n (provenance) and common garden location. Below is a detailed description\n of the site codes: **Provenance Codes** DZ: Seeds collected from\n **Danzhou**, Hainan Province, China LZ: Seeds collected from **Leizhou**,\n Guangdong Province, China YX: Seeds collected from **Yunxiao**, Fujian\n Province, China LY: Seeds collected from **Luoyuan**, Fujian Province,\n China YQ: Seeds collected from **Yueqing**, Zhejiang Province, China HZW:\n Seeds collected from **Hangzhouwan**, Zhejiang Province, China CM: Seeds\n collected from **Chongming**, Shanghai, China. GY: Seeds collected from\n **Ganyu**, Jiangsu Province, China DY: Seeds collected from **Dongying**,\n Shandong Province, China **Garden location Codes** Zhanjiang: garden\n located in Zhanjiang, Guangdong Province, China Taizhou: garden located in\n Taizhou, Zhejiang Province, China Dongying: garden located in Dongying,\n Shandong Province, China **Missing Data** Some cells in the dataset are\n intentionally left empty (blank) and NA to indicate **no data available or\n unrecorded information**. These values are **not errors** but reflect\n limitations in data collection.\u00a0"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+          {
+            "funderIdentifierType": "ROR",
+            "funderName": "National Natural Science Foundation of China",
+            "funderIdentifier": "https://ror.org/01h0zpd94",
+            "schemeUri": "https://ror.org",
+            "awardNumber": "32222054"
+          },
+          {
+            "funderIdentifierType": "ROR",
+            "funderName": "National Natural Science Foundation of China",
+            "funderIdentifier": "https://ror.org/01h0zpd94",
+            "schemeUri": "https://ror.org",
+            "awardNumber": "32025026"
+          }
+        ],
+        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.j3tx95xsc",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 25,
+        "downloadCount": 7,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2025-04-21T07:00:59Z",
+        "registered": "2025-04-21T07:01:00Z",
+        "published": null,
+        "updated": "2026-01-28T23:40:46Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "dryad.dryad",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5061/dryad.9zw3r22mt",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5061/dryad.9zw3r22mt",
+        "identifiers": [],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Shandong University"
+            ],
+            "givenName": "Lele",
+            "familyName": "Liu",
+            "name": "Liu, Lele",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Fudan University"
+            ],
+            "givenName": "Yaolin",
+            "familyName": "Guo",
+            "name": "Guo, Yaolin",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0002-2203-1970"
+              }
+            ]
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Shandong University"
+            ],
+            "givenName": "Yiming",
+            "familyName": "Wu",
+            "name": "Wu, Yiming",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Shandong University"
+            ],
+            "givenName": "Meiqi",
+            "familyName": "Yin",
+            "name": "Yin, Meiqi",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Qingdao Agricultural University"
+            ],
+            "givenName": "Xiao",
+            "familyName": "Guo",
+            "name": "Guo, Xiao",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Aarhus University"
+            ],
+            "givenName": "Franziska",
+            "familyName": "Eller",
+            "name": "Eller, Franziska",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "University of South Florida"
+            ],
+            "givenName": "Christina",
+            "familyName": "Richards",
+            "name": "Richards, Christina",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Aarhus University"
+            ],
+            "givenName": "Hans",
+            "familyName": "Brix",
+            "name": "Brix, Hans",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Fudan University"
+            ],
+            "givenName": "Rui-Ting",
+            "familyName": "Ju",
+            "name": "Ju, Rui-Ting",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Shandong University"
+            ],
+            "givenName": "Weihua",
+            "familyName": "Guo",
+            "name": "Guo, Weihua",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Data from: Revealing biogeographic patterns in genetic diversity of native and invasive plants and their association with soil community diversity in the Chinese coast"
+          }
+        ],
+        "publisher": "Dryad",
+        "container": {},
+        "publicationYear": 2023,
+        "subjects": [
+          {
+            "schemeUri": "https://web-archive.oecd.org/2012-06-15/138575-38235147.pdf",
+            "subject": "FOS: Biological sciences",
+            "subjectScheme": "fos"
+          },
+          {
+            "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+            "subject": "FOS: Biological sciences",
+            "subjectScheme": "Fields of Science and Technology (FOS)"
+          },
+          {
+            "schemeUri": "https://github.com/PLOS/plos-thesaurus",
+            "subject": "Biogeography",
+            "subjectScheme": "PLOS Subject Area Thesaurus"
+          },
+          {
+            "subject": "Biological invasion"
+          },
+          {
+            "subject": "genetic structure"
+          },
+          {
+            "subject": "Spartina alterniflora"
+          },
+          {
+            "subject": "Phragmites australis"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2023-10-05T15:01:01Z",
+            "dateType": "Created"
+          },
+          {
+            "date": "2023-10-05T15:02:14Z",
+            "dateType": "Submitted"
+          },
+          {
+            "date": "2023-10-10T00:00:00Z",
+            "dateType": "Issued"
+          },
+          {
+            "date": "2023-10-10T00:00:00Z",
+            "dateType": "Available"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1111/oik.10116",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "550659 bytes"
+        ],
+        "formats": [],
+        "version": "6",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Zero v1.0 Universal",
+            "rightsIdentifier": "cc0-1.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Within-species genetic diversity is shaped by multiple evolutionary forces\n within the confines of geography, and has cascading effects on the\n biodiversity of other taxa and levels. Invasive species are often\n initially limited in genetic diversity but still respond rapidly to their\n new range, possibly through \u2018pre-adapted\u2019 genotypes or multiple sources of\n genetic diversity, but little is known about how their genetic structure\n differs from that of native species and how it alters the genetic-species\n diversity relationship. Here, we selected a widespread native species\n (Phragmites australis) and its co-occurring invasive competitor (Spartina\n alterniflora) as our model plant species. We investigated the genetic\n structure of P. australis using two chloroplast fragments and ten nuclear\n microsatellites in 13 populations along the Chinese coastal wetlands. We\n discovered a distinct geographical differentiation, showing that the\n northern and southern populations harbored unique genotypes. We also found\n a significant increase in genetic diversity (allelic richness and expected\n heterozygosity) from south to north. Combined with previous studies of S.\n alterniflora, the Mantel tests revealed a significant correlation of\n genetic distances between P. australis and S. alterniflora even when\n controlling for geographic distance, suggesting that the invasive species\n S. alterniflora might exhibit a phylogeographic pattern similar to that of\n the native species to some extent. Furthermore, our results suggest that\n the S. alterniflora invasion has altered the relationship between the\n genetic diversity of the dominant native plant and the associated species\n richness of soil nematodes. The reason for the alteration of\n genetic-species diversity relationship might be that the biological\n invasion weakens the environmental impact on both levels of biodiversity.\n Our findings contribute to understanding the latitudinal patterns of\n intraspecific genetic diversity in widespread species. This work on the\n genetic diversity analysis of native species also provides significant\n implications for the invasion stage and ecological consequences of\n biological invasions."
+          },
+          {
+            "descriptionType": "Methods",
+            "description": "Sampling, genotyping and sequencing of\n <em>P. australis</em> We collected\n 194 individuals of\u00a0<em>P. australis </em>from 13 sites along\n the Chinese coast. To avoid collecting the same clone and to get enough\n genetic variation, we selected five <em>P. australis </em>reed\n populations within each site, with a distance of at least 1 km between\n stands.\u00a0We collected three\n individuals from each population. All individuals were transplanted with\n rhizomes in a common garden at the Jiangwan Campus of Fudan University in\n Shanghai (31.28\u00b0N, 121.48\u00b0E). After the plants regrew, we collected and\n dried young leaves from all individuals, and stored them in zip-lock plastic bags with\n silica gel at room temperature until DNA isolation. We extracted total DNA\n from the dried leaves according to a modified cetyltrimethylammonium\n bromide (CTAB) method. We examined the quality and quantity of extracted\n DNA with 1% agarose gels and a microscope spectrophotometer, and stored\n DNA at -20\u2103 until later genotyping and\n sequencing. To measure\n genetic variation, we used 10 microsatellite primer pairs previously\n designed for<em> P. australis </em>(Saltonstall 2003, Yu et\n al. 2013). Forward primers were labeled at the 5\u2019 end with the fluorescent\n dyes FAM, HEX or TAMRA. We performed polymerase chain reaction (PCR) as\n described by Liu et al. (2022), and separated the PCR products by\n capillary electrophoresis using an ABI 3730XL DNA capillary sequencer\n (Applied Biosystems, Foster City, California, USA) after confirming the\n PCR product on a 2% agarose gel. We scored fragment profiles and carefully\n check the stutter peaks and the low-frequency alleles with GeneMarker\n 2.2.0 to reduce the potential effect of null allele. We did not discover\n the null alleles with the Hardy-Weinberg equilibrium-based method, since\n there is no reliable approach to elimination of allele dosage for our\n polyploid data. The same clones were detected by the function assignClones\n in R package polysat (Clark and Jasieniuk 2011). The duplicated genotypes\n were removed for further genetic estimates. To determine\n the haplotype, we amplified two non-coding chloroplast regions by PCR in\n one sample of each stand, using the primer pairs [trnT (UGU) \u201ca\u201d-trnL\n (UAA) \u201cb\u201d and rbcL-psaI] as described previously (Saltonstall 2002). We\n sequenced the PCR products in both directions on an ABI 3730XL DNA\n sequencer (Applied Biosystems). We assembled and checked the sequencing\n with SeqMan 7.7.0 (Lasergene, Santa Clara, USA) and identified haplotypes\n to the naming scheme of <em>P. australis </em>described by\n Saltonstall (Saltonstall 2016). Data analysis\n of genetic diversity and structure of <em>P.\n australis</em> To estimate\n the genetic diversity level of <em>P. australis</em>, we\n calculated the number of alleles per locus or allelic richness\n (N<sub>a</sub>), and the expected heterozygosity\n (H<sub>e</sub>) with R package polysat (Clark and Jasieniuk\n 2011). We assessed the relationship between genetic diversity and latitude\n using linear regression. To assess the\n genetic structure of\u00a0<em>P. australis</em>, we calculated\n genetic differentiation (F<sub>st</sub>) with the R package\n polysat. We also calculated Pairwise Bruvo distances based on\n microsatellite variation, and used the genetic distance matrix for\n principal coordinates analysis (PCoA) and hierarchical cluster analysis\n using the unweighted pair-group method with arithmetic means (UPGMA). We\n applied Bayesian clustering with Structure 2.3.4 (Pritchard et al. 2000)\n to detect the genetic structure of <em>P. australis</em>.\u00a0We\n performed 20 replicates of the clustering analysis at each value of K from\n 1 to 10 under the admixture model with 50,000 burn-in steps and 500,000\n Markov Chain Monte Carlo repeats. We calculated Delta K using the online\n program Structure Harvest (Earl and vonHoldt 2012) to determine the most\n likely cluster number (K value) for our genetic data, grouped replicates\n in CLUMPP 1.1.2b (Jakobsson and Rosenberg 2007) and visualized in DISTRUCT\n 1.1 (Ramasamy et al. 2014). Correlation\n analysis between geographical and genetic distances of <em>P.\n australis </em>and<em> S.\n alterniflora</em> We used the\n previously published nuclear microsatellites and chloroplast sequences\n data of\u00a0<em>S. alterniflora </em>in China (Qiao et al. 2019,\n Shang et al. 2019, Xia et al. 2020). We extracted the geographical coordinates\u00a0and\n the diversity indices (i.e., Allele number, N<sub>a</sub>;\n Expected heterozygosity, H<sub>e</sub>) of surveyed\n populations of <em>S. alterniflora</em> from Shang et al.\n (2019) and Xia et al. (2020) for further comparisons. For genetic analysis\n of <em>S. alterniflora</em>, we used the raw data of 11\n nuclear microsatellites from Qiao et al. (2019). We removed three loci\n from the raw dataset because there were many missing values or null\n alleles in\u00a0loci 5, 7 and 9. We calculated geographic distances using the\n function distm in R package geosphere and used pairwise Fst for genetic\n distance. We used Mantel test and multiple matrix\n regression with randomization (MMRR) (Wang 2013) to examine relationships\n between geographic and genetic distance matrices at the site level. We ran\n correlation analyses between geographical and genetic distance matrices\n using the function mantel in R package vegan, and regression analyses\n using the function MMRR written by Wang (2013) with genetic distance as\n the dependent matrix and geographical distances as the independent\n (predictor) matrices with 9,999 permutations. The correlation of genetic\n distances between the two species were also performed with partial Mantel\n test while controlling the geographical distance for seven common\n sites. Correlation between genetic variation and\n nematode community We used the\n geographic records of nematode genera from a published\n work (Zhang et al.\n 2019). These nematode data\n were investigated to reveal the biotic homogenization of nematode\n communities by exotic <em>S. alterniflora</em> in China. This\n study found a clear latitudinal cline (nematode diversity increased with\n increasing latitude) and a strong correlation of nematode diversity to\n environmental variables in soils for <em>P. australis</em>,\n but weak for <em>S. </em><em>alterniflora </em>(Zhang et al. 2019).\u00a0Because the TJ and TS sites\n were located within a very short distance (approximately 54 km) around the same bay, we\n considered them as one site when comparing the variation in geography,\n genetics, and community. Thus, we had seven common sites with both\n genetic and nematode information.\u00a0We estimated the Jaccard distances between\n nematode communities using the function dist with a method\n binary\n parameter. We used these\n Jaccard distances to perform principal coordinates analysis (PCoA) of\n nematodes. Matrix correlation analyses between geographic,\n genetic and\u00a0nematode\n distance matrices for\n seven common sites were performed using both Mantel test using the\n function mantel in R package vegan and MMRR using the function MMRR\n written by Wang (2013) with nematode distance matrices as the dependent variable\n using 9,999 permutations."
+          },
+          {
+            "descriptionType": "TechnicalInfo",
+            "description": "# Revealing biogeographic patterns in genetic diversity of native and\n invasive plants and their association with soil community diversity in the\n Chinese coast\n [https://doi.org/10.5061/dryad.9zw3r22mt](https://doi.org/10.5061/dryad.9zw3r22mt) **README** These are descriptions of RawData file in this Dryad upload. RawData.xlsx contains the following five sheets: PA\\_Haplotype: Haplotype information of *Phragmites australis* individuals * Column 1: **ID**: Code for the samples. * Column 2: **Origin**: Site of origin of the samples. * Column 3: **Latitude**: Latitude (\u00b0 N) of the site of origin of the samples. * Column 4: **Longitude**: Longitude (\u00b0 E) of the site of origin of the samples. * Column 5: **T**: Locus haplotype (trnT-trnL). * Column 6: **R**: Locus haplotype (rbcL-psaI). * Column 7: **Haplotype**: Combined haplotype. PA\\_SSR: SSR genotypes of *Phragmites australis* individuals. * Column 1: **Sample.Name**: Name for the samples used in our study. * Column 2: **Marker**: Genetic locus. * Column 3: **Allele.1**: Allele number. * Column 4: **Allele.2**: Allele number. * Column 5: **Allele.3**: Allele number. * Column 6: **Allele.4**: Allele number. * Column 7: **Allele.5**: Allele number. * Column 8: **Allele.6**: Allele number. * Column 9: **Allele.7**: Allele number. * Column 10: **Allele.8**: Allele number. SA\\_SSR: SSR genotypes of *Spartina alterniflora* individuals. * Column 1: **Population**: Population of the samples. * Column 2: **Location**: Location of samples' population. * Column 3: **Locus 1**: Genetic locus. * Column 4: **Locus 2**: Genetic locus. * Column 5: **Locus 3**: Genetic locus. * Column 6: **Locus 4**: Genetic locus. * Column 7: **Locus 5**: Genetic locus. * Column 8: **Locus 6**: Genetic locus. * Column 9: **Locus 7**: Genetic locus. * Column 10: **Locus 8**: Genetic locus. * Column 11: **Locus 9**: Genetic locus. * Column 12: **Locus 10**: Genetic locus. * Column 13: **Locus 11**: Genetic locus. SA\\_GD: Genetic diversity data of *Spartina alterniflora.* * Column 1: **ID**: Code for the samples. * Column 2: **Site**: Site of the samples. * Column 3: **Species**: SA means *Spartina alterniflora.* * Column 4: **Latitudes**: Latitude (\u00b0 N) of the site of origin of the samples. * Column 5: **Longitude**: Longitude (\u00b0 E) of the site of origin of the samples. * Column 6: **He**: Expected Heterogeneity. * Column 7: **Ae**: Effective number of alleles. * Column 7: **Source**: Literature of data sources. NT\\_Diversity: Nematode diversity. * Column 1: **Plant** **species** * Column 2: **Order**: Order of nematode. * Column 3: **Family**: Family of nematode. * Column 4: **Genus**: Genus of nematode. * Column 5: **ZH**: Abbreviation for site ZhuHai. * Column 6: **ZZ**: Abbreviation for site ZhangZhou. * Column 7: **QZ**: Abbreviation for site QuanZhou. * Column 8: **HZW**: Abbreviation for site HangZhouWan. * Column 9: **SH**: Abbreviation for site ShangHai. * Column 10: **YC**: Abbreviation for site YanCheng. * Column 11: **DY**: Abbreviation for site DongYing. * Column 12: **TJ**: Abbreviation for site TianJin. * Column 13: **TH**: Abbreviation for site TangHai."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+          {
+            "funderIdentifierType": "ROR",
+            "funderName": "National Natural Science Foundation of China",
+            "funderIdentifier": "https://ror.org/01h0zpd94",
+            "schemeUri": "https://ror.org",
+            "awardNumber": "32100304"
+          },
+          {
+            "funderIdentifierType": "Crossref Funder ID",
+            "funderName": "Ministry of Natural Resources of the People's Republic of China",
+            "funderIdentifier": "https://doi.org/10.13039/100015809",
+            "schemeUri": "https://www.crossref.org/services/funder-registry/",
+            "awardNumber": "2022101"
+          },
+          {
+            "funderIdentifierType": "ROR",
+            "funderName": "National Natural Science Foundation of China",
+            "funderIdentifier": "https://ror.org/01h0zpd94",
+            "schemeUri": "https://ror.org",
+            "awardNumber": "U22A20558"
+          },
+          {
+            "funderIdentifierType": "ROR",
+            "funderName": "National Natural Science Foundation of China",
+            "funderIdentifier": "https://ror.org/01h0zpd94",
+            "schemeUri": "https://ror.org",
+            "awardNumber": "32171661"
+          }
+        ],
+        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.9zw3r22mt",
+        "contentUrl": null,
+        "metadataVersion": 6,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 118,
+        "downloadCount": 18,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2023-10-10T18:03:02Z",
+        "registered": "2023-10-10T18:03:03Z",
+        "published": null,
+        "updated": "2026-01-28T16:38:54Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "dryad.dryad",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5061/dryad.2rbnzs7q7",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5061/dryad.2rbnzs7q7",
+        "identifiers": [],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Wenwen",
+            "familyName": "Liu",
+            "name": "Liu, Wenwen",
+            "nameIdentifiers": [
+              {
+                "nameIdentifierScheme": "ORCID",
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "https://orcid.org/0000-0001-7585-2812"
+              }
+            ]
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Xincong",
+            "familyName": "Chen",
+            "name": "Chen, Xincong",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Jiayu",
+            "familyName": "Wang",
+            "name": "Wang, Jiayu",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Xiamen University"
+            ],
+            "givenName": "Yihui",
+            "familyName": "Zhang",
+            "name": "Zhang, Yihui",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Does the effect of flowering time on biomass allocation across latitude differ between invasive and native salt marsh grass Spartina alterniflora?"
+          }
+        ],
+        "publisher": "Dryad",
+        "container": {},
+        "publicationYear": 2023,
+        "subjects": [
+          {
+            "subject": "Biomass allocation"
+          },
+          {
+            "subject": "Evolution"
+          },
+          {
+            "subject": "Salt marsh"
+          },
+          {
+            "schemeUri": "https://web-archive.oecd.org/2012-06-15/138575-38235147.pdf",
+            "subject": "FOS: Natural sciences",
+            "subjectScheme": "fos"
+          },
+          {
+            "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+            "subject": "FOS: Natural sciences",
+            "subjectScheme": "Fields of Science and Technology (FOS)"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2022-02-16T00:46:04Z",
+            "dateType": "Submitted"
+          },
+          {
+            "date": "2023-03-01T00:00:00Z",
+            "dateType": "Issued"
+          },
+          {
+            "date": "2023-03-01T00:00:00Z",
+            "dateType": "Available"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsCitedBy",
+            "relatedIdentifier": "10.1002/ece3.8681",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "89644 bytes"
+        ],
+        "formats": [],
+        "version": "3",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Zero v1.0 Universal",
+            "rightsIdentifier": "cc0-1.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Parallel latitudinal clines in flowering time have been documented in both\n the invasive and native ranges of plants. Furthermore, flowering time has\n been found to affect biomass at maturity. Therefore, understanding how\n these flowering times affect biomass accumulation across latitude is\n essential to understanding plant adaptations and distributions. We\n investigated and compared trends in first flowering day (FFD), aboveground\n biomass (AGB), belowground biomass (BGB) and BGB:AGB ratio of the salt\n marsh grass Spartina alterniflora along latitudinal gradients from the\n invasive (China, 19-40o N) and native range (United States, 27-43o N) in a\n greenhouse common garden experiment, and tested whether FFD would drive\n these divergences between invasive and native ranges. The invasive\n populations produced more (~20%, ~19%) AGB and BGB than native\n populations, but there were no significant differences in the FFD and\n BGB:AGB ratio. We found significant parallel latitudinal clines in FFD in\n both invasive and native ranges. In addition, the BGB:AGB ratio was\n negatively correlated with the FFD in both the invasive and native ranges\n but non-significant in invasive populations. In contrast, AGB and BGB\n increased with latitude in the invasive range, but declined with latitude\n in the native range. Most interestingly, we found AGB and BGB positively\n correlated with the FFD in the native range, but no significant\n relationships in the invasive range. Our results indirectly support the\n evolution of increased competitive ability hypothesis (EICA) that S.\n alterniflora has evolved to produce greater AGB and BGB in China, and\n climatic conditions in the native might select for a flowering and\n allocation pattern is maintained in the invasive range. Our results also\n suggest that invasive S. alterniflora in China is not constrained by the\n trade-off of earlier flowering with smaller size, and that flowering time\n has played an important role on biomass allocation across latitude."
+          },
+          {
+            "descriptionType": "Methods",
+            "description": "We collected seeds at 10\n locations spanning 20\u00b0 of latitude from 20.9\u00b0 (Guangdong, province) to\n 39.0\u00b0 N (Tianjin province) in China (Fig. 1a) and collected seeds at 16\n locations spanning 16\u00b0 of latitude from 27.7\u00b0 (Florida) to 43\u00b0 N (Maine)\n in the USA (Fig. 1b). At each location, we worked at two sites, 2-3 km\n apart. At each site, we sampled five 0.5 \u00d7 0.5 m quadrats, with at least\n 30 m spacing between quadrats, each quadrat was treated as a seed\n family. We randomly\n collected 10 inflorescences within a meter of each quadrat. We collected\n the filled seeds in each inflorescence (Daehler &amp; Strong, 1994;\n Liu et al., 2016). Filled seeds have an embryo, endosperm, and can\n potentially germinate and grow; unfilled seeds have neither of these\n tissues and cannot germinate or grow (Daehler &amp; Strong, 1994;\n Ayres et al., 2008). The filled seeds from each quadrat were collected and\n placed into separate zip-lock bags. Seeds were stored in 8 PSU seawater at\n 4 \u00b0C in preparation for the common garden experiment (Liu et al., 2016).\n The\n greenhouse common garden was conducted at Xiamen\n (24.62<sup>o</sup> N, 118.31<sup>o</sup> E). The\n mean annual temperature is 21.5 \u2103, the sunshine duration is 1827 hours/year and\n the relative humidity is 78%. We sampled 10 populations in China (invasive\n range) and 16 populations in the US (native range). We randomly chose 10\n seed families per population. We chose one seedling from each seed family\n (one for each of ten rectangular plastic pools: length: 1.2 m, width: 0.9\n m, depth: 0.3 m), which seeds were germinated and grown in a growth\n chamber until seedlings were approximately 5 cm tall in March 2015, for a\n total of 260 plants (160 from the USA; 100 from China). One seedling was\n randomly assigned a position in a plastic pot (18 cm in diameter and 24 cm\n deep) within a block of ten blocks. Each pot contained a substrate of a\n mixture of peat 50% Jiffy\u2019s peat soil and 50% vermiculite by volume.\n Artificial sea water (10 PSU) that had been amended with fertilizer (C:N:P\n 15-15-15; 0.5 g per pot) to ~ 2 cm above the soil level in the pots was\n used to water the plants. The fully flooded soil in the pots could\n minimize variation in salinity caused by evaporation, and mimic the soil\n composition or the tidal regime experienced by plants in nature. Water in\n the pools was completely replaced once a month and salinity was checked\n every other day and freshwater was added as needed to maintain salinity as\n in Liu et al. (2020a, b). From May to the end of the growing season in\n October 2015, we recorded the date on which the first <em>S.\n alterniflora</em> shoot flowered in each pot. In October 2015, all\n aboveground and belowground biomass was then harvested and oven-dried at\n 60\u00b0C for 72 h and subsequently weighted. The belowground samples of each\n pot were gently washed over a 2-mm mesh sieve to remove the soil\n substrate."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+          {
+            "funderIdentifierType": "ROR",
+            "funderName": "National Natural Science Foundation of China",
+            "funderIdentifier": "https://ror.org/01h0zpd94",
+            "schemeUri": "https://ror.org"
+          },
+          {
+            "funderIdentifierType": "Crossref Funder ID",
+            "funderName": "Fundamental Research Funds for the Central Universities",
+            "funderIdentifier": "https://doi.org/10.13039/501100012226",
+            "schemeUri": "https://www.crossref.org/services/funder-registry/"
+          }
+        ],
+        "url": "https://datadryad.org/dataset/doi:10.5061/dryad.2rbnzs7q7",
+        "contentUrl": null,
+        "metadataVersion": 10,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 150,
+        "downloadCount": 17,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2022-03-02T04:24:54Z",
+        "registered": "2022-03-02T04:24:55Z",
+        "published": null,
+        "updated": "2026-01-28T08:45:25Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "dryad.dryad",
+            "type": "clients"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 7,
+    "totalPages": 2,
+    "page": 1
+  },
+  "links": {
+    "self": "https://api.datacite.org/dois?query=Spartina+alterniflora+China+common+garden&page%5Bsize%5D=5",
+    "next": "https://api.datacite.org/dois?page%5Bnumber%5D=2&page%5Bsize%5D=5&query=Spartina+alterniflora+China+common+garden"
+  }
+}

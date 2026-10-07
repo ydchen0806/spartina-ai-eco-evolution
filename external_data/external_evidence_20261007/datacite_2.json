@@ -1,0 +1,1096 @@
+{
+  "data": [
+    {
+      "id": "10.6084/m9.figshare.32560124.v1",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6084/m9.figshare.32560124.v1",
+        "identifiers": [],
+        "creators": [
+          {
+            "givenName": "Wenting",
+            "familyName": "Cao",
+            "name": "Wenting Cao",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Zhaoyuan",
+            "familyName": "Zhang",
+            "name": "Zhaoyuan Zhang",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Juan",
+            "familyName": "Wang",
+            "name": "Juan Wang",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Shasha",
+            "familyName": "Luo",
+            "name": "Shasha Luo",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Yining",
+            "familyName": "Chen",
+            "name": "Yining Chen",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Niu",
+            "familyName": "Li",
+            "name": "Niu Li",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Xingna",
+            "familyName": "Lin",
+            "name": "Xingna Lin",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Mengjiao",
+            "familyName": "Qin",
+            "name": "Mengjiao Qin",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Qin",
+            "familyName": "Liu",
+            "name": "Qin Liu",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Huaguo",
+            "familyName": "Zhang",
+            "name": "Huaguo Zhang",
+            "affiliation": [],
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Long-term remote sensing of salt marsh dynamics and blue carbon burial changes under reclamation and invasion"
+          }
+        ],
+        "publisher": "Taylor & Francis",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [
+          {
+            "subject": "Environmental Sciences not elsewhere classified"
+          },
+          {
+            "subject": "Chemical Sciences not elsewhere classified"
+          },
+          {
+            "subject": "Ecology"
+          },
+          {
+            "subject": "Science Policy"
+          },
+          {
+            "subject": "Biological Sciences not elsewhere classified"
+          },
+          {
+            "subject": "Inorganic Chemistry"
+          },
+          {
+            "subject": "Plant Biology"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2026-06-02",
+            "dateType": "Created"
+          },
+          {
+            "date": "2026-09-15",
+            "dateType": "Updated"
+          },
+          {
+            "date": "2026-06-02",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "Dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsIdenticalTo",
+            "relatedIdentifier": "10.6084/m9.figshare.32560124",
+            "relatedIdentifierType": "DOI"
+          },
+          {
+            "relationType": "IsSupplementTo",
+            "relatedIdentifier": "10.1080/17538947.2026.2677965",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "470227 Bytes"
+        ],
+        "formats": [],
+        "version": "1",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Coastal salt marshes are critical blue carbon sinks but are threatened by coastal reclamation and biological invasion. Conventional discrete mapping lacks temporal continuity, limiting assessments of long-term successional pathways and carbon dynamics. We developed an integrated long-term remote sensing framework using the Landsat archive (1986\u20132023) to quantify salt marsh dynamics and carbon burial in Hangzhou Bay, China. The framework integrates optimal phenological window selection, continuous change detection, and Random Forest classification to generate accurate annual species-level maps. From 1986 to 2023, salt marshes underwent multi-phase transitions, progressing through natural succession to reclamation-driven coastal squeeze and subsequent invasion-led reorganization. Total wetland area declined by 60%, reflecting the net effect of massive reclamation (893.6 km\u00b2) against vegetation expansion. Bare mudflats decreased by 73%, native <i>Scirpus mariqueter</i> by 27%, and invasive <i>Spartina alterniflora</i> expanded by 174%. These transitions led to 49% reduction in annual blue carbon burial (from 71.1 to 36.4 Gg C yr<sup>\u22121</sup>). Despite recent invasive expansion and stricter reclamation controls, carbon burial recovery remained limited, reflecting the reclamation\u2019s dominant influence on long-term losses. This study provides a scalable framework for continuous monitoring of salt marsh dynamics and quantifies carbon burial responses to anthropogenic and biological pressures in highly modified estuarine ecosystems."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://tandf.figshare.com/articles/dataset/Long-term_remote_sensing_of_salt_marsh_dynamics_and_blue_carbon_burial_changes_under_reclamation_and_invasion/32560124/1",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 1,
+        "downloadCount": 1,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2026-06-02T18:40:04Z",
+        "registered": "2026-06-02T18:40:05Z",
+        "published": null,
+        "updated": "2026-09-25T09:01:14Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "figshare.ars",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.6084/m9.figshare.32560124",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.6084/m9.figshare.32560124",
+        "identifiers": [],
+        "creators": [
+          {
+            "givenName": "Wenting",
+            "familyName": "Cao",
+            "name": "Wenting Cao",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Zhaoyuan",
+            "familyName": "Zhang",
+            "name": "Zhaoyuan Zhang",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Juan",
+            "familyName": "Wang",
+            "name": "Juan Wang",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Shasha",
+            "familyName": "Luo",
+            "name": "Shasha Luo",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Yining",
+            "familyName": "Chen",
+            "name": "Yining Chen",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Niu",
+            "familyName": "Li",
+            "name": "Niu Li",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Xingna",
+            "familyName": "Lin",
+            "name": "Xingna Lin",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Mengjiao",
+            "familyName": "Qin",
+            "name": "Mengjiao Qin",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Qin",
+            "familyName": "Liu",
+            "name": "Qin Liu",
+            "affiliation": [],
+            "nameIdentifiers": []
+          },
+          {
+            "givenName": "Huaguo",
+            "familyName": "Zhang",
+            "name": "Huaguo Zhang",
+            "affiliation": [],
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Long-term remote sensing of salt marsh dynamics and blue carbon burial changes under reclamation and invasion"
+          }
+        ],
+        "publisher": "Taylor & Francis",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [
+          {
+            "subject": "Environmental Sciences not elsewhere classified"
+          },
+          {
+            "subject": "Chemical Sciences not elsewhere classified"
+          },
+          {
+            "subject": "Ecology"
+          },
+          {
+            "subject": "Science Policy"
+          },
+          {
+            "subject": "Biological Sciences not elsewhere classified"
+          },
+          {
+            "subject": "Inorganic Chemistry"
+          },
+          {
+            "subject": "Plant Biology"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2026-06-02",
+            "dateType": "Created"
+          },
+          {
+            "date": "2026-09-25",
+            "dateType": "Updated"
+          },
+          {
+            "date": "2026-06-02",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "Dataset"
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsSupplementTo",
+            "relatedIdentifier": "10.1080/17538947.2026.2677965",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [
+          "470227 Bytes"
+        ],
+        "formats": [],
+        "version": null,
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "Coastal salt marshes are critical blue carbon sinks but are threatened by coastal reclamation and biological invasion. Conventional discrete mapping lacks temporal continuity, limiting assessments of long-term successional pathways and carbon dynamics. We developed an integrated long-term remote sensing framework using the Landsat archive (1986\u20132023) to quantify salt marsh dynamics and carbon burial in Hangzhou Bay, China. The framework integrates optimal phenological window selection, continuous change detection, and Random Forest classification to generate accurate annual species-level maps. From 1986 to 2023, salt marshes underwent multi-phase transitions, progressing through natural succession to reclamation-driven coastal squeeze and subsequent invasion-led reorganization. Total wetland area declined by 60%, reflecting the net effect of massive reclamation (893.6 km\u00b2) against vegetation expansion. Bare mudflats decreased by 73%, native <i>Scirpus mariqueter</i> by 27%, and invasive <i>Spartina alterniflora</i> expanded by 174%. These transitions led to 49% reduction in annual blue carbon burial (from 71.1 to 36.4 Gg C yr<sup>\u22121</sup>). Despite recent invasive expansion and stricter reclamation controls, carbon burial recovery remained limited, reflecting the reclamation\u2019s dominant influence on long-term losses. This study provides a scalable framework for continuous monitoring of salt marsh dynamics and quantifies carbon burial responses to anthropogenic and biological pressures in highly modified estuarine ecosystems."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://tandf.figshare.com/articles/dataset/Long-term_remote_sensing_of_salt_marsh_dynamics_and_blue_carbon_burial_changes_under_reclamation_and_invasion/32560124",
+        "contentUrl": null,
+        "metadataVersion": 3,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "mds",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2026-06-02T18:40:04Z",
+        "registered": "2026-06-02T18:40:05Z",
+        "published": null,
+        "updated": "2026-09-25T09:01:14Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "figshare.ars",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5281/zenodo.22300814",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5281/zenodo.22300814",
+        "identifiers": [],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Xinyu",
+            "familyName": "Tian",
+            "name": "Tian, Xinyu",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Chunrong",
+            "familyName": "Li",
+            "name": "Li, Chunrong",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Zhizhou",
+            "familyName": "Chen",
+            "name": "Chen, Zhizhou",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Yadong",
+            "familyName": "Liu",
+            "name": "Liu, Yadong",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Niwen",
+            "familyName": "Ying",
+            "name": "Ying, Niwen",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Jianming",
+            "familyName": "Hong",
+            "name": "Hong, Jianming",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "The Protection and Management Center of Wetland and World Natural Heritage in Yancheng City"
+            ],
+            "givenName": "Yanan",
+            "familyName": "Zhang",
+            "name": "Zhang, Yanan",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Yinghai",
+            "familyName": "Ke",
+            "name": "Ke, Yinghai",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Yancheng Coastal Wetland Land Cover Classification Dataset (2009\u20132024)"
+          }
+        ],
+        "publisher": "Zenodo",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [],
+        "contributors": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Xinyu",
+            "familyName": "Tian",
+            "name": "Tian, Xinyu",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Chunrong",
+            "familyName": "Li",
+            "name": "Li, Chunrong",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Zhizhou",
+            "familyName": "Chen",
+            "name": "Chen, Zhizhou",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Yadong",
+            "familyName": "Liu",
+            "name": "Liu, Yadong",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Niwen",
+            "familyName": "Ying",
+            "name": "Ying, Niwen",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Jianming",
+            "familyName": "Hong",
+            "name": "Hong, Jianming",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "The Protection and Management Center of Wetland and World Natural Heritage in Yancheng City"
+            ],
+            "givenName": "Yanan",
+            "familyName": "Zhang",
+            "name": "Zhang, Yanan",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Yinghai",
+            "familyName": "Ke",
+            "name": "Ke, Yinghai",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          }
+        ],
+        "dates": [
+          {
+            "date": "2026-09-04",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": ""
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "HasVersion",
+            "relatedIdentifier": "10.5281/zenodo.22300815",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "This dataset provides 30 m spatial-resolution land cover classification maps for the Yancheng coastal wetlands in Jiangsu Province, China. The dataset includes four representative years: 2009, 2013, 2023, and 2024, covering the periods before and after major wetland restoration. The maps were developed to support the assessment of coastal wetland dynamics, habitat quality, and ecological restoration effects, particularly for the wintering habitat of the Red-crowned Crane (Grus japonensis).\n\nThe land cover classification system consists of 13 classes: cropland, forestland, grassland, aquaculture pond, water, built-up land, bare land, tidal flat, artificial wetlands,\u00a0Phragmites australis, Spartina alterniflora, Suaeda salsa, and Imperata cylindrica. Thus, the dataset provides detailed information on both general land cover and the composition of coastal saltmarsh vegetation.\n\nThe classification maps were generated using multi-source and multi-temporal satellite remote sensing data. For saltmarsh vegetation discrimination, reconstructed 8-day, 30 m Landsat-like EVI time series were used to derive vegetation phenological characteristics. A double-logistic model was fitted to the EVI time series to extract phenological metrics, including the baseline value (BV), seasonal amplitude (SA), start of season (SOS), end of season (EOS), length of season (LOS), growth rate (GR), and senescence rate (SR). These phenological characteristics, together with field survey reference samples, were used as input features for a Random Forest classifier to distinguish different saltmarsh vegetation types. The classification achieved average training and validation accuracies of approximately 0.95 and 0.89, respectively.\n\nFor non-saltmarsh land cover classes, initial spatial distributions were derived from auxiliary datasets and subsequently visually verified and modified using satellite imagery corresponding to each mapping year. Road networks and other ancillary spatial information were also updated through annual visual interpretation to improve the consistency and accuracy of the classification maps.\n\nDataset characteristics\n\n\n\nStudy area: Yancheng coastal wetlands, Jiangsu Province, China\n\nSpatial resolution: 30 m\n\nMapping years: 2009, 2013, 2023, and 2024\n\nCoordinate system: WGS_1984_UTM_Zone_51N\n\nFile format:\u00a0GeoTIFF\n\nClassification system: 13 classes\n\n\nThe class codes are consistent across the four mapping years (2009, 2013, 2023, and 2024), allowing direct comparison of land cover and wetland vegetation changes over time.\n\nThe dataset is intended to provide a consistent, spatially explicit representation of land cover and saltmarsh vegetation composition across key periods of wetland restoration in the Yancheng coastal region.\n\nLand Cover Class Codes\n\nThe land cover classification maps use the following class codes:\n\n\n\n\nClass code\nLand cover class\n\n\n1\nAquaculture pond\n\n\n2\nCropland\n\n\n3\nForestland\n\n\n4\nGrassland\n\n\n5\nWater\n\n\n6\nBare land\n\n\n7\nBuilt-up land\n\n\n8\nTidal flat\n\n\n10\nSuaeda salsa\n\n\n20\nPhragmites australis\n\n\n30\nSpartina alterniflora\n\n\n40\nImperata cylindrica\n\n\n50\nArtificial wetlands\n\n\n\n\nThe data are made freely available for academic and non-commercial purposes; users must provide proper attribution when using the dataset in research, teaching, or publications."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+          {
+            "funderName": "Yellow Sea Wetland Research Project",
+            "awardNumber": "HHSDKT202403"
+          }
+        ],
+        "url": "https://zenodo.org/doi/10.5281/zenodo.22300814",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "api",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 1,
+        "versionOfCount": 0,
+        "created": "2026-09-04T12:44:54Z",
+        "registered": "2026-09-04T12:44:54Z",
+        "published": null,
+        "updated": "2026-09-05T04:54:06Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "cern.zenodo",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5281/zenodo.22300815",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5281/zenodo.22300815",
+        "identifiers": [
+          {
+            "identifier": "oai:zenodo.org:22300815",
+            "identifierType": "oai"
+          }
+        ],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Xinyu",
+            "familyName": "Tian",
+            "name": "Tian, Xinyu",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Chunrong",
+            "familyName": "Li",
+            "name": "Li, Chunrong",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Zhizhou",
+            "familyName": "Chen",
+            "name": "Chen, Zhizhou",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Yadong",
+            "familyName": "Liu",
+            "name": "Liu, Yadong",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Niwen",
+            "familyName": "Ying",
+            "name": "Ying, Niwen",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Jianming",
+            "familyName": "Hong",
+            "name": "Hong, Jianming",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "The Protection and Management Center of Wetland and World Natural Heritage in Yancheng City"
+            ],
+            "givenName": "Yanan",
+            "familyName": "Zhang",
+            "name": "Zhang, Yanan",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Yinghai",
+            "familyName": "Ke",
+            "name": "Ke, Yinghai",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "Yancheng Coastal Wetland Land Cover Classification Dataset (2009\u20132024)"
+          }
+        ],
+        "publisher": "Zenodo",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [],
+        "contributors": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Xinyu",
+            "familyName": "Tian",
+            "name": "Tian, Xinyu",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Chunrong",
+            "familyName": "Li",
+            "name": "Li, Chunrong",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Jiangsu Yancheng Wetlands & Rare Birds National Natural Reserve"
+            ],
+            "givenName": "Zhizhou",
+            "familyName": "Chen",
+            "name": "Chen, Zhizhou",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Yadong",
+            "familyName": "Liu",
+            "name": "Liu, Yadong",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Niwen",
+            "familyName": "Ying",
+            "name": "Ying, Niwen",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Beijing Bishuitiancheng Wetland Ecological Environmental Protection Technology Co., Ltd"
+            ],
+            "givenName": "Jianming",
+            "familyName": "Hong",
+            "name": "Hong, Jianming",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "The Protection and Management Center of Wetland and World Natural Heritage in Yancheng City"
+            ],
+            "givenName": "Yanan",
+            "familyName": "Zhang",
+            "name": "Zhang, Yanan",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Capital Normal University"
+            ],
+            "givenName": "Yinghai",
+            "familyName": "Ke",
+            "name": "Ke, Yinghai",
+            "nameIdentifiers": [],
+            "contributorType": "DataManager"
+          }
+        ],
+        "dates": [
+          {
+            "date": "2026-09-04",
+            "dateType": "Issued"
+          }
+        ],
+        "language": null,
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": ""
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "IsVersionOf",
+            "relatedIdentifier": "10.5281/zenodo.22300814",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "This dataset provides 30 m spatial-resolution land cover classification maps for the Yancheng coastal wetlands in Jiangsu Province, China. The dataset includes four representative years: 2009, 2013, 2023, and 2024, covering the periods before and after major wetland restoration. The maps were developed to support the assessment of coastal wetland dynamics, habitat quality, and ecological restoration effects, particularly for the wintering habitat of the Red-crowned Crane (Grus japonensis).\n\nThe land cover classification system consists of 13 classes: cropland, forestland, grassland, aquaculture pond, water, built-up land, bare land, tidal flat, artificial wetlands,\u00a0Phragmites australis, Spartina alterniflora, Suaeda salsa, and Imperata cylindrica. Thus, the dataset provides detailed information on both general land cover and the composition of coastal saltmarsh vegetation.\n\nThe classification maps were generated using multi-source and multi-temporal satellite remote sensing data. For saltmarsh vegetation discrimination, reconstructed 8-day, 30 m Landsat-like EVI time series were used to derive vegetation phenological characteristics. A double-logistic model was fitted to the EVI time series to extract phenological metrics, including the baseline value (BV), seasonal amplitude (SA), start of season (SOS), end of season (EOS), length of season (LOS), growth rate (GR), and senescence rate (SR). These phenological characteristics, together with field survey reference samples, were used as input features for a Random Forest classifier to distinguish different saltmarsh vegetation types. The classification achieved average training and validation accuracies of approximately 0.95 and 0.89, respectively.\n\nFor non-saltmarsh land cover classes, initial spatial distributions were derived from auxiliary datasets and subsequently visually verified and modified using satellite imagery corresponding to each mapping year. Road networks and other ancillary spatial information were also updated through annual visual interpretation to improve the consistency and accuracy of the classification maps.\n\nDataset characteristics\n\n\n\nStudy area: Yancheng coastal wetlands, Jiangsu Province, China\n\nSpatial resolution: 30 m\n\nMapping years: 2009, 2013, 2023, and 2024\n\nCoordinate system: WGS_1984_UTM_Zone_51N\n\nFile format:\u00a0GeoTIFF\n\nClassification system: 13 classes\n\n\nThe class codes are consistent across the four mapping years (2009, 2013, 2023, and 2024), allowing direct comparison of land cover and wetland vegetation changes over time.\n\nThe dataset is intended to provide a consistent, spatially explicit representation of land cover and saltmarsh vegetation composition across key periods of wetland restoration in the Yancheng coastal region.\n\nLand Cover Class Codes\n\nThe land cover classification maps use the following class codes:\n\n\n\n\nClass code\nLand cover class\n\n\n1\nAquaculture pond\n\n\n2\nCropland\n\n\n3\nForestland\n\n\n4\nGrassland\n\n\n5\nWater\n\n\n6\nBare land\n\n\n7\nBuilt-up land\n\n\n8\nTidal flat\n\n\n10\nSuaeda salsa\n\n\n20\nPhragmites australis\n\n\n30\nSpartina alterniflora\n\n\n40\nImperata cylindrica\n\n\n50\nArtificial wetlands\n\n\n\n\nThe data are made freely available for academic and non-commercial purposes; users must provide proper attribution when using the dataset in research, teaching, or publications."
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+          {
+            "funderName": "Yellow Sea Wetland Research Project",
+            "awardNumber": "HHSDKT202403"
+          }
+        ],
+        "url": "https://zenodo.org/doi/10.5281/zenodo.22300815",
+        "contentUrl": null,
+        "metadataVersion": 2,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "api",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 1,
+        "created": "2026-09-04T12:44:49Z",
+        "registered": "2026-09-04T12:44:49Z",
+        "published": null,
+        "updated": "2026-09-05T04:54:06Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "cern.zenodo",
+            "type": "clients"
+          }
+        }
+      }
+    },
+    {
+      "id": "10.5281/zenodo.22238500",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.5281/zenodo.22238500",
+        "identifiers": [],
+        "creators": [
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Hohai University"
+            ],
+            "givenName": "Hui",
+            "familyName": "Shen",
+            "name": "Shen, Hui",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Hohai University",
+              "Department of Natural Resources of Jiangsu Province"
+            ],
+            "givenName": "Hongjun",
+            "familyName": "Su",
+            "name": "Su, Hongjun",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Provincial Geomatics Center of Jiangsu",
+              "Department of Natural Resources of Jiangsu Province"
+            ],
+            "givenName": "Yang",
+            "familyName": "Tao",
+            "name": "Tao, Yang",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "China University of Mining and Technology"
+            ],
+            "givenName": "Hui",
+            "familyName": "Yang",
+            "name": "Yang, Hui",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "Mississippi State University"
+            ],
+            "givenName": "Qian",
+            "familyName": "Du",
+            "name": "Du, Qian",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "JCSA-30: A multi-decadal annual mapping dataset of Spartina alterniflora in Jiangsu coastal wetlands from reconstructed Landsat time series (1985-2025)"
+          }
+        ],
+        "publisher": "Zenodo",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [
+          {
+            "subject": "Spartina alterniflora"
+          },
+          {
+            "subject": "Remote sensing",
+            "subjectScheme": "GEMET"
+          },
+          {
+            "subject": "coastal wetlands"
+          },
+          {
+            "subject": "wetland mapping"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2026-09-01",
+            "dateType": "Issued"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": ""
+        },
+        "relatedIdentifiers": [
+          {
+            "relationType": "HasVersion",
+            "relatedIdentifier": "10.5281/zenodo.22238501",
+            "relatedIdentifierType": "DOI"
+          }
+        ],
+        "relatedItems": [],
+        "sizes": [],
+        "formats": [],
+        "version": null,
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "JCSA-30: A multi-decadal annual mapping dataset of Spartina alterniflora in Jiangsu coastal wetlands from reconstructed Landsat time series (1985-2025)\n\nJCSA-30 is an annual 30-m spatial resolution dataset depicting the distribution of Spartina alterniflora in the coastal wetlands of Jiangsu Province, China, covering the period from 1985 to 2025. The dataset provides the first continuous annual record of S. alterniflora distribution in the Jiangsu coastal wetlands over this 41-year period, enabling the long-term characterization of the spatial and temporal dynamics of this invasive species.\n\nThe dataset consists of annual binary raster maps stored in GeoTIFF (TIFF) format. All datasets are georeferenced using the WGS 84 geographic coordinate reference system (EPSG:4326). Each raster pixel is coded as either 1 or 0, where 1 represents the presence of Spartina alterniflora and 0 represents areas without S. alterniflora within the study area. NoData pixels represent areas outside the defined study area and should not be interpreted as absence of S. alterniflora.\n\nThe annual maps cover the period from 1985 to 2025, providing 41 consecutive yearly observations. The dataset is designed to support analyses of long-term invasion dynamics, spatial expansion and contraction, habitat distribution, and changes in the configuration of S. alterniflora along the Jiangsu coast.\n\nJCSA-30 can support a range of applications, including studies of invasive species dynamics, coastal wetland ecological change, blue carbon assessment, ecological restoration, biodiversity conservation, and sustainable coastal management. The dataset also provides a consistent spatially explicit data source for investigating the long-term effects of S. alterniflora invasion and management on Jiangsu coastal ecosystems.\n\nDataset characteristics:\n\n\n\n\n\nSpatial resolution: 30 m\n\n\n\n\nTemporal coverage: 1985\u20132025\n\n\n\n\nTemporal frequency: Annual\n\n\n\n\nData format: GeoTIFF (TIFF)\n\n\n\n\nCoordinate reference system: WGS 84 (EPSG:4326)\n\n\n\n\nData type: Binary raster\n\n\n\n\nClass value 1: Spartina alterniflora\n\n\n\n\nClass value 0: Non-Spartina alterniflora\n\n\n\n\nNoData: Areas outside the defined study area\n\n\n\n\nStudy region: Jiangsu coastal wetlands, China"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://zenodo.org/doi/10.5281/zenodo.22238500",
+        "contentUrl": null,
+        "metadataVersion": 0,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "api",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "partCount": 0,
+        "partOfCount": 0,
+        "versionCount": 1,
+        "versionOfCount": 0,
+        "created": "2026-09-04T17:00:32Z",
+        "registered": "2026-09-04T17:00:32Z",
+        "published": null,
+        "updated": "2026-09-04T17:06:43Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "cern.zenodo",
+            "type": "clients"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 21,
+    "totalPages": 5,
+    "page": 1
+  },
+  "links": {
+    "self": "https://api.datacite.org/dois?query=annual+Spartina+alterniflora+China&page%5Bsize%5D=5",
+    "next": "https://api.datacite.org/dois?page%5Bnumber%5D=2&page%5Bsize%5D=5&query=annual+Spartina+alterniflora+China"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "id": "10.57760/sciencedb.31077",
+      "type": "dois",
+      "attributes": {
+        "doi": "10.57760/sciencedb.31077",
+        "identifiers": [
+          {
+            "identifier": "31253.11.sciencedb.31077",
+            "identifierType": "CSTR"
+          }
+        ],
+        "creators": [
+          {
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "name": "Yuying Li",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "name": "TingLiu",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "givenName": "Lina",
+            "familyName": "Yuan",
+            "name": "Yuan, Lina",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "name": "Zijiang Song",
+            "nameIdentifiers": [
+              {
+                "schemeUri": "https://orcid.org",
+                "nameIdentifier": "/0000-0002-0225-5547"
+              }
+            ]
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "givenName": "Shuang",
+            "familyName": "Yang",
+            "name": "Yang, Shuang",
+            "nameIdentifiers": []
+          },
+          {
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "name": "Zilong Zhu",
+            "nameIdentifiers": []
+          },
+          {
+            "nameType": "Personal",
+            "affiliation": [
+              "East China Normal University"
+            ],
+            "givenName": "Min",
+            "familyName": "Liu",
+            "name": "Liu, Min",
+            "nameIdentifiers": []
+          }
+        ],
+        "titles": [
+          {
+            "title": "CCAV-10m: An Annual Spatiotemporal China's Coastal Wetland Vegetation Dataset Integrating Sentinel-1/2 Observations via Deep Learning"
+          },
+          {
+            "lang": "zh",
+            "title": "CCAV-10m: An Annual Spatiotemporal China's Coastal Wetland Vegetation Dataset Integrating Sentinel-1/2 Observations via Deep Learning"
+          }
+        ],
+        "publisher": "Science Data Bank",
+        "container": {},
+        "publicationYear": 2026,
+        "subjects": [
+          {
+            "classificationCode": "17045",
+            "subject": "Geography",
+            "subjectScheme": "GB/T 13745-2009"
+          },
+          {
+            "classificationCode": "420",
+            "subject": "Surveying and mapping science and technology",
+            "subjectScheme": "GB/T 13745-2009"
+          },
+          {
+            "subject": "Costal Wetland"
+          },
+          {
+            "subject": "Saltmarsh"
+          },
+          {
+            "subject": "vegetation type"
+          },
+          {
+            "subject": "deeplearning"
+          }
+        ],
+        "contributors": [],
+        "dates": [
+          {
+            "date": "2025-11-06",
+            "dateType": "Issued"
+          },
+          {
+            "date": "2025-11-04",
+            "dateType": "Created"
+          },
+          {
+            "date": "2026-03-17",
+            "dateType": "Updated"
+          }
+        ],
+        "language": "en",
+        "types": {
+          "schemaOrg": "Dataset",
+          "resourceTypeGeneral": "Dataset",
+          "citeproc": "dataset",
+          "bibtex": "misc",
+          "ris": "DATA",
+          "resourceType": "Dataset"
+        },
+        "relatedIdentifiers": [],
+        "relatedItems": [],
+        "sizes": [
+          "198223375 bytes",
+          "3 files"
+        ],
+        "formats": [],
+        "version": "V4",
+        "rightsList": [
+          {
+            "rightsIdentifierScheme": "SPDX",
+            "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "schemeUri": "https://spdx.org/licenses/",
+            "rights": "Creative Commons Attribution 4.0 International",
+            "rightsIdentifier": "cc-by-4.0"
+          }
+        ],
+        "descriptions": [
+          {
+            "descriptionType": "Abstract",
+            "description": "CCAV-10m\u00a0represents the spatiotemporal distribution of major coastal wetland vegetation types along eastern China from\u00a02016 to 2023. The dataset is derived from multi-source remote sensing imagery of\u00a0Sentinel-1 SAR\u00a0and\u00a0Sentinel-2 MSI, integrating optical and radar information through a deep learning\u2013based classification framework.\u00a0CCAV-10m\u00a0covers the entire eastern coastal zone of China at a spatial resolution of\u00a010 m \u00d7 10 m\u00a0and an annual temporal resolution, comprising\u00a0eight yearly maps (2016\u20132023). It distinguishes six dominant coastal wetland plant types:\u00a0S.\u00a0alterniflora,\u00a0Suaeda\u00a0spp.,\u00a0P.\u00a0australis,\u00a0S.\u00a0mariqueter, mangroves, and\u00a0T.\u00a0chinensis. Model validation indicates a high classification accuracy, with an\u00a0overall accuracy (OA) of 0.916\u00a0and a\u00a0Kappa coefficient of 0.898, demonstrating stable and reliable species discrimination across years. Each annual product is provided in\u00a0GeoTIFF raster format\u00a0with spatial reference information and vegetation classification results, compatible with common GIS software (e.g., ArcGIS, QGIS) and remote sensing platforms (e.g., Google Earth Engine). File names follow the convention\u00a0CCAV-10m_YYYY.tif, where\u00a0YYYY\u00a0denotes the year. The dataset provides a high-precision foundation for\u00a0species distribution analysis, community succession studies, blue carbon assessment,\u00a0and\u00a0invasive species management\u00a0in coastal wetlands."
+          },
+          {
+            "descriptionType": "Abstract",
+            "description": "CCAV-10m\u00a0represents the spatiotemporal distribution of major coastal wetland vegetation types along eastern China from\u00a02016 to 2023. The dataset is derived from multi-source remote sensing imagery of\u00a0Sentinel-1 SAR\u00a0and\u00a0Sentinel-2 MSI, integrating optical and radar information through a deep learning\u2013based classification framework.\u00a0CCAV-10m\u00a0covers the entire eastern coastal zone of China at a spatial resolution of\u00a010 m \u00d7 10 m\u00a0and an annual temporal resolution, comprising\u00a0eight yearly maps (2016\u20132023). It distinguishes six dominant coastal wetland plant types:\u00a0S.\u00a0alterniflora,\u00a0Suaeda\u00a0spp.,\u00a0P.\u00a0australis,\u00a0S.\u00a0mariqueter, mangroves, and\u00a0T.\u00a0chinensis. Model validation indicates a high classification accuracy, with an\u00a0overall accuracy (OA) of 0.916\u00a0and a\u00a0Kappa coefficient of 0.898, demonstrating stable and reliable species discrimination across years. Each annual product is provided in\u00a0GeoTIFF raster format\u00a0with spatial reference information and vegetation classification results, compatible with common GIS software (e.g., ArcGIS, QGIS) and remote sensing platforms (e.g., Google Earth Engine). File names follow the convention\u00a0CCAV-10m_YYYY.tif, where\u00a0YYYY\u00a0denotes the year. The dataset provides a high-precision foundation for\u00a0species distribution analysis, community succession studies, blue carbon assessment,\u00a0and\u00a0invasive species management\u00a0in coastal wetlands.",
+            "lang": "zh"
+          }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://www.scidb.cn/detail?dataSetId=a085f16794464c869ad6511f1a887ffe",
+        "contentUrl": null,
+        "metadataVersion": 3,
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "source": "api",
+        "isActive": true,
+        "state": "findable",
+        "reason": null,
+        "viewCount": 0,
+        "downloadCount": 0,
+        "referenceCount": 0,
+        "citationCount": 0,
+        "partCount": 1,
+        "partOfCount": 0,
+        "versionCount": 0,
+        "versionOfCount": 0,
+        "created": "2025-11-06T09:55:13Z",
+        "registered": "2025-11-06T09:55:13Z",
+        "published": null,
+        "updated": "2026-04-03T07:59:55Z"
+      },
+      "relationships": {
+        "client": {
+          "data": {
+            "id": "cnic.sciencedb",
+            "type": "clients"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 1,
+    "totalPages": 1,
+    "page": 1
+  },
+  "links": {
+    "self": "https://api.datacite.org/dois?query=coastal+vegetation+China+CCAV&page%5Bsize%5D=5"
+  }
+}

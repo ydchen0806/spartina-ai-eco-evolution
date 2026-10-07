@@ -5,6 +5,31 @@ Updated 2026-10-07. The active raw evidence now includes the recovered archive a
 patch matrices and environment–growth workbooks. Earlier statements that all
 original imagery, masks and annotation polygons were missing are superseded.
 
+## Latest advance: external satellite analysis and mechanism-focused literature
+
+See `EXTERNAL_EVIDENCE_2026-10-07.md` for completed analyses, literature scope and
+falsifiable competing hypotheses. CCAV-10m V4 (DOI 10.57760/sciencedb.31077) was
+downloaded: 3 files / 198,223,375 bytes, all provider MD5 checks passed, 8 annual
+rasters for 2016–2023. The pre-existing vegetation workbook is byte-identical to
+the official release. Its 106 local rows collapse to 99 coordinates, all labelled
+mangrove; none is a local Spartina validation label, and sample splits are unknown.
+
+Fixed 10 m grids cover the full image and historical ROI, with four grid phases.
+ROI Spartina-class area is nonmonotonic: 97.62 ha (2016), 24.82 (2019), 71.64
+(2022), 35.22 (2023). These are mapped classes, not error-adjusted biological
+areas. Source grids differ and NoData is not habitat absence. Historical positive
+masks have 20.1–65.0% same-year satellite Spartina-class agreement over 12 dates;
+this cross-scale comparison is not accuracy. All 64 class partitions, 14 temporal
+transition totals and 12 independent foreground totals pass conservation checks.
+
+The manuscript now includes 8 figures and 11 references. Three new papers were
+read in full; one Oikos study was checked through metadata/abstract and Dryad
+methods. Two common-garden CC0 datasets were located, but all 7 public file
+requests failed with HTTP 403; no raw-data reanalysis is claimed. The core question
+now explicitly contrasts observation error, crowding/coalescence, community
+change, environmental response and heritable source differences. Expert pilot
+labels remain zero; local evolutionary mechanisms remain untested.
+
 ## Latest advance: strict baseline, frozen pilot and full working draft
 
 The active full manuscript is `docs/MANUSCRIPT_WORKING_DRAFT.md`, with editable
@@ -95,9 +120,9 @@ The separate 727-row parent table has flagged constant parent areas in 2020/2021
 
 The external-context collection is preliminary. The GBIF value 4,584 is a
 reported query total, not a cleaned downloaded dataset; only ten global example
-records were retrieved, and the China query still returned twelve. The NASA
-POWER point is east of the recovered imagery and is context pending spatial
-verification. Literature discovery lists do not substitute for checked citations.
+records were retrieved, and the China query still returned twelve. The earlier NASA
+POWER point was east of the recovered imagery; it has been superseded by the
+verified image-centre collection above. Literature discovery lists do not substitute for checked citations.
 
 ## Next scientific gate
 

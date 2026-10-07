@@ -1,0 +1,39 @@
+{
+  "dataset_doi": "10.57760/sciencedb.31077",
+  "version": "V4",
+  "license": "CC-BY-4.0",
+  "attribution": "Yuying Li et al., CCAV-10m (Science Data Bank, V4, 2026)",
+  "provider_md5_verified": true,
+  "md5": "6e0330b8ace27c94649d080b3d129f77",
+  "sha256": "a81629048400c8f7d84aba873a5278eee9300b143a1a495dba04bb320da5fe3e",
+  "bytes": 513872,
+  "raw_rows": 13059,
+  "unique_coordinate_year_class": 13046,
+  "excess_duplicate_rows": 13,
+  "unique_coordinates": 13046,
+  "conflicting_class_coordinate_year_groups": 0,
+  "image_bounds_wgs84": [
+    117.404195622047,
+    23.9134768474132,
+    117.432930102047,
+    23.9374309174132
+  ],
+  "local_raw_rows": 106,
+  "local_unique_coordinate_year_class": 99,
+  "local_unique_coordinates": 99,
+  "local_classes_raw": {
+    "mangroves": 106
+  },
+  "local_classes_unique": {
+    "mangroves": 99
+  },
+  "local_nearest_distinct_record_m_median": 62.12027651364542,
+  "legacy_byte_identical": true,
+  "limitations": [
+    "Coordinates have no explicit CRS field; WGS84 assumed for overlay.",
+    "Exact duplicate records collapsed for audit, not proof of independent plots.",
+    "Year-repeat coordinates remain dependent; nearest-distance is diagnostic.",
+    "Published 15558 total includes nonpublic samples; public sheet has no split membership.",
+    "No independent accuracy metric can be computed from these records."
+  ]
+}

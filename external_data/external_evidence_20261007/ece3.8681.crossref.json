@@ -1,0 +1,131 @@
+{
+  "DOI": "10.1002/ece3.8681",
+  "title": [
+    "Does the effect of flowering time on biomass allocation across latitudes differ between invasive and native salt marsh grass <i>Spartina alterniflora</i>?"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-7585-2812",
+      "authenticated-orcid": false,
+      "given": "Wenwen",
+      "family": "Liu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xincong",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jiayu",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8710-2151",
+      "authenticated-orcid": false,
+      "given": "Yihui",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of the Ministry of Education for Coastal and Wetland Ecosystems College of the Environment and Ecology Xiamen University Fujian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Ecology and Evolution"
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        3
+      ]
+    ]
+  },
+  "volume": "12",
+  "issue": "3",
+  "page": null,
+  "article-number": "e8681",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>\n<jats:list>\n\n<jats:list-item><jats:p>Parallel latitudinal clines in flowering time have been documented in both the invasive and native ranges of plants. Furthermore, flowering time has been found to affect biomass at maturity. Therefore, understanding how these flowering times affect biomass accumulation across latitudes is essential to understanding plant adaptations and distributions.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>We investigated and compared trends in first flowering day (FFD), aboveground biomass (AGB), belowground biomass (BGB), and BGB:AGB ratio of the salt marsh grass <jats:italic>Spartina alterniflora</jats:italic> along latitudinal gradients from the invasive (China, 19–40°N) and native range (United States, 27–43°N) in a greenhouse common garden experiment, and tested whether FFD would drive these divergences between invasive and native ranges.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>The invasive populations produced more (~20%, ~19%) AGB and BGB than native populations, but there were no significant differences in the FFD and BGB:AGB ratio. We found significant parallel latitudinal clines in FFD in both invasive and native ranges. In addition, the BGB:AGB ratio was negatively correlated with the FFD in both the invasive and native ranges but nonsignificant in invasive populations. In contrast, AGB and BGB increased with latitude in the invasive range, but declined with latitude in the native range. Most interestingly, we found AGB and BGB positively correlated with the FFD in the native range, but no significant relationships in the invasive range.</jats:p></jats:list-item>\n\n<jats:list-item><jats:p>Our results indirectly support the evolution of increased competitive ability hypothesis (EICA) that <jats:italic>S</jats:italic>. <jats:italic>alterniflora</jats:italic> has evolved to produce greater AGB and BGB in China, but the flowering and allocation pattern of native populations is maintained in the invasive range. Our results also suggest that invasive <jats:italic>S</jats:italic>. <jats:italic>alterniflora</jats:italic> in China is not constrained by the trade‐off of earlier flowering with smaller size, and that flowering time has played an important role in biomass allocation across latitudes.</jats:p></jats:list-item>\n</jats:list>\n</jats:p>",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            7
+          ]
+        ],
+        "date-time": "2022-03-07T00:00:00Z",
+        "timestamp": 1646611200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 6,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "link": [
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.8681",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/ece3.8681",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.8681",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "URL": "https://doi.org/10.1002/ece3.8681"
+}

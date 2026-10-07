@@ -1,0 +1,3161 @@
+{
+  "query": "CCAV coastal vegetation China dataset",
+  "response": {
+    "status": "ok",
+    "message-type": "work-list",
+    "message-version": "1.0.0",
+    "message": {
+      "facets": {},
+      "total-results": 2175814,
+      "items": [
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                12
+              ]
+            ],
+            "date-time": "2026-09-12T12:06:18Z",
+            "timestamp": 1789214778336,
+            "version": "build-2803163510"
+          },
+          "reference-count": 83,
+          "publisher": "Copernicus GmbH",
+          "issue": "4",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2026,
+                    4,
+                    27
+                  ]
+                ],
+                "date-time": "2026-04-27T00:00:00Z",
+                "timestamp": 1777248000000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          ],
+          "funder": [
+            {
+              "DOI": "10.13039/501100001809",
+              "name": "National Natural Science Foundation of China",
+              "doi-asserted-by": "publisher",
+              "award": [
+                "NW2412140"
+              ],
+              "award-info": [
+                {
+                  "award-number": [
+                    "NW2412140"
+                  ]
+                }
+              ],
+              "id": [
+                {
+                  "id": "10.13039/501100001809",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ]
+            },
+            {
+              "DOI": "10.13039/501100001809",
+              "name": "National Natural Science Foundation of China",
+              "doi-asserted-by": "publisher",
+              "award": [
+                "42230505"
+              ],
+              "award-info": [
+                {
+                  "award-number": [
+                    "42230505"
+                  ]
+                }
+              ],
+              "id": [
+                {
+                  "id": "10.13039/501100001809",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ]
+            }
+          ],
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "Earth Syst. Sci. Data"
+          ],
+          "abstract": "<jats:p>\n                    Coastal wetland vegetation plays a vital role in shoreline protection and ecosystem management, highlighting the need for accurate and high-resolution mapping of these unique and vulnerable habitats. Here, we present CCAV-10m, the first publicly available annual species-level wetland dataset for eastern coastal China at 10 m resolution (2016–2023). This dataset was generated using a novel phenology-guided coastal wetland vegetation classification network (P_SVCN), which integrates Sentinel-1/2 satellite imagery with extensive in situ observations. Validation based on 4668 in situ samples confirms that P_SVCN delivers strong classification performance, achieving an overall accuracy of 0.916 and a Kappa coefficient of 0.898. Spatiotemporal analysis of CCAV-10m reveals that\n                    <jats:italic>Suaeda</jats:italic>\n                    spp. is the dominant vegetation type, followed by\n                    <jats:italic>Spartina alterniflora</jats:italic>\n                    , whose coverage nearly equals the combined extent of\n                    <jats:italic>Phragmites australis</jats:italic>\n                    , mangroves,\n                    <jats:italic>Scirpus mariqueter</jats:italic>\n                    , and\n                    <jats:italic>Tamarix chinensis</jats:italic>\n                    . Notably, this work fills critical gaps in both spatial detail and temporal consistency across existing coastal wetland datasets, demonstrating the effectiveness of deep-learning-based fusion of optical and SAR data for high-resolution vegetation mapping. Regular updates to CCAV-10m will support long-term coastal wetland research, enhance invasive species monitoring, and inform wetland restoration and precision management efforts. The CCAV-10m dataset is openly accessible at https://doi.org/10.57760/sciencedb.31077 (Li et al., 2025).\n                  </jats:p>",
+          "DOI": "10.5194/essd-18-2907-2026",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                27
+              ]
+            ],
+            "date-time": "2026-04-27T06:11:11Z",
+            "timestamp": 1777270271000
+          },
+          "page": "2907-2927",
+          "source": "Crossref",
+          "is-referenced-by-count": 2,
+          "title": [
+            "CCAV-10m: an annual spatiotemporal dataset for eastern coastal China’s wetland vegetation by integrating Sentinel-1/2 observations via deep learning"
+          ],
+          "prefix": "10.5194",
+          "volume": "18",
+          "author": [
+            {
+              "given": "Yuying",
+              "family": "Li",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-2163-4550",
+              "authenticated-orcid": false,
+              "given": "Lina",
+              "family": "Yuan",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/02n96ep67",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "East China Normal University (Shanghai, China)"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                },
+                {
+                  "role": "corresponding-author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0009-0001-5925-9936",
+              "authenticated-orcid": false,
+              "given": "Ting",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Zijiang",
+              "family": "Song",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Shuang",
+              "family": "Yang",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Zilong",
+              "family": "Zhu",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Min",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/02n96ep67",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "East China Normal University (Shanghai, China)"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                },
+                {
+                  "role": "corresponding-author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "member": "3145",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                27
+              ]
+            ]
+          },
+          "reference": [
+            {
+              "key": "ref1",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Aburto-Oropeza, O., Ezcurra, E., Danemann, G., Valdez, V., Murray, J., and Sala, E.: Mangroves in the Gulf of California increase fishery yields, P. Natl. Acad. Sci. USA, 105, 10456–10459, 10.1073/pnas.0804601105, 2008.",
+              "DOI": "10.1073/pnas.0804601105"
+            },
+            {
+              "key": "ref2",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Almond, D., Chen, Y., Greenstone, M., and Li, H.: Winter heating or clean air? Unintended impacts of China's Huai river policy, Am. Econ. Rev., 99, 184–190, 10.1257/aer.99.2.184, 2009.",
+              "DOI": "10.1257/aer.99.2.184"
+            },
+            {
+              "key": "ref3",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Bao, Y., Lin, X., Jia, M., Xiao, Z., Wang, C., Liao, J., and Zhang, Y.: Convergence in key month of phenology-based mangrove species classification using sentinel-2 imagery data: insights from structural and physiological indices, Int. J. Digit. Earth, 18, 2528651, 10.1080/17538947.2025.2528651, 2025.",
+              "DOI": "10.1080/17538947.2025.2528651"
+            },
+            {
+              "key": "ref4",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Bernhardt, E.: Coastal freshwater wetlands squeezed between migrating salt marshes and working lands, Science Advances, 8, eadd1628, 10.1126/sciadv.add1628, 2022.",
+              "DOI": "10.1126/sciadv.add1628"
+            },
+            {
+              "key": "ref5",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Bertram, C., Quaas, M., Reusch, T. B., Vafeidis, A. T., Wolff, C., and Rickels, W.: The blue carbon wealth of nations, Nat. Clim. Change, 11, 704–709, 10.1038/s41558-021-01089-4, 2021.",
+              "DOI": "10.1038/s41558-021-01089-4"
+            },
+            {
+              "key": "ref6",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Cao, W. and Wong, M. H.: Current status of coastal zone issues and management in China: a review, Environ. Int., 33, 985–992, 10.1016/j.envint.2007.04.009, 2007.",
+              "DOI": "10.1016/j.envint.2007.04.009"
+            },
+            {
+              "key": "ref7",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Chen, C., Chen, Y., Liu, Z., Xue, Z., Yang, G., and Sun, W.: PCSAI: a phenological characteristics-based Spartina alterniflora index derived from a time-series of remote sensing images, Big Earth Data, 9, 1–29, 10.1080/20964471.2025.2554043, 2025.",
+              "DOI": "10.1080/20964471.2025.2554043"
+            },
+            {
+              "key": "ref8",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Chen, G., Jin, R., Ye, Z., Li, Q., Gu, J., Luo, M., Luo, Y., Christakos, G., Morris, J., He, J., Chen, Z., and Qin, Q.: Spatiotemporal mapping of salt marshes in the intertidal zone of China during 1985–2019, J. Remote Sens., 2022, 9793626, 10.34133/2022/9793626, 2022.",
+              "DOI": "10.34133/2022/9793626"
+            },
+            {
+              "key": "ref9",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Chen, Y., Ebenstein, A., Greenstone, M., and Li, H.: Evidence on the impact of sustained exposure to air pollution on life expectancy from China's Huai River policy, P. Natl. Acad. Sci. USA, 110, 12936–12941, 10.1073/pnas.1300018110, 2013.",
+              "DOI": "10.1073/pnas.1300018110"
+            },
+            {
+              "key": "ref10",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Cingano, P., Moro, D., Pellegrini, E., Asquini, E., Contin, M., Trotta, G., Vuerich, M., Trevisan, F., Scagnetto, I., Casarsa, L., Marmiroli, M., and Brancaleoni, L.: Integrating remote sensing and functional traits to elucidate estuarine common reed beds decline driven by soil salinity and anoxia, Ecol. Indic., 180, 114294, 10.1016/j.ecolind.2025.114294, 2025.",
+              "DOI": "10.1016/j.ecolind.2025.114294"
+            },
+            {
+              "key": "ref11",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Costanza, R., De Groot, R., Sutton, P., Van der Ploeg, S., Anderson, S. J., Kubiszewski, I., Farber, S., and Turner, R. K.: Changes in the global value of ecosystem services, Global Environ. Chang., 26, 152–158, 10.1016/j.gloenvcha.2014.04.002, 2014.",
+              "DOI": "10.1016/j.gloenvcha.2014.04.002"
+            },
+            {
+              "key": "ref12",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Day, J. W., Anthony, E., Costanza, R., Edmonds, D. A., Gunn, J., Hopkinson, C. S., Mann, M. E., Morris, J. T., Osland, M. J., Quirk, T., Rybczyk, J. M., Steyer, G. D., Syvitski, J. P., Twilley, R. R., and Kemp, G. P.: Coastal wetlands in the Anthropocene, Annu. Rev. Env. Resour., 49, 105–135, 10.1146/annurev-environ-121922-041109, 2024.",
+              "DOI": "10.1146/annurev-environ-121922-041109"
+            },
+            {
+              "key": "ref13",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Duarte, C. M., Losada, I. J., Hendriks, I. E., Mazarrasa, I., and Marbà, N.: The role of coastal plant communities for climate change mitigation and adaptation, Nat. Clim. Change, 3, 961–968, 10.1038/nclimate1970, 2013.",
+              "DOI": "10.1038/nclimate1970"
+            },
+            {
+              "key": "ref14",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Feng, K., Mao, D., Qiu, Z., Zhao, Y., and Wang, Z.: Can time-series Sentinel images be used to properly identify wetland plant communities?, GISci. Remote Sens., 59, 2202–2216, 10.1080/15481603.2022.2156064, 2022.",
+              "DOI": "10.1080/15481603.2022.2156064"
+            },
+            {
+              "key": "ref15",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Ferro, A., Brunner, D., Bruzzone, L., and Lemoine, G.: On the relationship between double bounce and the orientation of buildings in VHR SAR images, IEEE Geosci. Remote S., 8, 612–616, 10.1109/LGRS.2010.2097580, 2011.",
+              "DOI": "10.1109/LGRS.2010.2097580"
+            },
+            {
+              "key": "ref16",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Fu, B., Yuan, B., Yao, H., Sun, W., Jia, M., Yao, Z., and Wang, Y.: Spatio-temporal dynamics of invasive Spartina alterniflora and its functional traits' responding to hydro-meteorology, Earths Future, 13, e2024EF005421, 10.1029/2024EF005421, 2025.",
+              "DOI": "10.1029/2024EF005421"
+            },
+            {
+              "key": "ref17",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Gabler, C. A., Osland, M. J., Grace, J. B., Stagg, C. L., Day, R. H., Hartley, S. B., Enwright, N. M., From, A. S., McCoy, M. L., and McLeod, J. L.: Macroclimatic change expected to transform coastal wetland ecosystems this century, Nat. Clim. Change, 7, 142–147, 10.1038/nclimate3203, 2017.",
+              "DOI": "10.1038/nclimate3203"
+            },
+            {
+              "key": "ref18",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Gallo, K., Ji, L., Reed, B., Eidenshink, J., and Dwyer, J.: Multi-platform comparisons of MODIS and AVHRR normalized difference vegetation index data, Remote Sens. Environ., 99, 221–231, 10.1016/j.rse.2005.08.014, 2005.",
+              "DOI": "10.1016/j.rse.2005.08.014"
+            },
+            {
+              "key": "ref19",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Gao, M., Wang, X., Hui, C., Yi, H., Zhang, C., Wu, X., Bi, X., Wang, Y., Xiao, L., and Wang, D.: Assembly of plant communities in coastal wetlands – the role of saltcedar Tamarix chinensis during early succession, J. Plant Ecol., 8, 539–548, 10.1093/jpe/rtu037, 2015.",
+              "DOI": "10.1093/jpe/rtu037"
+            },
+            {
+              "key": "ref20",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Gao, Y., Hu, Z., Wang, Z., Shi, Q., Chen, D., Wu, S., Gao, Y., and Zhang, Y.: Phenology metrics for vegetation type classification in estuarine wetlands using satellite imagery, Sustainability, 15, 1373, 10.3390/su15021373, 2023.",
+              "DOI": "10.3390/su15021373"
+            },
+            {
+              "key": "ref21",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Gu, J., Jin, R., Chen, G., Ye, Z., Li, Q., Wang, H., Li, D., Christakos, G., Agusti, S., Duarte, C. M., and Qin, Q.: Areal extent, species composition, and spatial distribution of coastal saltmarshes in China, IEEE J. Sel. Top. Appl., 14, 7085–7094, 10.1109/JSTARS.2021.3093673, 2021.",
+              "DOI": "10.1109/JSTARS.2021.3093673"
+            },
+            {
+              "key": "ref22",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Gu, J., Wu, J., and Xie, D.: Coastal salt marsh changes in China: Landscape pattern, driving factors, and carbon dynamics, Geography and Sustainability, 100281, 10.1016/j.geosus.2025.100281, 2025.",
+              "DOI": "10.1016/j.geosus.2025.100281"
+            },
+            {
+              "key": "ref23",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Hu, Y., Tian, B., Yuan, L., Li, X., Huang, Y., Shi, R., Jiang, X., Sun, C., and Pan, L.: Mapping coastal salt marshes in China using time series of Sentinel-1 SAR, ISPRS J. Photogramm., 173, 122–134, 10.1016/j.isprsjprs.2021.01.003, 2021.",
+              "DOI": "10.1016/j.isprsjprs.2021.01.003"
+            },
+            {
+              "key": "ref24",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Jiao, L., Zhang, Y., Sun, T., Yang, W., Shao, D., Zhang, P., and Liu, Q.: Spatial analysis as a tool for plant population conservation: a case study of Tamarix chinensis in the Yellow River Delta, China, Sustainability, 13, 8291, 10.3390/su13158291, 2021.",
+              "DOI": "10.3390/su13158291"
+            },
+            {
+              "key": "ref25",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Kang, B., Chen, X., Du, Z., Meng, W., and Li, H.: Species-based mapping of carbon stocks in salt marsh: Tianjin coastal zone as a case study, Ecosystem Health and Sustainability, 9, 0052, 10.34133/ehs.0052, 2023.",
+              "DOI": "10.34133/ehs.0052"
+            },
+            {
+              "key": "ref26",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Kearney, M. S., Stutzer, D., Turpie, K., and Stevenson, J. C.: The effects of tidal inundation on the reflectance characteristics of coastal marsh vegetation, J. Coast. Res., 25, 1177–1186, 2009.",
+              "DOI": "10.2112/08-1080.1"
+            },
+            {
+              "key": "ref27",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Kingma, D. P. and Ba, J.: Adam: A method for stochastic optimization, 3rd International Conference on Learning Representations (ICLR), San Diego, CA, USA, 7–9 May 2015, arXiv [preprint], 10.48550/arXiv.1412.6980, 2015.",
+              "DOI": "10.48550/arXiv.1412.6980",
+              "type": "preprint"
+            },
+            {
+              "key": "ref28",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Kumar, L. and Sinha, P.: Mapping salt-marsh land-cover vegetation using high-spatial and hyperspectral satellite data to assist wetland inventory, GISci. Remote Sens., 51, 483–497, 10.1080/15481603.2014.947838, 2014.",
+              "DOI": "10.1080/15481603.2014.947838"
+            },
+            {
+              "key": "ref29",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Li, H., Wang, C., Cui, Y., and Hodgson, M.: Mapping salt marsh along coastal South Carolina using U-Net, ISPRS J. Photogramm., 179, 121–132, 10.1016/j.isprsjprs.2021.07.011, 2021a.",
+              "DOI": "10.1016/j.isprsjprs.2021.07.011"
+            },
+            {
+              "key": "ref30",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Li, H., Zhang, C., Zhang, S., Ding, X., and Atkinson, P. M.: Iterative Deep Learning (IDL) for agricultural landscape classification using fine spatial resolution remotely sensed imagery, Int. J. Appl. Earth Obs., 102, 102437, 10.1016/j.jag.2021.102437, 2021b.",
+              "DOI": "10.1016/j.jag.2021.102437"
+            },
+            {
+              "key": "ref31",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Li, X., Tian, J., Li, X., Yu, Y., Ou, Y., Zhu, L., Zhu, X., Zhou, B., and Gong, H.: Annual mapping of Spartina alterniflora with deep learning and spectral-phenological features from 2017 to 2021 in the mainland of China, Int. J. Remote Sens., 45, 3172–3199, 10.1080/01431161.2024.2343136, 2024a.",
+              "DOI": "10.1080/01431161.2024.2343136"
+            },
+            {
+              "key": "ref32",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Li, Y., Yuan, L., Song, Z., Yu, S., Zhang, X., Tian, B., and Liu, M.: Salt marsh carbon stock estimation using deep learning with Sentinel-1 SAR of the Yangtze River estuary, China, Int. J. Appl. Earth Obs., 133, 104138, 10.1016/j.jag.2024.104138, 2024b.",
+              "DOI": "10.1016/j.jag.2024.104138"
+            },
+            {
+              "key": "ref33",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Li, Y., TingLiu, Yuan, L., Song, Z., Yang, S., Zhu, Z., and Liu, M.: CCAV-10m: An Annual Spatiotemporal China Coastal Wetland Vegetation Dataset Integrating Sentinel-1/2 Observations via Deep Learning, Science Data Bank [data set], 10.57760/sciencedb.31077, 2025.",
+              "DOI": "10.57760/sciencedb.31077",
+              "type": "dataset"
+            },
+            {
+              "key": "ref34",
+              "unstructured": "Liaoning Provincial Meteorological Service: Main Meteorological Disasters and Early Warning Signals in Liaoning Province, August 2023, Meteorological Bulletin, Liaoning Provincial Meteorological Service, Shenyang, http://ln.cma.gov.cn/xwzx/qxxw/202309/t20230905_5757479.html (last access: 21 April 2026), 2023.",
+              "type": "web-resource"
+            },
+            {
+              "key": "ref35",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Luo, J., Wu, X., Gao, Y., Cai, Y., Yang, L., Xiong, Y., Yang, Q., Liu, J., Li, Y., Deng, Z., Gong, Y., and Liang, S.: Spatiotemporal variations and seasonal climatic driving factors of stable vegetation phenology across China over the past two decades, Remote Sens.-Basel, 17, 3467, 10.3390/rs17203467, 2025.",
+              "DOI": "10.3390/rs17203467"
+            },
+            {
+              "key": "ref36",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Luther, D. A. and Greenberg, R.: Mangroves: a global perspective on the evolution and conservation of their terrestrial vertebrates, BioScience, 59, 602–612, 10.1525/bio.2009.59.7.11, 2009.",
+              "DOI": "10.1525/bio.2009.59.7.11"
+            },
+            {
+              "key": "ref37",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Macreadie, P. I., Anton, A., Raven, J. A., Beaumont, N., Connolly, R. M., Friess, D. A., Kelleway, J. J., Kennedy, H., Kuwae, T., Lavery, P. S., Lovelock, C. E., Smale, D. A., Apostolaki, E. T., Atwood, T. B., Baldock, J., Bianchi, T. S., Chmura, G. L., Eyre, B. D., Fourqurean, J. W., Hall-Spencer, J. M., Huxham, M., Hendriks, I. E., Krause-Jensen, D., Laffoley, D., Luisetti, T., Marbà, N., Masqué, P., McGlathery, K. J., Megonigal, J. P., Murdiyarso, D., Russell, B. D., Santos, R., Serrano, O., Silliman, B. R., Watanabe, K., and Duarte, C. M.: The future of Blue Carbon science, Nat. Commun., 10, 3998, 10.1038/s41467-019-11693-w, 2019.",
+              "DOI": "10.1038/s41467-019-11693-w"
+            },
+            {
+              "key": "ref38",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Mahdianpari, M., Jafarzadeh, H., Granger, J. E., Mohammadimanesh, F., Brisco, B., Salehi, B., Homayouni, S., and Weng, Q.: A large-scale change monitoring of wetlands using time series Landsat imagery on Google Earth Engine: a case study in Newfoundland, GISci. Remote Sens., 57, 1102–1124, 10.1080/15481603.2020.1846948, 2020.",
+              "DOI": "10.1080/15481603.2020.1846948"
+            },
+            {
+              "key": "ref39",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Mandal, D., Kumar, V., Ratha, D., Dey, S., Bhattacharya, A., Lopez-Sanchez, J. M., McNairn, H., and Rao, Y. S.: Dual polarimetric radar vegetation index for crop growth monitoring using sentinel-1 SAR data, Remote Sens. Environ., 247, 111954, 10.1016/j.rse.2020.111954, 2020.",
+              "DOI": "10.1016/j.rse.2020.111954"
+            },
+            {
+              "key": "ref40",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Mao, W., Wang, X., Liu, G., Pirasteh, S., Zhang, R., Lin, H., Xie, Y., Xiang, W., Ma, Z., and Ma, P.: Time series InSAR ionospheric delay estimation, correction, and ground deformation monitoring with reformulating range split-spectrum interferometry, IEEE T. Geosci. Remote, 61, 1–18, 10.1109/TGRS.2023.3298919, 2023.",
+              "DOI": "10.1109/TGRS.2023.3298919"
+            },
+            {
+              "key": "ref41",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Min, Y., Ke, Y., Zhuo, Z., Qi, W., Li, J., Li, P., and Zhao, N.: Monitoring Spartina Alterniflora removal dynamics across coastal China using time series Sentinel-1 imagery, Remote Sens. Environ., 326, 114813, 10.1016/j.rse.2025.114813, 2025.",
+              "DOI": "10.1016/j.rse.2025.114813"
+            },
+            {
+              "key": "ref42",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Mleczko, M. and Mróz, M.: Wetland mapping using sar data from the sentinel-1a and tandem-x missions: a comparative study in the biebrza floodplain (Poland), Remote Sens.-Basel, 10, 78, 10.3390/rs10010078, 2018.",
+              "DOI": "10.3390/rs10010078"
+            },
+            {
+              "key": "ref43",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Morales-Barquero, L., Lyons, M. B., Phinn, S. R., and Roelfsema, C. M.: Trends in remote sensing accuracy assessment approaches in the context of natural resources, Remote Sens.-Basel, 11, 2305, 10.3390/rs11192305, 2019.",
+              "DOI": "10.3390/rs11192305"
+            },
+            {
+              "key": "ref44",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Moreno-Mateos, D., Power, M. E., Comín, F. A., and Yockteng, R.: Structural and functional loss in restored wetland ecosystems, PLoS Biol., 10, e1001247, 10.1371/journal.pbio.1001247, 2012.",
+              "DOI": "10.1371/journal.pbio.1001247"
+            },
+            {
+              "key": "ref45",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Murray, N. J., Worthington, T. A., Bunting, P., Duce, S., Hagger, V., Lovelock, C. E., Lucas, R., Saunders, M. I., Sheaves, M., Spalding, M., Villoslada, M., and Waltham, N. J.: High-resolution mapping of losses and gains of Earth's tidal wetlands, Science, 376, 744–749, 2022.",
+              "DOI": "10.1126/science.abm9583"
+            },
+            {
+              "key": "ref46",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Nikaein, T., Iannini, L., Molijn, R. A., and Lopez-Dekker, P.: On the value of Sentinel-1 InSAR coherence time-series for vegetation classification, Remote Sens.-Basel, 13, 3300, 10.3390/rs13163300, 2021.",
+              "DOI": "10.3390/rs13163300"
+            },
+            {
+              "key": "ref47",
+              "doi-asserted-by": "publisher",
+              "unstructured": "O'Connell, J. L., Mishra, D. R., Cotten, D. L., Wang, L., and Alber, M.: The Tidal Marsh Inundation Index (TMII): an inundation filter to flag flooded pixels and improve MODIS tidal marsh vegetation time-series analysis, Remote Sens. Environ., 201, 34–46, 10.1016/j.rse.2017.08.008, 2017.",
+              "DOI": "10.1016/j.rse.2017.08.008"
+            },
+            {
+              "key": "ref48",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Potin, P., Rosich, B., Grimont, P., Miranda, N., Shurmer, I., O'Connell, A., Torres, R., and Krassenburg, M.: Sentinel-1 mission status, in: International Geoscience and Remote Sensing Symposium (IGARSS), IEEE, 10.1109/IGARSS.2015.7326401, 2820–2823, 2015.",
+              "DOI": "10.1109/IGARSS.2015.7326401"
+            },
+            {
+              "key": "ref49",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Rajngewerc, M., Grimson, R., Bali, L., Minotti, P., and Kandus, P.: Cover classifications in wetlands using Sentinel-1 data (Band C): a case study in the Parana river delta, Argentina, Revista de Teledetección, 29–46, 10.4995/raet.2022.16915, 2022.",
+              "DOI": "10.4995/raet.2022.16915"
+            },
+            {
+              "key": "ref50",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Schuerch, M., Spencer, T., Temmerman, S., Kirwan, M. L., Wolff, C., Lincke, D., McOwen, C. J., Pickering, M. D., Reef, R., Vafeidis, A. T., Hinkel, J., Nicholls, R. J., and Brown, S.: Future response of global coastal wetlands to sea-level rise, Nature, 561, 231–234, 10.1038/s41586-018-0476-5, 2018.",
+              "DOI": "10.1038/s41586-018-0476-5"
+            },
+            {
+              "key": "ref51",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Simioni, J. P. D., Guasselli, L. A., Nascimento, V. F., Ruiz, L. F. C., and Belloli, T. F.: Integration of multi-sensor analysis and decision tree for evaluation of dual and quad-Pol SAR in L-and C-bands applied for marsh delineation, Environ. Dev. Sustain, 22, 5603–5620, 10.1007/s10668-019-00442-0, 2020.",
+              "DOI": "10.1007/s10668-019-00442-0"
+            },
+            {
+              "key": "ref52",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Slagter, B., Tsendbazar, N.-E., Vollrath, A., and Reiche, J.: Mapping wetland characteristics using temporally dense Sentinel-1 and Sentinel-2 data: a case study in the St. Lucia wetlands, South Africa, Int. J. Appl. Earth Obs., 86, 102009, 10.1016/j.jag.2019.102009, 2020.",
+              "DOI": "10.1016/j.jag.2019.102009"
+            },
+            {
+              "key": "ref53",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Song, Z. and Zhong, B.: A lightweight local-global attention network for single image super-resolution, in: Proceedings of the Asian conference on computer vision, 10.1007/978-3-031-26351-4_37, 4395–4410, 2022.",
+              "DOI": "10.1007/978-3-031-26351-4_37"
+            },
+            {
+              "key": "ref54",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Sun, B., Zhang, D., and Lai, Z.: Coastal salt marsh vegetation classification using hybrid convolutional neural networks and spectral index time series images, Ecol. Indic., 178, 113996, 10.1016/j.ecolind.2025.113996, 2025.",
+              "DOI": "10.1016/j.ecolind.2025.113996"
+            },
+            {
+              "key": "ref55",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Sun, C., Li, J., Liu, Y., Liu, Y., and Liu, R.: Plant species classification in salt marshes using phenological parameters derived from Sentinel-2 pixel-differential time-series, Remote Sens. Environ., 256, 112320, 10.1016/j.rse.2021.112320, 2021.",
+              "DOI": "10.1016/j.rse.2021.112320"
+            },
+            {
+              "key": "ref56",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Sun, C., Li, J., Liu, Y., Zhao, S., Zheng, J., and Zhang, S.: Tracking annual changes in the distribution and composition of saltmarsh vegetation on the Jiangsu coast of China using Landsat time series–based phenological parameters, Remote Sens. Environ., 284, 113370, 10.1016/j.rse.2022.113370, 2023.",
+              "DOI": "10.1016/j.rse.2022.113370"
+            },
+            {
+              "key": "ref57",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Sun, L.: Survey Dataset of Wetland Plants in Coastal Areas of China (2013–2017), Science Data Bank [data set], 10.57760/sciencedb.IGA.00342, 2023.",
+              "DOI": "10.57760/sciencedb.IGA.00342",
+              "type": "dataset"
+            },
+            {
+              "key": "ref58",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Sun, Z., Sun, W., Tong, C., Zeng, C., Yu, X., and Mou, X.: China's coastal wetlands: conservation history, implementation efforts, existing issues and strategies for future improvement, Environ. Int., 79, 25–41, 10.1016/j.envint.2015.02.017, 2015.",
+              "DOI": "10.1016/j.envint.2015.02.017"
+            },
+            {
+              "key": "ref59",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Takeuchi, W., Tamura, M., and Yasuoka, Y.: Estimation of methane emission from West Siberian wetland by scaling technique between NOAA AVHRR and SPOT HRV, Remote Sens. Environ., 85, 21–29, 10.1016/S0034-4257(02)00183-9, 2003.",
+              "DOI": "10.1016/S0034-4257(02)00183-9"
+            },
+            {
+              "key": "ref60",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Tian, J., Wang, L., Yin, D., Li, X., Diao, C., Gong, H., Shi, C., Menenti, M., Ge, Y., Nie, S., Hou, Z., and Wang, S.: Development of spectral-phenological features for deep learning to understand Spartina alterniflora invasion, Remote Sens. Environ., 242, 111745, 10.1016/j.rse.2020.111745, 2020.",
+              "DOI": "10.1016/j.rse.2020.111745"
+            },
+            {
+              "key": "ref61",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Van Beijma, S., Comber, A., and Lamb, A.: Random forest classification of salt marsh vegetation habitats using quad-polarimetric airborne SAR, elevation and optical RS data, Remote Sens. Environ., 149, 118–129, 10.1016/j.rse.2014.04.010, 2014.",
+              "DOI": "10.1016/j.rse.2014.04.010"
+            },
+            {
+              "key": "ref62",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Veloso, A., Mermoz, S., Bouvet, A., Le Toan, T., Planells, M., Dejoux, J.-F., and Ceschia, E.: Understanding the temporal behavior of crops using Sentinel-1 and Sentinel-2-like data for agricultural applications, Remote Sens. Environ., 199, 415–426, 10.1016/j.rse.2017.07.015, 2017.",
+              "DOI": "10.1016/j.rse.2017.07.015"
+            },
+            {
+              "key": "ref63",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Vreugdenhil, M., Wagner, W., Bauer-Marschallinger, B., Pfeil, I., Teubner, I., Rüdiger, C., and Strauss, P.: Sensitivity of Sentinel-1 backscatter to vegetation dynamics: an Austrian case study, Remote Sens.-Basel, 10, 1396, 10.3390/rs10091396, 2018.",
+              "DOI": "10.3390/rs10091396"
+            },
+            {
+              "key": "ref64",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Wang, X., Xiao, X., Xu, X., Zou, Z., Chen, B., Qin, Y., Zhang, X., Dong, J., Liu, D., Pan, L., and Li, B.: Rebound in China's coastal wetlands following conservation and restoration, Nature Sustainability, 4, 1076–1083, 10.1038/s41893-021-00793-5, 2021.",
+              "DOI": "10.1038/s41893-021-00793-5"
+            },
+            {
+              "key": "ref65",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Wang, Y., Jin, S., and Dardanelli, G.: Vegetation classification and evaluation of yancheng coastal wetlands based on random forest algorithm from sentinel-2 images, Remote Sens.-Basel, 16, 1124, 10.3390/rs16071124, 2024.",
+              "DOI": "10.3390/rs16071124"
+            },
+            {
+              "key": "ref66",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Webb, E. L., Friess, D. A., Krauss, K. W., Cahoon, D. R., Guntenspergen, G. R., and Phelps, J.: A global standard for monitoring coastal wetland vulnerability to accelerated sea-level rise, Nat. Clim. Change, 3, 458–465, 10.1038/nclimate1756, 2013.",
+              "DOI": "10.1038/nclimate1756"
+            },
+            {
+              "key": "ref67",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Wei, S., Zhang, H., Xu, Z., Lin, G., Lin, Y., Liang, X., Ling, J., Wee, A. K. S., Lin, H., Zhou, Y., Sun, B., and He, Z.: Coastal urbanization may indirectly positively impact growth of mangrove forests, Communications Earth and Environment, 5, 608, 10.1038/s43247-024-01776-y, 2024.",
+              "DOI": "10.1038/s43247-024-01776-y"
+            },
+            {
+              "key": "ref68",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Wu, Y., Dai, L., Wang, Y., Xie, L., Zhao, S., Liu, Y., Zhang, M., and Zhang, Z.: Coexistence mechanisms of Tamarix chinensis and Suaeda salsa in the Yellow River Delta, China, Environ. Sci. Pollut. R., 27, 26172–26181, 10.1007/s11356-020-08883-1, 2020.",
+              "DOI": "10.1007/s11356-020-08883-1"
+            },
+            {
+              "key": "ref69",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Xu, R., Fan, Y., Fan, B., Feng, G., and Li, R.: Classification and monitoring of salt marsh vegetation in the Yellow River Delta based on multi-source remote sensing data fusion, Sensors, 25, 529, 10.3390/s25020529, 2025.",
+              "DOI": "10.3390/s25020529"
+            },
+            {
+              "key": "ref70",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Yang, R.-M. and Guo, W.-W.: Using Sentinel-1 imagery for soil salinity prediction under the condition of coastal restoration, IEEE J. Sel. Top. Appl., 12, 1482–1488, 10.1109/JSTARS.2019.2906064, 2019.",
+              "DOI": "10.1109/JSTARS.2019.2906064"
+            },
+            {
+              "key": "ref71",
+              "doi-asserted-by": "publisher",
+              "unstructured": "You, S., Loh, P., Li, Z., Qin, H., Pradit, S., Le, T. P. Q., Oeurng, C., Mohamed, C. A. R., Lee, C. W., Lu, X., and Wang, S.: Geochemical behavior of sedimentary phosphorus species in northernmost artificial mangroves in China, Forests, 13, 610, 10.3390/f13040610, 2022.",
+              "DOI": "10.3390/f13040610"
+            },
+            {
+              "key": "ref72",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zeng, J., Sun, Y., Cao, P., and Wang, H.: A phenology-based vegetation index classification (PVC) algorithm for coastal salt marshes using Landsat 8 images, Int. J. Appl. Earth Obs., 110, 102776, 10.1016/j.jag.2022.102776, 2022.",
+              "DOI": "10.1016/j.jag.2022.102776"
+            },
+            {
+              "key": "ref73",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, A., Sun, G., Ma, P., Jia, X., Ren, J., Huang, H., and Zhang, X.: Coastal wetland mapping with Sentinel-2 MSI imagery based on gravitational optimized multilayer perceptron and morphological attribute profiles, Remote Sens.-Basel, 11, 952, 10.3390/rs11080952, 2019.",
+              "DOI": "10.3390/rs11080952"
+            },
+            {
+              "key": "ref74",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, C., Gong, Z., Qiu, H., Zhang, Y., and Zhou, D.: Mapping typical salt-marsh species in the Yellow River Delta wetland supported by temporal-spatial-spectral multidimensional features, Sci. Total Environ., 783, 147061, 10.1016/j.scitotenv.2021.147061, 2021.",
+              "DOI": "10.1016/j.scitotenv.2021.147061"
+            },
+            {
+              "key": "ref75",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, B., Wdowinski, S., Gann, D., Hong, S.-H., and Sah, J.: Spatiotemporal variations of wetland backscatter: the role of water depth and vegetation characteristics in Sentinel-1 dual-polarization SAR observations, Remote Sens. Environ., 270, 112864, 10.1016/j.rse.2021.112864, 2022a.",
+              "DOI": "10.1016/j.rse.2021.112864"
+            },
+            {
+              "key": "ref76",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, J., Chen, S., Wu, Z., and Fu, Y. H.: Review of vegetation phenology trends in China in a changing climate, Progress in Physical Geography: Earth and Environment, 46, 829–845, 10.1177/03091333221114737, 2022.",
+              "DOI": "10.1177/03091333221114737"
+            },
+            {
+              "key": "ref77",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, J., Zhang, Y., Cong, N., Tian, L., Zhao, G., Zheng, Z., Gao, J., Zhu, Y., and Zhang, Y.: Coarse spatial resolution remote sensing data with AVHRR and MODIS miss the greening area compared with the Landsat data in Chinese drylands, Front. Plant Sci., 14, 1129665, 10.3389/fpls.2023.1129665, 2023a.",
+              "DOI": "10.3389/fpls.2023.1129665"
+            },
+            {
+              "key": "ref78",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, X., Liu, L., Zhao, T., Chen, X., Lin, S., Wang, J., Mi, J., and Liu, W.: GWL_FCS30: a global 30 m wetland map with a fine classification system using multi-sourced and time-series remote sensing imagery in 2020, Earth Syst. Sci. Data, 15, 265–293, 10.5194/essd-15-265-2023, 2023b.",
+              "DOI": "10.5194/essd-15-265-2023"
+            },
+            {
+              "key": "ref79",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhang, X., Zhao, T., Xu, H., Liu, W., Wang, J., Chen, X., and Liu, L.: GLC_FCS30D: the first global 30 m land-cover dynamics monitoring product with a fine classification system for the period from 1985 to 2022 generated using dense-time-series Landsat imagery and the continuous change-detection method, Earth Syst. Sci. Data, 16, 1353–1381, 10.5194/essd-16-1353-2024, 2024.",
+              "DOI": "10.5194/essd-16-1353-2024"
+            },
+            {
+              "key": "ref80",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhao, C., Jia, M., Wang, Z., Mao, D., and Wang, Y.: Toward a better understanding of coastal salt marsh mapping: a case from China using dual-temporal images, Remote Sens. Environ., 295, 113664, 10.1016/j.rse.2023.113664, 2023.",
+              "DOI": "10.1016/j.rse.2023.113664"
+            },
+            {
+              "key": "ref81",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zhao, X., Nishina, K., Izumisawa, H., Masutomi, Y., Osako, S., and Yamamoto, S.: Monsoon Asia Rice Calendar (MARC): a gridded rice calendar in monsoon Asia based on Sentinel-1 and Sentinel-2 images, Earth Syst. Sci. Data, 16, 3893–3911, 10.5194/essd-16-3893-2024, 2024.",
+              "DOI": "10.5194/essd-16-3893-2024"
+            },
+            {
+              "key": "ref82",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Zheng, J., Sun, C., Zhao, S., Hu, M., Zhang, S., and Li, J.: Classification of salt marsh vegetation in the Yangtze River Delta of China using the pixel-level time-series and XGBoost algorithm, Journal of Remote Sensing, 3, 0036, 10.1080/20964471.2025.2554043, 2023.",
+              "DOI": "10.1080/20964471.2025.2554043"
+            },
+            {
+              "key": "ref83",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zhou, D., Ni, Y., Yu, X., Lin, K., Du, N., Liu, L., Guo, X., and Guo, W.: Trait-based adaptability of Phragmites australis to the effects of soil water and salinity in the Yellow River Delta, Ecol. Evol., 11, 11352–11361, 2021.",
+              "DOI": "10.1002/ece3.7925"
+            }
+          ],
+          "container-title": [
+            "Earth System Science Data"
+          ],
+          "language": "en",
+          "link": [
+            {
+              "URL": "https://essd.copernicus.org/articles/18/2907/2026/essd-18-2907-2026.pdf",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                12
+              ]
+            ],
+            "date-time": "2026-09-12T11:14:17Z",
+            "timestamp": 1789211657000
+          },
+          "score": 28.807667,
+          "resource": {
+            "primary": {
+              "URL": "https://essd.copernicus.org/articles/18/2907/2026/"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                27
+              ]
+            ]
+          },
+          "references-count": 83,
+          "journal-issue": {
+            "issue": "4",
+            "published-online": {
+              "date-parts": [
+                [
+                  2026
+                ]
+              ]
+            }
+          },
+          "URL": "https://doi.org/10.5194/essd-18-2907-2026",
+          "relation": {
+            "has-preprint": [
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741",
+                "asserted-by": "subject"
+              }
+            ],
+            "has-review": [
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC1",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC2",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC3",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC4",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-AC1",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC5",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-AC2",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC1",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC2",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-AC2",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-AC1",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC5",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC3",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC4",
+                "asserted-by": "object"
+              }
+            ],
+            "is-part-of": [
+              {
+                "id-type": "doi",
+                "id": "10.57760/sciencedb.31077",
+                "asserted-by": "subject"
+              }
+            ]
+          },
+          "ISSN": [
+            "1866-3516"
+          ],
+          "issn-type": [
+            {
+              "value": "1866-3516",
+              "type": "electronic"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                27
+              ]
+            ]
+          }
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                12
+              ]
+            ],
+            "date-time": "2026-09-12T23:24:11Z",
+            "timestamp": 1789255451490,
+            "version": "build-2803163510"
+          },
+          "posted": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                4
+              ]
+            ]
+          },
+          "group-title": "ESSD – Biosphere/Terrestrial biodiversity",
+          "reference-count": 0,
+          "publisher": "Copernicus GmbH",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2026,
+                    1,
+                    4
+                  ]
+                ],
+                "date-time": "2026-01-04T00:00:00Z",
+                "timestamp": 1767484800000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://creativecommons.org/licenses/by/4.0/"
+            }
+          ],
+          "funder": [
+            {
+              "DOI": "10.13039/501100001809",
+              "name": "National Natural Science Foundation of China",
+              "doi-asserted-by": "publisher",
+              "award": [
+                "NW2412140"
+              ],
+              "award-info": [
+                {
+                  "award-number": [
+                    "NW2412140"
+                  ]
+                }
+              ],
+              "id": [
+                {
+                  "id": "10.13039/501100001809",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ]
+            },
+            {
+              "DOI": "10.13039/501100001809",
+              "name": "National Natural Science Foundation of China",
+              "doi-asserted-by": "publisher",
+              "award": [
+                "42230505"
+              ],
+              "award-info": [
+                {
+                  "award-number": [
+                    "42230505"
+                  ]
+                }
+              ],
+              "id": [
+                {
+                  "id": "10.13039/501100001809",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ]
+            }
+          ],
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "abstract": "<jats:p>Abstract. Coastal wetland vegetation plays a vital role in shoreline protection and ecosystem management, highlighting the need for accurate and high-resolution mapping of these unique and vulnerable habitats. Here, we present CCAV-10m, the first publicly available annual species-level coastal wetland dataset for China at 10 m resolution (2016–2023). This dataset was generated using a novel phenology-guided coastal wetland vegetation classification network (P_SVCN), which integrates Sentinel-1/2 satellite imagery with extensive in situ observations. Validation based on 4,668 in situ samples confirms that P_SVCN delivers strong classification performance, achieving an overall accuracy of 0.916 and a Kappa coefficient of 0.898. Spatiotemporal analysis of CCAV-10m reveals that Suaeda spp. is the dominant vegetation type, followed by S. alterniflora, whose coverage nearly equals the combined extent of P. australis, mangroves, S. mariqueter, and T. chinensis. Notably, this work fills critical gaps in both spatial detail and temporal consistency across existing coastal wetland datasets, demonstrating the effectiveness of deep-learning-based fusion of optical and SAR data for high-resolution vegetation mapping. Regular updates to CCAV-10m will support long-term coastal wetland research, enhance invasive species monitoring, and inform wetland restoration and precision management efforts. The CCAV-10m dataset is openly accessible at https://doi.org/10.57760/sciencedb.31077 (Li et al.,2025).</jats:p>",
+          "DOI": "10.5194/essd-2025-741",
+          "type": "posted-content",
+          "created": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                4
+              ]
+            ],
+            "date-time": "2026-01-04T18:16:21Z",
+            "timestamp": 1767550581000
+          },
+          "source": "Crossref",
+          "is-referenced-by-count": 0,
+          "title": [
+            "CCAV-10m: An Annual Spatiotemporal China's Coastal Wetland Vegetation Dataset Integrating Sentinel-1/2 Observations via Deep Learning"
+          ],
+          "prefix": "10.5194",
+          "author": [
+            {
+              "given": "Yuying",
+              "family": "Li",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-2163-4550",
+              "authenticated-orcid": false,
+              "given": "Lina",
+              "family": "Yuan",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0009-0001-5925-9936",
+              "authenticated-orcid": false,
+              "given": "Ting",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Zijiang",
+              "family": "Song",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Shuang",
+              "family": "Yang",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Zilong",
+              "family": "Zhu",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Min",
+              "family": "Liu",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "3145",
+          "deposited": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                27
+              ]
+            ],
+            "date-time": "2026-04-27T06:11:12Z",
+            "timestamp": 1777270272000
+          },
+          "score": 33.16664,
+          "resource": {
+            "primary": {
+              "URL": "https://essd.copernicus.org/articles/18/2907/2026/essd-18-2907-2026-discussion.html"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                4
+              ]
+            ]
+          },
+          "references-count": 0,
+          "URL": "https://doi.org/10.5194/essd-2025-741",
+          "relation": {
+            "has-comment": [
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-AC1",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-AC2",
+                "asserted-by": "subject"
+              }
+            ],
+            "has-review": [
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC1",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC2",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC3",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC4",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-2025-741-RC5",
+                "asserted-by": "subject"
+              }
+            ],
+            "is-part-of": [
+              {
+                "id-type": "doi",
+                "id": "10.57760/sciencedb.31077",
+                "asserted-by": "subject"
+              }
+            ],
+            "is-preprint-of": [
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-18-2907-2026",
+                "asserted-by": "subject"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.5194/essd-18-2907-2026",
+                "asserted-by": "object"
+              }
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                4
+              ]
+            ]
+          },
+          "subtype": "preprint"
+        },
+        {
+          "institution": [
+            {
+              "name": "Global Change Research Data Publishing and Repository",
+              "acronym": [
+                "GCdataPR"
+              ]
+            }
+          ],
+          "indexed": {
+            "date-parts": [
+              [
+                2022,
+                3,
+                30
+              ]
+            ],
+            "date-time": "2022-03-30T23:35:01Z",
+            "timestamp": 1648683301698
+          },
+          "reference-count": 0,
+          "publisher": "Editorial Office of Journal of Global Change Data and Discovery",
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "DOI": "10.3974/geodb.2016.04.09.v1",
+          "type": "dataset",
+          "created": {
+            "date-parts": [
+              [
+                2020,
+                5,
+                8
+              ]
+            ],
+            "date-time": "2020-05-08T02:06:56Z",
+            "timestamp": 1588903616000
+          },
+          "source": "Crossref",
+          "is-referenced-by-count": 0,
+          "title": [
+            "Vegetation Cover Dataset in Mid-Eastern China (2013)"
+          ],
+          "prefix": "10.3974",
+          "author": [
+            {
+              "given": "Bingwen",
+              "family": "QIU",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "member": "23890",
+          "container-title": [
+            "GCdataPR"
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2020,
+                5,
+                8
+              ]
+            ],
+            "date-time": "2020-05-08T02:08:25Z",
+            "timestamp": 1588903705000
+          },
+          "score": 25.018877,
+          "resource": {
+            "primary": {
+              "URL": "http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2016.04.09.V1"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                null
+              ]
+            ]
+          },
+          "references-count": 0,
+          "URL": "https://doi.org/10.3974/geodb.2016.04.09.v1"
+        },
+        {
+          "institution": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/00wh4bp03",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Montpellier 2"
+            }
+          ],
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T16:01:17Z",
+            "timestamp": 1790870477382,
+            "version": "4.1.0"
+          },
+          "reference-count": 230,
+          "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "abstract": "<jats:title>Végétation, climat et changement du niveau marin durant le quaternaire récent dans la province de Fuzhuo, sud-est de la Chine</jats:title>\n                <jats:p xml:lang=\"fr\">Une série de sondages continentaux (FZ4, FZ5, et SZY) ont été collectés dans la plaine de Fuzhou et dans la montagne de Ningde. Les trois enregistrements ont permis de reconstituer et ainsi de comprendre l'évolution de la végétation ainsi que d'évaluer l'impact de la mousson est-asiatique et les changements du niveau marin sur les environnements du quaternaire récent. Ma thèse donne un aperçu de la végétation passée et des changements paléoclimatiques au cours des 50000 dernières années. Pour les derniers millénaires je me suis aussi intéressé aux activités humaines préhistoriques et leur relation avec les changements de l'environnement local durant l'Holocène. Dans cette thèse, j'ai utilisé une approche multidisciplinaire incluant principalement la palynologie, la sédimentologie, le paléomagnétisme et la micropaléontologie pour reconstituer les environnements passés.L'enregistrement palynologique SZY issu d'une tourbière subalpine couvre les 50000 dernières années en continu. Les diversité de la flore et des changements forestiers au cours des 50 dernières millénaires permettent de reconstituer l'évolution de la mousson régionale dans le sud-est de la Chine. Les changements climatiques estimés par un indice de mousson saisonnier, la température et les précipitations mensuelles ont été quantitativement reconstruits.Les assemblages polliniques pendant la période entre ca. 50 et 30,4 ka cal BP, correspondant au stade isotopique marin (MIS) 3, sont caractérisés par une forte abondance de pollen arboricole, principalement subtropicaux Quercus, Castanopsis/Lithocarpus avec des taxons tempérés de montagne à feuillage caduque tels que Fagus et Alnus et accompagné de quelques conifères mésiques de montagne telles que les Taxodiaceae et Tsuga. Une telle composition de l'écosystème suggère que le MIS 3 était plutôt humide avec une forte mousson d'été. L'insolation d'été élevée peut avoir entraîné une intensification de la mousson au cours de cette période et a donc contribué au maintien d'un tel écosystème subtropical. Une expansion progressive des taxons arborés feuillus, qui a remplacé les taxons subtropicaux à feuillage persistant pendant la période du dernier maximum glaciaire (LGM) (de ca. 30,4 à 11,8 environ cal ka BP), indique que le climat est devenu beaucoup plus frais que lors du MIS 3. Cet intervalle froid se produit entre ca. 21 et 17 cal ka BP lorsque la savane arbustive a augmenté et la forêt de feuillus a diminué rapidement. Cet événement est également marqué par la concentration de pollen qui montre des valeurs faibles au cours du dernier maximum glaciaire. Ceci est probablement lié à un paysage ouvert ou semi-ouvert sous un climat plus sec et plus froid que durant le MIS 3. En comparaison avec les études des isotopes de l'oxygène (δ18O/δ16O) issues de spéléothèmes et ses carottes de glace du Groenland, plusieurs événements climatiques rapides pourraient être reconnues tels que le Dryas récent et l'interstade Bølling-Allerød qui ont marqué la fin de la dernière période glaciaire. Au cours de l'Holocène, la forêt sempervirente est restaurée rapidement. Le groupe arboré à feuillage persistant est devenu plus élevé que celui à feuilles caduques à environ 8000 cal BP. Ceci reflète un renforcement de la mousson d'été. Deux événements rapides semble être enregistré à ca. 8,2 cal ka BP et 5 cal ka BP, probablement causé par des événements de refroidissement au cours de l'Holocène. Dans le tronçon inférieur de la rivière Min, l'étude interdisciplinaire de deux enregistrements révèlent que l'environnement sédimentaire dans la plaine de Fuzhou a connu des cycles de sédimentation à plusieurs reprises au cours de l'Holocène. La première transgression marine dans a eu lieu aux alentours de ca. 9000 cal yr BP, et a atteint son plus haut niveau entre ca. 7000 et 4000 cal yr BP. La granulométrie et l'analyse des diatomées ainsi que les datations 14C AMS permettent de décrire la transgression marine et</jats:p>",
+          "DOI": "10.70675/c71d86e2zb6afz415dzb8fcz205fa2c296a6",
+          "type": "dissertation",
+          "created": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                31
+              ]
+            ],
+            "date-time": "2026-03-31T02:45:33Z",
+            "timestamp": 1774925133000
+          },
+          "approved": {
+            "date-parts": [
+              [
+                2012,
+                6,
+                7
+              ]
+            ]
+          },
+          "source": "Crossref",
+          "is-referenced-by-count": 0,
+          "title": [
+            "Late Quaternary vegetation, climate and sea-level changes in coastal Fujian Province, southeastern China"
+          ],
+          "prefix": "10.70675",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0002-5248-0056",
+              "authenticated-orcid": false,
+              "given": "Yuanfu",
+              "family": "Yue",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "id": [
+                    {
+                      "id": "https://ror.org/00wh4bp03",
+                      "id-type": "ROR",
+                      "asserted-by": "publisher"
+                    }
+                  ],
+                  "name": "Montpellier 2"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "51494",
+          "reference": [
+            {
+              "key": "33988_205_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wang Y.J., Cheng H., Edwards R.L., An Z.S., Wu J.Y., Shen C.C., Dorale J.A., A high-resolution absolute-dated late Plaeistocene monsoon from Hulu Cave, China, in: Science, vol. 294, p. 2345-2348, 2001",
+              "DOI": "10.1126/science.1064618",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_202_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Dykoski C. A., Edwards R.L., Cheng H., Yuan D.X., Cai Y.J., Zhang M.L., Lin Y.S., Qing J.M., An Z.S., Justin Revenaugh J., A high-resolution, absolute-dated Holocene and deglacial Asian monsoon record from Dongge Cave, China, in: Earth Planet Science Letters, vol. 233, p. 71-86, 2005",
+              "DOI": "10.1016/j.epsl.2005.01.036",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_202_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Birks H.J.B., Line J.M., The use of rarefaction analysis for estimating palynological richness from Quaternary pollen-analytical data, in: The Holocene, vol. 2, p. 1-10, 1992",
+              "DOI": "10.1177/095968369200200101",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_205_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Weng C., Hooghiemstra H., Duivenvoorden J.F., Challenges in estimating past plant diversity from fossil pollen data: statistical assessment, problems, and possible solutions, in: Diversity and Distributions, vol. 12, p. 310-18, 2006",
+              "DOI": "10.1111/j.1366-9516.2006.00230.x",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_207_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y.Q., Mod-Holocene sea-level highstand along the Southeast Coast of China, in: Quaternary International, vol. 117, p. 55-67, 2004",
+              "DOI": "10.1016/S1040-6182(03)00116-2",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_39",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zhang C., Hung H., The Neolithic of Southern China origin, development, and dispersal, in: Asian Perspectives, vol. 47, p. 299-329, 2008",
+              "DOI": "10.1353/asi.0.0004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_204_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Shao X.H., Wang Y.J., Cheng H., Kong X.G., Wu J.Y., Long-term trend and abrupt events of the Holocene Asian monsoon inferred from a stalagmite 8180 record from Shennongjia in Central China, in: Chinese Science Bulletin, vol. 51, p. 80-85, 2006",
+              "DOI": "10.1007/s11434-005-0882-6",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_207_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zheng Z., Yuan B.Y., Nicole P.M., Paleoenvironments in China during the last Glacial Maximum and the Holocene Optimum, in: Episodes, vol. 21, p. 152-158, 1998",
+              "DOI": "10.18814/epiiugs/1998/v21i3/003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_37",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wilson G.P., Lamb A.L., Leng M.J., Gonzalez S., Huddart D., Variability of organic 13C and C/N in the Mersey Estuary, U.K. and its implications for sea-level reconstruction studies, in: Estuarine, Coastal and Shelf Science, vol. 64, p. 685-698, 2005",
+              "DOI": "10.1016/j.ecss.2005.04.003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_43",
+              "unstructured": "Zhu Y., Fluvial processes during the development of the Minjiang estuary, in: Taiwan Strait, vol. 4, n° 2, p. 161-170, 1985",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_204_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Ma C.M., Zhu C., Zheng C.G., Wu C.L., Guan Y., Zhao Z.P., Huang L.Y., Huang R., High-resolution geochemistry records of climate changes since late-glacial from Dajiuhu peat in Shennongjia Mountains, Central China, in: Chinese Science Bulletin, vol. 53, p. 28-41, 2008",
+              "DOI": "10.1007/s11434-008-5007-6",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_0",
+              "unstructured": "Wu Z.Y., Vegetation of China, p. 825, Science Press, Beijing, 1980",
+              "type": "book"
+            },
+            {
+              "key": "33988_207_5",
+              "unstructured": "Zhu C., Ma C.M., Zhang W.Q., Zheng C.G., Tang L.Y., Lu X.F., Liu K.X., Chen H.Z., Pollen record from Dajiuhu Basin of Shennongjia and environmental changes since 15.753 ka BP, in: Quaternary Sciences, vol. 26, p. 814-826, 2006",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_203_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Liew P.M., Huang S.Y., Kuo C.M., Pollen stratigraphy, vegetation and environment of the last glacial and Holocene-A record from Toushe Basin, cenctral Taiwan, in: Quaternary International, vol. 147, p. 13-33, 2006",
+              "DOI": "10.1016/j.quaint.2005.09.003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_207_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zhou W.J., Yu X.F., Jull A.J.T., Burr G., Xiao J.Y., Lu X.F., Xian F., High-resolution evidence from southern China of an early Holocene optimum and a mid-Holocene dry event during the past 18,000 years, in: Quaternary Research, vol. 62, p. 39-48, 2004",
+              "DOI": "10.1016/j.yqres.2004.05.004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_20",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lamb A .L., Wilson G.P., Leng M.J., A review of coastal palaeoclimate and relative sea-level reconstructions using 13 C and C/N ratios in organic material, in: Earth-Science Reviews, vol. 75, p. 29-57, 2006",
+              "DOI": "10.1016/j.earscirev.2005.10.003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_45",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y., Lloyd J.M., Leng M.J., Yim W.W.-S., Huang G., Reconstruction of Holocene monsoon history from the Pearl River Estuary, southern China, using diatoms and carbon isotope ratios, in: The Holocene, vol. 16, n° 2, p. 251-263, 2006",
+              "DOI": "10.1191/0959683606hl911rp",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_205_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wang Y., Cheng H., Edwards R.L., He Y., Kong X., An Z., Wu J., Kelly M.J., Dykoski C.A., Li X., The Holocene Asian monsoon: Links to solar changes and North Atlantic climate, in: Science, vol. 308, p. 854-857, 2005",
+              "DOI": "10.1126/science.1106296",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_202_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Blaauw M., Methods and code for 'classical' age-modelling of radiocarbon sequences, in: Quaternary eochronology, vol. 5, p. 512-518, 2010",
+              "DOI": "10.1016/j.quageo.2010.01.002",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_204_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Nakagawa T., Brugiapaglia E., Digerfeldt G., Reille M., de Beaulieu J.L., Yasuda Y., Dense-media separation as a more efficient pollen extraction method for use with organic sediment samples: comparison with the conventional method, in: Boreas, vol. 25, p. 15-24, 1998",
+              "DOI": "10.1111/j.1502-3885.1998.tb00864.x",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_26",
+              "unstructured": "Lu M., Fujian Geographical Atlas, Fujian Atlas Publishing Company, Fuzhou, 2004",
+              "type": "book"
+            },
+            {
+              "key": "33988_207_0",
+              "unstructured": "Zheng Z., Late Quaternary vegetational and climatic changes in the tropical and subtropical areas of China, in: Acta Micropalaeontologica Sinica, vol. 17, p. 125-146, 2000",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_207_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zheng Z., Lei Z.Q., A 400,000 year record of vegetational and climatic changes from a volcanic basin, Leizhou Peninsula, southern China, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 145, p. 339-362, 1999",
+              "DOI": "10.1016/S0031-0182(98)00107-2",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_27",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Middelburg J.J., Nieuwenhuize J., Carbon and nitrogen stable isotopes in suspended matter and sediments from the Schelde Estuary, in: Marine Chemistry, vol. 60, p. 217-225, 1998",
+              "DOI": "10.1016/S0304-4203(97)00104-7",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yuan D.X., Cheng H., Edwards R.L., Dykoski C.A., Kelly M.J., Zhang M.L., Qing J.M., Lin Y.S., Wang Y.J., Wu J.Y., Dorale J.A., An Z.S., Cai Y.J., Timing, duration, and transitions of the Last Interglacial Asian Monsoon, in: Science, vol. 304, p. 575-578, 2004",
+              "DOI": "10.1126/science.1091220",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_203_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Li J., Zheng Z., Huang K.Y., Yang S.X., Chase B.M., Valsecchi V., Cheddadi R., Vegetation changes during the past 40,000 years in Central China from a long fossil record, in: Quaternary International, 2012, 10.1016/j.quaint.2012.01.009",
+              "DOI": "10.1016/j.quaint.2012.01.009",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yi S., Saito Y., Zhao Q., Wang P.X., Vegetation and climate changes in the Changjiang (Yangtze River) Delta, China, during the past 13,000 years inferred from pollen records, in: Quaternary Science Reviews, vol. 22, p. 1501-1519, 2009",
+              "DOI": "10.1016/S0277-3791(03)00080-5",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Xiao J.Y., Lü H.B., Zhou W.J., Zhao Z.J., Hao R.H., Evolution of vegetation and climate since the last glacial maximum recorded at Dahu peat site, South China, in: Science in China Series D: Earth Sciences, vol. 50, p. 1209-1217, 2008",
+              "DOI": "10.1007/s11430-007-0068-y",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_203_2",
+              "unstructured": "IBSCIBCAS (Institute of Bontany and South China Institute of Bontany, Academia Sinica), Angiosperm Pollen Flora of Tropic and Subtropic China, p. 1-453, Science Press, Beijing, 1982",
+              "type": "book"
+            },
+            {
+              "key": "33988_161_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Xu D.K., Lu H.Y., Wu N.Q., Liu Z.X., 30000-Year vegetation and climate change around the East China Sea shelf inferred from a high-resolution pollen record, in: Quaternary International, vol. 227, p. 53-60, 2010",
+              "DOI": "10.1016/j.quaint.2010.04.015",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wilson G.P., Lamb A.L., Leng M.J., Gonzalez S., Huddart D., 813C and C/N as potential coastal palaeoenvironmental indicators in the Mersey Estuary, UK, in: Quaternary Science Reviews, vol. 24, p. 2015-2029, 2005",
+              "DOI": "10.1016/j.quascirev.2004.11.014",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_8",
+              "unstructured": "Qiu H.L., A 4000-year pollen record of vegetation change from the subtropical montains of Fujian Province, China, in: Journal of Subtropic Resources and Environment, vol. 1, p. 11-23, 2006",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Svensson A., Andersen K.K., Bigler M., Clausen H.B., Dahl-Jensen D., Davies S.M., Johnsen S.J., Muscheler R., Rasmussen S.O., Röthlisberger R., Seierstad I., Steffensen J.P., Vinther B.M., A 60,000 year Greenland stratigraphic ice core chronology, 2007",
+              "DOI": "10.5194/cpd-3-1235-2007",
+              "type": "other"
+            },
+            {
+              "key": "33988_157_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Nederbragt A.J., Thurow J.W., A 6000 yr varve record of Holocene climate in Saanich Inlet, British Columbia, from digital sediment colour analysis of ODP Leg 169S cores, in: Marine Geology, vol. 174, p. 95-110, 2001",
+              "DOI": "10.1016/S0025-3227(00)00144-4",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_204_0",
+              "unstructured": "Liu J.L., Wang W.M., A discussion on the vegetation types during LGM time in South China, in: Quaternary Sciences, vol. 24, p. 213-216, 2004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_1",
+              "unstructured": "Ray N., Adams J. M., A GIS-based Vegetation Map of the World at the Last Glacial Maximum (25,000-15,000 BP), in: Internet Archaeology, vol. 11, p. 1-44, 2001",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Dong J.G., Wang Y.J., Cheng H., Hardt B., Edwards R.L., Kong X.G., Wu J.Y., Chen S.T., Liu D.B., Jiang X.Y., Zhao K., A high-resolution stalagmite record of the Holocene East Asian monsoon from Mt Shennongjia, central China, in: The Holocene, vol. 20, p. 257-264, 2010",
+              "DOI": "10.1177/0959683609350393",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Rasmussen S.O., Andersen K.K., Svensson A.M., Steffensen J.P., Vinther B.Μ., Clausen H.B., Siggaard-Andersen M.-L., Johnsen S.J., Larsen L.B., Dahl-Jensen D., Bigler M., Röthlisberger R., Fischer H., Goto-Azuma K., Hansson M.E., Ruth U., A new Greenland ice core chronology for the last glacial termination, in: Journ. Geophys. Res., vol. 111, 2006",
+              "DOI": "10.1029/2005JD006079",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sun X.J., Li X., A pollen record of the last 37 ka in deep sea core 17940 from the northern slope of the South China Sea, in: Marine Geology, vol. 156, p. 227-244, 1999",
+              "DOI": "10.1016/S0025-3227(98)00181-9",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_162_4",
+              "unstructured": "Yao Q.Y., Zhang H.N., Zhang J.W., Zhao X.T., A Preliminary study on the upper Pleistocene along the Coastal areas of the Southern Fujian Province, in: Seismologyand Geology, vol. 7, p. 32-39, 1985",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Folk R L, A review of grain-size parameters, in: Sedimentology, vol. 6, p. 73-93, 1966",
+              "DOI": "10.1111/j.1365-3091.1966.tb01572.x",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_8",
+              "unstructured": "Tao S.Y., Chen L.X., A review of recent research on the East Asia summer monsoon in China, in: Monsoon Meteorology, Chang C. P. (editeur scientifique), Krishnamurti T. N. (editeur scientifique), p. 60-92, Oxford University Press, 1987",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_159_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Vinther B.M., Clausen H.B., Johnsen S.J., Rasmussen S.O., Andersen K.Κ., Buchardt S.L., Dahl-Jensen D., Seierstad I.K., Siggaard-Andersen M.-L., Steffensen J.P., Svensson A.M., Olsen J., Heinemeier J., A synchronized dating of three Greenland ice cores throughout the Holocene, in: Journ. Geophys. Res., vol. 111, n° D13102, 2006",
+              "DOI": "10.1029/2005JD006921",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_40",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zhang P., Cheng H., Edwards R.L., Chen F., Wang Y., Yang X., Liu J., Tan M., Wang X., Liu J., An C., Dai Z., Zhou J., Zhang D., Jia J., Jin L., Johnson K.R., A test of climate, sun, and culture relationships from an 1810-year Chinese cave record, in: Science, vol. 322, p. 940-942, 2008",
+              "DOI": "10.1126/science.1163965",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_47",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y., Huang G., Switzer A.D., Yu F., Yim W.W.S., An evolutionary model for the Holocene formation of the Pearl River delta, China, in: The Holocene, vol. 19, p. 129-142, 2009",
+              "DOI": "10.1177/0959683608098957",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Bird M.I., Fifield L.K., Teh T.S., Chang C.H., Shirlaw N., Lambeck K., An inflection in the rate of early mid-Holocene eustatic sea-level rise: a new sea-level curve from Singapore, in: Estuarine, Coastal and Shelf Science, vol. 71, p. 523-536, 2007",
+              "DOI": "10.1016/j.ecss.2006.07.004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_3",
+              "unstructured": "Ren M., Yang R.Z., Bao H.S., An outline of the physical geography of China, Comercial Press, Beijing, 1979",
+              "type": "book"
+            },
+            {
+              "key": "33988_176_16",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Jiao T., Ancient environment and cultural changes in Southeast China during the Neolithic period, in: Antiquity, vol. 80, p. 615-621, 2006",
+              "DOI": "10.1017/S0003598X00094072",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_8",
+              "unstructured": "Chi G.Q., Animal bones from Tanshishan neolithic site, minhou, Fujian, in: Vertebrata Palasiatica, vol. 4, p. 301-306, 1977",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sandgren P., Snowball I., Application of mineral magnetic techniques to paleomnology, in: Tracking Environmental Changes in Lake Sediments: Physical and Chemical Techniques., Last W.M. (Editeurs), Smol J.P. (Editeurs), p. 217-237, Kluwer Academic Publishers, 2001",
+              "DOI": "10.1007/0-306-47670-3_8",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_163_4",
+              "unstructured": "Zhang P., Chen J.Q., Tian M.Z., Zhu J.F., Huang Z.L., Jiang C.L., Application of sediments grain-size analysis in Quternary environmental research and its stratum compartmentalization and contrast function in Xiamen island, Fujian Province, in: Journal of Earth Sciences and Environment, vol. 27, p. 88-94, 1994",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Chang K., Goodenough W., Archeology of southeastern China and its bearing on the austronesian homeland, in: Prehistoric Settlement of the Pacific, Goodenough W. (Ed.), p. 36-56, American Philosophical Society, Philadelphia, 1996",
+              "DOI": "10.70249/9798893981780-006",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_156_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lu H.Y., Liu X.D., Zhang F.Q., An Z.S., Dodson J., Astronomical calibration of loessepaleosol deposits at Luochuan, central Chinese Loess Plateau, in: Palaeogeogr, Palaeoclimatol, Palaeoecol, vol. 154, p. 237-246, 1999",
+              "DOI": "10.1016/S0031-0182(99)00113-3",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_149_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "An Z.S., Porter S.C., Kutzbach J.E., Wu X.B., Wang S.M., Liu X.D., Li X.Q., Zhou W.J., Asynchronous Holocene optimum of the East Asian monsoon, in: Quaternary Science Reviews, vol. 19, p. 743-762, 2000",
+              "DOI": "10.1016/S0277-3791(99)00031-1",
+              "type": "other"
+            },
+            {
+              "key": "33988_151_2",
+              "unstructured": "Chang J.H., Atmospheric circulation systems and climates, vol. 328, p. 274-297, The oriental Publishing Company, Honolulu, 1972",
+              "type": "book"
+            },
+            {
+              "key": "33988_152_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Folk R.L., Ward W.C., Brazos river bar: a study in the significance of grain size parameters, in: Journal of Sedimentary Petrology, vol. 27, p. 3-26, 1957",
+              "DOI": "10.1306/74D70646-2B21-11D7-8648000102C1865D",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_10",
+              "unstructured": "Fujian Provincial Museum, Brief report of the excavation of the Keqiutou site in Pingtan, County, Fujian, in: Kaogu, vol. 199, p. 587-599, 1991",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_162_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yu F., Zong Y.Q., Lloyd J.M., Huang G.Q., Leng M.J., Kendrick C., Lamb A.L., Yim W.W.-S., Bulk organic 813C and C/N as indicators for sediment sources in the Pearl River delta and estuary, southern China, in: Estuarine, Coastal and Shelf Science, vol. 87, p. 618-630, 2010",
+              "DOI": "10.1016/j.ecss.2010.02.018",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_38",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yu F., Zong Y., Lloyd J.M., Huang G., Leng M.J., Kendrick C., Lamb A.L., Yim W.W.-S., Bulk organic 8C and C/N as indicators for sediment sources in the Pearl River delta and estuary, southern China, in: Estuarine, Coastal and Shelf Science, vol. 87, p. 618-630, 2010",
+              "DOI": "10.1016/j.ecss.2010.02.018",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_35",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Turney C.S.M., Brown H., Catastrophic early Holocene sea level rise, human migration and the Neolithic transition in Europe, in: Quaternary Science Reviews, vol. 26, p. 2036-2041, 2007",
+              "DOI": "10.1016/j.quascirev.2007.07.003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_156_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "McDermott F., Mattey D.P., Hawkesworth C., Centennial-Scale Holocene Climate Variability Revealed by a High-Resolution Speleothem 18O Record from SW Ireland, in: Science, vol. 294, p. 1328-1331, 2001",
+              "DOI": "10.1126/science.1063678",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_10",
+              "unstructured": "Huang Q.T., Fu P., Hu Z.M., Fan R., Characteristics of Quaternary activities along Minjiang fault zone, Fujian Province, in: Technology for Earthquake Disaster Prevention, vol. 2, p. 347-353, 2007",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_7",
+              "unstructured": "Cheng Q.S., Xu H.R., Classification of Quaternary strata from the drilled well ZK51 in Dongshan Island and contrast with some strata in the southeast Fujian coastal area, in: Geology of Fujian, vol. 19, p. 24-33, 2000",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Qin X.G., Mu Y., Ning B., Yin Z.Q., Climate effect of dust aerosol in southern Chinese Loess Plateau over the last 140,000 years, in: Geophysical Reseach Letters, vol. 36, p. L02707, 2009",
+              "DOI": "10.1029/2008GL036156",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_163_3",
+              "unstructured": "Zhang J.C., Lin Z.G., Climatology of China, p. 603, Shanghai Science and Technology Press, 1985",
+              "type": "book"
+            },
+            {
+              "key": "33988_205_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wang Z.X., Lei Y., Fujiwara K., Liu L.H., Xue Y.G, Community classification , species composition , and regeneration of Fagus lucida forests in subtropical mountains, China, in: Biodiversity Science, vol. 14, p. 29-40, 2006",
+              "DOI": "10.1360/biodiv.050102",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_203_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Ickert-Bond S. M., Pigg K. B., Wen J., Comparative infructescence morphology Altingia (Altingiaceae) and its evolution significance, in: American Journal of Botany, vol. 92, p. 1234-1255, 2005",
+              "DOI": "10.3732/ajb.92.8.1234",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_10",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Liu T.S., Ding Z.L., Rutter N., Comparison of Milankovitch periods between continental loess and deep sea records over the last 2.5Ma., in: Quaternary Science Reviews, vol. 18, p. 1205-1212, 1999",
+              "DOI": "10.1016/S0277-3791(98)00110-3",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_154_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Klotz S., Guiot J., Mosbrugger V., Continental European Eemian and early Wurmian climate evolution: comparing signals using different quantitative reconstruction approaches based on pollen, in: Global and Planetary Change, vol. 36, p. 277-294, 2003",
+              "DOI": "10.1016/S0921-8181(02)00222-9",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Huang C.Y., Liew P.M., Zhao M.X., Chang T.C., Kuo C.M., Chen M.T., Wang C.Н., Zheng L.F., Deep sea and lake records of the Southeast Asian paleomonsoons for the last 25 thousand years, in: Earth and Planetary Science Letters, vol. 146, p. 59-72, 1997",
+              "DOI": "10.1016/S0012-821X(96)00203-8",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_204_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sun X.J., Luo Y.L., Huang F., Tia J., Wang P.X., Deep-sea pollen from the South China Sea: Pleistocene indicators of East Asian monsoon, in: Marine Geology, vol. 201, p. 97-118, 2003",
+              "DOI": "10.1016/S0025-3227(03)00211-1",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Bronk Ramsey C., Development of the radiocarbon program OxCal, in: Radiocarbon, vol. 43, p. 355-363, 2001",
+              "DOI": "10.1017/S0033822200038212",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_150_0",
+              "unstructured": "Battarbee R.W., Diatom Analysis, in: Handbook of Holocene palaeoecology and palaeohydrology, Berglund B.E. (Eds.), p. 527-570, 1986",
+              "type": "other"
+            },
+            {
+              "key": "33988_164_4",
+              "unstructured": "Zhi C.Y., Wang K. F., Lan D. Z., Li C., Diatom ecotype of habitation and their distribution in surface sediments around Xiamen Island and in Taiwan Straits, in: Journal of Tongji University (Natural Science), vol. 33, p. 971-975, 2005",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_31",
+              "unstructured": "Rolett B.V., Gao Y., Chen X., Zheng Z., Diatom evidence for a Holocene sea-level history of the Fuzhou Basin, In Prep.",
+              "type": "other"
+            },
+            {
+              "key": "33988_165_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y.Q., Diatom records and sedimentary responses to sea-level change during the last 8000 years in Roudsea Wood, northwest England, in: The Holocene, vol. 8, p. 219-228, 1998",
+              "DOI": "10.1191/095968398671096338",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_165_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y.Q., Kemp A.C., Yu F., Lloyd J.M., Huang G., Yim W.W.S., Diatoms from the Pearl River estuary, China and their suitability as water salinity indicators for coastal environments, in: Marine Micropaleontology, vol. 75, p. 38-49, 2010",
+              "DOI": "10.1016/j.marmicro.2010.02.004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_8",
+              "unstructured": "Chen Z.S., Diet and subsistence strategies of the Tanshishan Culture, in: Fujian Wenbo, vol. 48, p. 41-46, 2004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_163_7",
+              "unstructured": "Zheng R.Z., Xu X.W., Zhu J.F., Ji F.J., Huang Z.L., Li J.P., Division of Late Quaternary strata and analysis of palaeoenvironment in Fuzhou Basin, in: Seismology and Geology, vol. 24, p. 505-513, 2002",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Liu K.B., Sun S.C., Jiang X.H., Environmental Change in the Yangtze River Delta since 12,000 years BP., in: Quaternary Research, vol. 38, p. 33-45, 1992",
+              "DOI": "10.1016/0033-5894(92)90028-H",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_13",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Innes J.B., Zong Y., Chen Z., Chen C., Wang Z., Wang H., Environmental history, palaeoecology and human activity at the early Neolithic forager/cultivator site at Kuahuqiao, Hangzhou, eastern China, in: Quaternary Science Reviews, vol. 28, p. 2277-2294, 2009",
+              "DOI": "10.1016/j.quascirev.2009.04.010",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_149_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "An Z.S., Wang S.M., Wu X.H., Chen M.Y., Sun D.H., Liu X.M., Wang F.B., Li L., Sun Y.B., Zhou W.J., Zhou J., Liu X.D., Lu H.Y., Zhang Y.X., Dong G.G., Qiang X.K., Eolian evidence from the Chinese Loess Plateau: the onset of the Late Cenozoic Great Glaciation in the Northern Hemisphere and Qinghai-Xizang Plateau uplift forcing, in: Science in China Series D-Earth Sciences, vol. 42, p. 258-271, 1998",
+              "DOI": "10.1007/BF02878963",
+              "type": "other"
+            },
+            {
+              "key": "33988_149_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "An Z.S., Porter S.C., Zhou W.J., Lu Y.C., Donahue D.J., Head M.J., Wu X.H., Ren J.Z., Zheng H.B., Episode of Strengthened Summer Monsoon Climate of Younger Dryas Age on the Loess Plateau of Central China, in: Quaternary Research, vol. 39, p. 45-54, 1993",
+              "DOI": "10.1006/qres.1993.1005",
+              "type": "other"
+            },
+            {
+              "key": "33988_150_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Brodie C.R., Casford J.S.L., Lloyd J.M., Leng M.J., Heaton T.H.E., Kendrick С.Р., Zong Y.Q., Evidence for bias in C/N, 813C and 815N values of bulk organic matter, and on environmental interpretation, from a lake sedimentary sequence by pre-analysis acid treatment methods, in: Quaternary Science Reviews, vol. 30, p. 3076-3087, 2011",
+              "DOI": "10.1016/j.quascirev.2011.07.003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_11",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Dansgaard W., Johnsen S. J., Clausen H. B., Jensen D.D., Gundestrup N. S., Hammer C. U., Hvidberg C. S., Steffensen J. P., Sveinbjörnsdottir A. E., Jouzel J., Bond G., Evidence for general instability of past climate from a 250-kyr ice-core record, in: Nature, vol. 364, p. 218-220, 1993",
+              "DOI": "10.1038/364218a0",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_11",
+              "unstructured": "Fujian Provincial Museum, Excavation report of the Zhuangbianshan site in Minhou County, Fujian, in: Collection of Papers on the Tanshishan Culture, Lin G. (Ed.), p. 126-171, Fujian Province Tanshishan Site Museum, Fuzhou, 2008",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_162_5",
+              "unstructured": "Ye G.J., Exploration of Fuzhou basin's formation and development, Geology scientific and technical information, vol. S1, p. 54-56, 1982",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_4",
+              "unstructured": "Chang K.C., Fengpitou, Tapenkeng, and the Prehistory of Taiwan, in: Yale University Publications in Anthropology No. 73, Yale University Department of Anthropology and The Peabody Museum, New Haven, 1969",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_165_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y., Chen Z., Innes J.B., Chen C., Wang Z., Wang H., Fire and flood management of coastal swamp enabled first rice paddy cultivation in east China, in: Nature, vol. 449, p. 259-462, 2007",
+              "DOI": "10.1038/nature06135",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_46",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y., Chen Z., Innes J.B., Chen C., Wang Z., Wang H., Fire and flood management of coastal swamp enabled first rice paddy cultivation in east China, in: Nature, vol. 449, p. 459-462, 2007",
+              "DOI": "10.1038/nature06135",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_0",
+              "unstructured": "Bellwood P., First Farmers: The Origins of Agricultural Societies, Blackwell, Oxford, 2005",
+              "type": "book"
+            },
+            {
+              "key": "33988_176_19",
+              "unstructured": "Kaogu, Xuebao, First report of the excavations of the Hemudu site, Zhejiang, in: Kaogu Xuebao, vol. 1, p. 39-93, 1978",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_203_4",
+              "unstructured": "Jiang B.L., Zhang H.D., Floristic study of spermatophyte of Fujian province, in: Guihaia, vol. 20, p. 117-125, 2000",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_5",
+              "unstructured": "Lin J.X., Foraminifers fauna and its paleoclimate significance in the seaboard of Fujian., in: Geological Review, vol. 26, p. 152-155, 1980",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_150_10",
+              "unstructured": "Cai B.Q., Fujian coastal ancestors living environment and resource development inferred from the shell mound relics, in: Journal of Xiamen University, vol. 3, p. 106-111, 1998",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_6",
+              "unstructured": "Cheng L.T., Fujian Neolithic, in: Journal of Nanping Teachers College (Journal of Wuyi University), vol. 1, p. 39-43, 1995",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_6",
+              "unstructured": "Lin P., Fujian vegetation, p. 365, Fujian Science and Technology Press, Fujian, 1990",
+              "type": "book"
+            },
+            {
+              "key": "33988_163_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zheng Y.H., Wu Y.Q., Li S., Tan L.H., Gou S.W., Zhang Y.Y., Grain-size Characteristics of Sediments Formed Since 8600 yr B.P. in Middle Reaches of Yarlung Zangbo River in Tibet and Their Paleoenvironmental Significance, in: Chinese Geographical Science, vol. 19, p. 113-119, 2009",
+              "DOI": "10.1007/s11769-009-0113-1",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_160_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wang X.Y., Ke X.K., Grain-size characteristics of the extant tidal flat sediments along the Jiangsu coast, China, in: Sedimentary Geology, vol. 112, p. 105-122, 1997",
+              "DOI": "10.1016/S0037-0738(97)00026-2",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Hemming S. R., Heinrich events: Massive late Pleistocene detritus layers of the North Atlantic and their global climate imprint, in: Reviews of Geophysics, vol. 42, p. RG1005, 2004",
+              "DOI": "10.1029/2003RG000128",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Porter S.C., High-resolution paleoclimatic information from Chinese eolian sediments based on grayscale intensity profiles, in: Quaternary Research, vol. 53, p. 70-77, 2000",
+              "DOI": "10.1006/qres.1999.2092",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_164_1",
+              "unstructured": "Zheng Z., Deng Y., Zhang H., Yu R.C., Chen Z.X., Holocene environmental changes in the tropical and subtropical areas of the south China and the relation to human activities, in: Quaternary Science, vol. 24, p. 387-393, 2004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Fleitmann D., Stephen J. Burns S.J., Mudelsee M., Neff U., Kramers J., Mangini A., Matter A., Holocene forcing of the Indian Monsoon recorded in a Stalagmite from Southern Oman, in: Science, vol. 300, p. 1737-1739, 2003",
+              "DOI": "10.1126/science.1083130",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_163_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zhang J., Chen F., Holmes J. A., Li H., Guo X., Wang J., Li S., Zhao Y., Qiang M., Holocene monsoon climate documented by oxygen and carbon isotopes from lake sediments and peat bogs in China: a review and synthesis, in: Quaternary Science Reviews, vol. 30, p. 1973-1987",
+              "DOI": "10.1016/j.quascirev.2011.04.023",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Rolett B.V., Zheng Z., Yue Y.F., Holocene sea-level change and the emergence of Neolithic seafaring in the Fuzhou Basin (Fujian, China), in: Quaternary Science Reviews, vol. 30, p. 788-797, 2011",
+              "DOI": "10.1016/j.quascirev.2011.01.015",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_150_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Berglund B. E., Human impact and climate changes-synchronous events and a causal link?, in: Quaternary International, vol. 10, p. 7-12, 2003",
+              "DOI": "10.1016/S1040-6182(02)00144-1",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Francus P., Image analysis, sediments and paleoenvironments, vol. Volume7, p. 0-330, Kluwer Academic Publishers, 2005",
+              "DOI": "10.1007/1-4020-2122-4",
+              "type": "book"
+            },
+            {
+              "key": "33988_151_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Cao W.Z., Zhu H.J., Chen S.L., Impacts of urbanization on topsoil nutrient balances a case study at a provincial scale from Fujian, China, in: CATENA, vol. 69, p. 36-43, 2007",
+              "DOI": "10.1016/j.catena.2006.04.014",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yancheva G., Nowaczyk N. R., Mingram J., Dulski P., Schettler G., Negendank J. F. W., Liu J., Sigman D. M., Peters on L. C., Haug G. H., Influence of the intertropical convergence zone on the East Asia n monsoon, in: Nature, vol. 445, p. 74-77, 2007",
+              "DOI": "10.1038/nature05431",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_150_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Berger A., Loutre M.F., Insolation values for the climate of the last 10 million years, in: Quaternary Science Reviews, vol. 10, p. 297-317, 1991",
+              "DOI": "10.1016/0277-3791(91)90033-Q",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Reimer P. J., Baillie M. G. L., Bard E., Bayliss A., Beck J W, Blackwell P. G., Bronk Ramsey C., Buck C. E., Burr G. S., Edwards R. L., Friedrich M., Grootes P. M., Guilderson T. P., Hajdas I., Heaton T. J., Hogg A. G., Hughen K. A., Kaiser K. F., Kromer B., McCormac F. G., Manning S. W., Reimer R. W., Richards D. A., Southon J. R., Talamo S., Turney C. S. M., van der Plicht J., Weyhenmeyer C. E., IntCal09 and Marine09 radiocarbon calibration curves, 0-50,000 years cal BP, in: Radiocarbon, vol. 4, p. 1111-1150, 2009",
+              "DOI": "10.1017/S0033822200034202",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_23",
+              "unstructured": "Lin G., Introduction: a brief review of studies on the Tanshishan site and Tanshishan Culture, in: Collection of Papers on the Tanshishan Culture, p. 2-11, Fujian Province Tanshishan Site Museum, Fuzhou, 2008",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_155_3",
+              "unstructured": "Lin G.W., Introduction: a brief review of studies on the Tanshishan site and Tanshishan Culture., in: Collection of Papers on the Tanshishan Culture, Lin G, p. 2 e11, Fujian Province Tanshishan Site Museum, Fuzhou, 2008",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_176_33",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Stanley D.J., Chen Z., Song J., Inundation, sea-level rise and transition from Neolithic to Bronze age cultures, Yangtze Delta, China, in: Geoarchaeology, vol. 14, n° 1, p. 15-26, 1999",
+              "DOI": "10.1002/(SICI)1520-6548(199901)14:1<15::AID-GEA2>3.0.CO;2-N",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_10",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Craig H., Isotopic standards for carbon and oxygen and correction factors for mass-spectrometric analysis of carbon dioxide, in: Geochimica et Cosmochimica Acta, vol. 12, p. 133-149, 1957",
+              "DOI": "10.1016/0016-7037(57)90024-8",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_164_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zhu J.F., Xu X.W., Zhang X.K., Huang Z.L., Chen X.X., Fang S.M., Liu B.J., Zheng R.Z., Joint exploration of crustal structure in Fuzhou basin and its vicinities by deep seismic reflection and high-resolution refraction as well as wide-angle reflection/refraction, in: Science in China Ser. D Earth Sciences, vol. 48, 2005",
+              "DOI": "10.1360/04yd0321",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_41",
+              "unstructured": "Zhejiang Provincial Institute of Cultural Relics and Archaeology, Xiaoshan Museum, Kua Hu Qiao: Archaeological Report of Puyang River Valley 1, Cultural Relics Publishing House, Beijing, 2004",
+              "type": "dissertation"
+            },
+            {
+              "key": "33988_157_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Pachur H.J., WuKnnemann B., Zhang H., Lake evolution in the Tengger Desert, Northwestern China, during the last 40,000 years, in: Quaternary Research, vol. 44, p. 171-180, 1995",
+              "DOI": "10.1006/qres.1995.1061",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Quan B., Zhu H.J., Chen S.L., Römkens M.J.M., Li B.C., Land Suitability Assessment and Land Use Change in Fujian Province, China, in: Pedosphere, vol. 17, p. 493-504, 2007",
+              "DOI": "10.1016/S1002-0160(07)60059-9",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_21",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lambeck K., Nakada M., Late Pleistocene and Holocene sea-level change along the Australian coast, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 89, p. 143-176, 1990",
+              "DOI": "10.1016/0031-0182(90)90056-D",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_163_5",
+              "unstructured": "Zheng F., Late Quaternary Palynological Assemblage in Fuzhou Plain, in: Taiwan Strait, vol. 5, n° 2, p. 139-147, 1986",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_160_1",
+              "unstructured": "Wang K.F., Lu J.J., Zheng Y.L., Late Quaternary Pollen-Diatom assemblages along Fujian seashore and their paleoenvironmental implications, in: Acta Micropaleontologica Sinica, vol. 12, p. 388-397, 1995",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_156_1",
+              "unstructured": "Lu J.J., Late Quaternary sporopollen assemblages, paleovegetation and paleoclimate along the northern Fujian Coast, in: Marine Geology&Quaternary Geology, vol. 14, p. 23-33, 1994",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Liu K.B., Qiu H.L., Late-Holocene pollen records of vegetational changes in China: Climate or human disturbance?, in: TAO, vol. 5, p. 393-410, 1994",
+              "DOI": "10.3319/TAO.1994.5.3.393(PAGES)",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_11",
+              "unstructured": "Liu T.S., Liu T.S. (Ed), Loess and Environment., p. 168-183, China Ocean Press, Beijing, 1985",
+              "type": "book"
+            },
+            {
+              "key": "33988_149_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "An Z.S., Kukla G.J., Porter S.C., Xiao J.L., Magnetic susceptibility evidence of monsoon variation on the Loess Plateau of central China during the last 130,000 years, in: Quaternary Research, vol. 36, p. 29-36, 1991",
+              "DOI": "10.1016/0033-5894(91)90015-W",
+              "type": "other"
+            },
+            {
+              "key": "33988_160_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Weaver A.J., Saenko Oleg A., Clark P.U., Mitrovica J.X., Meltwater Pulse 1A from Antarctica as a Trigger of the Bølling-Allerød Warm Interval, in: Science, vol. 299, p. 1709-1713, 2003",
+              "DOI": "10.1126/science.1081002",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_165_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zong Y.Q., Mid- and late-Holocene sea-level changes in Roudsea Marsh, Northwest England: a diatom biostratigraphical investigation, in: The Holocene, vol. 7, p. 311-323, 1997",
+              "DOI": "10.1177/095968369700700307",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Steig E.J., Mid-Holocene Climate Change, in: Science, vol. 19, p. 1485-1487, 1999",
+              "DOI": "10.1126/science.286.5444.1485",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Chen Z., Zong Y., Wang Z., Wang H., Chen J., Migration patterns of Neolithic settlements on the abandoned Yellow and Yangtze River deltas of China, in: Quaternary Research, vol. 70, p. 301-314, 2008",
+              "DOI": "10.1016/j.yqres.2008.03.011",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_149_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "An Z.S., Porter S.C., Millennial scale climatic oscillations during the last inter glaciation in central China, in: Geology, vol. 25, p. 603-606, 1997",
+              "DOI": "10.1130/0091-7613(1997)025<0603:MSCODT>2.3.CO;2",
+              "type": "other"
+            },
+            {
+              "key": "33988_161_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wolff E.W., Chappellaz J., Blunier T., Rasmussen S.O., Svensson A., Millennial-scale variability during the last glacial: The ice core record, in: Quaternary Science Reviews, vol. 29, p. 2828-2838, 2010",
+              "DOI": "10.1016/j.quascirev.2009.10.013",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yang S.X., Zheng Z., Huang K.Y., Zong Y.Q., Wang J.H., Xu Q.H., Rolett B., Li J., Modern pollen assemblages from cultivated rice fields and rice pollen morphology: Application to a study of ancient land use and agriculture in the Pearl River Delta, China, in: The Holocene, 2012, 10.1177/0959683612449761",
+              "DOI": "10.1177/0959683612449761",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wright H.E., McAndrews J.H., Zeist W.V., Modern pollen rain in western Iran and its relation to plant geography and Quaternary vegetational history, in: Journal of Ecology, vol. 55, p. 415-443, 1967",
+              "DOI": "10.2307/2257886",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_205_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Webster P.J., Magana V.O., Palmer T.N., Shukla J., Tomas R.A., Yanai M., Yasunari T., Monsoons: processes, predictability, and the prospects for prediction, in the TOGA decade, in: Journal of Geophysical Research, vol. 103, p. 14451-14510, 1998",
+              "DOI": "10.1029/97JC02719",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_15",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Jiang L., Liu L., New evidence for the origins of sedentism and rice domestication in the Lower Yangtze River, China, in: Antiquity, vol. 80, p. 355-361, 2006",
+              "DOI": "10.1017/S0003598X00093674",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_202_3",
+              "unstructured": "Chang Y.T., Huang C.C., Notes on Fagaceae (II), in: Journal of the Graduate School of the Chinese Academy of Schences, vol. 26, p. 111-119, 1998",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_29",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Peltier W.R., On eustatic sea level history: Last Glacial Maximum to Holocene, in: Quaternary Science Reviews, vol. 21, p. 377-396, 2002",
+              "DOI": "10.1016/S0277-3791(01)00084-1",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_164_5",
+              "unstructured": "Zhong L.Q., On the connotation of Tanshishan culture, in: Relics Form Jiangxi, vol. 01, p. 69-71, 38, 1991",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_3",
+              "unstructured": "Wu M.J., On the culture nature and name of Tanshishan site, in: Journal of Xiamen University, vol. 2, p. 125-131, 1979",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_4",
+              "unstructured": "Wu X.P., On the reasons for the demise of Fujian shell mound sites, in: Agricultural Archaeology, vol. 1, p. 72, 82, 2004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Heinrich H., Origin and consequences of cyclic ice rafting in the Northeast Atlantic Ocean during the past 130,000 years, in: Quaternary Research, vol. 29, p. 142-152, 1988",
+              "DOI": "10.1016/0033-5894(88)90057-9",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Herzschuh U., Palaeo-moisture evolution in monsoonal Central Asia during the last 50,000 years, in: Quaternary Science Reviews, vol. 25, p. 163-178, 2006",
+              "DOI": "10.1016/j.quascirev.2005.02.006",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Heller F., Liu T. S., Palaeoclimatic and sedimentary history from magnetic susceptibility of loess in China, in: Geophysics Research Letters, vol. 13, p. 1169-1172, 1986",
+              "DOI": "10.1029/GL013i011p01169",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_160_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wang S.Y., Lu H.Y., Han J.T., Chu G.Q., Liu J.Q., Negendank J.F.W., Palaeovegetation and palaeoclimate in low-latitude southern China during the Last Glacial Maximum, in: Quaternary International, vol. 248, p. 79-85, 2012",
+              "DOI": "10.1016/j.quaint.2010.07.030",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_162_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yu G., Chen X., Ni J., Cheddadi R., Guiot J., Han H., Harrison S. P., Huang C., Ke M., Kong Z., Li S., Li W., Liew P., Liu G., Liu J., Liu Liu, Liu Q., Prentice K. B., Qui W., Ren G., Song C., Sugita S., Sun X., Tang L., Van Campo E., Xia Y., Xu Q., Yan S., Yang X., Zhao J., Zheng Z., Palaeovegetation of China: a pollen data-based synthesis for the mid-Holocene and last glacial maximum, in: Journal of Biogeography, vol. 27, p. 635-664, 2000",
+              "DOI": "10.1046/j.1365-2699.2000.00431.x",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Hodell D.A., Brenner M., Kanfoush S.L., Curtis J.H., Stoner J.S., Song X.L., Wu Y., Whitmore T.J., Paleoclimate of Southwestern China for the Past 50,000 yr Inferred from Lake Sediment Records, in: Quaternary Research, vol. 52, p. 369-380, 1999",
+              "DOI": "10.1006/qres.1999.2072",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_149_6",
+              "unstructured": "An Z.S., Wu X.H., Lu Y.C., Zhang D.E., Sun X.J., Dong G.R., Wang S. M., Paleoenvironmental changes of China during the last 18,000 years, in: Quaternary geology and environment in China, Liu T.S. (Editeur), p. 214-227, Science Press, Beijing, 1991",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_154_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Kemp R.A., Derbyshire E., Xingmin M., Fahu C., Baotian P., Pedosedimentary reconstruction of a thick loess-paleosol sequence near lanzhou in North-Central China, in: Quaternary Research, vol. 43, p. 30-45, 1995",
+              "DOI": "10.1006/qres.1995.1004",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_9",
+              "unstructured": "Physical geography of Fujian, Fuzhou, p. 209, Fujian People's Press, Fujian, 1987",
+              "type": "book"
+            },
+            {
+              "key": "33988_154_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Kukla G., Heller F., Liu X.M., Xu T.C., Liu T.S., An Z.S., Pleistocene climates in China dated by magnetic susceptibility, in: Geology, vol. 16, p. 811-814, 1988",
+              "DOI": "10.1130/0091-7613(1988)016<0811:PCICDB>2.3.CO;2",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_158_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Rost K.T., Pleistocene paleoenvironmental changes in the high mountain ranges of central China and adjacent regions, in: Quaternary International, vol. 65/66, p. 147-160, 2000",
+              "DOI": "10.1016/S1040-6182(99)00041-5",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_1",
+              "unstructured": "Deng Y., Zheng Z., Suc J.P., Berne S., Pollen assemblages of the Last Glacial Maximum in Okinawa Trough and their implicationon paleoenvironment, in: Earth Science-Journal of China University of Geosciences, vol. 30, p. 597-603, 2005",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_205_1",
+              "unstructured": "Wang F.S., Chien N.F., Zhang Y.L., Yang H.Q., Pollen Flora of China, p. 1-461, Science Press, 1995",
+              "type": "book"
+            },
+            {
+              "key": "33988_159_10",
+              "unstructured": "Wang F.S., Chien N.F., Zhang Y.L., Yang H.Q., Pollen Flora of China, Second Edition, p. 1-461, Science Press, 1995",
+              "type": "book"
+            },
+            {
+              "key": "33988_207_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zheng Z., Yang S.X., Deng Y., Huang K.Y., Wei J.H., Serne B., Suc J-P., Pollen record of the past 60 ka BP in the Middle Okinawa Trough: Terrestrial provenance and reconstruction of the paleoenvironment, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 307, p. 285-300, 2011",
+              "DOI": "10.1016/j.palaeo.2011.05.026",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_162_3",
+              "unstructured": "Yang S.X., Zheng Z., Wei J.H., Deng Y., Suc J.P., Berne S., Li J., Pollen records from the middle Okinawa Trough and the terrigenous pollen source analysis for 70 ka BP, in: Acta Oceanologica Sinica, vol. 33, p. 103-113, 2011",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sugita S., Pollen representation of vegetation in Quaternary sediments: theory and method in patchy vegetation, in: Journal of Ecology, vol. 82, p. 881-897, 1994",
+              "DOI": "10.2307/2261452",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Prentice I.C., Pollen representation source area, and basin size: towards a unified theory of pollen analysis, in: Quaternary Research, vol. 23, p. 76-86, 1985",
+              "DOI": "10.1016/0033-5894(85)90073-0",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_6",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sun Y.B., Gao S., Li J., Preliminary analysis of grain-size populations with environmentally sensitive terrigenous co mponents in marginal sea setting, in: Chinese Science Bulletin, vol. 48, p. 184-187, 2003",
+              "DOI": "10.1360/03tb9038",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lin J.X., Preliminary notes on Holocene transgression in the seaboard of Fujian, S. China, in: Chinese Science Bulletin, vol. 24, p. 517-520, 1979",
+              "DOI": "10.1360/csb1979-24-11-517",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_203_1",
+              "unstructured": "Hong B.G., An S.Q., Preliminary studies on the geographic distribution of Pagus in China, in: Journal of Integrative Plant Biology, vol. 35, p. 229-233, 1993",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_154_6",
+              "unstructured": "Lan D.Z., Yu Y.F., Chen C.H., Xie Z.T., Preliminary study on Late Pleistocene transgression and Holocene sea-level fluctuation in Fuzhou Basin, in: Marine Geology & Quaternary Geology, vol. 6, p. 103-111, 1986",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_5",
+              "unstructured": "Chen Y.T., Preliminary study on marine strata of Late Quaternary along Fujian coast, in: Journal of Stratigraphy, vol. 5, p. 285-290, 310, 1991",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_12",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Fuller D.Q., Harvey E., Qin L., Presumed domestication? Evidence for wild rice cultivation and domestication in the fifth millennium BC of the Lower Yangtze region, in: Antiquity, vol. 81, p. 316-331, 2007",
+              "DOI": "10.1017/S0003598X0009520X",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_175_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Rolett B.V., Quaternary Science Reviews, vol. 30, p. 788-757, 2011",
+              "DOI": "10.1016/j.quascirev.2011.01.015",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_2",
+              "unstructured": "Han S.H., Zhang J., Quaternary stratigraphic division and marine bed analysis of Mawei aera, Fuzhou, in: Marine Geology & Quaternary Geology, vol. 12, p. 85-95, 1992",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_10",
+              "unstructured": "R Development Core Team, R: A language and environment for statistical computing, reference index version 2.2.1, R Foundation for Statistical Computing, Vienna, Austria, 2005, http://www.R-project.org",
+              "type": "other"
+            },
+            {
+              "key": "33988_176_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Bronk Ramsey C., Radiocarbon calibration and analysis of stratigraphy: the OxCal program, in: Radiocarbon, vol. 37, p. 425-430, 1995",
+              "DOI": "10.1017/S0033822200030903",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Spencer C.D., Plater A.J., Long A. J., Rapid coastal change during the mid-to late Holocene: the record of barrier estuary sedimentation in the Romney Marsh region, southeast England, in: The Holocene, vol. 8, p. 143-163, 1998",
+              "DOI": "10.1191/095968398673197622",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_204_3",
+              "unstructured": "Velichko A.A., Rapid early development of the circumarctic peatlands and atmospheric CH4 and CO2 variations, in: Science, vol. 314, p. 385-388, 2006",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_8",
+              "unstructured": "Xu J.X., Zheng Z., Huang K.Y, Yue Y. F., Li J., Chase B.M., Ledru M.P., Carré M., Cheddadi R., Recent impacts of climate and human activities on ecosystems in Fujian Province, China, 2012",
+              "type": "other"
+            },
+            {
+              "key": "33988_157_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Nakagawa T., Okuda M., Yonenobu H., Miyoshi N., Fujiki T., Gotanda K., Tarasov P.E., Regulation of the monsoon climate by two different orbital rhythms and forcing mechanisems, in: Geology, vol. 36, p. 491-494, 2008",
+              "DOI": "10.1130/G24586A.1",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_7",
+              "unstructured": "Lin Z.G., Restudy on Tanshishan culture., in: Southeast Culture, vol. 5, p. 213-218, 1991",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_42",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Zheng Y., Sun G., Qin L., Li C., Wu X., Chen X., Rice fields and modes of rice cultivation between 5000 and 2500 BC in east China, in: Journal of Archaeological Science, vol. 36, p. 2609-2616, 2009",
+              "DOI": "10.1016/j.jas.2009.09.026",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_162_1",
+              "unstructured": "Yang J.M., Zheng X.Y., Sea-level fluctuations during the past 6000 years along the coast of Fujian, in: Marine Geology & Quaternary Geology, vol. 10, p. 67-75, 1990",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_154_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lau K.M., Yang G.J., Sheu S.H., Seasonal and intraseasonal climatology of monsoon rainfall over East Asia, in: Monthly Weather Review, vol. 116, p. 18-37, 1988",
+              "DOI": "10.1175/1520-0493(1988)116<0018:SAICOS>2.0.CO;2",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_160_0",
+              "unstructured": "Wang H.P., Zhang P.H., Chen F., Sedimentary characteristics and environment of under-water delta in Minjiang Estuary: II sedimentary characteristics and environment since Late Pleistocene, in: Journal of Oceanography in Taiwan Straits, vol. 19, p. 132-140, 2000",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Yu Z.C., Beilman D.W., Jones M.C., Sensitivity of northern peatland carbon dynamics to Holocene climate change, in: Carbon Cycling in Northern Peatlands, Baird A.J. (editeur scientifique), Belyea L.R. (editeur scientifique), Comax X. (editeur scientifique), Reeve A. (editeur scientifique), Slater I. (editeur scientifique), p. 55-69, American Geophysical Union, Washington, DC, USA, 2009",
+              "DOI": "10.1029/2008GM000822",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_156_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "McCormac F.G., Hogg A.G., Blackwell P.G., Buck C.E., Higham T.F.G., Reimer P.J., SHCal04 southern hemisphere calibration, 0-11.0 cal kyr BP, in: Radiocarbon, vol. 46, p. 1087-1092, 2004",
+              "DOI": "10.1017/S0033822200033014",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Guillén J., Palanques A., Short- and medium-term grain size changes in deltaic beaches (Ebro Delta, NW Mediterranean), in: Sedimentary Geology, vol. 101, p. 55-67, 1996",
+              "DOI": "10.1016/0037-0738(95)00021-6",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_154_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Krumbien W.C., Size frequency distributions of sediments, in: Journal of Sedimentary Petrology, vol. 4, p. 65-77, 1934",
+              "DOI": "10.1306/D4268EB9-2B26-11D7-8648000102C1865D",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_30",
+              "unstructured": "Rolett B.V., Southeast China and the emergence of Austronesian Seafaring, in: Lost Maritime Cultures: China and the Pacific, Jiao T. (Ed.), p. 54-61, Bishop Museum Press, Honolulu, 2007",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_162_2",
+              "unstructured": "Yang J.W., Hua D., Wu L.C., Sporopollen, Foram and Diatom assemblages of Quaternary strata in the Minjing River Estuary and its paleogeographical significance, in: Marine Geology & Quaternary Geology, vol. 11, p. 75-82, 1991",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_163_6",
+              "unstructured": "Zheng R.Z., Chen G.H., Xu X.W., Zhu J.F., Huang Z.L., Li J.P., Strata division of buried Late Quaternary of Fuzhou Basin, in: Seismology and Geology, vol. 27, p. 556-565, 2005",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_154_2",
+              "unstructured": "Krumbein W.C., Sloss L.L., Stratigraphy and sedimentation, p. 1-660, Freeman, San Francisco, 1963",
+              "type": "book"
+            },
+            {
+              "key": "33988_157_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Neff U., Burns S.J., Mangini A., Mudelsee M., Fleitmann D., Matter A., Strong coherence between solar variability and the monsoon in Oman between 9 and 6 kyr ago, in: Nature, vol. 411, p. 290-293, 2001",
+              "DOI": "10.1038/35077048",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_4",
+              "unstructured": "Chen C.H., Huang B.L., Wang M.L., Studies of Holocene geochronology in the coastal regions of southern Fujian, in: Journal of Oceanography in Taiwan Straits, vol. 1, p. 64-73, 1982",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_22",
+              "unstructured": "Lin D., Study of human migrations in the history of Fujian, in: Research on the Socioeconomic History of China, vol. 27, p. 7-20, 2003",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_156_7",
+              "unstructured": "Min W., Zhu J.F., Ran Y.K., Song F.M., Yang X.P., Huang Z.L., Study on active faults in Fuzhou Basin through trenching, in: Seismology and Geology, vol. 24, p. 514-523, 2002",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_162_0",
+              "unstructured": "Yang J.M., Study on the Late Quaternary transgressive formations in Minjiang estuary, in: Journal of Fujian Normal University (Natural Science), vol. 9, p. 86-90, 1993",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_6",
+              "unstructured": "Chang K.C., Taiwan Strait archaeology and proto-austronesian, in: Austronesian Studies Relating to Taiwan, Li P.J., Tsang C., Huang Y., Ho D., Tseng C., p. 161-183, Academia Sinica, Taipei, 1995",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_152_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Dansgaard W., White J. W. C., Johnsen S. J., The abrupt termination of the Younger Dryas climate event, in: Nature, vol. 339, p. 532-534, 1989",
+              "DOI": "10.1038/339532a0",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_4",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Fairbanks R.G., The age and origin of the \"Younger Dryas climate event\" in Greenland ice cores, in: Paleocenography, vol. 5, p. 937-948, 1990",
+              "DOI": "10.1029/PA005i006p00937",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_206_1",
+              "unstructured": "Wu W.P., The Altingia gracilipes forest in China, in: Journal of Wuhan Botanical Research, vol. 8, p. 59-63, 1990",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_25",
+              "unstructured": "Lin F., Li C., The ancestry of human populations in Fujian and Taiwan: the history of migrations from Henan Province, in: Regional Research and Exploration, vol. 10, p. 50-53, 1991",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_5",
+              "unstructured": "Chang K.C., The Archaeology of Ancient China, Yale University Press, New Haven, 1986",
+              "type": "book"
+            },
+            {
+              "key": "33988_150_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Brewer S., Guiot J., Sánchez-Goñi M.F., Klotz S., The climate in Europe during the Eemian: a multi-method approach using pollen data, in: Quaternary Science Reviews, vol. 27, p. 2303-2315, 2008",
+              "DOI": "10.1016/j.quascirev.2008.08.029",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_164_6",
+              "unstructured": "Zhong L.Q., The differences of mode of production between Tanshishan culture and the primitive culture with the same period in neighboring provinces District, in: Relics Form South, vol. 1, p. 60-63, 104, 1993",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_14",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Jiang L., Liu L., The discovery of an 8000-year-old dugout canoe at Kuahuqiao in the Lower Yangtze River, China, in: Antiquity 79 Project Gallery, 2005, http://antiquity.ac.uk/projgall/liu/index.html",
+              "DOI": "10.15184/S2978855200904694",
+              "type": "other"
+            },
+            {
+              "key": "33988_149_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Andersen K.K., Svensson A., Johnsen S.J., Rasmussen S.O., Bigler M., Röthlisberger R., Ruth U., Siggaard-Andersen M., Steffensen J.P., Dahl-Jensen D., Vinther B.M., Clausen H.B, The Greenland Ice Core Chronology 2005, 15-42 ka. Part 1: constructing the time scale, in: Quaternary Science Review, vol. 25, p. 3246-3257, 2005, http://dx.doi.org/10.1016/j.quascirev.2006.08.002doi:10.1016/j.quascirev., 10.1016/j.quascirev.2006.08.002doi:10.1016/j.quascirev",
+              "DOI": "10.1016/j.quascirev.2006.08.002",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_156_8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Mingram J., Schettler G., Nowaczyk N., Luo X.J., Lu H.Y., Liu J.Q., Negendank J.F.W., The Huguangyan maar lake-a high-resolution record of palaeoenvironmental and paaeoclimatic changes over the last 78,000 years from South China, in: Quaternery International, vol. 122, p. 85-107, 2004",
+              "DOI": "10.1016/j.quaint.2004.02.001",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_18",
+              "unstructured": "Jiao T., Fan X., Rolett B., The Keqiutou site and early Neolithic cultures of the Taiwan Strait, in: Fujian Wenbo, vol. 53, p. 8-12, 2009",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Clark P.U., Dyke A.S., Shakun J.D., Carlson A.E., Clark J., Wohlfarth B., Mitrovica J.X., Hostetler S.W., McCabe A.M., The Last Glacial Maximum, in: Science, vol. 325, p. 710-714, 2009, 10.1126/science",
+              "DOI": "10.1126/science.1172873",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_161_10",
+              "unstructured": "Yang J.M., The latest marine transgression and sea level changes along the Fujian coast during Late Pleistocene, in: Marine Science, vol. 5, p. 5-9, 1988",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_149_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "An Z.S., Liu T.S., Lu Y.C., Porter S.C., Kukla G., Wu X.H., Hua Y.M., The long term paleomonsoon variation recorded by the loess-paleosol sequence in central China, in: Quaternary International, vol. 7/8, p. 91-95, 1990",
+              "DOI": "10.1016/1040-6182(90)90042-3",
+              "type": "other"
+            },
+            {
+              "key": "33988_154_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lau K.M., Li M.T., The monsoon of East Asia and its global associations: a survey, in: American Meteorological Society Bulletin, vol. 65, p. 114-125, 1984",
+              "DOI": "10.1175/1520-0477(1984)065<0114:TMOEAA>2.0.CO;2",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_17",
+              "unstructured": "Jiao T., The Neolithic of Southeast China: Cultural Transformation and Regional Interaction on the Coast, Cambria Press, Youngstown, NY, 2007",
+              "type": "book"
+            },
+            {
+              "key": "33988_202_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Beilman D.W., MacDonald G.M., Yu Z., The northern peatland carbon pool and the Holocene carbon cycle, in: PAGES news, vol. 18, p. 22-25, 2010",
+              "DOI": "10.22498/pages.18.1.22",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_28",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Muller A., Mathesius U., The palaeoenvironments of coastal lagoons in the southern Baltic Sea, I. The application of sedimentary Corg/N ratios as source indicators of organic matter, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 145, p. 1-16, 1999",
+              "DOI": "10.1016/S0031-0182(98)00094-7",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_165_0",
+              "unstructured": "Zhu J.F., Zhang P., Chen J.Q., Tong G.B., Wang D.H., Sun G., Fu P., Xiao J.Y., The sporo-pollen records of the evolution of vegetation and climate since Quaternary in Zhangzhou, Fujian, in: Journal of Lanzhou University (Natural Sciences), vol. 42, p. 11-17, 2005",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_152_10",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Gong Z.T., Chen H.Z., Yuan D.G., Zhao Y.G., Wu Y.J., Zhang G.L., The temporal and spatial distribution of ancient rice in China and its implications, in: Chinese Science Bulletin, p. 1071-1079, 2007",
+              "DOI": "10.1007/s11434-007-0130-3",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Cai Y.J., Tan L.C., Cheng H., An Z.S., Edwards R.L., Kelly M.J., Kong X.G., Wang X.F., The variation of summer monsoon precipitation in central China since the last deglaciation, in: Earth Planet Science Letters, vol. 291, p. 21-31, 2010",
+              "DOI": "10.1016/j.epsl.2009.12.039",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_159_5",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sun X.J., Li X., Luo Y.L., Chen X.D., The vegetation and climate at the last glaciation on the emerged continental shelf of the South China Sea, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 160, p. 201-316, 2000",
+              "DOI": "10.1016/S0031-0182(00)00078-X",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_150_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Berger W.H., The Younger Drayas cold spell-A quest for cause, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 89, p. 219-237, 1990",
+              "DOI": "10.1016/0031-0182(90)90063-D",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_0",
+              "unstructured": "Grimm E.C., TILI A 2.0 (computer software), Illinois State. University Research and Collection Center., 1991-1993",
+              "type": "other"
+            },
+            {
+              "key": "33988_203_0",
+              "unstructured": "Grimm E.C., TILIA 2.0 (computer software), Illinois State University Research and Collection Center., 1991-1993",
+              "type": "other"
+            },
+            {
+              "key": "33988_158_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Severinghaus J.P., Sowers T., Brook E.J., Alley R.B., Bender M.L., Timing of abrupt climate change at the end of the Younger Dryas interval from thermally fractionated gases in polar ice, in: Nature, vol. 391, p. 141-146, 1998",
+              "DOI": "10.1038/34346",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_150_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Blunier T., Broeck E.J., Timing of millennial-scale climate change in Antarctica and Greenland during the Last Glacial Period, in: Science, vol. 291, p. 109-112, 2001",
+              "DOI": "10.1126/science.291.5501.109",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_157_3",
+              "unstructured": "Ortiz J.D., O'Commell S., Francus P., Toward a non-linear grayscale calibration method for legary photographic collections, in: Image analysis, sediments and paleoenvironments, Francus P. (Eds.), vol. 7, p. 1-330, Kluwer Academic Publishers, 2005",
+              "type": "book-chapter"
+            },
+            {
+              "key": "33988_176_34",
+              "unstructured": "Tsang C., Li K., Zhu Z., Traces of Ancient Settlers: A Collection of Archaeological Discoveries from Nanke, Tainan County Government, Xinying, 2006",
+              "type": "book"
+            },
+            {
+              "key": "33988_176_24",
+              "unstructured": "Lin T., Transformation of the Fuzhou Bay during the historic period, in: Historical Geography, vol. 23, p. 220-226, 2008",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_12",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Liu Z., Otto-Bliesner B. L., He F., Brady E. C., Tomas R., Clark P. U., Carlson A. Ε., Lynch-Stieglitz J., Curry W., Brook E., Erickson D., Jacob R., Kutzbach J., Cheng J., Transient simulation of Last Deglaciation with a new mechanism for Bølling-Allerød Warming., in: Science, vol. 17, p. 310-314, 2009",
+              "DOI": "10.1126/science.1171041",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_205_0",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wallace A. R., Tropical nature and other essays, Macmillan, New York, 1878",
+              "DOI": "10.5962/bhl.title.1261",
+              "type": "book"
+            },
+            {
+              "key": "33988_150_1",
+              "unstructured": "Behl R.J., Hughen K.A., Ultra-high resolution stratigraphic methods for paleoclimatic and paleoceanographic studies, in: AAPG Pacific Section meeting; abstracts, vol. 81, n° 4, p. 679, American Association of Petroleum Geologists, Tulsa, OK, United States, 1997",
+              "type": "other"
+            },
+            {
+              "key": "33988_164_0",
+              "unstructured": "Zheng Z., Vegetation and climate since the Late Pleistocene, in: Journal of Geosciences of China, vol. 2, p. 7-20, 2000",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_155_2",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Liew P.M., Kuo C.M., Huang S.Y., Tseng M.H., Vegetation change and terrestrial carbon storage in eastern Asia during the Last Glacial Maximum as indicated by a new pollen record from central Taiwan., in: Global and Planetary Change, vol. 16-17, p. 85-94, 1998",
+              "DOI": "10.1016/S0921-8181(98)00014-9",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_153_7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Hijmans R.J., Cameron S.E., Parra J.L., Jones P.G., Jarvis A., Very high resolution interpolated climate surfaces for global land areas, in: International Journal of Climatology, vol. 25, p. 1965-1978, 2005",
+              "DOI": "10.1002/joc.1276",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_151_3",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Cheddadi R., Mamakowa K., Guiot J., de Beaulieu JL, Reille M., Andrieu V., Granoszewski W., Peyron 0., Was the climate of the Eemian stable? A quantitative climate reconstruction from seven European pollen records, in: Palaeogeography, Palaeoclimatology, Palaeoecology, vol. 143, p. 73-85, 1998",
+              "DOI": "10.1016/S0031-0182(98)00067-4",
+              "type": "journal-article"
+            },
+            {
+              "key": "33988_176_32",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Stanley D.J., Warne A.G., Worldwide initiation of Holocene marine deltas by deceleration of sea-level rise, in: Science, vol. 265, p. 228-231, 1994",
+              "DOI": "10.1126/science.265.5169.228",
+              "type": "journal-article"
+            }
+          ],
+          "contributor": [
+            {
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                null
+              ]
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T15:32:58Z",
+            "timestamp": 1790868778000
+          },
+          "score": 23.91655,
+          "degree": [
+            "Doctorat ès Evolution, écologie, ressources génétiques, paléontologie",
+            "PhD"
+          ],
+          "resource": {
+            "primary": {
+              "URL": "https://theses.fr/2012MON20185"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                null
+              ]
+            ]
+          },
+          "references-count": 230,
+          "alternative-id": [
+            "2012MON20185"
+          ],
+          "URL": "https://doi.org/10.70675/c71d86e2zb6afz415dzb8fcz205fa2c296a6"
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                29
+              ]
+            ],
+            "date-time": "2026-09-29T19:51:59Z",
+            "timestamp": 1790711519650,
+            "version": "4.1.0"
+          },
+          "reference-count": 29,
+          "publisher": "Coastal Education and Research Foundation",
+          "issue": "6",
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "Journal of Coastal Research"
+          ],
+          "published-print": {
+            "date-parts": [
+              [
+                2013,
+                3,
+                28
+              ]
+            ]
+          },
+          "DOI": "10.2112/jcoastres-d-12-00243.1",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2013,
+                11,
+                27
+              ]
+            ],
+            "date-time": "2013-11-27T11:25:26Z",
+            "timestamp": 1385551526000
+          },
+          "page": "1297",
+          "source": "Crossref",
+          "is-referenced-by-count": 5,
+          "title": [
+            "Vegetation Restoration and Conservation Plans for Integrated Coastal Management in Hengqin, China"
+          ],
+          "prefix": "10.2112",
+          "volume": "29",
+          "author": [
+            {
+              "given": "Sangsang",
+              "family": "Fan",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Chinese Academy of Sciences, South China Botanical Garden, Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, Guangzhou, 510650, China, renhai@scib.ac.cn"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "1260",
+          "reference": [
+            {
+              "key": "i1551-5036-29-6-1297-Cakir1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1080/14702540701876697"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Chace1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.landurbplan.2004.08.007"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-DeCandido1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "DeCandido, R. Muir, A.A. and Gargiullo, M.B. 2004. A first approximation of the historial and extant vascular flora of New York City: implications for native plant species conservation.Journal of the Torrey Botanical Society, 131(3), 243–251.",
+              "DOI": "10.2307/4126954"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Dewan1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.apgeog.2008.12.005"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Duguay1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10980-006-9050-x"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Ehrenfeld1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0925-8574(00)00080-X"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Elvidge1",
+              "unstructured": "Elvidge, C.D. Yuan, D. Weerackoon, R.D. and Lunetta, R.S. 1995. Relative radiometric normalization of Landsat multispectral scanner (MSS) data using an automatic scattergram-controlled regression.Photogrammetric Engineering and Remote Sensing, 61(10), 1255–1260."
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Florgard1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0169-2046(00)00126-2"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Goel1",
+              "unstructured": "Goel, A.K. 2002. Botanic gardens: potential source for conservation of plant diversity.Journal of Economic and Taxonomic Botany, 26(1), 67–74."
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Grunewald1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Grunewald, R. 2006. Assessment of damages from recreational activities on coastal dunes of the southern Baltic Sea.Journal of Coastal Research, 22(5), 1145–1157.",
+              "DOI": "10.2112/05-0464.1"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Heckmann1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.foreco.2008.01.005"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-IUCNInternationalUnionforConservationofNature1",
+              "unstructured": "IUCN (International Union for Conservation of Nature), 2008.Global Invasive Species Database. http://www.issg.org/database/welcome/."
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Jim1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s002679900139"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Jim2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.landurbplan.2011.01.006"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Knapp1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10531-008-9369-5"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Kumar1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10661-009-1060-0"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Li1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s11442-011-0860-7"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Magee1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/BF03161690"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-McKinney1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.biocon.2005.09.005"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Miyawaki1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0925-8574(98)00033-0"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Nakamura1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0169-555X(96)00031-1"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Oguz1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0169-2046(03)00153-1"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Rebelo1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.sajb.2010.04.006"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Ren2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s11355-010-0126-z"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Richardson1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/BF00137612"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Robinson1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.landurbplan.2004.02.005"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-RuizJaen1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.ufug.2005.09.002"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Tait1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1890/04-0920"
+            },
+            {
+              "key": "i1551-5036-29-6-1297-Williams1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1111/j.1365-2745.2008.01460.x"
+            }
+          ],
+          "container-title": [
+            "Journal of Coastal Research"
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2019,
+                1,
+                16
+              ]
+            ],
+            "date-time": "2019-01-16T14:03:39Z",
+            "timestamp": 1547647419000
+          },
+          "score": 23.894674,
+          "resource": {
+            "primary": {
+              "URL": "https://bioone.org/journals/journal-of-coastal-research/volume-29/issue-6/JCOASTRES-D-12-00243.1/Vegetation-Restoration-and-Conservation-Plans-for-Integrated-Coastal-Management-in/10.2112/JCOASTRES-D-12-00243.1.full"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2013,
+                3,
+                28
+              ]
+            ]
+          },
+          "references-count": 29,
+          "journal-issue": {
+            "issue": "6",
+            "published-online": {
+              "date-parts": [
+                [
+                  2013,
+                  11,
+                  1
+                ]
+              ]
+            }
+          },
+          "URL": "https://doi.org/10.2112/jcoastres-d-12-00243.1",
+          "ISSN": [
+            "0749-0208"
+          ],
+          "issn-type": [
+            {
+              "value": "0749-0208",
+              "type": "print"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2013,
+                3,
+                28
+              ]
+            ]
+          }
+        }
+      ],
+      "items-per-page": 5,
+      "query": {
+        "start-index": 0,
+        "search-terms": null
+      }
+    }
+  }
+}

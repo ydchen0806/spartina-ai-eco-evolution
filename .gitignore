@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 nature_manuscript/
 *.tmp
+external_data/ccav_20261007/*.zip
+external_data/ccav_20261007/extracted/
+external_data/external_evidence_20261007/*.html
+external_data/external_evidence_20261007/ccav_landing.txt
+external_data/external_evidence_20261007/ccav_text.txt

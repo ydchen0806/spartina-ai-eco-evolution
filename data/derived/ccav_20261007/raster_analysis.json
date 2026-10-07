@@ -1,0 +1,51 @@
+{
+  "doi": "10.57760/sciencedb.31077",
+  "version": "V4",
+  "license": "CC-BY-4.0",
+  "source_files": 8,
+  "footprints_wgs84": {
+    "full_image": [
+      117.404195622047,
+      23.9134768474132,
+      117.432930102047,
+      23.9374309174132
+    ],
+    "historical_roi": [
+      117.414995622047,
+      23.915870917413198,
+      117.431195622047,
+      23.933510917413198
+    ]
+  },
+  "output_crs": "EPSG:32650",
+  "resolution_m": 10,
+  "resampling": "nearest",
+  "grid_phases_m": [
+    [
+      0,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      5,
+      5
+    ]
+  ],
+  "partitions_checked": 64,
+  "area_interpretation": "Projected pixel area (0.01 ha); not error-adjusted ecological area.",
+  "limits": [
+    "Source grids differ by year; nearest-neighbour reprojection used.",
+    "Grid-phase range is not an accuracy confidence interval.",
+    "Nodata 255 is unclassified; no inference of bare substrate or death.",
+    "CCAV sample split unknown and includes training data; no independent validation.",
+    "Satellite annual class change is not an individual demographic transition.",
+    "UAV acquisition dates differ from annual satellite composites; no contemporaneous accuracy inference."
+  ]
+}

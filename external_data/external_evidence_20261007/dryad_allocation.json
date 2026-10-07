@@ -1,0 +1,129 @@
+{
+  "_links": {
+    "self": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.2rbnzs7q7"
+    },
+    "stash:versions": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.2rbnzs7q7/versions"
+    },
+    "stash:version": {
+      "href": "/api/v2/versions/166262"
+    },
+    "stash:download": {
+      "href": "/api/v2/datasets/doi%3A10.5061%2Fdryad.2rbnzs7q7/download"
+    },
+    "curies": [
+      {
+        "name": "stash",
+        "href": "https://github.com/datadryad/dryad-app/blob/main/documentation/apis/link_relations.md#{rel}",
+        "templated": "true"
+      }
+    ]
+  },
+  "identifier": "doi:10.5061/dryad.2rbnzs7q7",
+  "id": 84485,
+  "storageSize": 12672,
+  "relatedPublicationISSN": "2045-7758",
+  "title": "Does the effect of flowering time on biomass allocation across latitude differ between invasive and native salt marsh grass Spartina alterniflora?",
+  "authors": [
+    {
+      "firstName": "Wenwen",
+      "lastName": "Liu",
+      "email": "hutcliuwenwen@163.com",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ],
+      "orcid": "0000-0001-7585-2812"
+    },
+    {
+      "firstName": "Xincong",
+      "lastName": "Chen",
+      "email": "",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ]
+    },
+    {
+      "firstName": "Jiayu",
+      "lastName": "Wang",
+      "email": "",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ]
+    },
+    {
+      "firstName": "Yihui",
+      "lastName": "Zhang",
+      "email": "",
+      "affiliation": "Xiamen University",
+      "affiliationROR": "https://ror.org/00mcjh785",
+      "affiliations": [
+        {
+          "organization": "Xiamen University",
+          "identifier": "https://ror.org/00mcjh785"
+        }
+      ]
+    }
+  ],
+  "abstract": "<p><span lang=\"EN-US\">Parallel latitudinal clines in flowering time have been documented in both the invasive and native ranges of plants. Furthermore, flowering time has been found to affect biomass at maturity. Therefore, understanding how these flowering times affect biomass accumulation across latitude is essential to understanding plant adaptations and distributions. </span><span lang=\"EN-US\">We investigated and compared trends in first flowering day (FFD), aboveground biomass (AGB), belowground biomass (BGB) and BGB:AGB ratio of the salt marsh grass <em>Spartina alterniflora</em> along latitudinal gradients from the invasive (China, 19-40<sup>o</sup> N) and native range (United States, 27-43<sup>o</sup> N) in a greenhouse common garden experiment, and tested whether FFD would drive these divergences between invasive and native ranges. </span><span lang=\"EN-US\">The invasive populations produced more (~20%, ~19%) AGB and BGB than native populations, but there were no significant differences in the FFD and BGB:AGB ratio. We found significant parallel latitudinal clines in FFD in both invasive and native ranges. In addition, the BGB:AGB ratio was negatively correlated with the FFD in both the invasive and native ranges but non-significant in invasive populations. In contrast, AGB and BGB increased with latitude in the invasive range, but declined with latitude in the native range. Most interestingly, we found AGB and BGB positively correlated with the FFD in the native range, but no significant relationships in the invasive range. </span>Our results indirectly support the evolution of increased competitive ability hypothesis (EICA) that <em>S. alterniflora</em> has evolved to produce greater AGB and BGB in China, and climatic conditions in the native might select for a flowering and allocation pattern is maintained in the invasive range. Our results also suggest that invasive <em>S. alterniflora</em> in China is not constrained by the trade-off of earlier flowering with smaller size, and that flowering time has played an important role on biomass allocation across latitude.</p>",
+  "funders": [
+    {
+      "organization": "National Natural Science Foundation of China",
+      "identifierType": "ror",
+      "identifier": "https://ror.org/01h0zpd94",
+      "awardNumber": ""
+    },
+    {
+      "organization": "Fundamental Research Funds for the Central Universities",
+      "identifierType": "crossref_funder_id",
+      "identifier": "http://dx.doi.org/10.13039/501100012226",
+      "awardNumber": ""
+    }
+  ],
+  "keywords": [
+    "Biomass allocation",
+    "Evolution ",
+    "Salt marsh"
+  ],
+  "fieldOfScience": "Natural sciences",
+  "methods": "<p><span lang=\"EN-US\">We collected seeds at 10 locations spanning 20° of latitude from 20.9° (Guangdong, province) to 39.0° N (Tianjin province) in China (Fig. 1a) and collected seeds at 16 locations spanning 16° of latitude from 27.7° (Florida) to 43° N (Maine) in the USA (Fig. 1b). At each location, we worked at two sites, 2-3 km apart. At each site, we sampled five 0.5 × 0.5 m quadrats, with at least 30 m spacing between quadrats, </span><span lang=\"EN-US\">each quadrat was treated as a seed family</span><span lang=\"EN-US\">. We randomly collected 10 inflorescences within a meter of each quadrat. We collected the filled seeds in each inflorescence (Daehler &amp; Strong, 1994; Liu et al., 2016). Filled seeds have an embryo, endosperm, and can potentially germinate and grow; unfilled seeds have neither of these tissues and cannot germinate or grow (Daehler &amp; Strong, 1994; Ayres et al., 2008). The filled seeds from each quadrat were collected and placed into separate zip-lock bags. Seeds were stored in 8 PSU seawater at 4 °C in preparation for the common garden experiment (Liu et al., 2016). </span><span lang=\"EN-US\">The </span>greenhouse common garden <span lang=\"EN-US\">was conducted at Xiamen (24.62<sup>o</sup> N, 118.31<sup>o</sup> E). The mean annual temperature is 21.5 </span>℃<span lang=\"EN-US\">, the sunshine duration is 1827 hours/year and the relative humidity is 78%. We sampled 10 populations in China (invasive range) and 16 populations in the US (native range). We randomly chose 10 seed families per population. We chose one seedling from each seed family (one for each of ten rectangular plastic pools: length: 1.2 m, width: 0.9 m, depth: 0.3 m), which seeds were germinated and grown in a growth chamber until seedlings were approximately 5 cm tall in March 2015, for a total of 260 plants (160 from the USA; 100 from China). One seedling was randomly assigned a position in a plastic pot (18 cm in diameter and 24 cm deep) within a block of ten blocks. Each pot contained a substrate of a mixture of peat 50% Jiffy’s peat soil and 50% vermiculite by volume. Artificial sea water (10 PSU) that had been amended with fertilizer (C:N:P 15-15-15; 0.5 g per pot) to ~ 2 cm above the soil level in the pots was used to water the plants. The fully flooded soil in the pots could minimize variation in salinity caused by evaporation, and mimic the soil composition or the tidal regime experienced by plants in nature. Water in the pools was completely replaced once a month and salinity was checked every other day and freshwater was added as needed to maintain salinity as in Liu et al. (2020a, b). From May to the end of the growing season in October 2015, we recorded the date on which the first <em>S. alterniflora</em> shoot flowered in each pot. In October 2015, all aboveground and belowground biomass was then harvested and oven-dried at 60°C for 72 h and subsequently weighted. The belowground samples of each pot were gently washed over a 2-mm mesh sieve to remove the soil substrate.</span></p>",
+  "relatedWorks": [
+    {
+      "relationship": "primary_article",
+      "identifierType": "DOI",
+      "identifier": "https://doi.org/10.1002/ece3.8681"
+    }
+  ],
+  "versionNumber": 3,
+  "versionStatus": "submitted",
+  "curationStatus": "Published",
+  "versionChanges": "metadata_changed",
+  "publicationDate": "2023-03-01",
+  "lastModificationDate": "2022-03-02",
+  "visibility": "public",
+  "sharingLink": "http://datadryad.org/dataset/doi:10.5061/dryad.2rbnzs7q7",
+  "changedFields": [
+    "none"
+  ],
+  "license": "https://spdx.org/licenses/CC0-1.0.html",
+  "metrics": {
+    "views": 130,
+    "downloads": 13,
+    "citations": 1
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "dataset": "plasticity",
+    "doi": "10.5061/dryad.j3tx95xsc",
+    "pinned_version": 359901,
+    "filename": "1.Germination_traits_raw_data.zip",
+    "url": "https://datadryad.org/downloads/file_stream/4029727",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  },
+  {
+    "dataset": "plasticity",
+    "doi": "10.5061/dryad.j3tx95xsc",
+    "pinned_version": 359901,
+    "filename": "2.Germination_traits_and_provenance_climate_factors_raw_data.zip",
+    "url": "https://datadryad.org/downloads/file_stream/4029728",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  },
+  {
+    "dataset": "plasticity",
+    "doi": "10.5061/dryad.j3tx95xsc",
+    "pinned_version": 359901,
+    "filename": "3.Germination_traits_and_garden_location_climate_factors_raw_data.zip",
+    "url": "https://datadryad.org/downloads/file_stream/4029729",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  },
+  {
+    "dataset": "plasticity",
+    "doi": "10.5061/dryad.j3tx95xsc",
+    "pinned_version": 359901,
+    "filename": "4.Germination_data_analysis_code.zip",
+    "url": "https://datadryad.org/downloads/file_stream/4029730",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  },
+  {
+    "dataset": "plasticity",
+    "doi": "10.5061/dryad.j3tx95xsc",
+    "pinned_version": 359901,
+    "filename": "README.md",
+    "url": "https://datadryad.org/downloads/file_stream/4029733",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  },
+  {
+    "dataset": "allocation",
+    "doi": "10.5061/dryad.2rbnzs7q7",
+    "pinned_version": 166262,
+    "filename": "Biomass_FFD_Data.csv",
+    "url": "https://datadryad.org/downloads/file_stream/1364874",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  },
+  {
+    "dataset": "allocation",
+    "doi": "10.5061/dryad.2rbnzs7q7",
+    "pinned_version": 166262,
+    "filename": "README.txt",
+    "url": "https://datadryad.org/downloads/file_stream/1364875",
+    "status": "not_downloaded",
+    "error_type": "HTTPError",
+    "http_status": 403,
+    "license": "https://spdx.org/licenses/CC0-1.0.html"
+  }
+]

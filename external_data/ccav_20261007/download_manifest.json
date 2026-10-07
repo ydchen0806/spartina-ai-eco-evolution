@@ -1,0 +1,33 @@
+{
+  "doi": "10.57760/sciencedb.31077",
+  "version": "V4",
+  "license": "CC-BY-4.0",
+  "attribution": "Yuying Li et al., CCAV-10m, Science Data Bank, V4 (2026)",
+  "landing_page": "https://www.scidb.cn/detail?dataSetId=a085f16794464c869ad6511f1a887ffe",
+  "files": [
+    {
+      "filename": "CCAV-10mV4.zip",
+      "bytes": 197709378,
+      "md5": "c7b3805e1a530a0acd40ad2c15c10a64",
+      "sha256": "5d6d464eb0f7090e99e499222647937cd60b17926b0fef904505074888605f2d",
+      "provider_md5_verified": true,
+      "url": "https://china.scidb.cn/download?fileId=ad2f32d41e4be6b6cc3bb7d3796ad951"
+    },
+    {
+      "filename": "Vegetation samples.xlsx",
+      "bytes": 513872,
+      "md5": "6e0330b8ace27c94649d080b3d129f77",
+      "sha256": "a81629048400c8f7d84aba873a5278eee9300b143a1a495dba04bb320da5fe3e",
+      "provider_md5_verified": true,
+      "url": "https://china.scidb.cn/download?fileId=a838d805aa2bafd9870719673582a73d"
+    },
+    {
+      "filename": "readme.txt",
+      "bytes": 125,
+      "md5": "077c4ee7d20c6b1d4bd6cd38cba2e89e",
+      "sha256": "e2d87b047a72cbbfeda635c13ef00c42e048518abcbcd5f5d903b568e5346444",
+      "provider_md5_verified": true,
+      "url": "https://china.scidb.cn/download?fileId=37c1fd3ac79119a42ca515270d0c7e54"
+    }
+  ]
+}

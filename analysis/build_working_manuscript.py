@@ -43,7 +43,11 @@ def main():
         ('Figure 1', 'figures/recovery_20261007/recovered_rgb_mask_contact_sheet.png'),
         ('Figure 2', 'data/derived/trajectory_audit_20261007/growth_endpoint_sensitivity.png'),
         ('Figure 3', 'data/derived/strict_benchmark_20261007/strict_benchmark.png'),
-        ('Extended Data Figure 1', 'data/derived/trajectory_audit_20261007/image_alignment_diagnostic.png')]
+        ('Figure 4', 'data/derived/ccav_20261007/ccav_classified_area.png'),
+        ('Extended Data Figure 1', 'data/derived/trajectory_audit_20261007/image_alignment_diagnostic.png'),
+        ('Extended Data Figure 2', 'data/derived/ccav_20261007/ccav_sample_audit.png'),
+        ('Extended Data Figure 3', 'data/derived/ccav_20261007/ccav_annual_site_maps.png'),
+        ('Extended Data Figure 4', 'data/derived/ccav_20261007/isolated_mask_ccav_agreement.png')]
     for label, path in figure_paths:
         doc.add_heading(label, 2)
         doc.add_picture(str(ROOT / path), width=Inches(6.5))
@@ -54,7 +58,7 @@ def main():
     doc.core_properties.subject = 'Working manuscript with completed audits and explicit evidence limitations'
     doc.save(args.output)
     reopened = Document(args.output)
-    assert len(reopened.inline_shapes) == 4
+    assert len(reopened.inline_shapes) == len(figure_paths)
     assert any('not ready for submission' in p.text for p in reopened.paragraphs)
     words = len(re.findall(r"\b[\w’−]+\b", (ROOT / 'docs/MANUSCRIPT_WORKING_DRAFT.md').read_text()))
     print('Saved', args.output, 'Markdown words including references/captions:', words, 'embedded figures:', len(reopened.inline_shapes))

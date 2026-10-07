@@ -1,0 +1,245 @@
+{
+  "data": {
+    "id": "10.57760/sciencedb.31077",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.57760/sciencedb.31077",
+      "prefix": "10.57760",
+      "suffix": "sciencedb.31077",
+      "identifiers": [
+        {
+          "identifier": "31253.11.sciencedb.31077",
+          "identifierType": "CSTR"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "CSTR",
+          "alternateIdentifier": "31253.11.sciencedb.31077"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Yuying Li",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "TingLiu",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Yuan, Lina",
+          "nameType": "Personal",
+          "givenName": "Lina",
+          "familyName": "Yuan",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Zijiang Song",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": [
+            {
+              "schemeUri": "https://orcid.org",
+              "nameIdentifier": "/0000-0002-0225-5547"
+            }
+          ]
+        },
+        {
+          "name": "Yang, Shuang",
+          "nameType": "Personal",
+          "givenName": "Shuang",
+          "familyName": "Yang",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Zilong Zhu",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Liu, Min",
+          "nameType": "Personal",
+          "givenName": "Min",
+          "familyName": "Liu",
+          "affiliation": [
+            "East China Normal University"
+          ],
+          "nameIdentifiers": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "CCAV-10m: An Annual Spatiotemporal China's Coastal Wetland Vegetation Dataset Integrating Sentinel-1/2 Observations via Deep Learning"
+        },
+        {
+          "lang": "zh",
+          "title": "CCAV-10m: An Annual Spatiotemporal China's Coastal Wetland Vegetation Dataset Integrating Sentinel-1/2 Observations via Deep Learning"
+        }
+      ],
+      "publisher": "Science Data Bank",
+      "container": {},
+      "publicationYear": 2026,
+      "subjects": [
+        {
+          "subject": "Geography",
+          "subjectScheme": "GB/T 13745-2009",
+          "classificationCode": "17045"
+        },
+        {
+          "subject": "Surveying and mapping science and technology",
+          "subjectScheme": "GB/T 13745-2009",
+          "classificationCode": "420"
+        },
+        {
+          "subject": "Costal Wetland"
+        },
+        {
+          "subject": "Saltmarsh"
+        },
+        {
+          "subject": "vegetation type"
+        },
+        {
+          "subject": "deeplearning"
+        }
+      ],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2025-11-06",
+          "dateType": "Issued"
+        },
+        {
+          "date": "2025-11-04",
+          "dateType": "Created"
+        },
+        {
+          "date": "2026-03-17",
+          "dateType": "Updated"
+        }
+      ],
+      "language": "en",
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceType": "Dataset",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "relatedIdentifiers": [],
+      "relatedItems": [],
+      "sizes": [
+        "198223375 bytes",
+        "3 files"
+      ],
+      "formats": [],
+      "version": "V4",
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "CCAV-10m represents the spatiotemporal distribution of major coastal wetland vegetation types along eastern China from 2016 to 2023. The dataset is derived from multi-source remote sensing imagery of Sentinel-1 SAR and Sentinel-2 MSI, integrating optical and radar information through a deep learning–based classification framework. CCAV-10m covers the entire eastern coastal zone of China at a spatial resolution of 10 m × 10 m and an annual temporal resolution, comprising eight yearly maps (2016–2023). It distinguishes six dominant coastal wetland plant types: S. alterniflora, Suaeda spp., P. australis, S. mariqueter, mangroves, and T. chinensis. Model validation indicates a high classification accuracy, with an overall accuracy (OA) of 0.916 and a Kappa coefficient of 0.898, demonstrating stable and reliable species discrimination across years. Each annual product is provided in GeoTIFF raster format with spatial reference information and vegetation classification results, compatible with common GIS software (e.g., ArcGIS, QGIS) and remote sensing platforms (e.g., Google Earth Engine). File names follow the convention CCAV-10m_YYYY.tif, where YYYY denotes the year. The dataset provides a high-precision foundation for species distribution analysis, community succession studies, blue carbon assessment, and invasive species management in coastal wetlands.",
+          "descriptionType": "Abstract"
+        },
+        {
+          "lang": "zh",
+          "description": "CCAV-10m represents the spatiotemporal distribution of major coastal wetland vegetation types along eastern China from 2016 to 2023. The dataset is derived from multi-source remote sensing imagery of Sentinel-1 SAR and Sentinel-2 MSI, integrating optical and radar information through a deep learning–based classification framework. CCAV-10m covers the entire eastern coastal zone of China at a spatial resolution of 10 m × 10 m and an annual temporal resolution, comprising eight yearly maps (2016–2023). It distinguishes six dominant coastal wetland plant types: S. alterniflora, Suaeda spp., P. australis, S. mariqueter, mangroves, and T. chinensis. Model validation indicates a high classification accuracy, with an overall accuracy (OA) of 0.916 and a Kappa coefficient of 0.898, demonstrating stable and reliable species discrimination across years. Each annual product is provided in GeoTIFF raster format with spatial reference information and vegetation classification results, compatible with common GIS software (e.g., ArcGIS, QGIS) and remote sensing platforms (e.g., Google Earth Engine). File names follow the convention CCAV-10m_YYYY.tif, where YYYY denotes the year. The dataset provides a high-precision foundation for species distribution analysis, community succession studies, blue carbon assessment, and invasive species management in coastal wetlands.",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwczovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtNC40L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTc3NjAvU0NJRU5DRURCLjMxMDc3PC9pZGVudGlmaWVyPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJDU1RSIj4zMTI1My4xMS5zY2llbmNlZGIuMzEwNzc8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPll1eWluZyBMaTwvY3JlYXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbiBhZmZpbGlhdGlvbklkZW50aWZpZXI9Imh0dHBzOi8vcm9yLm9yZy8wMm45NmVwNjciIGFmZmlsaWNhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPkVhc3QgQ2hpbmEgTm9ybWFsIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5UaW5nTGl1PC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iaHR0cHM6Ly9yb3Iub3JnLzAybjk2ZXA2NyIgYWZmaWxpY2F0aW9uSWRlbnRpZmllclNjaGVtZT0iUk9SIiBzY2hlbWVVUkk9Imh0dHBzOi8vcm9yLm9yZyI+RWFzdCBDaGluYSBOb3JtYWwgVW5pdmVyc2l0eTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkxpbmEgWXVhbjwvY3JlYXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbiBhZmZpbGlhdGlvbklkZW50aWZpZXI9Imh0dHBzOi8vcm9yLm9yZy8wMm45NmVwNjciIGFmZmlsaWNhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPkVhc3QgQ2hpbmEgTm9ybWFsIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5aaWppYW5nIFNvbmc8L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgc2NoZW1lVVJJPSJodHRwczovL29yY2lkLm9yZyI+LzAwMDAtMDAwMi0wMjI1LTU1NDc8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDJuOTZlcDY3IiBhZmZpbGljYXRpb25JZGVudGlmaWVyU2NoZW1lPSJST1IiIHNjaGVtZVVSST0iaHR0cHM6Ly9yb3Iub3JnIj5FYXN0IENoaW5hIE5vcm1hbCBVbml2ZXJzaXR5PC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2h1YW5nIFlhbmc8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24gYWZmaWxpYXRpb25JZGVudGlmaWVyPSJodHRwczovL3Jvci5vcmcvMDJuOTZlcDY3IiBhZmZpbGljYXRpb25JZGVudGlmaWVyU2NoZW1lPSJST1IiIHNjaGVtZVVSST0iaHR0cHM6Ly9yb3Iub3JnIj5FYXN0IENoaW5hIE5vcm1hbCBVbml2ZXJzaXR5PC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Wmlsb25nIFpodTwvY3JlYXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbiBhZmZpbGlhdGlvbklkZW50aWZpZXI9Imh0dHBzOi8vcm9yLm9yZy8wMm45NmVwNjciIGFmZmlsaWNhdGlvbklkZW50aWZpZXJTY2hlbWU9IlJPUiIgc2NoZW1lVVJJPSJodHRwczovL3Jvci5vcmciPkVhc3QgQ2hpbmEgTm9ybWFsIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NaW4gTGl1PC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uIGFmZmlsaWF0aW9uSWRlbnRpZmllcj0iaHR0cHM6Ly9yb3Iub3JnLzAybjk2ZXA2NyIgYWZmaWxpY2F0aW9uSWRlbnRpZmllclNjaGVtZT0iUk9SIiBzY2hlbWVVUkk9Imh0dHBzOi8vcm9yLm9yZyI+RWFzdCBDaGluYSBOb3JtYWwgVW5pdmVyc2l0eTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkNDQVYtMTBtOiBBbiBBbm51YWwgU3BhdGlvdGVtcG9yYWwgQ2hpbmEncyBDb2FzdGFsIFdldGxhbmQgVmVnZXRhdGlvbiBEYXRhc2V0IEludGVncmF0aW5nIFNlbnRpbmVsLTEvMiBPYnNlcnZhdGlvbnMgdmlhIERlZXAgTGVhcm5pbmc8L3RpdGxlPgogICAgPHRpdGxlIHhtbDpsYW5nPSJ6aCI+Q0NBVi0xMG06IEFuIEFubnVhbCBTcGF0aW90ZW1wb3JhbCBDaGluYSdzIENvYXN0YWwgV2V0bGFuZCBWZWdldGF0aW9uIERhdGFzZXQgSW50ZWdyYXRpbmcgU2VudGluZWwtMS8yIE9ic2VydmF0aW9ucyB2aWEgRGVlcCBMZWFybmluZzwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5TY2llbmNlIERhdGEgQmFuazwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAyNjwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IGNsYXNzaWZpY2F0aW9uQ29kZT0iMTcwNDUiIHN1YmplY3RTY2hlbWU9IkdCL1QgMTM3NDUtMjAwOSI+R2VvZ3JhcGh5PC9zdWJqZWN0PgogICAgPHN1YmplY3QgY2xhc3NpZmljYXRpb25Db2RlPSI0MjAiIHN1YmplY3RTY2hlbWU9IkdCL1QgMTM3NDUtMjAwOSI+U3VydmV5aW5nIGFuZCBtYXBwaW5nIHNjaWVuY2UgYW5kIHRlY2hub2xvZ3k8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Db3N0YWwgV2V0bGFuZDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlNhbHRtYXJzaDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnZlZ2V0YXRpb24gdHlwZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PmRlZXBsZWFybmluZzwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMjUtMTEtMDY8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAyNS0xMS0wNDwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDI2LTAzLTE3PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiPkRhdGFzZXQ8L3Jlc291cmNlVHlwZT4KICA8dmVyc2lvbj5WNDwvdmVyc2lvbj4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+WW91IGFyZSBmcmVlIHRvOlNoYXJlIOKAlCBjb3B5IGFuZCByZWRpc3RyaWJ1dGUgdGhlIG1hdGVyaWFsIGluIGFueSBtZWRpdW0gb3IgZm9ybWF0IDtBZGFwdCDigJQgcmVtaXgsIHRyYW5zZm9ybSwgYW5kIGJ1aWxkIHVwb24gdGhlIG1hdGVyaWFsIGZvciBhbnkgcHVycG9zZSwgZXZlbiBjb21tZXJjaWFsbHkuIFRoaXMgbGljZW5zZSBpcyBhY2NlcHRhYmxlIGZvciBGcmVlIEN1bHR1cmFsIFdvcmtzLiBUaGUgbGljZW5zb3IgY2Fubm90IHJldm9rZSB0aGVzZSBmcmVlZG9tcyBhcyBsb25nIGFzIHlvdSBmb2xsb3cgdGhlIGxpY2Vuc2UgdGVybXMuPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Q0NBVi0xMG0mYW1wO25ic3A7cmVwcmVzZW50cyB0aGUgc3BhdGlvdGVtcG9yYWwgZGlzdHJpYnV0aW9uIG9mIG1ham9yIGNvYXN0YWwgd2V0bGFuZCB2ZWdldGF0aW9uIHR5cGVzIGFsb25nIGVhc3Rlcm4gQ2hpbmEgZnJvbSZhbXA7bmJzcDsyMDE2IHRvIDIwMjMuIFRoZSBkYXRhc2V0IGlzIGRlcml2ZWQgZnJvbSBtdWx0aS1zb3VyY2UgcmVtb3RlIHNlbnNpbmcgaW1hZ2VyeSBvZiZhbXA7bmJzcDtTZW50aW5lbC0xIFNBUiZhbXA7bmJzcDthbmQmYW1wO25ic3A7U2VudGluZWwtMiBNU0ksIGludGVncmF0aW5nIG9wdGljYWwgYW5kIHJhZGFyIGluZm9ybWF0aW9uIHRocm91Z2ggYSBkZWVwIGxlYXJuaW5nJmFtcDtuZGFzaDtiYXNlZCBjbGFzc2lmaWNhdGlvbiBmcmFtZXdvcmsuJmFtcDtuYnNwO0NDQVYtMTBtJmFtcDtuYnNwO2NvdmVycyB0aGUgZW50aXJlIGVhc3Rlcm4gY29hc3RhbCB6b25lIG9mIENoaW5hIGF0IGEgc3BhdGlhbCByZXNvbHV0aW9uIG9mJmFtcDtuYnNwOzEwIG0gJmFtcDt0aW1lczsgMTAgbSZhbXA7bmJzcDthbmQgYW4gYW5udWFsIHRlbXBvcmFsIHJlc29sdXRpb24sIGNvbXByaXNpbmcmYW1wO25ic3A7ZWlnaHQgeWVhcmx5IG1hcHMgKDIwMTYmYW1wO25kYXNoOzIwMjMpLiBJdCBkaXN0aW5ndWlzaGVzIHNpeCBkb21pbmFudCBjb2FzdGFsIHdldGxhbmQgcGxhbnQgdHlwZXM6JmFtcDtuYnNwO1MuJmFtcDtuYnNwO2FsdGVybmlmbG9yYSwmYW1wO25ic3A7U3VhZWRhJmFtcDtuYnNwO3NwcC4sJmFtcDtuYnNwO1AuJmFtcDtuYnNwO2F1c3RyYWxpcywmYW1wO25ic3A7Uy4mYW1wO25ic3A7bWFyaXF1ZXRlciwgbWFuZ3JvdmVzLCBhbmQmYW1wO25ic3A7VC4mYW1wO25ic3A7Y2hpbmVuc2lzLiBNb2RlbCB2YWxpZGF0aW9uIGluZGljYXRlcyBhIGhpZ2ggY2xhc3NpZmljYXRpb24gYWNjdXJhY3ksIHdpdGggYW4mYW1wO25ic3A7b3ZlcmFsbCBhY2N1cmFjeSAoT0EpIG9mIDAuOTE2JmFtcDtuYnNwO2FuZCBhJmFtcDtuYnNwO0thcHBhIGNvZWZmaWNpZW50IG9mIDAuODk4LCBkZW1vbnN0cmF0aW5nIHN0YWJsZSBhbmQgcmVsaWFibGUgc3BlY2llcyBkaXNjcmltaW5hdGlvbiBhY3Jvc3MgeWVhcnMuIEVhY2ggYW5udWFsIHByb2R1Y3QgaXMgcHJvdmlkZWQgaW4mYW1wO25ic3A7R2VvVElGRiByYXN0ZXIgZm9ybWF0JmFtcDtuYnNwO3dpdGggc3BhdGlhbCByZWZlcmVuY2UgaW5mb3JtYXRpb24gYW5kIHZlZ2V0YXRpb24gY2xhc3NpZmljYXRpb24gcmVzdWx0cywgY29tcGF0aWJsZSB3aXRoIGNvbW1vbiBHSVMgc29mdHdhcmUgKGUuZy4sIEFyY0dJUywgUUdJUykgYW5kIHJlbW90ZSBzZW5zaW5nIHBsYXRmb3JtcyAoZS5nLiwgR29vZ2xlIEVhcnRoIEVuZ2luZSkuIEZpbGUgbmFtZXMgZm9sbG93IHRoZSBjb252ZW50aW9uJmFtcDtuYnNwO0NDQVYtMTBtX1lZWVkudGlmLCB3aGVyZSZhbXA7bmJzcDtZWVlZJmFtcDtuYnNwO2Rlbm90ZXMgdGhlIHllYXIuIFRoZSBkYXRhc2V0IHByb3ZpZGVzIGEgaGlnaC1wcmVjaXNpb24gZm91bmRhdGlvbiBmb3ImYW1wO25ic3A7c3BlY2llcyBkaXN0cmlidXRpb24gYW5hbHlzaXMsIGNvbW11bml0eSBzdWNjZXNzaW9uIHN0dWRpZXMsIGJsdWUgY2FyYm9uIGFzc2Vzc21lbnQsJmFtcDtuYnNwO2FuZCZhbXA7bmJzcDtpbnZhc2l2ZSBzcGVjaWVzIG1hbmFnZW1lbnQmYW1wO25ic3A7aW4gY29hc3RhbCB3ZXRsYW5kcy48L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiIHhtbDpsYW5nPSJ6aCI+Q0NBVi0xMG0mYW1wO25ic3A7cmVwcmVzZW50cyB0aGUgc3BhdGlvdGVtcG9yYWwgZGlzdHJpYnV0aW9uIG9mIG1ham9yIGNvYXN0YWwgd2V0bGFuZCB2ZWdldGF0aW9uIHR5cGVzIGFsb25nIGVhc3Rlcm4gQ2hpbmEgZnJvbSZhbXA7bmJzcDsyMDE2IHRvIDIwMjMuIFRoZSBkYXRhc2V0IGlzIGRlcml2ZWQgZnJvbSBtdWx0aS1zb3VyY2UgcmVtb3RlIHNlbnNpbmcgaW1hZ2VyeSBvZiZhbXA7bmJzcDtTZW50aW5lbC0xIFNBUiZhbXA7bmJzcDthbmQmYW1wO25ic3A7U2VudGluZWwtMiBNU0ksIGludGVncmF0aW5nIG9wdGljYWwgYW5kIHJhZGFyIGluZm9ybWF0aW9uIHRocm91Z2ggYSBkZWVwIGxlYXJuaW5nJmFtcDtuZGFzaDtiYXNlZCBjbGFzc2lmaWNhdGlvbiBmcmFtZXdvcmsuJmFtcDtuYnNwO0NDQVYtMTBtJmFtcDtuYnNwO2NvdmVycyB0aGUgZW50aXJlIGVhc3Rlcm4gY29hc3RhbCB6b25lIG9mIENoaW5hIGF0IGEgc3BhdGlhbCByZXNvbHV0aW9uIG9mJmFtcDtuYnNwOzEwIG0gJmFtcDt0aW1lczsgMTAgbSZhbXA7bmJzcDthbmQgYW4gYW5udWFsIHRlbXBvcmFsIHJlc29sdXRpb24sIGNvbXByaXNpbmcmYW1wO25ic3A7ZWlnaHQgeWVhcmx5IG1hcHMgKDIwMTYmYW1wO25kYXNoOzIwMjMpLiBJdCBkaXN0aW5ndWlzaGVzIHNpeCBkb21pbmFudCBjb2FzdGFsIHdldGxhbmQgcGxhbnQgdHlwZXM6JmFtcDtuYnNwO1MuJmFtcDtuYnNwO2FsdGVybmlmbG9yYSwmYW1wO25ic3A7U3VhZWRhJmFtcDtuYnNwO3NwcC4sJmFtcDtuYnNwO1AuJmFtcDtuYnNwO2F1c3RyYWxpcywmYW1wO25ic3A7Uy4mYW1wO25ic3A7bWFyaXF1ZXRlciwgbWFuZ3JvdmVzLCBhbmQmYW1wO25ic3A7VC4mYW1wO25ic3A7Y2hpbmVuc2lzLiBNb2RlbCB2YWxpZGF0aW9uIGluZGljYXRlcyBhIGhpZ2ggY2xhc3NpZmljYXRpb24gYWNjdXJhY3ksIHdpdGggYW4mYW1wO25ic3A7b3ZlcmFsbCBhY2N1cmFjeSAoT0EpIG9mIDAuOTE2JmFtcDtuYnNwO2FuZCBhJmFtcDtuYnNwO0thcHBhIGNvZWZmaWNpZW50IG9mIDAuODk4LCBkZW1vbnN0cmF0aW5nIHN0YWJsZSBhbmQgcmVsaWFibGUgc3BlY2llcyBkaXNjcmltaW5hdGlvbiBhY3Jvc3MgeWVhcnMuIEVhY2ggYW5udWFsIHByb2R1Y3QgaXMgcHJvdmlkZWQgaW4mYW1wO25ic3A7R2VvVElGRiByYXN0ZXIgZm9ybWF0JmFtcDtuYnNwO3dpdGggc3BhdGlhbCByZWZlcmVuY2UgaW5mb3JtYXRpb24gYW5kIHZlZ2V0YXRpb24gY2xhc3NpZmljYXRpb24gcmVzdWx0cywgY29tcGF0aWJsZSB3aXRoIGNvbW1vbiBHSVMgc29mdHdhcmUgKGUuZy4sIEFyY0dJUywgUUdJUykgYW5kIHJlbW90ZSBzZW5zaW5nIHBsYXRmb3JtcyAoZS5nLiwgR29vZ2xlIEVhcnRoIEVuZ2luZSkuIEZpbGUgbmFtZXMgZm9sbG93IHRoZSBjb252ZW50aW9uJmFtcDtuYnNwO0NDQVYtMTBtX1lZWVkudGlmLCB3aGVyZSZhbXA7bmJzcDtZWVlZJmFtcDtuYnNwO2Rlbm90ZXMgdGhlIHllYXIuIFRoZSBkYXRhc2V0IHByb3ZpZGVzIGEgaGlnaC1wcmVjaXNpb24gZm91bmRhdGlvbiBmb3ImYW1wO25ic3A7c3BlY2llcyBkaXN0cmlidXRpb24gYW5hbHlzaXMsIGNvbW11bml0eSBzdWNjZXNzaW9uIHN0dWRpZXMsIGJsdWUgY2FyYm9uIGFzc2Vzc21lbnQsJmFtcDtuYnNwO2FuZCZhbXA7bmJzcDtpbnZhc2l2ZSBzcGVjaWVzIG1hbmFnZW1lbnQmYW1wO25ic3A7aW4gY29hc3RhbCB3ZXRsYW5kcy48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzaXplcz4KICAgIDxzaXplPjE5ODIyMzM3NSBieXRlczwvc2l6ZT4KICAgIDxzaXplPjMgZmlsZXM8L3NpemU+CiAgPC9zaXplcz4KPC9yZXNvdXJjZT4=",
+      "url": "https://www.scidb.cn/detail?dataSetId=a085f16794464c869ad6511f1a887ffe",
+      "contentUrl": null,
+      "metadataVersion": 3,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 1,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2025-11-06T09:55:13.000Z",
+      "registered": "2025-11-06T09:55:13.000Z",
+      "published": "2026",
+      "updated": "2026-04-03T07:59:55.000Z"
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "cnic.sciencedb",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "cnic",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": "10.57760/sciencedb.31077",
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": []
+      },
+      "citations": {
+        "data": []
+      },
+      "parts": {
+        "data": [
+          {
+            "id": "10.5194/essd-18-2907-2026",
+            "type": "dois"
+          }
+        ]
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": []
+      }
+    }
+  }
+}
