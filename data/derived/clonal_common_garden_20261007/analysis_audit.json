@@ -1,0 +1,50 @@
+{
+  "dataset_doi": "10.6084/m9.figshare.33329481.v1",
+  "source_sha256": "5e0b03c8f0e645efe5ab97dc2662856f9f7f99c6bd9cd9051d325ab8cffff106",
+  "source_rows": 400,
+  "origins": [
+    "LZ",
+    "YX",
+    "LY",
+    "YQ",
+    "FX",
+    "RD",
+    "GY",
+    "DY"
+  ],
+  "gardens": [
+    "Dongying",
+    "Taizhou",
+    "Zhanjiang"
+  ],
+  "blocks_by_garden": {
+    "Dongying": 10,
+    "Taizhou": 20,
+    "Zhanjiang": 20
+  },
+  "observed_by_trait": {
+    "ramets": 344,
+    "emergence": 338
+  },
+  "missing_by_trait": {
+    "ramets": 56,
+    "emergence": 62
+  },
+  "source_environment_independent_units": 8,
+  "seed": 20261007,
+  "bootstrap_requested": 5000,
+  "bootstrap_empty_cell_scheme_draws_discarded": 0,
+  "exact_permutations": 40320,
+  "multiplicity_family": "6 latitude-cline tests, max absolute Spearman statistic; shared origin-label permutation",
+  "limitations": [
+    "Exploratory reanalysis of public dataset, not a preregistered confirmatory experiment.",
+    "No linked article, calendar, genotype IDs, seed-family IDs or missingness explanation supplied.",
+    "Garden contrasts combine climate and all other location conditions; no causal temperature effect.",
+    "Source-population effects may include genetics, maternal and carry-over effects; not proof of heritability.",
+    "Block labels treated as within-garden blocks; independence not established by metadata.",
+    "Only 8 origin units; 400 rows do not provide 400 independent climate replicates.",
+    "Observed-only targets condition on availability; missing-as-zero and observed-max are scenarios, not biological bounds.",
+    "Bootstrap CIs are pointwise exploratory intervals; permutation exchangeability is an assumption.",
+    "No local temporal adaptation, fitness advantage or independent-site AI transfer is demonstrated."
+  ]
+}

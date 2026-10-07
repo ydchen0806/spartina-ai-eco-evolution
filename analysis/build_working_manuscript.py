@@ -47,7 +47,10 @@ def main():
         ('Extended Data Figure 1', 'data/derived/trajectory_audit_20261007/image_alignment_diagnostic.png'),
         ('Extended Data Figure 2', 'data/derived/ccav_20261007/ccav_sample_audit.png'),
         ('Extended Data Figure 3', 'data/derived/ccav_20261007/ccav_annual_site_maps.png'),
-        ('Extended Data Figure 4', 'data/derived/ccav_20261007/isolated_mask_ccav_agreement.png')]
+        ('Extended Data Figure 4', 'data/derived/ccav_20261007/isolated_mask_ccav_agreement.png'),
+        ('Extended Data Figure 5', 'data/derived/clonal_common_garden_20261007/clonal_reaction_norms.png'),
+        ('Extended Data Figure 6', 'data/derived/clonal_common_garden_20261007/clonal_block_sensitivity.png'),
+        ('Extended Data Figure 7', 'data/derived/clonal_common_garden_20261007/clonal_leave_origin_out.png')]
     for label, path in figure_paths:
         doc.add_heading(label, 2)
         doc.add_picture(str(ROOT / path), width=Inches(6.5))

@@ -1,0 +1,2551 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4574058,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T15:05:17Z",
+          "timestamp": 1782918317813,
+          "version": "3.54.5"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  1996,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "1996-01-01T00:00:00Z",
+              "timestamp": 820454400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Ecology"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1996,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Ramet dynamics and net aerial primary productivity (NAPP) were studied in samples of Spartina alterniflora (smooth cordgrass) at Sapelo Island, Georgia. Three populations were compared: tall, short, and short with nitrogen fertilization in spring (short/N). Tall and short S. alterniflora populations had different demographic characteristics. The short population had a shorter leaf longevity (49 vs. 72 d) and a higher leaf turnover than the tall population, which may be due to high salinity and nitrogen limitation in the high marsh. Although the average ramet longevities of tall and short populations were similar (231 and 204 d, respectively), cohorts of the tall population that emerged early in the growing season had a significantly longer average life\u2014span than those of the short population, probably because they had more support from belowground reserves that led to a higher initial survival rate. Leaf number, leaf area, shoot density, and biomass production of the short population were greatly increased by spring nitrogen fertilization, but the longevity of leaves and ramets was little affected. Using the demographic data and phytometric equations (nondestructive method), new growth was found throughout the year in S. alterniflora populations at Sapelo Island. The average dry mass NAPP was estimated to be 1105, 2244, and 1520 g.\\mathrm{m}<jats:sup>{</jats:sup>\u20142}.\\mathrm{yr}<jats:sup>{</jats:sup>\u20141}$ for the short, short/N, and tall populations, respectively. Because of its higher leaf turnover, the short population had a higher leaf to stem production ratio than the tall population. NAPP estimates obtained by nondestructive methods usually lie between overestimates and underestimates from harvest methods, indicating that nondestructive methods give accurate estimates of NAPP for salt marshes. Using the highest spring aerial production rates, the upper limits of annual dry mass total production of S. alterniflora at Sapelo Island were calculated as 2555 g/\\mathrm{m}<jats:sup>2</jats:sup>$ for the short population and 4526 g/\\mathrm{m}<jats:sup>2</jats:sup>$ for the tall population. These limits are lower than many previous estimates of annual total primary production for S. alterniflora.</jats:p>",
+        "DOI": "10.2307/2265677",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              5,
+              9
+            ]
+          ],
+          "date-time": "2006-05-09T15:45:02Z",
+          "timestamp": 1147189502000
+        },
+        "page": "276-288",
+        "source": "Crossref",
+        "is-referenced-by-count": 75,
+        "title": [
+          "Ramet Population Dynamics and Net Aerial Primary Productivity of Spartina Alterniflora"
+        ],
+        "prefix": "10.1002",
+        "volume": "77",
+        "author": [
+          {
+            "given": "Ting",
+            "family": "Dai",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard G.",
+            "family": "Wiegert",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              1996,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Ecology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F2265677",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F2265677",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/2265677",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2023-11-22T15:00:51Z",
+          "timestamp": 1700665251000
+        },
+        "score": 37.105804,
+        "resource": {
+          "primary": {
+            "URL": "https://esajournals.onlinelibrary.wiley.com/doi/10.2307/2265677"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1996,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                1996,
+                1
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.2307/2265677"
+        ],
+        "URL": "https://doi.org/10.2307/2265677",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0012-9658",
+          "1939-9170"
+        ],
+        "issn-type": [
+          {
+            "value": "0012-9658",
+            "type": "print"
+          },
+          {
+            "value": "1939-9170",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2026-09-27T02:52:40Z",
+          "timestamp": 1790477560645,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  1988,
+                  8,
+                  1
+                ]
+              ],
+              "date-time": "1988-08-01T00:00:00Z",
+              "timestamp": 586396800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Ecology"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Tall\u2014 and short\u2014form Spartina alterniflora plants were transplanted from the Delaware marsh to common garden plots during the summer of 1978 and irrigated with saltwater three times a week during that and each subsequent growing season. Nine years later plant biomass, culm height, density, and diameter and flowering frequency remained distinct. Underground regrowth reserves and root profiles likewise remained distinct for the two forms. Since the two growth forms had been living in the same environment for 9 yr and had retained many ological and physiological differences, some genetic control of the morphology and physiology of the two growth forms is highly probable.</jats:p>",
+        "DOI": "10.2307/1941255",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              5,
+              9
+            ]
+          ],
+          "date-time": "2006-05-09T14:25:11Z",
+          "timestamp": 1147184711000
+        },
+        "page": "1005-1008",
+        "source": "Crossref",
+        "is-referenced-by-count": 82,
+        "title": [
+          "Persistent Differences in Two Forms of Spartina Alterniflora: A Common Garden Experiment"
+        ],
+        "prefix": "10.1002",
+        "volume": "69",
+        "author": [
+          {
+            "given": "John L.",
+            "family": "Gallagher",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "G. Fred",
+            "family": "Somers",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Donna M.",
+            "family": "Grant",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Denise M.",
+            "family": "Seliskar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Ecology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F1941255",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F1941255",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/1941255",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2023-11-22T05:50:17Z",
+          "timestamp": 1700632217000
+        },
+        "score": 36.15555,
+        "resource": {
+          "primary": {
+            "URL": "https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1941255"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                1988,
+                8
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.2307/1941255"
+        ],
+        "URL": "https://doi.org/10.2307/1941255",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0012-9658",
+          "1939-9170"
+        ],
+        "issn-type": [
+          {
+            "value": "0012-9658",
+            "type": "print"
+          },
+          {
+            "value": "1939-9170",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T10:14:19Z",
+          "timestamp": 1777630459720,
+          "version": "3.51.4"
+        },
+        "reference-count": 70,
+        "publisher": "Humboldt Field Research Institute",
+        "issue": "3",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Northeastern Naturalist"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              17
+            ]
+          ]
+        },
+        "DOI": "10.1656/045.028.0309",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              17
+            ]
+          ],
+          "date-time": "2021-08-17T05:58:59Z",
+          "timestamp": 1629179939000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Genetic Diversity and Clonal Structure of Spartina alterniflora in a Virginia Marsh"
+        ],
+        "prefix": "10.1656",
+        "volume": "28",
+        "author": [
+          {
+            "given": "Janet B.",
+            "family": "Walker",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Environmental Sciences, University of Virginia, Charlottesville, VA 22904."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Alexandra L.",
+            "family": "Bijak",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Environmental Sciences, University of Virginia, Charlottesville, VA 22904."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Linda",
+            "family": "Blum",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Environmental Sciences, University of Virginia, Charlottesville, VA 22904."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1234",
+        "reference": [
+          {
+            "key": "10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. Costanza, R. D'arge, R. de Groot, et al. \"Nature.\" 387, \"The value of the world's ecosystem services and natural capital.\" 253 (1997)",
+            "DOI": "10.1038/387253a0"
+          },
+          {
+            "key": "7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M.M. Brinson, R.R. Christian, L.K. Blum, \"Estuaries.\" 18, \"Multiple states in the sea-level induced transition from terrestrial forest to estuary.\" 648 (1995)",
+            "DOI": "10.2307/1352383"
+          },
+          {
+            "key": "28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K. Keenan, P. Mcginnity, T.F. Cross, et al. \"Methods in Ecology and Evolution.\" 4, \"diveRsity: An R package for the estimation and exploration of population genetics parameters and their associated errors.\" 782 (2013)",
+            "DOI": "10.1111/2041-210X.12067"
+          },
+          {
+            "key": "18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K.B. Gedan and M.D. Bertness \"Oecologia.\" 164, \"How will warming affect the salt marsh foundation species Spartina patens and its ecological role?\" 479 (2010)",
+            "DOI": "10.1007/s00442-010-1661-x"
+          },
+          {
+            "key": "8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L.M. Broadhurst, A. Lowe, D.J. Coates, et al. \"Evolutionary Applications.\" 1, \"Seed supply for broadscale restoration: maximizing evolutionary potential.\" 587 (2008)",
+            "DOI": "10.1111/j.1752-4571.2008.00045.x"
+          },
+          {
+            "key": "37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "P.G. Meirmans and P.H. Van Tienderen \"Molecular Ecology Notes.\" 4, \"GENOTYPE and GENODIVE: two programs for the analysis of genetic diversity of asexual organisms.\" 792 (2004)",
+            "DOI": "10.1111/j.1471-8286.2004.00770.x"
+          },
+          {
+            "key": "22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B.P. Hayden, G.C. Ray, R. Dolan, \"Environmental Conservation.\" 11, \"Classification of coastal and marine environments.\" 199 (1984)",
+            "DOI": "10.1017/S0376892900014211"
+          },
+          {
+            "key": "1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. Amer, A.S. Kolker, A. Muscietta, \"Remote Sensing of Environment.\" 199, \"Propensity for erosion and deposition in a deltaic wetland complex: Implications for river management and coastal restoration.\" 39 (2017)",
+            "DOI": "10.1016/j.rse.2017.06.030"
+          },
+          {
+            "key": "2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B.M. Bernik, M.B. Eppinga, A.S. Kolker, et al. \"Geophysical Research Letters.\" 45, \"Clonal vegetation patterns mediate shoreline erosion.\" 6476 (2018)",
+            "DOI": "10.1029/2018GL077537"
+          },
+          {
+            "key": "3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.M. Binks, M.A. Millar, M. Byrne, \"Heredity.\" 115, \"Contrasting patterns of clonality and fine-scale genetic structure in two rare sedges with differing geographic distributions.\" 235 (2015)",
+            "DOI": "10.1038/hdy.2015.32"
+          },
+          {
+            "key": "4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M.J. Blum, C.M. Sloop, D.R. Ayres, et al. \"Molecular Ecology Notes.\" 4, \"Characterization of microsatellite loci in Spartina species (Poaceae).\" 39 (2004)",
+            "DOI": "10.1046/j.1471-8286.2003.00556.x"
+          },
+          {
+            "key": "5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M.J. Blum, K. Jun Bando, M. Katz, et al. \"Journal of Biogeography.\" 34, \"Geographic structure, genetic diversity, and source tracking of Spartina alterniflora.\" 2055 (2007)",
+            "DOI": "10.1111/j.1365-2699.2007.01764.x"
+          },
+          {
+            "key": "6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.E. Booth and J.P. Grime \"Journal of Ecology.\" 91, \"Effects of genetic impoverishment on plant community diversity.\" 721 (2003)",
+            "DOI": "10.1046/j.1365-2745.2003.00804.x"
+          },
+          {
+            "key": "9",
+            "unstructured": "R.R. Christian and L.K. Blum \"Version 25. Virginia Coast Reserve Long-Term Ecological Research Project Data Publication knb-lter-vcr.167.25.\" \"End of year biomass in marshes of the Virginia Coast Reserve 1999\u20132017.\" (2017)"
+          },
+          {
+            "key": "11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. Costanza, B. Fisher, S. Ali, et al. \"Ecological Economics.\" 61, \"Quality of life: An approach integrating opportunities, human needs, and subjective well-being.\" 267 (2007)",
+            "DOI": "10.1016/j.ecolecon.2006.02.023"
+          },
+          {
+            "key": "12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M.E. Dorken, J. Friedman, S.C.H. Barrett, \"Evolution.\" 56, \"The evolution and maintenance of monoecy and dioecy in Sagittaria Latifolia (Alismataceae).\" 31 (2002)",
+            "DOI": "10.1554/0014-3820(2002)056[0031:TEAMOM]2.0.CO;2"
+          },
+          {
+            "key": "13",
+            "unstructured": "J.E. Duffy, \"Vanishing and emerging ecosystems of coastal Virginia: Climate change impacts and adaptation.\" 5 (2009)"
+          },
+          {
+            "key": "14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K.R. Edwards, S.E. Travis, C.E. Proffitt, \"Estuaries.\" 28, \"Genetic effects of a large-scale Spartina alterniflora (Smooth Cordgrass) dieback and recovery in the northern Gulf of Mexico.\" 204 (2005)",
+            "DOI": "10.1007/BF02732855"
+          },
+          {
+            "key": "15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A.M. Ellison, \"iScience.\" 13, \"Foundation species, non-trophic interactions, and the value of being common.\" 254 (2019)",
+            "DOI": "10.1016/j.isci.2019.02.020"
+          },
+          {
+            "key": "16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "O. Eriksson, \"Oikos.\" 55, \"Seedling dynamics and life histories in clonal plants.\" 231 (1989)",
+            "DOI": "10.2307/3565427"
+          },
+          {
+            "key": "17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M.L. Gaynor, L.J. Walters, E.A. Hoffman, \"Restoration Ecology.\" 27, \"Ensuring effective restoration efforts with salt marsh grass populations by assessing genetic diversity.\" 1452 (2019)",
+            "DOI": "10.1111/rec.13014"
+          },
+          {
+            "key": "19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K.B. Gedan, B.R. Silliman, M.D. Bertness, \"Annual Review of Marine Science.\" 1, \"Centuries of human-driven change in salt marsh ecosystems.\" 117 (2009)",
+            "DOI": "10.1146/annurev.marine.010908.163930"
+          },
+          {
+            "key": "20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.K. Godfrey and J.W. Wooten \"Aquatic and Wetland Plants of the Southeastern United States: Moncotyledons.\" 728 (1979)",
+            "DOI": "10.1353/book13202"
+          },
+          {
+            "key": "21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "W. Guo, S. Qiao, Y. Wang, et al. \"Hydrobiologia.\" 745, \"Genetic diversity, population structure, and genetic relatedness of native and non-native populations of Spartina alterniflora (Poaceae, Chloridoideae).\" 313 (2015)",
+            "DOI": "10.1007/s10750-014-2117-9"
+          },
+          {
+            "key": "23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A.R. Hughes, \"Journal of Ecology.\" 102, \"Genotypic diversity and trait variance interact to affect marsh plant performance.\" 651 (2014)",
+            "DOI": "10.1111/1365-2745.12244"
+          },
+          {
+            "key": "24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A.R. Hughes and K.E. Lotterhos \"Marine Ecology Progress Series.\" 497, \"Genotypic diversity at multiple spatial scales in the foundation marsh species, Spartina alterniflora.\" 105 (2014)",
+            "DOI": "10.3354/meps10565"
+          },
+          {
+            "key": "25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A.R. Hughes, B.D. Inouye, M.T J. Johnson, et al. \"Ecology Letters.\" 11, \"Ecological consequences of genetic diversity.\" 609 (2008)",
+            "DOI": "10.1111/j.1461-0248.2008.01179.x"
+          },
+          {
+            "key": "26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A.R. Hughes, A.F.P. Moore, C. Gehring, \"American Journal of Botany.\" 107, \"Plant response to fungal root endophytes varies by host genotype in the foundation species Spartina alterniflora.\" 1645 (2020)",
+            "DOI": "10.1002/ajb2.1573"
+          },
+          {
+            "key": "27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D.E. Jelinski and W.M. Cheliak \"American Journal of Botany.\" 79, \"Genetic diversity and spatial subdivision of Populus tremuloides (Salicaceae) in a heterogeneous landscape.\" 728 (1992)",
+            "DOI": "10.2307/2444937"
+          },
+          {
+            "key": "29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K.M. Kettenring, K.L. Mercer, C. Reinhardt Adams, et al. \"Journal of Applied Ecology.\" 51, \"Application of genetic diversity\u2013ecosystem function research to ecological restoration.\" 339 (2014)",
+            "DOI": "10.1111/1365-2664.12202"
+          },
+          {
+            "key": "30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "K.M. Kettenring, B.N. Mossman, R. Downard, et al. \"Restoration Ecology.\" 27, \"Fine-scale genetic diversity and landscape-scale genetic structuring in three foundational bulrush species: Implications for wetland revegetation.\" 408 (2019)",
+            "DOI": "10.1111/rec.12884"
+          },
+          {
+            "key": "31",
+            "unstructured": "M.A. Keusenkothen, \"The effects of deer trampling in a salt marsh.\" (2002)"
+          },
+          {
+            "key": "32",
+            "unstructured": "P. Legendre and L. Legendre \"Numerical Ecology.\" 852 (1998)"
+          },
+          {
+            "key": "33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.Y. Lumibao, B.M. Bernik, S.K. Formel, et al. \"Applications in Plant Sciences.\" 107, \"Rhizosphere microbial communities reflect genotypic and trait variation in a salt marsh ecosystem engineer.\" 941 (2020)",
+            "DOI": "10.1002/ajb2.1497"
+          },
+          {
+            "key": "34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L.B. Marczak, C.K. Ho, K. WI\u0229ski, et al. \"Ecology.\" 92, \"Latitudinal variation in top-down and bottom-up control of a salt marsh food web.\" 276 (2011)",
+            "DOI": "10.1890/10-0760.1"
+          },
+          {
+            "key": "35",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Marsh, L.K. Blum, R.R. Christian, et al. \"Journal of Coastal Conservation.\" 20, \"Response and resilience of Spartina alterniflora to sudden dieback.\" 335 (2016)",
+            "DOI": "10.1007/s11852-016-0445-9"
+          },
+          {
+            "key": "36",
+            "doi-asserted-by": "crossref",
+            "unstructured": "P.G. Meirmans, \"Molecular Ecology Resources.\" 20, \"GENODIVE version 3.0: Easy-to-use software for the analysis of genetic data of diploids and polyploids.\" 1126 (2020)",
+            "DOI": "10.1111/1755-0998.13145"
+          },
+          {
+            "key": "38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.E. Michaels and J.C. Zieman \"Journal of Experimental Marine Biology and Ecology.\" 448, \"Fiddler crab (Uca spp.) burrows have little effect on surrounding sediment oxygen concentrations.\" 104 (2013)",
+            "DOI": "10.1016/j.jembe.2013.06.020"
+          },
+          {
+            "key": "39",
+            "unstructured": "\"Environmental Data Initiative.\" \"NOAA-NOS-NGS t-sheet vector shorelines for the Eastern Shore of VA and southern MD, 1847\u20131978 ver 3.\" (2018)"
+          },
+          {
+            "key": "40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. E. Noto and A. R. Hughes \"Ecosphere.\" 11, \"Intraspecific diversity at two trophic levels influences plant\u2013herbivore interactions.\" e03121 (2020)",
+            "DOI": "10.1002/ecs2.3121"
+          },
+          {
+            "key": "41",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Novy, P. E. Smouse, J. M. Hartman, et al. \"Wetlands.\" 30, \"Genetic variation of Spartina alterniflora in the New York metropolitan area and its relevance for marsh restoration.\" 603 (2010)",
+            "DOI": "10.1007/s13157-010-0046-6"
+          },
+          {
+            "key": "42",
+            "unstructured": "C. Nuortila, J. Tuomi, J. Aspi, et al. \"Annales Zoologici Fennici.\" 43, \"Early acting inbreeding depression in a clonal dwarf shrub, Vaccinium myrtillus, in a northern boreal forest.\" 36 (2006)"
+          },
+          {
+            "key": "43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D.L. O'Brien and D.W. Freshwater \"Wetlands.\" 19, \"Genetic diversity within tall-form Spartina alterniflora Loisel along the Atlantic and Gulf coasts of the United States.\" 352 (1999)",
+            "DOI": "10.1007/BF03161766"
+          },
+          {
+            "key": "44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G.F. Oertel, M.S. Kearney, S.P. Leatherman, et al. \"Marine Geology.\" 88, \"Anatomy of a barrier platform: Outer barrier lagoon, southern Delmarva Peninsula, Virginia.\" 303 (1989a)",
+            "DOI": "10.1016/0025-3227(89)90103-5"
+          },
+          {
+            "key": "45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G.F. Oertel, G.T.F. Wong, J.D. Conway, \"Estuaries.\" 12, \"Sediment accumulation at a fringe marsh during transgression, Oyster, Virginia.\" 18 (1989b)",
+            "DOI": "10.2307/1351446"
+          },
+          {
+            "key": "46",
+            "unstructured": "S.C. Pennings and M.D. Bertness \"Current Topics in Wetland Biogeochemistry.\" 3, \"Using latitudinal variation to examine effects of climate on coastal salt marsh pattern and process.\" 100 (1999)"
+          },
+          {
+            "key": "47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S.C. Pennings and B.R. Silliman \"Ecology.\" 86, \"Linking biogeography and community ecology: Latitudinal variation in plant\u2013herbivore interaction strength.\" 2310 (2005)",
+            "DOI": "10.1890/04-1022"
+          },
+          {
+            "key": "48",
+            "unstructured": "J. Porter, D. Krovetz, W. Nuttle, et al. \"Environmental Data Initiative.\" \"Hourly meteorological data for the Virginia Coast Reserve LTER 1989\u2013present ver 30.\" (2014)"
+          },
+          {
+            "key": "49",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.E. Proffitt, R.L. Chiasson, A.B. Owens, et al. \"Journal of Ecology.\" 93, \"Spartina alterniflora genotype influences facilitation and suppression of high-marsh species colonizing an early successional salt marsh.\" 404 (2005)",
+            "DOI": "10.1111/j.0022-0477.2005.00983.x"
+          },
+          {
+            "key": "50",
+            "unstructured": "\"R: A language and environment for statistical computing. Version 4.0.3.\" (2020)"
+          },
+          {
+            "key": "51",
+            "unstructured": "G.C. Ray, \"Biodiversity.\" \"Ecological diversity in coastal zones and oceans.\" 36 (1988)"
+          },
+          {
+            "key": "52",
+            "doi-asserted-by": "crossref",
+            "unstructured": "T.B.H. Reusch and A.R. Hughes \"Estuaries and Coasts.\" 29, \"The emerging role of genetic diversity for ecosystem functioning: Estuarine macrophytes as models.\" 159 (2006)",
+            "DOI": "10.1007/BF02784707"
+          },
+          {
+            "key": "53",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.L. Richards, J.L. Hamrick, L.A. Donovan, et al. \"Ecology Letters.\" 7, \"Unexpectedly high clonal diversity of two salt marsh perennials across a severe environmental gradient.\" 1155 (2004)",
+            "DOI": "10.1111/j.1461-0248.2004.00674.x"
+          },
+          {
+            "key": "54",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S.H. Rogstad, B. Keane, J. Beresh, \"Plant Ecology.\" 161, \"Genetic variation across VNTR loci in central North American Taraxacum surveyed at different spatial scales.\" 111 (2002)",
+            "DOI": "10.1023/A:1020301011283"
+          },
+          {
+            "key": "55",
+            "doi-asserted-by": "crossref",
+            "unstructured": "P.S. Schmidt, E.A. Serr\u00e3o, G.A. Pearson, et al. \"Ecology.\" 89, \"Ecological genetics in the North Atlantic: Environmental gradients and adaptation at specific loci.\" 91 (2008)",
+            "DOI": "10.1890/07-1162.1"
+          },
+          {
+            "key": "56",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D.M. Seliskar, J L. Gallagher, D.M. Burdick, et al. \"Journal of Ecology.\" 90, \"The regulation of ecosystem functions by ecotypic variation in the dominant plant: A Spartina alterniflora salt-marsh case study.\" 1 (2002)",
+            "DOI": "10.1046/j.0022-0477.2001.00632.x"
+          },
+          {
+            "key": "57",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.R. Thomas and L.K. Blum \"Marine Ecology Progress Series.\" 414, \"Importance of the fiddler crab Uca pugnax to salt marsh soil organic matter accumulation.\" 167 (2010)",
+            "DOI": "10.3354/meps08708"
+          },
+          {
+            "key": "58",
+            "doi-asserted-by": "crossref",
+            "unstructured": "P.M. Tolley and R.R. Christian \"Estuaries.\" 22, \"Effects of increased inundation and wrack deposition on a high salt marsh plant community.\" 944 (1999)",
+            "DOI": "10.2307/1353074"
+          },
+          {
+            "key": "59",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S.E. Travis and M.W. Hester \"Journal of Ecology.\" 93, \"A space-for-time substitution reveals the long-term decline in genotypic diversity of a widespread salt marsh plant, Spartina alterniflora, over a span of 1500 years.\" 417 (2005)",
+            "DOI": "10.1111/j.0022-0477.2005.00985.x"
+          },
+          {
+            "key": "60",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S.E. Travis, C.E. Proffitt, R.C. Lowenfeld, et al. \"Restoration Ecology.\" 10, \"A comparative assessment of genetic diversity among differentlyaged populations of Spartina alterniflora on restored versus natural wetlands.\" 37 (2002)",
+            "DOI": "10.1046/j.1526-100X.2002.10104.x"
+          },
+          {
+            "key": "61",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S.E. Travis, C.E. Proffitt, K. Ritland, \"Ecological Applications.\" 14, \"Population structure and inbreeding vary with successional stage in created Spartina alterniflora marshes.\" 1189 (2004)",
+            "DOI": "10.1890/03-5135"
+          },
+          {
+            "key": "62",
+            "doi-asserted-by": "crossref",
+            "unstructured": "H.R. Tumas, B.M. Shamblin, M.S. Woodrey, et al. \"Conservation Genetics.\" 20, \"Broad-scale patterns of genetic diversity and structure in a foundational salt marsh species, Black Needlerush (Juncus roemerianus).\" 903 (2019)",
+            "DOI": "10.1007/s10592-019-01183-3"
+          },
+          {
+            "key": "63",
+            "doi-asserted-by": "crossref",
+            "unstructured": "H.S. Utomo, I. Wenefrida, M.D. Materne, et al. \"Aquatic Botany.\" 90, \"Genetic diversity and population genetic structure of saltmarsh Spartina alterniflora from four coastal Louisiana basins.\" 30 (2009)",
+            "DOI": "10.1016/j.aquabot.2008.05.003"
+          },
+          {
+            "key": "64",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. Vallejo-Mar\u00edn, M.E. Dorken, S.C.H. Barrett, \"Annual Review of Ecology, Evolution, and Systematics.\" 41, \"The ecological and evolutionary consequences of clonality for plant mating.\" 193 (2010)",
+            "DOI": "10.1146/annurev.ecolsys.110308.120258"
+          },
+          {
+            "key": "65",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.G. Wiegert and B.J. Freeman \"Tidal salt marshes of the southeast Atlantic coast: A community profile.\" 70 + viii (1990)",
+            "DOI": "10.2172/5032823"
+          },
+          {
+            "key": "66",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Y. Xiao, H. Zhao, W. Yang, et al. \"Clean Soil, Air, Water.\" 43, \"Variations in growth, clonal and sexual reproduction of Spartina alterniflora responding to changes in clonal integration and sand burial.\" 1100 (2015)",
+            "DOI": "10.1002/clen.201300868"
+          },
+          {
+            "key": "67",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. Yachi and M. Loreau \"Proceedings of the National Academy of Sciences of the United States of America.\" 96, \"Biodiversity and ecosystem productivity in a fluctuating environment: The insurance hypothesis.\" 1463 (1999)",
+            "DOI": "10.1073/pnas.96.4.1463"
+          },
+          {
+            "key": "68",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L. Yu, C. Bostr\u00f6m, S. Franzenburg, et al. \"Nature Ecology and Evolution.\" 4, \"Somatic genetic drift and multilevel selection in a clonal seagrass.\" 952 (2020)",
+            "DOI": "10.1038/s41559-020-1196-4"
+          },
+          {
+            "key": "69",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.A. Zerebecki, G.M. Crutsinger, A.R. Hughes, \"Journal of Ecology.\" 105, \"Spartina alterniflora genotypic identity affects plant and consumer responses in an experimental marsh community.\" 661 (2017)",
+            "DOI": "10.1111/1365-2745.12703"
+          },
+          {
+            "key": "70",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G.P. Zogg, S.E. Travis, D.A. Brazeau, \"Ecology and Evolution.\" 8, \"Strong associations between plant genotypes and bacterial communities in a natural salt marsh.\" 4721 (2018)",
+            "DOI": "10.1002/ece3.4105"
+          }
+        ],
+        "container-title": [
+          "Northeastern Naturalist"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              7
+            ]
+          ],
+          "date-time": "2023-11-07T12:54:25Z",
+          "timestamp": 1699361665000
+        },
+        "score": 33.63742,
+        "resource": {
+          "primary": {
+            "URL": "https://bioone.org/journals/northeastern-naturalist/volume-28/issue-3/045.028.0309/Genetic-Diversity-and-Clonal-Structure-of-Spartina-alterniflora-in-a/10.1656/045.028.0309.full"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              17
+            ]
+          ]
+        },
+        "references-count": 70,
+        "journal-issue": {
+          "issue": "3",
+          "published-online": {
+            "date-parts": [
+              [
+                2021,
+                8,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1656/045.028.0309",
+        "ISSN": [
+          "1092-6194"
+        ],
+        "issn-type": [
+          {
+            "value": "1092-6194",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ],
+          "date-time": "2025-03-15T05:40:13Z",
+          "timestamp": 1742017213739,
+          "version": "3.38.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        },
+        "group-title": "oral",
+        "reference-count": 0,
+        "publisher": "Copernicus GmbH",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>S. alterniflora eradication is one of the projects for ecological restoration in China's coastal wetlands, an important blue carbon ecosystem. However, the impact of this measure on the carbon cycling of sediment remains insufficiently explored. This study analysed the field-chamber greenhouse gas fluxes and set up laboratory incubation experiments with six varying doses of S. alterniflora residue in sediments, incubating them anaerobically for 60 days to evaluate the impact of S. alterniflora residue on greenhouse gas and to elucidate the underlying mechanisms. The results indicated that, the S. alterniflora eradication project caused pulses of CO2 and CH4 emissions. The increase in the amount of S. alterniflora residue added amplifies the potential production rate of CO2 (increased by 0.07 to 8times) and CH4 (21 to 624 times) during the initial stage (0-7d) of cultivation. Meantime, CO2 and CH4 emissions are not in equal proportion. Assessing GHG emissions as CO2 equivalents, future scenarios of the wetland back into a mudflat-dominated landscape would decrease the GWP because of the reduction in CH4 emissions. These findings implied that the S. alterniflora projects will reduce the GWP, although it takes more than a decade to achieve a &amp;#8220;Net sink&amp;#8221; because of the offsetting of the pulse.</jats:p>",
+        "DOI": "10.5194/egusphere-egu25-17474",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ],
+          "date-time": "2025-03-15T04:54:01Z",
+          "timestamp": 1742014441000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Spartina alterniflora eradication caused CO2 and CH4 emission pulses but reduced the global warming potential"
+        ],
+        "prefix": "10.5194",
+        "author": [
+          {
+            "given": "Hui",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shiyao",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-5200-1035",
+            "authenticated-orcid": false,
+            "given": "Nengwang",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "3145",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ],
+          "date-time": "2025-03-15T04:59:34Z",
+          "timestamp": 1742014774000
+        },
+        "score": 32.4308,
+        "resource": {
+          "primary": {
+            "URL": "https://meetingorganizer.copernicus.org/EGU25/EGU25-17474.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.5194/egusphere-egu25-17474",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        },
+        "subtype": "other"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2026-07-23T16:01:38Z",
+          "timestamp": 1784822498852,
+          "version": "3.55.0"
+        },
+        "publisher-location": "Washington, DC",
+        "reference-count": 0,
+        "publisher": "USDA Forest Service, Research & Development",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1991,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.2737/feis-species-review-spaalt",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2026-07-23T15:03:01Z",
+          "timestamp": 1784818981000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "<em>Spartina alterniflora</em>\n                    , smooth cordgrass"
+        ],
+        "prefix": "10.2737",
+        "author": [
+          {
+            "given": "C. J.",
+            "family": "Walkup",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1450",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2026-07-23T15:03:07Z",
+          "timestamp": 1784818987000
+        },
+        "score": 32.262695,
+        "resource": {
+          "primary": {
+            "URL": "https://research.fs.usda.gov/feis/species-reviews/spaalt"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1991,
+              8
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2737/feis-species-review-spaalt",
+        "published": {
+          "date-parts": [
+            [
+              1991,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "Louisiana State University and Agricultural and Mechanical College"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              28
+            ]
+          ],
+          "date-time": "2023-09-28T10:44:32Z",
+          "timestamp": 1695897872015
+        },
+        "reference-count": 0,
+        "publisher": "Louisiana State University Libraries",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.31390/gradschool_theses.750",
+        "type": "dissertation",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              16
+            ]
+          ],
+          "date-time": "2022-06-16T22:57:15Z",
+          "timestamp": 1655420235000
+        },
+        "approved": {
+          "date-parts": [
+            [
+              2002,
+              1,
+              25
+            ]
+          ]
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Reproductive biology of smooth cordgrass (Spartina alterniflora)"
+        ],
+        "prefix": "10.31390",
+        "author": [
+          {
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiaobing",
+            "family": "Fang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Louisiana State University and Agricultural and Mechanical College"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "16314",
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2023-09-27T20:12:07Z",
+          "timestamp": 1695845527000
+        },
+        "score": 32.238213,
+        "degree": [
+          "Master of Science (MS)"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://repository.lsu.edu/gradschool_theses/750"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.31390/gradschool_theses.750"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              17
+            ]
+          ],
+          "date-time": "2024-12-17T05:12:59Z",
+          "timestamp": 1734412379801,
+          "version": "3.30.2"
+        },
+        "description": "This datasheet on Spartina alterniflora covers Identity, Overview, Distribution, Dispersal, Biology & Ecology, Environmental Requirements, Natural Enemies, Impacts, Uses, Prevention/Control, Further Information.",
+        "reference-count": 78,
+        "publisher": "CABI Publishing",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1079/cabicompendium.107740",
+        "type": "dataset",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              17
+            ]
+          ],
+          "date-time": "2022-11-17T01:35:07Z",
+          "timestamp": 1668648907000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Spartina alterniflora (smooth cordgrass)"
+        ],
+        "prefix": "10.1079",
+        "author": [
+          {
+            "given": "Philip",
+            "family": "Roberts",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "242",
+        "reference": [
+          {
+            "key": "e_1_3_1_2_1",
+            "unstructured": "Anttila CK Daehler CC 1997. Pollen swamping of the native California cordgrass (S. Foliosa) by introduced smooth cordgrass (S. Alterniflora) in San Francisco Bay. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_3_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ayres DR Smith DL Zaremba K Klohr S Strong DR 2004. Spread of exotic cordgrasses and hybrids (Spartina spp.) in the tidal marshes of San Francisco Bay California USA. Biological Invasions 6:221-231.",
+            "DOI": "10.1023/B:BINV.0000022140.07404.b7"
+          },
+          {
+            "key": "e_1_3_1_4_1",
+            "unstructured": "Balthuis DA Scott BA 1993. Effects of application of glyphosate on cordgrass Spartina alterniflora and adjacent native salt marsh vegetation in Padilla Bay Washington. Padilla Bay National Estuarine Research Reserve Technical Report. Mount Vernon Washington USA: Washington State Department of Ecology."
+          },
+          {
+            "key": "e_1_3_1_5_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bascand LD 1968. The control of Spartina species. In: Proceedings 21st N.Z. Weed Pest Control Conf 108-13.",
+            "DOI": "10.30843/nzpp.1968.21.10501"
+          },
+          {
+            "key": "e_1_3_1_6_1",
+            "unstructured": "Bascand LD 1970. The roles of Spartina species in New Zealand. Proceedings of the New Zealand Ecological Society 17:33-40."
+          },
+          {
+            "key": "e_1_3_1_7_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertness MD 1991. Zonation of Spartina patens and Spartina alterniflora in a New England salt marsh. Ecology 72(1):138-148.",
+            "DOI": "10.2307/1938909"
+          },
+          {
+            "key": "e_1_3_1_8_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertness MD Gough L Shumway SW 1992. Salt Tolerances and the Distribution of Fugitive Salt Marsh Plants. Ecology 73(5):1842-1851.",
+            "DOI": "10.2307/1940035"
+          },
+          {
+            "key": "e_1_3_1_9_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertness MD Shumway SW 1992. Consumer driven pollen limitation of seed production in marsh grasses. American Journal of Botany 79(3):288-293.",
+            "DOI": "10.1002/j.1537-2197.1992.tb14550.x"
+          },
+          {
+            "key": "e_1_3_1_10_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Brown CE Pezeshki SR DeLaune RD 2006. The effects of salinity and soil drying on nutrient uptake and growth of Spartina alterniflora in a simulated tidal system. Environmental and Experimental Botany 58(1/3):140-148. http://www.sciencedirect.com/science/journal/00988472",
+            "DOI": "10.1016/j.envexpbot.2005.07.006"
+          },
+          {
+            "key": "e_1_3_1_11_1",
+            "unstructured": "Callaway JC 1990. M.A. Thesis. San Francisco CA USA: San Francisco State University."
+          },
+          {
+            "key": "e_1_3_1_12_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Callaway JC Josselyn MN 1992. The introduction and spread of smooth cordgrass (Spartina alterniflora) in South San Francisco Bay. Estuaries 15(2):218-226.",
+            "DOI": "10.2307/1352695"
+          },
+          {
+            "key": "e_1_3_1_13_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chambers RM Mozder TJ Ambrose JC 1998. Effect of salinity and sulfide on the distribution of Phragmites australis and Spartina alterniflora in a tidal saltmarsh. Aquatic Botany 62:161-169.",
+            "DOI": "10.1016/S0304-3770(98)00095-3"
+          },
+          {
+            "key": "e_1_3_1_14_1",
+            "unstructured": "Cohen AN Carlton JT 1995. Nonindigenous Aquatic Species in a United States Estuary: A Case Study of the Biological Invasion of the San Francisco Bay and Delta. Report for the US Fish and Wildlife Service Washington D.C. and the National Sea Grant College Program Connecticut Sea Grant."
+          },
+          {
+            "key": "e_1_3_1_15_1",
+            "unstructured": "Cordell JR Simenstad CA Feist B Fresh KL Thom RM Stouder DJ Luiting V 1998. The 8th International Zebra Mussel & Other Nuisance Species Conference Sacramento California."
+          },
+          {
+            "key": "e_1_3_1_16_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Costa CSB Marangoni JC Azevedo AMG 2003. Plant zonation in irregularly flooded salt marshes: relative importance of stress tolerance and biological interactions. Journal of Ecology (Oxford) 91(6):951-965.",
+            "DOI": "10.1046/j.1365-2745.2003.00821.x"
+          },
+          {
+            "key": "e_1_3_1_17_1",
+            "unstructured": "Covell CV 2005. A Field Guide to Moths of Eastern North America. Martinsville VA USA: Virginia Museum of Natural History."
+          },
+          {
+            "key": "e_1_3_1_18_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cranford PJ Gordon DC Jarvis CM 1989. Measurement of cordgrass Spartina alterniflora production in a macrotidal estuary Bay of Fundy. Estuaries 12(1):27-34.",
+            "DOI": "10.2307/1351447"
+          },
+          {
+            "key": "e_1_3_1_19_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1994. Variable reproductive output among clones of Spartina alterniflora (Poaceae) invading San Francisco Bay California: the influence of herbivory pollination and establishment site. American Journal of Botany 81(3):307-313.",
+            "DOI": "10.1002/j.1537-2197.1994.tb15448.x"
+          },
+          {
+            "key": "e_1_3_1_20_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1995. Impact of high herbivore densities on introduced smooth cordgrass Spartina alterniflora invading San Francisco Bay California. Estuaries 18(2):409-417.",
+            "DOI": "10.2307/1352323"
+          },
+          {
+            "key": "e_1_3_1_21_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1996. Status prediction and prevention of introduced cordgrass Spartina spp. invasions in Pacific estuaries USA. In: Biological Conservation [ed. by Carey JR Moyle P Rejm\u00e1nek M Vermeij GJ] 51-58.",
+            "DOI": "10.1016/0006-3207(96)00017-1"
+          },
+          {
+            "key": "e_1_3_1_22_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1997. Reduced herbivore resistance in introduced smooth cordgrass (Spartina alterniflora) after a century of herbivore-free growth. Oecologia 110(1):99-108.",
+            "DOI": "10.1007/s004420050138"
+          },
+          {
+            "key": "e_1_3_1_23_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ding JianQing Mack RN Lu Ping Ren MingXun Huang HongWen 2008. China's booming economy is sparking and accelerating biological invasions. BioScience 58(4):317-324. http://www.bioone.org/perlserv/?request=get-current-issue",
+            "DOI": "10.1641/B580407"
+          },
+          {
+            "key": "e_1_3_1_24_1",
+            "unstructured": "Ebasco Environmental 1992. Noxious emergent plant environmental impact statement. element A - Spartina: distribution biology and ecology. Final Report submitted to Washington State Department of Ecology Olympia."
+          },
+          {
+            "key": "e_1_3_1_25_1",
+            "unstructured": "Ebasco Environmental 1993. Noxious emergent plant environmental impact statement. element c - no action: efficacy and impacts. Final Report submitted to Washington State Department of Ecology Olympia."
+          },
+          {
+            "key": "e_1_3_1_26_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Feist BE Simenstad CA 2000. Expansion rates and recruitment frequency of exotic smooth cordgrass Spartina alterniflora (Loisel) colonizing unvegetated littoral flats in Willapa Bay Washington. Estuaries 23:267-274.",
+            "DOI": "10.2307/1352832"
+          },
+          {
+            "key": "e_1_3_1_27_1",
+            "unstructured": "Foss S 1992. Spartina: Threat to Washington's saltwater habitat. Washington State Department of Agriculture Bulletin."
+          },
+          {
+            "key": "e_1_3_1_28_1",
+            "unstructured": "Frenkel RE 1990. Spartina in Oregon. In: Mumford TF Peyton P Sayce JR Harbell S eds. Spartina Workshop Record Washington Sea Grant Program University of Washington Seattle pp. 26."
+          },
+          {
+            "key": "e_1_3_1_29_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Furbish CE Albano M 1994. Selective herbivory and plant community structure in a mid-Atlantic salt marsh. Ecology 75(4):1015-1022.",
+            "DOI": "10.2307/1939425"
+          },
+          {
+            "key": "e_1_3_1_30_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gleason ML Elmer DA Pien NC Fisher JS 1979. Effects of stem density upon sediment retention by salt marsh cord grass Spartina alterniflora Loisel. Estuaries 2:271-273.",
+            "DOI": "10.2307/1351574"
+          },
+          {
+            "key": "e_1_3_1_31_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goranson CE Ho C-K Pennings SC 2004. Environmental gradients and herbivores feeding preferences in coastal salt marshes. Oecologia 140:591-600.",
+            "DOI": "10.1007/s00442-004-1615-2"
+          },
+          {
+            "key": "e_1_3_1_32_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goss-Custard JD Moser ME 1988. Rates of change in the numbers of dunlin Calidris alpina wintering in British estuaries in relation to the spread of Spartina anglica. Journal of Applied Ecology 25:95-109.",
+            "DOI": "10.2307/2403612"
+          },
+          {
+            "key": "e_1_3_1_33_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grevstad FS Strong DR Garcia-Rossi D Switzer RW Wecker MS 2003. Biological control of Spartina alterniflora in Willapa Bay Washington using the planthopper Prokelisia marginata: agent specificity and early results. Biological Control 27(1):32-42.",
+            "DOI": "10.1016/S1049-9644(02)00181-0"
+          },
+          {
+            "key": "e_1_3_1_34_1",
+            "unstructured": "Harrington JA Harrington LMB Berlin CJ 1997. Modelling Spartina in Willipa Bay. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_35_1",
+            "unstructured": "Hedge P Kriwoken L 1997. Managing Spartina in Victoria and Tasmania Australia. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_36_1",
+            "unstructured": "Hedge P Kriwoken L Ritar A 1997. The distribution of Spartina in Victoria and Tasmania Australia. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_37_1",
+            "unstructured": "Hedge P Kriwoken LK Patten K 2003. A review of Spartina management in Washington State US. Journal of Aquatic Plant Management 41:82-90."
+          },
+          {
+            "key": "e_1_3_1_38_1",
+            "unstructured": "Hitchcock CL Cronquist A Own-Bey M 1969. Vascular plants of the Pacific Northwest. Part 1. Vascular cryptogams gymnosperms and monocotyledons. Vascular plants of the Pacific Northwest. Part 1. Vascular cryptogams gymnosperms and monocotyledons. Seattle: University of Washington Press."
+          },
+          {
+            "key": "e_1_3_1_39_1",
+            "unstructured": "Howard V 2008. Spartina alterniflora. USGS Nonindigenous Aquatic Species Database. Gainesville FL USA."
+          },
+          {
+            "key": "e_1_3_1_40_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hubbard JCE 1965. Spartina marshes in southern England. 6. Pattern of invasion in Poole Harbour. Journal of Ecology S3(3):799-813.",
+            "DOI": "10.2307/2257637"
+          },
+          {
+            "key": "e_1_3_1_41_1",
+            "unstructured": "Josselyn M Larsson B Fiorillo A 1993. An ecological comparison of an introduced marsh plant Spartina alterniflora with its native congener Spartina foliosa in San Francisco Bay. Gaps in Knowledge Res. Prog. San Francisco Bay Estuary Proj. Tiburon CA USA: Romberg Tiburon Centers San Francisco State University 47 pp."
+          },
+          {
+            "key": "e_1_3_1_42_1",
+            "unstructured": "Kilbride KM Paveglio FL Grue CE 1995. Control of smooth cordgrass with Rodeo\u00ae in a southwestern Washington estuary. Wildlife Society Bulletin 23(3):520-524."
+          },
+          {
+            "key": "e_1_3_1_43_1",
+            "unstructured": "Kunz K Martz M 1993. Characterization of exotic Spartina communities in Washington State. Appendix K - Emergent Noxious Weed Control Final Reports Unpublished Report to Washington Department of Ecology Olympia."
+          },
+          {
+            "key": "e_1_3_1_44_1",
+            "unstructured": "Landin MC 1991. Growth habits and other considerations of smooth cordgrass Spartina alterniflora Loisel. In: Spartina Workshop Record Washington Sea Grant Program University of Washington Seattle [ed. by Mumford TF Peyton P Sayce JR Harbell S] 15-20."
+          },
+          {
+            "key": "e_1_3_1_45_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lessman JM Mendelssohn IA Hester MW McKee KL 1997. Population variation in growth response to flooding of three marsh grasses. Ecological Engineering 8:31-47.",
+            "DOI": "10.1016/S0925-8574(96)00251-0"
+          },
+          {
+            "key": "e_1_3_1_46_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Linthurst RA 1979. The effects of aeration on the growth of Spartina alterniflora Loisel. American Journal of Botany 66(6):685-691.",
+            "DOI": "10.1002/j.1537-2197.1979.tb06272.x"
+          },
+          {
+            "key": "e_1_3_1_47_1",
+            "unstructured": "Luiting VT Cordell JR Olson AM Simenstad CA 1997. Does exotic Spartina alterniflora change benthic invertebrate assemblages? In: The Proceedings of the Second International Spartina Conference Olympia WA 20-21 March 1997."
+          },
+          {
+            "key": "e_1_3_1_48_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lythe JS Lythe TF 1998. Altrazine effects on estuarine macrophytes Spartina alterniflora and Juncus roemerianus. Environmental Toxicology & Chemistry 17(10):1972-1978.",
+            "DOI": "10.1002/etc.5620171012"
+          },
+          {
+            "key": "e_1_3_1_49_1",
+            "unstructured": "Major WW Grue CE Grassley JM Conquest LL 2003. Mechanical and chemical control of smooth cordgrass in Willapa Bay Washington. Journal of Aquatic Plant Management 41:6-12."
+          },
+          {
+            "key": "e_1_3_1_50_1",
+            "unstructured": "Maskell LC Raybould AF 2001. The decline of Spartina alterniflora (Poaceae) in the British Isles. Watsonia 23(3):391-400."
+          },
+          {
+            "key": "e_1_3_1_51_1",
+            "unstructured": "McEnnulty FR Bax NJ Britta S Campbell ML undated. A literature review of rapid response options for the control of ABWMAC listed species and related taxa in Australia. CSIRO Marine Research: Centre for Research on Introduced Marine Pests."
+          },
+          {
+            "key": "e_1_3_1_52_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mendelssohn IA McKee KL 1988. Spartina alterniflora Die-back in Louisianna: Time-course Investigation of Soil Waterlogging Effects. Journal of Ecology 76:509-521.",
+            "DOI": "10.2307/2260609"
+          },
+          {
+            "key": "e_1_3_1_53_1",
+            "unstructured": "Moberley DG 1956. Taxonomy and distribution of the genus Spartina. Iowa State Journal of Science 30:471-574."
+          },
+          {
+            "key": "e_1_3_1_54_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mullins PH Marks TC 1987. Flowering phenology and seed production of Spartina anglica. Journal of Ecology UK 75(4):1037-1048.",
+            "DOI": "10.2307/2260312"
+          },
+          {
+            "key": "e_1_3_1_55_1",
+            "unstructured": "Murphy KC Taylor RR Philips CH 2007. Progress of the 2006 Spartina eradication program. Olympia Washington USA: Washington State Department of Agriculture. http://agr.gov/PlantInsects/Weeds/Spartina/docs/SpartinaReport2006.pdf"
+          },
+          {
+            "key": "e_1_3_1_56_1",
+            "unstructured": "Norman M Patten K 1994. Optimizing the efficacy of glyphosate to control Spartina alterniflora. Unpublished progress report submitted to WSDNR (January-May 1994)."
+          },
+          {
+            "key": "e_1_3_1_57_1",
+            "unstructured": "Norman M Patten K 1995. Evaluation of mechanical methods and herbicide adjuvant treatments for the effective control of Spartina spp. Unpublished report on file at Washington State University Long Beach Research and Extension Unit Long Beach Washington."
+          },
+          {
+            "key": "e_1_3_1_58_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Partridge TR 1987. Spartina in New Zealand. New Zealand Journal of Botany 25(4):567-575.",
+            "DOI": "10.1080/0028825X.1987.10410087"
+          },
+          {
+            "key": "e_1_3_1_59_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Patten K 2002. Smooth cordgrass (Spartina alterniflora) control with imazapyr. Weed Technology 16(4):826-832.",
+            "DOI": "10.1614/0890-037X(2002)016[0826:SCSACW]2.0.CO;2"
+          },
+          {
+            "key": "e_1_3_1_60_1",
+            "unstructured": "Patten K 2004. Comparison of chemical and mechanical control efforts for invasive Spartina in Willapa Bay WA. Unpublished Report available via author contact."
+          },
+          {
+            "key": "e_1_3_1_61_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Reimold RJ Linthurst RA Wolf PL 1975. Effects of grazing on a salt marsh. Biological Conservation 8:105-125.",
+            "DOI": "10.1016/0006-3207(75)90036-1"
+          },
+          {
+            "key": "e_1_3_1_62_1",
+            "unstructured": "Riggs SR 1992. Distribution of Spartina alterniflora in Padilla Bay Washington in 1991. Washington State Department of Ecology Padilla Bay National Estuarine Research Reserve Technical Report No. 3. Mount Vernon Washington USA 63 pp."
+          },
+          {
+            "key": "e_1_3_1_63_1",
+            "unstructured": "Roberts PD Pullin AS 2006. The effectiveness of management options used for the control of Spartina species. Systematic Review No. 22. Birmingham UK: Centre for Evidence- Based Conservation."
+          },
+          {
+            "key": "e_1_3_1_64_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Roberts PD Pullin AS 2007. The effectiveness of management interventions for the control of Spartina species: a systematic review and meta-analysis. Aquatic Conservation Marine and Freshwater Ecosystems 18(5):592-618.",
+            "DOI": "10.1002/aqc.889"
+          },
+          {
+            "key": "e_1_3_1_65_1",
+            "unstructured": "Sayce K 1988. Introduced Cordgrass Spartina alterniflora Losiel. in Saltmarshes and Tidelands of Willapa Bay Washington. Report to the US Fish and Wildlife Service Willapa National Wildlife Refuge."
+          },
+          {
+            "key": "e_1_3_1_66_1",
+            "unstructured": "Scheffer TH 1945. The introduction of Spartina alterniflora to Washington with oyster culture. Leaflets of Western Botany 4:163-164."
+          },
+          {
+            "key": "e_1_3_1_67_1",
+            "unstructured": "Shaw WB Gosling DS 1997. Spartina ecology control and eradication - recent New Zealand experience. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_68_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Silliman BR Zieman JC 2001. Top-down control of Spartina alterniflora production by periwinkle grazing in a Virginia salt marsh. Ecology 82(10):2830-2845. http://www.esajournals.org/esaonline/?request=get-abstract&issn=0012-9658&volume=082&issue=10&page=2830",
+            "DOI": "10.1890/0012-9658(2001)082[2830:TDCOSA]2.0.CO;2"
+          },
+          {
+            "key": "e_1_3_1_69_1",
+            "unstructured": "Simenstad CA Thom RM 1995. Spartina alterniflora (Smooth Cordgrass) as an Invasive Halophyte in Pacific Northwest Estuaries. Hortus Northwest 6(1):9-40."
+          },
+          {
+            "key": "e_1_3_1_70_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Smart RM 1982. Distribution and environmental control of productivity and growth form of Spartina alterniflora (Loisel.). Contributions to the ecology of halophytes [ed. by Sen DN Rajpurohit KS]. The Hague Netherlands: Dr. W. Junk Publishers 127-142.",
+            "DOI": "10.1007/978-94-009-8037-2_9"
+          },
+          {
+            "key": "e_1_3_1_71_1",
+            "unstructured": "Spartina Task Force 1994. Spartina management program: Intergrated weed management for private lands in Willapa Bay prepared for the Noxious Weed Board and County Commissioners Pacific County Washington."
+          },
+          {
+            "key": "e_1_3_1_72_1",
+            "unstructured": "Thom R Cordell J Simenstad C Luiting V Borde B 1997. Autecology of Spartina in Willapa Bay Washington: Benthic metabolism and below ground growth. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_73_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Thom RM 1992. Accretion rates of low intertidal salt marshes in the Pacific Northwest. Wetlands 12:147-156.",
+            "DOI": "10.1007/BF03160603"
+          },
+          {
+            "key": "e_1_3_1_74_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Turner MG 1987. Effects of grazing by feral horses clipping trampling and burning in a Georgia salt marsh. Estuaries 10(1):54-60.",
+            "DOI": "10.2307/1352025"
+          },
+          {
+            "key": "e_1_3_1_75_1",
+            "unstructured": "US Fish and Wildlife Service 2010. Draft Recovery Plan for Tidal Marsh Ecosystems of Northern and Central California. Sacramento California USA. xviii + 636 pp."
+          },
+          {
+            "key": "e_1_3_1_76_1",
+            "unstructured": "US Fish and Wildlife Service 2010. In: Salt marsh harvest mouse (Reithrodontomys raviventris). 5-Year Review: Summary and Evaluation.US Fish and Wildlife Service. 49 pp."
+          },
+          {
+            "key": "e_1_3_1_77_1",
+            "unstructured": "Weber E 2003. Invasive plant species of the world: A reference guide to environmental weeds. Wallingford UK: CAB International 548 pp."
+          },
+          {
+            "key": "e_1_3_1_78_1",
+            "unstructured": "Wiggins J Binney E 1987. A baseline study of the distribution of Spartina alterniflora in Padilla Bay. Report to Washington Dept. Ecology Padilla Bay National Estuarine Research Reserve. Padilla Bay National Estuarine Research Reserve Reprint Series No. 7. 28 pp."
+          },
+          {
+            "key": "e_1_3_1_79_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Woodhouse WW 1979. Building saltmarshes along the coasts of the continental United States. Special report No. 4. Belvoir VA USA: U.S. Army Corps of Engineers Coastal Engineering Research Center.",
+            "DOI": "10.5962/bhl.title.47695"
+          }
+        ],
+        "container-title": [
+          "CABI Compendium"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2024-12-16T15:17:46Z",
+          "timestamp": 1734362266000
+        },
+        "score": 32.14532,
+        "resource": {
+          "primary": {
+            "URL": "http://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.107740"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              12
+            ]
+          ]
+        },
+        "references-count": 78,
+        "URL": "https://doi.org/10.1079/cabicompendium.107740",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              9
+            ]
+          ],
+          "date-time": "2026-03-09T04:02:41Z",
+          "timestamp": 1773028961665,
+          "version": "3.50.1"
+        },
+        "reference-count": 45,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  10,
+                  9
+                ]
+              ],
+              "date-time": "2010-10-09T00:00:00Z",
+              "timestamp": 1286582400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.springer.com/tdm"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Hydrobiologia"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10750-010-0505-3",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              13
+            ]
+          ],
+          "date-time": "2010-10-13T17:50:45Z",
+          "timestamp": 1286992245000
+        },
+        "page": "353-363",
+        "source": "Crossref",
+        "is-referenced-by-count": 29,
+        "title": [
+          "Trade-offs among growth, clonal, and sexual reproduction in an invasive plant Spartina alterniflora responding to inundation and clonal integration"
+        ],
+        "prefix": "10.1007",
+        "volume": "658",
+        "author": [
+          {
+            "given": "Yan",
+            "family": "Xiao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Junbing",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hua",
+            "family": "Qing",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Changfang",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Weijing",
+            "family": "Kong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shuqing",
+            "family": "An",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              9
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "505_CR1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1508",
+            "DOI": "10.1002/j.1537-2197.1991.tb11430.x",
+            "volume": "78",
+            "author": "WG Abrahamson",
+            "year": "1991",
+            "unstructured": "Abrahamson, W. G., S. S. Anderson & K. D. McCrea, 1991. Clonal integration: nutrient sharing between sister ramets of Solidago altissima (Compositae). American Journal of Botany 78: 1508\u20131514.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR2",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1007/s004420050834",
+            "volume": "120",
+            "author": "P Alpert",
+            "year": "1999",
+            "unstructured": "Alpert, P., 1999. Clonal integration in Fragaria chiloensis differs between populations: ramets from grassland are selfish. Oecologia 120: 69\u201376.",
+            "journal-title": "Oecologia"
+          },
+          {
+            "key": "505_CR3",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1046/j.1365-2435.2002.00610.x",
+            "volume": "16",
+            "author": "P Alpert",
+            "year": "2002",
+            "unstructured": "Alpert, P., C. Holzapfel & J. M. Benson, 2002. Hormonal modification of resource sharing in the clonal plant Fragaria chiloensis. Functional Ecology 16: 191\u2013197.",
+            "journal-title": "Functional Ecology"
+          },
+          {
+            "key": "505_CR4",
+            "doi-asserted-by": "crossref",
+            "first-page": "183",
+            "DOI": "10.1111/j.1365-3180.2007.00559.x",
+            "volume": "47",
+            "author": "SQ An",
+            "year": "2007",
+            "unstructured": "An, S. Q., B. H. Gu, C. F. Zhou, Z. S. Wang, Z. F. Deng, Y. B. Zhi, H. L. Li, L. Chen, D. H. Yu & Y. H. Liu, 2007. Spartina invasion in China: implications for invasive species management and future research. Weed Research 47: 183\u2013191.",
+            "journal-title": "Weed Research"
+          },
+          {
+            "key": "505_CR5",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1007/s11258-009-9595-2",
+            "volume": "205",
+            "author": "W Bai",
+            "year": "2009",
+            "unstructured": "Bai, W., X. Sun, Z. Wang & L. Li, 2009. Nitrogen addition and rhizome severing modify clonal growth and reproductive modes of Leymus chinensis population. Plant Ecology 205: 13\u201321.",
+            "journal-title": "Plant Ecology"
+          },
+          {
+            "key": "505_CR6",
+            "first-page": "74",
+            "volume-title": "Molecular Systematics and Plant Evolution",
+            "author": "SCH Barrett",
+            "year": "1999",
+            "unstructured": "Barrett, S. C. H. & J. R. Pannell, 1999. Metapopulation dynamics and mating-system evolution in plants. In Hollingsworth, P. M. & R. M. Bateman (eds), Molecular Systematics and Plant Evolution. Taylor & Francis, London, UK: 74\u2013100."
+          },
+          {
+            "key": "505_CR7",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.2307/1938909",
+            "volume": "72",
+            "author": "MD Bertness",
+            "year": "1991",
+            "unstructured": "Bertness, M. D., 1991. Zonation of Spartina patens and Spartina alterniflora in a New England salt marsh. Ecology 72: 138\u2013148.",
+            "journal-title": "Ecology"
+          },
+          {
+            "key": "505_CR8",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.3732/ajb.92.3.495",
+            "volume": "92",
+            "author": "JS Brown",
+            "year": "2005",
+            "unstructured": "Brown, J. S. & C. G. Eckert, 2005. Evolutionary increase in sexual and clonal reproductive capacity during biological invasion in an aquatic plant Butomus umbellatus (Butomaceae). American Journal of Botany 92: 495\u2013502.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR10",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1111/j.0022-0477.2004.00873.x",
+            "volume": "92",
+            "author": "HG Davis",
+            "year": "2004",
+            "unstructured": "Davis, H. G., C. M. Taylor, J. C. Civille & D. R. Strong, 2004. An Allee effect at the front of a plant invasion: Spartina in a Pacific estuary. Journal of Ecology 92: 321\u2013327.",
+            "journal-title": "Journal of Ecology"
+          },
+          {
+            "key": "505_CR9",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "DOI": "10.1046/j.1469-8137.2002.00529.x",
+            "volume": "156",
+            "author": "T D\u2019Hertefeldt",
+            "year": "2002",
+            "unstructured": "D\u2019Hertefeldt, T. & U. Falkengren-Grerup, 2002. Extensive physiological integration in Carex arenaria and Carex disticha in relation to potassium and water availability. New Phytologist 156: 469\u2013477.",
+            "journal-title": "New Phytologist"
+          },
+          {
+            "key": "505_CR11",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1002/j.1537-2197.1993.tb15229.x",
+            "volume": "80",
+            "author": "LF Delph",
+            "year": "1993",
+            "unstructured": "Delph, L. F., Y. Lu & L. D. Jayne, 1993. Patterns of resource allocation in a Dioecious carex (Cyperaceae). American Journal of Botany 80: 607\u2013615.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR12",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1023/A:1016005519651",
+            "volume": "15",
+            "author": "CG Eckert",
+            "year": "2002",
+            "unstructured": "Eckert, C. G., 2002. The loss of sex in clonal plants. Evolutionary Ecology 15: 501\u2013520.",
+            "journal-title": "Evolutionary Ecology"
+          },
+          {
+            "key": "505_CR13",
+            "first-page": "211",
+            "volume-title": "The Ecology and Evolution of Clonal Plants",
+            "author": "O Eriksson",
+            "year": "1997",
+            "unstructured": "Eriksson, O., 1997. Clonal life histories and the evolution of seed recruitment. In Kroon, H. D. & J. V. Groenendael (eds), The Ecology and Evolution of Clonal Plants. Backhuys Publishers, Leiden: 211\u2013226."
+          },
+          {
+            "key": "505_CR14",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1007/BF00317227",
+            "volume": "89",
+            "author": "JP Evans",
+            "year": "1992",
+            "unstructured": "Evans, J. P., 1992. The effect of local resource availability and clonal integration on ramet functional morphology in Hydrocotyle bonariensis. Oecologia 89: 265\u2013276.",
+            "journal-title": "Oecologia"
+          },
+          {
+            "key": "505_CR15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1202",
+            "DOI": "10.1890/0012-9658(1999)080[1202:MIISCO]2.0.CO;2",
+            "volume": "80",
+            "author": "SN Gardner",
+            "year": "1999",
+            "unstructured": "Gardner, S. N. & M. Mangel, 1999. Modeling investments in seeds, clonal offspring, and translocation in a clonal plant. Ecology 80: 1202\u20131220.",
+            "journal-title": "Ecology"
+          },
+          {
+            "key": "505_CR16",
+            "first-page": "16",
+            "volume-title": "CRC Handbook of Flowering",
+            "author": "CG Guttridge",
+            "year": "1989",
+            "unstructured": "Guttridge, C. G., 1989. Fragaria\u00a0\u00d7\u00a0Ananassa. In Evans, L. T. (ed.), CRC Handbook of Flowering. CRC Press, Boca Raton, FL: 16\u201333."
+          },
+          {
+            "key": "505_CR17",
+            "doi-asserted-by": "crossref",
+            "first-page": "788",
+            "DOI": "10.2307/1937201",
+            "volume": "64",
+            "author": "DC Hartnett",
+            "year": "1983",
+            "unstructured": "Hartnett, D. C. & F. A. Bazzaz, 1983. Physiological integration among intraclonal ramets in Solidago canadensis. Ecology 64: 788\u2013799.",
+            "journal-title": "Ecology"
+          },
+          {
+            "key": "505_CR18",
+            "doi-asserted-by": "crossref",
+            "first-page": "390",
+            "DOI": "10.1016/S0169-5347(97)87382-X",
+            "volume": "12",
+            "author": "MJ Hutchings",
+            "year": "1997",
+            "unstructured": "Hutchings, M. J. & D. K. Wijesinghe, 1997. Patchy habitats, division of labour and growth dividends in clonal plants. Trends in Ecology & Evolution 12: 390\u2013394.",
+            "journal-title": "Trends in Ecology & Evolution"
+          },
+          {
+            "key": "505_CR19",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1016/0304-4238(96)00897-7",
+            "volume": "65",
+            "author": "MR Ismail",
+            "year": "1996",
+            "unstructured": "Ismail, M. R. & K. M. Noor, 1996. Growth and physiological processes of young starfruit (Averrhoa carambola L.) plants under soil flooding. Scientia Horticulturae 65: 229\u2013238.",
+            "journal-title": "Scientia Horticulturae"
+          },
+          {
+            "key": "505_CR20",
+            "doi-asserted-by": "crossref",
+            "first-page": "575",
+            "DOI": "10.1007/BF01237656",
+            "volume": "9",
+            "author": "CK Kelly",
+            "year": "1995",
+            "unstructured": "Kelly, C. K., 1995. Thoughts on clonal integration: facing the evolutionary context. Evolutionary Ecology 9: 575\u2013585.",
+            "journal-title": "Evolutionary Ecology"
+          },
+          {
+            "key": "505_CR21",
+            "first-page": "1",
+            "volume-title": "The Ecology and Evolution of Clonal Plants",
+            "author": "L Klimes",
+            "year": "1997",
+            "unstructured": "Klimes, L., J. Klimesova, R. Hendriks & J. van Groenendael, 1997. Clonal plant architecture: a comparative analysis of form and function. In Kroon, H. D. & J. V. Groenendael (eds), The Ecology and Evolution of Clonal Plants. Backhuys Publishers, Leiden: 1\u201329."
+          },
+          {
+            "key": "505_CR22",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1111/j.1365-3040.1992.tb00980.x",
+            "volume": "15",
+            "author": "CH Lin",
+            "year": "1992",
+            "unstructured": "Lin, C. H. & C. H. Lin, 1992. Physiological adaptation of waxapple to waterlogging. Plant Cell and Environment 15: 321\u2013328.",
+            "journal-title": "Plant Cell and Environment"
+          },
+          {
+            "key": "505_CR23",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1007/s00606-008-0103-2",
+            "volume": "277",
+            "author": "F Liu",
+            "year": "2009",
+            "unstructured": "Liu, F., J. M. Chen & Q. F. Wang, 2009. Trade-offs between sexual and asexual reproduction in a monoecious species Sagittaria pygmaea (Alismataceae): the effect of different nutrient levels. Plant Systematics and Evolution 277: 61\u201365.",
+            "journal-title": "Plant Systematics and Evolution"
+          },
+          {
+            "key": "505_CR24",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1007/s10530-004-4063-3",
+            "volume": "7",
+            "author": "K Lui",
+            "year": "2005",
+            "unstructured": "Lui, K., F. L. Thompson & C. G. Eckert, 2005. Causes and consequences of extreme variation in reproductive strategy and vegetative growth among invasive populations of a clonal aquatic plant, Butomus umbellatus L. (Butomaceae). Biological Invasions 7: 427\u2013444.",
+            "journal-title": "Biological Invasions"
+          },
+          {
+            "key": "505_CR25",
+            "first-page": "121",
+            "volume": "45",
+            "author": "E Mateos-Naranjo",
+            "year": "2007",
+            "unstructured": "Mateos-Naranjo, E., S. Redondo-Gomez, J. Silva, R. Santos & M. E. Figueroa, 2007. Effect of prolonged flooding on the invader Spartina densiflora Brong. Journal of Aquatic Plant Management 45: 121\u2013123.",
+            "journal-title": "Journal of Aquatic Plant Management"
+          },
+          {
+            "key": "505_CR26",
+            "doi-asserted-by": "crossref",
+            "first-page": "439",
+            "DOI": "10.1126/science.214.4519.439",
+            "volume": "214",
+            "author": "IA Mendelssohn",
+            "year": "1981",
+            "unstructured": "Mendelssohn, I. A. & W. H. Patrick, 1981. Oxygen deficiency in Spartina alterniflora roots: metabolic adaptation to anoxia. Science 214: 439\u2013441.",
+            "journal-title": "Science"
+          },
+          {
+            "key": "505_CR27",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.2307/2446436",
+            "volume": "85",
+            "author": "A Mendoza",
+            "year": "1998",
+            "unstructured": "Mendoza, A. & M. Franco, 1998. Sexual reproduction and clonal growth in Reinhardtia gracilis (Palmae), an understory tropical palm. American Journal of Botany 85: 521\u2013527.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR28",
+            "doi-asserted-by": "crossref",
+            "first-page": "494",
+            "DOI": "10.3732/ajb.89.3.494",
+            "volume": "89",
+            "author": "DA Peltzer",
+            "year": "2002",
+            "unstructured": "Peltzer, D. A., 2002. Does clonal integration improve competitive ability? A test using aspen (Populus tremuloides [Salicaceae]) invasion into prairie. American Journal of Botany 89: 494\u2013499.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR29",
+            "doi-asserted-by": "crossref",
+            "first-page": "709",
+            "DOI": "10.1890/0012-9658(2000)081[0709:TAOCIU]2.0.CO;2",
+            "volume": "81",
+            "author": "SC Pennings",
+            "year": "2000",
+            "unstructured": "Pennings, S. C. & R. M. Callaway, 2000. The advantages of clonal integration under different ecological conditions: a community-wide test. Ecology 81: 709\u2013716.",
+            "journal-title": "Ecology"
+          },
+          {
+            "key": "505_CR30",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.2307/3546924",
+            "volume": "82",
+            "author": "Y Piquot",
+            "year": "1998",
+            "unstructured": "Piquot, Y., D. Petit, M. Valero, J. Cuguen, P. de Laguerie & P. Vernet, 1998. Variation in sexual and asexual reproduction among young and old populations of the perennial macrophyte Sparganium erectum. Oikos 82: 139\u2013148.",
+            "journal-title": "Oikos"
+          },
+          {
+            "key": "505_CR31",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.1890/1051-0761(2003)013[0180:GAEISA]2.0.CO;2",
+            "volume": "13",
+            "author": "CE Proffitt",
+            "year": "2003",
+            "unstructured": "Proffitt, C. E., S. E. Travis & K. R. Edwards, 2003. Genotype and elevation influence Spartina alterniflora colonization and growth in a created salt marsh. Ecological Applications 13: 180\u2013192.",
+            "journal-title": "Ecological Applications"
+          },
+          {
+            "key": "505_CR32",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1111/j.0022-0477.2004.00878.x",
+            "volume": "92",
+            "author": "P Rautiainen",
+            "year": "2004",
+            "unstructured": "Rautiainen, P., K. Koivula & M. Hyvarinen, 2004. The effect of within-genet and between-genet competition on sexual reproduction and vegetative spread in Potentilla anserina ssp. egedii. Journal of Ecology 92: 505\u2013511.",
+            "journal-title": "Journal of Ecology"
+          },
+          {
+            "key": "505_CR33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1769",
+            "DOI": "10.2307/2656827",
+            "volume": "87",
+            "author": "ML Ronsheim",
+            "year": "2000",
+            "unstructured": "Ronsheim, M. L. & J. D. Bever, 2000. Genetic variation and evolutionary trade-offs for sexual and asexual reproductive modes in Allium vineale (Lillaceae). American Journal of Botany 87: 1769\u20131777.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR34",
+            "first-page": "45",
+            "volume": "6",
+            "author": "B Schmid",
+            "year": "1992",
+            "unstructured": "Schmid, B., 1992. Phenotypic variations in plants. Evolutionary Trends in Plants 6: 45\u201360.",
+            "journal-title": "Evolutionary Trends in Plants"
+          },
+          {
+            "key": "505_CR35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1286",
+            "DOI": "10.2307/1938188",
+            "volume": "70",
+            "author": "AA Snow",
+            "year": "1989",
+            "unstructured": "Snow, A. A. & D. F. Whigham, 1989. Costs of flower and fruit production in Tipula discolor (Orchidaceae). Ecology 70: 1286\u20131293.",
+            "journal-title": "Ecology"
+          },
+          {
+            "key": "505_CR36",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.1046/j.1440-1703.2001.00395.x",
+            "volume": "16",
+            "author": "SC Sun",
+            "year": "2001",
+            "unstructured": "Sun, S. C., X. M. Gao & Y. L. Cai, 2001. Variations in sexual and asexual reproduction of Scirpus mariqueter along an elevational gradient. Ecological Research 16: 263\u2013274.",
+            "journal-title": "Ecological Research"
+          },
+          {
+            "key": "505_CR37",
+            "doi-asserted-by": "crossref",
+            "first-page": "237",
+            "DOI": "10.1046/j.1420-9101.2000.00161.x",
+            "volume": "13",
+            "author": "M Kleunen van",
+            "year": "2000",
+            "unstructured": "van Kleunen, M., M. Fischer & B. Schmid, 2000. Clonal integration in Ranunculus reptans: by-product or adaptation? Journal of Evolutionary Biology 13: 237\u2013248.",
+            "journal-title": "Journal of Evolutionary Biology"
+          },
+          {
+            "key": "505_CR38",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/S0304-3770(97)00018-1",
+            "volume": "58",
+            "author": "A Volder",
+            "year": "1997",
+            "unstructured": "Volder, A., A. Bonis & P. Grillas, 1997. Effects of drought and flooding on the reproduction of an amphibious plant, Ranunculus peltatus. Aquatic Botany 58: 113\u2013120.",
+            "journal-title": "Aquatic Botany"
+          },
+          {
+            "key": "505_CR39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1547",
+            "DOI": "10.1007/s10530-005-5846-x",
+            "volume": "8",
+            "author": "Q Wang",
+            "year": "2006",
+            "unstructured": "Wang, Q., C. H. Wang, B. Zhao, Z. J. Ma, Y. Q. Luo, J. K. Chen & B. Li, 2006. Effects of growing conditions on the growth of and interactions between salt marsh plants: implications for invasibility of habitats. Biological Invasions 8: 1547\u20131560.",
+            "journal-title": "Biological Invasions"
+          },
+          {
+            "key": "505_CR40",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.1111/j.1438-8677.2008.00133.x",
+            "volume": "11",
+            "author": "N Wang",
+            "year": "2009",
+            "unstructured": "Wang, N., F. H. Yu, P. X. Li, W. M. He, J. Liu, G. L. Yu, Y. B. Song & M. Dong, 2009. Clonal integration supports the expansion from terrestrial to aquatic environments of the amphibious stoloniferous herb Alternanthera philoxeroides. Plant Biology 11: 483\u2013489.",
+            "journal-title": "Plant Biology"
+          },
+          {
+            "key": "505_CR41",
+            "first-page": "687",
+            "volume": "100",
+            "author": "MF Watson",
+            "year": "1984",
+            "unstructured": "Watson, M. F., 1984. Development constraints: effect on population growth and patterns of resource allocation in a clonal plant. American Naturalist 100: 687\u2013690.",
+            "journal-title": "American Naturalist"
+          },
+          {
+            "key": "505_CR42",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1016/j.baae.2005.03.002",
+            "volume": "6",
+            "author": "T Weppler",
+            "year": "2005",
+            "unstructured": "Weppler, T. & J. St\u00f6cklin, 2005. Variation of sexual and clonal reproduction in the alpine Geum reptans in contrasting altitudes and successional stages. Basic and Applied Ecology 6: 305\u2013316.",
+            "journal-title": "Basic and Applied Ecology"
+          },
+          {
+            "key": "505_CR43",
+            "doi-asserted-by": "crossref",
+            "first-page": "869",
+            "DOI": "10.1111/j.1365-2745.2006.01134.x",
+            "volume": "94",
+            "author": "T Weppler",
+            "year": "2006",
+            "unstructured": "Weppler, T., P. Stoll & J. Stocklin, 2006. The relative importance of sexual and clonal reproduction for population growth in the long-lived alpine plant Geum reptans. Journal of Ecology 94: 869\u2013879.",
+            "journal-title": "Journal of Ecology"
+          },
+          {
+            "key": "505_CR44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1337",
+            "DOI": "10.1002/j.1537-2197.1996.tb13919.x",
+            "volume": "83",
+            "author": "A Wijte",
+            "year": "1996",
+            "unstructured": "Wijte, A. & J. L. Gallagher, 1996. Effect of oxygen availability and salinity on early life history stages of salt marsh plants. I. Different germination strategies of Spartina alterniflora and Phragmites australis (Poaceaei). American Journal of Botany 83: 1337\u20131342.",
+            "journal-title": "American Journal of Botany"
+          },
+          {
+            "key": "505_CR45",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.2307/2261355",
+            "volume": "84",
+            "author": "AC Worley",
+            "year": "1996",
+            "unstructured": "Worley, A. C. & L. D. Harder, 1996. Size-dependent resource allocation and costs of reproduction in Pinguicula vulgaris (Lentibulariaceae). Journal of Ecology 84: 195\u2013206.",
+            "journal-title": "Journal of Ecology"
+          }
+        ],
+        "container-title": [
+          "Hydrobiologia"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s10750-010-0505-3.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/article/10.1007/s10750-010-0505-3/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s10750-010-0505-3",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              5,
+              30
+            ]
+          ],
+          "date-time": "2019-05-30T23:22:35Z",
+          "timestamp": 1559258555000
+        },
+        "score": 31.86354,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/s10750-010-0505-3"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              9
+            ]
+          ]
+        },
+        "references-count": 45,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2011,
+                1
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "505"
+        ],
+        "URL": "https://doi.org/10.1007/s10750-010-0505-3",
+        "ISSN": [
+          "0018-8158",
+          "1573-5117"
+        ],
+        "issn-type": [
+          {
+            "value": "0018-8158",
+            "type": "print"
+          },
+          {
+            "value": "1573-5117",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              9
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 8,
+    "query": {
+      "start-index": 0,
+      "search-terms": "Spartina alterniflora clonal traits ramet emergence common garden Chen"
+    }
+  }
+}

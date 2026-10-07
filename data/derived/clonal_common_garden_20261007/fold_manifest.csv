@@ -1,0 +1,9 @@
+held_out_origin,training_origins,training_cells,test_cells,gardens
+LZ,YX;LY;YQ;FX;RD;GY;DY,21,3,Dongying;Taizhou;Zhanjiang
+YX,LZ;LY;YQ;FX;RD;GY;DY,21,3,Dongying;Taizhou;Zhanjiang
+LY,LZ;YX;YQ;FX;RD;GY;DY,21,3,Dongying;Taizhou;Zhanjiang
+YQ,LZ;YX;LY;FX;RD;GY;DY,21,3,Dongying;Taizhou;Zhanjiang
+FX,LZ;YX;LY;YQ;RD;GY;DY,21,3,Dongying;Taizhou;Zhanjiang
+RD,LZ;YX;LY;YQ;FX;GY;DY,21,3,Dongying;Taizhou;Zhanjiang
+GY,LZ;YX;LY;YQ;FX;RD;DY,21,3,Dongying;Taizhou;Zhanjiang
+DY,LZ;YX;LY;YQ;FX;RD;GY,21,3,Dongying;Taizhou;Zhanjiang

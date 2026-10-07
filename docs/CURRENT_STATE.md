@@ -5,6 +5,33 @@ Updated 2026-10-07. The active raw evidence now includes the recovered archive a
 patch matrices and environment–growth workbooks. Earlier statements that all
 original imagery, masks and annotation polygons were missing are superseded.
 
+## Latest advance: downloaded clonal common-garden data and robustness analysis
+
+See `CLONAL_COMMON_GARDEN_REANALYSIS_2026-10-07.md`. Figshare dataset
+10.6084/m9.figshare.33329481.v1 was downloaded using an existing proxy and verified
+against the provider MD5. It contains 400 rows, eight source populations and three
+gardens; ramet/emergence missingness is 56/62 rows. These are distinct from the
+two still-unavailable Dryad datasets.
+
+Source-balanced Zhanjiang minus Dongying differences are +5.05 ramets and -31.58
+recorded days; crossed source/block bootstrap 95% intervals are [2.67, 7.47] and
+[-48.70, -15.44]. Additive block sensitivity retains garden contrasts but changes
+the Zhanjiang emergence–latitude slope from +1.992 to -0.043. Block semantics,
+calendar origin, genotype/family identities and missingness causes are missing;
+these results cannot establish temperature causation or local adaptation.
+
+All 40,320 source permutations, multiplicity adjustment, 5,000 bootstrap draws,
+missingness scenarios, block sensitivity and complete source-held-out predictions
+are archived. Source-wise cross-validation improves unadjusted emergence means
+with a simple latitude model; neither that model nor trees improve ramet counts
+over garden means. Positive timing skill remains conditional on observation
+composition. No expert pilot labels or local genetic evidence have been added.
+
+The proxy restored HF access. The previous release (GitHub 2f5fb8e) was synced in
+small batches and remote Git/LFS digests matched every tracked file. Later sync
+status is recorded in `../briefing/HF_SYNC_LATEST.json` relative to this release.
+No credentials or proxy addresses are embedded in the published scripts.
+
 ## Latest advance: external satellite analysis and mechanism-focused literature
 
 See `EXTERNAL_EVIDENCE_2026-10-07.md` for completed analyses, literature scope and

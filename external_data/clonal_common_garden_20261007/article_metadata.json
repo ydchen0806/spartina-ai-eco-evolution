@@ -1,0 +1,102 @@
+{
+  "url_public_html": "https://figshare.com/articles/dataset/clonal_traits_data_of_the_invasive_Spartina_alterniflora_in_China/33329481/1",
+  "files": [
+    {
+      "id": 67824684,
+      "name": "tillering time and number and abiotic factors at siete of origin data.csv",
+      "size": 25576,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/67824684",
+      "supplied_md5": "88421fc0116637ed5003f5fb14b6b0ba",
+      "computed_md5": "88421fc0116637ed5003f5fb14b6b0ba",
+      "mimetype": "text/csv"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 24648072,
+      "full_name": "Xincong Chen",
+      "first_name": "Xincong",
+      "last_name": "Chen",
+      "is_active": true,
+      "url_name": "Xincong_Chen",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/clonal_traits_data_of_the_invasive_Spartina_alterniflora_in_China/33329481",
+  "download_disabled": false,
+  "description": "<p dir=\"ltr\">This study used a multiple common-garden experiment with eight populations of Spartina alterniflora spanning its introduced range in China to examine phenotypic variation and covariance in key clonal traits. We found that low-latitude environments promoted earlier ramet emergence and greater ramet production, while low-latitude populations consistently exhibited a coordinated strategy of earlier emergence and higher ramet production. These findings highlight the potential role of clonal trait covariation in facilitating local adaptation of invasive plants across environmental gradients.</p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 25576,
+  "created_date": "2026-08-25T14:12:15Z",
+  "modified_date": "2026-08-25T14:16:21Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "Biological invasion",
+    "Clonal growth",
+    "Common garden",
+    "Latitudinal gradient",
+    "Life-history strategies",
+    "Trait covariances"
+  ],
+  "keywords": [
+    "Biological invasion",
+    "Clonal growth",
+    "Common garden",
+    "Latitudinal gradient",
+    "Life-history strategies",
+    "Trait covariances"
+  ],
+  "categories": [
+    {
+      "id": 24232,
+      "title": "Population ecology",
+      "parent_id": 24211,
+      "path": "/24130/24211/24232",
+      "source_id": "310307",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [],
+  "has_linked_file": false,
+  "citation": "Chen, Xincong (2026). clonal traits data of the invasive Spartina alterniflora in China. figshare. Dataset. https://doi.org/10.6084/m9.figshare.33329481.v1",
+  "related_materials": [],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 33329481,
+  "title": "clonal traits data of the invasive Spartina alterniflora in China",
+  "doi": "10.6084/m9.figshare.33329481.v1",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/33329481",
+  "published_date": "2026-08-25T14:12:15Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/33329481",
+  "url_public_api": "https://api.figshare.com/v2/articles/33329481",
+  "url_private_html": "https://figshare.com/account/articles/33329481",
+  "timeline": {
+    "posted": "2026-08-25T14:12:15"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}

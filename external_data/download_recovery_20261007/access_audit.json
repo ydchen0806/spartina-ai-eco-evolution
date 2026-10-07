@@ -1,0 +1,15 @@
+{
+  "checked_date": "2026-10-07",
+  "figshare_pinned_doi": "10.6084/m9.figshare.33329481.v1",
+  "figshare_raw_file_status": "downloaded; provider MD5 verified",
+  "dryad": [
+    "10.5061/dryad.2rbnzs7q7",
+    "10.5061/dryad.j3tx95xsc"
+  ],
+  "dryad_direct_download_status": 403,
+  "dryad_normal_browser_zip_listing_status": 403,
+  "dryad_proxy_connect_status": 403,
+  "dryad_csv_preview": "public preview accessible but truncated, incomplete final row; excluded from analysis",
+  "hf_previous_release_sync": "317 changed files synced in small commits; zero tracked files differ by remote Git/LFS digest",
+  "credentials_in_release": false
+}

@@ -1,0 +1,2 @@
+# Optional, for authenticated release synchronization only.
+huggingface_hub

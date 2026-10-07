@@ -37,6 +37,17 @@ The [validation report](docs/VALIDATION_AND_MANUSCRIPT_2026-10-07.md) documents 
 page remain on the project server; this package contains sampling metadata,
 generation code and the browser template. Expert labels remain uncompleted.
 
+## External experimental reanalysis
+
+The [new common-garden report](docs/CLONAL_COMMON_GARDEN_REANALYSIS_2026-10-07.md)
+reanalyzes a verified public CSV with 400 records from eight source populations
+and three gardens. It includes source-level exact permutation tests, crossed
+bootstrap, missingness and block sensitivity, and whole-source predictive
+holdouts. [Block sensitivity](data/derived/clonal_common_garden_20261007/clonal_block_sensitivity.png)
+shows why a source–timing cline cannot yet be assigned an evolutionary mechanism.
+The associated design metadata are incomplete; the two earlier Dryad raw-data
+downloads remain unavailable. These statuses are explicitly distinguished.
+
 ## What is included
 
 - `analysis/reanalyze_spartina.py` — one entry point for local data audit, external-context summaries, summary tables and figures.

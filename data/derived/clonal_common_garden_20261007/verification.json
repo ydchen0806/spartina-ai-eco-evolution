@@ -1,0 +1,13 @@
+{
+  "source_digest_verified": true,
+  "unique_record_keys": 400,
+  "source_populations": 8,
+  "trait_cells": 48,
+  "independent_block_regression_max_abs_difference": 8.526512829121202e-14,
+  "exact_permutation_quantization_checked": true,
+  "bootstrap_groups": 12,
+  "draws_per_group": 5000,
+  "whole_origin_folds": 8,
+  "prediction_rows": 144,
+  "interpretation": "Checks verify numerical implementation and data bookkeeping, not unknown design metadata or biological causality."
+}
