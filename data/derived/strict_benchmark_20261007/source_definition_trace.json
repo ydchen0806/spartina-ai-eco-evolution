@@ -1,0 +1,24 @@
+{
+  "scope": "Read available local analysis scripts, the recovered historical match-rate notebook and current manuscript text; not an exhaustive Git-history search.",
+  "files": [
+    {
+      "relative_path": "230117paper/220920_paper/220328\u5143\u80de\u81ea\u52a8\u673a/Yearly match rate.ipynb",
+      "sha256": "2f83a1aa560fab00284668c76b7b2fa8d1f62b4ac3b7b722270b3de0b7723d4f"
+    },
+    {
+      "relative_path": "230521paper/240102/paper/Chen et al 0419.docx",
+      "sha256": "f9ec97914e044a76ee4ea4d30d18a81e494dcea2d3b651ebdde030fafb015d8e"
+    },
+    {
+      "relative_path": "230521paper/240102/paper/Chen et al Supp_240114.docx",
+      "sha256": "71dec210e96a7dcf86ae9e61d79579a8a1b48ac524a6fa78019e9c285c3d4888"
+    }
+  ],
+  "findings": [
+    "Historical match-rate notebook selects newly appearing patches with size below 1000 pixels and checks subsequent table presence; it does not provide independent tracking accuracy.",
+    "Current manuscript states varying annotation counts (1708, 714 per year/4998); recovered annotation audit establishes 714 annotated images and 9234 objects across deliveries, not those alternative counts.",
+    "Current manuscript describes growth and calls annually appearing patches generations; the archive does not establish genetic generations.",
+    "No recovered formula or code found to explain the year-specific 2016/2018 stored-endpoint transformation.",
+    "Earlier methods describe AI simulation as replacing experimental validation; that interpretation is not retained in the revised working draft."
+  ]
+}

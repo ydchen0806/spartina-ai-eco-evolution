@@ -1,0 +1,47 @@
+{
+  "query": {
+    "parameters": "T2M,PRECTOTCORR,RH2M,WS2M",
+    "community": "AG",
+    "longitude": 117.418562862047,
+    "latitude": 23.9254538474132,
+    "start": "20140101",
+    "end": "20211231",
+    "format": "JSON"
+  },
+  "retrieval_date": "2026-10-07",
+  "returned_geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.419,
+      23.925,
+      157.56
+    ]
+  },
+  "units": {
+    "T2M": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters"
+    },
+    "PRECTOTCORR": {
+      "units": "mm/day",
+      "longname": "Precipitation Corrected"
+    },
+    "RH2M": {
+      "units": "%",
+      "longname": "Relative Humidity at 2 Meters"
+    },
+    "WS2M": {
+      "units": "m/s",
+      "longname": "Wind Speed at 2 Meters"
+    }
+  },
+  "raw_sha256": "83eca75f93ad6c7d457cc4455adf42b5d8b40cbbc01488a7b67ff79b7b847a9b",
+  "days": 2922,
+  "missing_by_parameter": {
+    "T2M": 0,
+    "PRECTOTCORR": 0,
+    "RH2M": 0,
+    "WS2M": 0
+  },
+  "interpretation": "Gridded meteorological context at image-bounds centre, not on-site measurements. Does not supply tides, exact flight weather, inundation or causal tests. Yearly summaries are not independent patch-level environmental replicates."
+}

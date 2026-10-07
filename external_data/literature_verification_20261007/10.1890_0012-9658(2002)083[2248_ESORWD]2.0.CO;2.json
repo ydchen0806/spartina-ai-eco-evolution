@@ -1,0 +1,323 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T14:09:59Z",
+      "timestamp": 1791295799007,
+      "version": "4.1.0"
+    },
+    "reference-count": 17,
+    "publisher": "Wiley",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 4779,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ecology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1890/0012-9658(2002)083[2248:esorwd]2.0.co;2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2007-06-04T19:27:12Z",
+      "timestamp": 1180985232000
+    },
+    "page": "2248-2255",
+    "source": "Crossref",
+    "is-referenced-by-count": 3720,
+    "title": [
+      "ESTIMATING SITE OCCUPANCY RATES WHEN DETECTION PROBABILITIES ARE LESS THAN ONE"
+    ],
+    "prefix": "10.1002",
+    "volume": "83",
+    "author": [
+      {
+        "given": "Darryl I.",
+        "family": "MacKenzie",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James D.",
+        "family": "Nichols",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gideon B.",
+        "family": "Lachman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sam",
+        "family": "Droege",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Andrew Royle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Catherine A.",
+        "family": "Langtimm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "i0012-9658-83-8-2248-boyce1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3803103"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-buckland1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2532510"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-burnham2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/65.3.625"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-chao1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2532750"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-clark1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/285621"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-erwin1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. M. Erwin, J. D. Nichols, T. B. Eyler, D. B. Stotts, and B. R. Truitt .1998 .Modeling colony site dynamics: a case study of Gull-billed Terns (Sterna nilotica) in coastal Virginia .Auk,\n                      115\n                      :970 -978 .",
+        "DOI": "10.2307/4089515"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-hanski1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/285349"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-hanski2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/5591"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-lande1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/284734"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-lande2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00776426"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-lebreton1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2937171"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-levins1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. Levins, 1969 .Some demographic and genetic consequences of environmental heterogeneity for biological control .Bulletin of the Entomological Society of America,\n                      15\n                      :237 -240 .",
+        "DOI": "10.1093/besa/15.3.237"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-mackenzie1",
+        "unstructured": "D. I. MacKenzie, and M. S. Boyce .2001 .Estimating closed population size using negative binomial models .Western Black Bear Workshop,\n                      7\n                      :21 -23 ."
+      },
+      {
+        "key": "i0012-9658-83-8-2248-moilanen1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/0012-9658(1999)080[1031:POMOMD]2.0.CO;2"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-pledger1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0006-341X.2000.00434.x"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-pollock2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/env.514"
+      },
+      {
+        "key": "i0012-9658-83-8-2248-yoccoz1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-5347(01)02205-4"
+      }
+    ],
+    "container-title": [
+      "Ecology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1890%2F0012-9658(2002)083%5B2248:ESORWD%5D2.0.CO;2",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1890/0012-9658(2002)083%5B2248:ESORWD%5D2.0.CO;2",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2019-04-28T13:47:09Z",
+      "timestamp": 1556459229000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1890/0012-9658(2002)083[2248:ESORWD]2.0.CO;2"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          8
+        ]
+      ]
+    },
+    "references-count": 17,
+    "aliases": [
+      "10.2307/3072056"
+    ],
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2002,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1890/0012-9658(2002)083[2248:ESORWD]2.0.CO;2"
+    ],
+    "URL": "https://doi.org/10.1890/0012-9658(2002)083[2248:esorwd]2.0.co;2",
+    "relation": {},
+    "ISSN": [
+      "0012-9658"
+    ],
+    "issn-type": [
+      {
+        "value": "0012-9658",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          8
+        ]
+      ]
+    }
+  }
+}

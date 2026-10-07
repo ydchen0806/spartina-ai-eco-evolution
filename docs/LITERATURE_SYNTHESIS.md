@@ -12,11 +12,19 @@ publisher versions before submission.
 | Remote sensing of *Spartina* | *Development of spectral-phenological features for deep learning to understand Spartina alterniflora invasion* (2020), DOI [10.1016/j.rse.2020.111745](https://doi.org/10.1016/j.rse.2020.111745) | Positions the AI contribution against prior remote-sensing work and makes segmentation uncertainty a central method result. |
 | UAV/deep-learning methods | *A review on deep learning in UAV remote sensing* (2021), DOI [10.1016/j.jag.2021.102456](https://doi.org/10.1016/j.jag.2021.102456) | Supports reporting spatial holdouts, calibration and transfer limits instead of presenting a single in-sample score. |
 
-## Resulting narrative
+## Updated evidence hierarchy — 2026-10-07
 
-The literature supports a three-part paper: an AI observatory that measures
-patch phenotypes, an ecological analysis of how those phenotypes vary through
-space and time, and a falsifiable evolutionary experiment. The current archive
-supports the first two parts and motivates the third. It does not replace a
-common-garden or reciprocal-transplant test, because those studies separate
-plasticity from inherited cohort differences.
+Eight DOI records have now been verified against Crossref metadata and available
+abstracts; these are stored in `external_data/literature_verification_20261007/`.
+This is not a complete publisher full-text review. Maron et al. (2004) was
+published in **Ecological Monographs**, volume 74, pages 261–280.
+
+Additional direct anchors are Gallagher et al. (1988), the Spartina common-garden
+experiment (10.2307/1941255); Roberts et al. (2017), structured cross-validation
+(10.1111/ecog.02881); and MacKenzie et al. (2002), imperfect detection
+(10.1890/0012-9658(2002)083[2248:ESORWD]2.0.CO;2).
+
+The archive currently supports provenance and sensitivity analyses. It does not
+yet establish validated segmentation, demographic events, an expansion-to-tolerance
+transition, or heritable adaptation. The working manuscript connects those
+literature anchors to the independent validation and experiments still required.

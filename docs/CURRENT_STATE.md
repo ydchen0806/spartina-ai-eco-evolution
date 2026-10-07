@@ -5,6 +5,39 @@ Updated 2026-10-07. The active raw evidence now includes the recovered archive a
 patch matrices and environment–growth workbooks. Earlier statements that all
 original imagery, masks and annotation polygons were missing are superseded.
 
+## Latest advance: strict baseline, frozen pilot and full working draft
+
+The active full manuscript is `docs/MANUSCRIPT_WORKING_DRAFT.md`, with editable
+DOCX and PDF in `manuscript/`. It reports completed analyses and explicitly
+marks the missing independent validation; it is not submission-ready.
+
+A fixed starting-geometry benchmark used 954 unique annual pairs, 661 dependency
+groups, within-fold preprocessing, forward-year evaluation and buffered spatial
+holdouts. For log area ratio, Extra Trees obtained forward R²=-1.116 (455
+predictions) and spatial R²=0.086 (954 predictions). Ridge gave -0.941/0.051.
+No claim of climate causation or independent-site transfer is supported.
+
+A mask-independent pilot selected 32 sites across 16 spatial strata and all 15
+dates: 480 native RGB crops in `../validation_pilot_20261007/` relative to the
+release root. The browser annotation tool is ready and tested; **zero expert
+labels are complete**. Spatially held-out strata and a training buffer are
+frozen. Sampling metadata are in `data/derived/validation_pilot_20261007/`.
+
+NASA POWER context now includes 2,922 daily records at the recovered image centre
+(117.418563 E, 23.925454 N), with no missing values in four variables. It is
+coarse gridded context, not tidal or local elevation measurement. Eight DOI
+records were checked through Crossref metadata/available abstracts.
+
+Small-n annual rank tests now also enumerate all 5,040 rank permutations:
+stored endpoint P=0.088, same-record recomputed P=0.840, all-transition P=0.167.
+Earlier P values below are the archived asymptotic approximations, not the
+updated exact calculation. Exchangeability remains an assumption.
+
+See `VALIDATION_AND_MANUSCRIPT_2026-10-07.md` for the full report and next
+experiments. Needed inputs remain endpoint conversion code, independent image
+labels/control points, independent-site data, and common-garden/transplant/genetic
+evidence if evolutionary mechanisms remain the principal claim.
+
 ## Latest advance: endpoint and trajectory audit
 
 See `TRAJECTORY_ENDPOINT_AUDIT_2026-10-07.md` for the full new report. All 854

@@ -1,0 +1,2651 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T04:24:02Z",
+      "timestamp": 1791260642376,
+      "version": "4.1.0"
+    },
+    "reference-count": 197,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2021-10-01T00:00:00Z",
+          "timestamp": 1633046400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2021-10-01T00:00:00Z",
+          "timestamp": 1633046400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2021-07-17T00:00:00Z",
+          "timestamp": 1626480000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "88881.311850/2018-01"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "88881.311850/2018-01"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "303559/2019-5"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "303559/2019-5"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "304052/2019-1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "304052/2019-1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "310517/2020-6"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "310517/2020-6"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "314902/2018-0"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "314902/2018-0"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "433783/2018-4"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "433783/2018-4"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002322",
+        "name": "CAPES",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "59/300.066/2015"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "59/300.066/2015"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002322",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "88881.311850/2018-01"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "88881.311850/2018-01"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "303559/2019-5"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "303559/2019-5"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "304052/2019-1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "304052/2019-1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "310517/2020-6"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "310517/2020-6"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "314902/2018-0"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "314902/2018-0"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "433783/2018-4"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "433783/2018-4"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003593",
+        "name": "CNPq",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "59/300.066/2015"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "59/300.066/2015"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003593",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "88881.311850/2018-01"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "88881.311850/2018-01"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "303559/2019-5"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "303559/2019-5"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "304052/2019-1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "304052/2019-1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "310517/2020-6"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "310517/2020-6"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "314902/2018-0"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "314902/2018-0"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "433783/2018-4"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "433783/2018-4"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005672",
+        "name": "FUNDECT",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "59/300.066/2015"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "59/300.066/2015"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100005672",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "88881.311850/2018-01"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "88881.311850/2018-01"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "303559/2019-5"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "303559/2019-5"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "304052/2019-1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "304052/2019-1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "310517/2020-6"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "310517/2020-6"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "314902/2018-0"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "314902/2018-0"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "433783/2018-4"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "433783/2018-4"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100016182",
+        "name": "Universidade Federal de Mato Grosso do Sul",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "59/300.066/2015"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "59/300.066/2015"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100016182",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "International Journal of Applied Earth Observation and Geoinformation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jag.2021.102456",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          27
+        ]
+      ],
+      "date-time": "2021-07-27T06:37:48Z",
+      "timestamp": 1627367868000
+    },
+    "page": "102456",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 263,
+    "special_numbering": "C",
+    "title": [
+      "A review on deep learning in UAV remote sensing"
+    ],
+    "prefix": "10.1016",
+    "volume": "102",
+    "author": [
+      {
+        "given": "Lucas Prado",
+        "family": "Osco",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José",
+        "family": "Marcato Junior",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana Paula",
+        "family": "Marques Ramos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lúcio André",
+        "family": "de Castro Jorge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah Narges",
+        "family": "Fatholahi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "de Andrade Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Edson Takashi",
+        "family": "Matsubara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hemerson",
+        "family": "Pistori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wesley Nunes",
+        "family": "Gonçalves",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jag.2021.102456_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1716",
+        "DOI": "10.3390/rs12111716",
+        "article-title": "Deep open-set domain adaptation for cross-scene classification based on adversarial learning and pareto ranking",
+        "volume": "12",
+        "author": "Adayel",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0010",
+        "article-title": "Hyperspectral imaging: A review on uav-based sensors, data processing and applications for agriculture and forestry",
+        "volume": "12",
+        "author": "Ado",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1038/s41370-020-0246-y",
+        "article-title": "A deep learning approach to identify smoke plumes in satellite imagery in near-real time for health risk communication",
+        "volume": "31",
+        "author": "Alexandra Larsen",
+        "year": "2020",
+        "journal-title": "J. Exposure Sci. Environ. Epidemiol."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0020",
+        "first-page": "11",
+        "article-title": "Land cover classification from fused dsm and uav images using convolutional neural networks",
+        "author": "Al-Najjar",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0025",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs11040410",
+        "article-title": "UAV-based high throughput phenotyping in citrus utilizing multispectral imaging and artificial intelligence",
+        "volume": "11",
+        "author": "Ampatzidis",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0030",
+        "unstructured": "Aparna, Bhatia, Y., Rai, R., Gupta, V., Aggarwal, N., Akula, A., 2019. Convolutional neural networks based potholes detection using thermal imaging. J. King Saud Univ. Comput. Inform. Sci. doi: https://doi.org/10.1016/j.jksuci.2019.02.004. URL https://www.sciencedirect.com/science/article/pii/S1319157818312837."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "126030",
+        "DOI": "10.1016/j.eja.2020.126030",
+        "article-title": "Deep learning techniques for estimation of the yield and size of citrus fruits using a UAV",
+        "volume": "115",
+        "author": "Apolo-Apolo",
+        "year": "2020",
+        "journal-title": "Eur. J. Agron."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1109/MGRS.2019.2912563",
+        "article-title": "Deep learning for classification of hyperspectral data: A comparative review",
+        "volume": "7",
+        "author": "Audebert",
+        "year": "2019",
+        "journal-title": "IEEE Geosci. Remote Sens. Mag."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0045",
+        "unstructured": "Bachman, P., Hjelm, R.D., Buchwalter, W., 2019. Learning representations by maximizing mutual information across views. In: Wallach, H., Larochelle, H., Beygelzimer, A., d’Alché-Buc, F., Fox, E., Garnett, R. (Eds.), Advances in Neural Information Processing Systems, Curran Associates, Inc. pp. 15535–15545. https://proceedings.neurips.cc/paper/2019/file/ddf354219aac374f1d40b7e760ee5bb7-Paper.pdf."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "2481",
+        "DOI": "10.1109/TPAMI.2016.2644615",
+        "article-title": "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation",
+        "volume": "39",
+        "author": "Badrinarayanan",
+        "year": "2017",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0055",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ball, J.E., Anderson, D.T., Chan, C.S., 2017. A comprehensive survey of deep learning in remote sensing: Theories, tools and challenges for the community. arXiv 11. doi:10.1117/1.jrs.11.042609, arXiv:1709.00308.",
+        "DOI": "10.1117/1.JRS.11.042609"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s19245436",
+        "article-title": "A study on the detection of cattle in UAV images using deep learning",
+        "volume": "19",
+        "author": "Barbedo",
+        "year": "2019",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0065",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s20072126",
+        "article-title": "Counting cattle in uav images-dealing with clustered animals and animal/background contrast changes",
+        "volume": "20",
+        "author": "Barbedo",
+        "year": "2020",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0070",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fmars.2020.520223",
+        "article-title": "The utility of satellites and autonomous remote sensing platforms for monitoring offshore aquaculture farms: A case study for canopy forming kelps",
+        "author": "Bell",
+        "year": "2020",
+        "journal-title": "Front. Mar. Sci."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0075",
+        "series-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "14",
+        "article-title": "Towards open set deep networks",
+        "author": "Bendale",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0080",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs11111369",
+        "article-title": "Unsupervised domain adaptation using generative adversarial networks for semantic segmentation of aerial images",
+        "volume": "11",
+        "author": "Benjdira",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0085",
+        "first-page": "11",
+        "article-title": "Unsupervised domain adaptation using generative adversarial networks for semantic segmentation of aerial images",
+        "author": "Benjdira",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s20216299",
+        "article-title": "Vision and deep learning-based algorithms to detect and quantify cracks on concrete surfaces from UAV videos",
+        "volume": "20",
+        "author": "Bhowmick",
+        "year": "2020",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0095",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Biffi, L.J., Mitishita, E., Liesenberg, V., Dos Santos, A.A., Gonçalves, D.N., Estrabis, N.V., Silva, J.d.A., Osco, L.P., Ramos, A.P.M., Centeno, J.A.S., Schimalski, M.B., Rufato, L., Neto, S.L.R., Junior, J.M., Gonçalves, W.N., 2021. Article atss deep learning-based approach to detect apple fruits. Remote Sens. 13, 1–23. doi: 10.3390/rs13010054.",
+        "DOI": "10.3390/rs13010054"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s19235170",
+        "article-title": "A survey on machine-learning techniques for UAV-based communications",
+        "volume": "19",
+        "author": "Bithas",
+        "year": "2019",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1080/01431161.2020.1788742",
+        "article-title": "Deep learning-based multi-feature semantic segmentation in building extraction from images of UAV photogrammetry",
+        "volume": "42",
+        "author": "Boonpook",
+        "year": "2021",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "104426",
+        "DOI": "10.1016/j.catena.2019.104426",
+        "article-title": "Comparing the prediction performance of a deep learning neural network model with conventional machine learning models in landslide susceptibility assessment",
+        "volume": "188",
+        "author": "Bui",
+        "year": "2020",
+        "journal-title": "CATENA"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0115",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/geosciences8070244",
+        "article-title": "Landscape classification with deep neural networks",
+        "volume": "8",
+        "author": "Buscombe",
+        "year": "2018",
+        "journal-title": "Geosciences"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0120",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cai, Z., Vasconcelos, N., 2018. Cascade r-cnn: Delving into high quality object detection. In: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 6154–6162. doi: 10.1109/CVPR.2018.00644.",
+        "DOI": "10.1109/CVPR.2018.00644"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0125",
+        "article-title": "Cascade r-cnn: high quality object detection and instance segmentation",
+        "author": "Cai",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0130",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cao, Y., Chen, K., Loy, C.C., Lin, D., 2020. Prime sample attention in object detection. In: IEEE Conference on Computer Vision and Pattern Recognition, p. 9.",
+        "DOI": "10.1109/CVPR42600.2020.01160"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0135",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.rse.2020.112107",
+        "article-title": "Adopting deep learning methods for airborne RGB fluvial scene classification",
+        "volume": "251",
+        "author": "Carbonneau",
+        "year": "2020",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0140",
+        "series-title": "Computer Vision – ECCV 2020",
+        "first-page": "213",
+        "article-title": "End-to-end object detection with transformers",
+        "author": "Carion",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0145",
+        "series-title": "Computer Vision – ECCV 2018",
+        "first-page": "139",
+        "article-title": "Deep clustering for unsupervised learning of visual features",
+        "author": "Caron",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0150",
+        "unstructured": "Caron, M., Misra, I., Mairal, J., Goyal, P., Bojanowski, P., Joulin, A., 2021. Unsupervised learning of visual features by contrasting cluster assignments. arXiv:2006.09882."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0155",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Castro, W., Junior, J.M., Polidoro, C., Osco, L.P., Gonçalves, W., Rodrigues, L., Santos, M., Jank, L., Barrios, S., Valle, C., Simeão, R., Carromeu, C., Silveira, E., Jorge, L.A.d.C., Matsubara, E., 2020. Deep learning applied to phenotyping of biomass in forages with uav-based rgb imagery. Sensors (Switzerland) 20, 1–18. doi: 10.3390/s20174802.",
+        "DOI": "10.3390/s20174802"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0160",
+        "unstructured": "Chen, L.C., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A.L., 2016. Semantic image segmentation with deep convolutional nets and fully connected crfs. arXiv:1412.7062."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "834",
+        "DOI": "10.1109/TPAMI.2017.2699184",
+        "article-title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+        "volume": "40",
+        "author": "Chen",
+        "year": "2018",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0170",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, K., Pang, J., Wang, J., Xiong, Y., Li, X., Sun, S., Feng, W., Liu, Z., Shi, J., Ouyang, W., Loy, C.C., Lin, D., 2019. Hybrid task cascade for instance segmentation. In: IEEE Conference on Computer Vision and Pattern Recognition, p. 10.",
+        "DOI": "10.1109/CVPR.2019.00511"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0175",
+        "series-title": "2020 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)",
+        "first-page": "285",
+        "article-title": "Foreground-background imbalance problem in deep object detectors: A review",
+        "author": "Chen",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1016/j.isprsjprs.2016.03.014",
+        "article-title": "A survey on object detection in optical remote sensing images",
+        "volume": "117",
+        "author": "Cheng",
+        "year": "2016",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0185",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cheng, G., Han, J., Lu, X., 2017. Remote sensing image scene classification: Benchmark and state of the art. arXiv.",
+        "DOI": "10.1109/JPROC.2017.2675998"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0190",
+        "unstructured": "Crawshaw, M., 2020. Multi-task learning with deep neural networks: A survey. arXiv:2009.09796."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "104451",
+        "DOI": "10.1016/j.catena.2019.104451",
+        "article-title": "A spatially explicit deep learning neural network model for the prediction of landslide susceptibility",
+        "volume": "188",
+        "author": "Dao",
+        "year": "2020",
+        "journal-title": "CATENA"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0200",
+        "series-title": "2020 IEEE Latin American GRSS ISPRS Remote Sensing Conference (LAGIRS)",
+        "first-page": "16",
+        "article-title": "Towards open-set semantic segmentation of aerial images",
+        "author": "da Silva",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0205",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s18072244",
+        "article-title": "Using deep learning and low-cost rgb and thermal cameras to detect pedestrians in aerial images captured by multirotor uav",
+        "volume": "18",
+        "author": "de Oliveira",
+        "year": "2018",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0210",
+        "first-page": "1",
+        "article-title": "Deep learning with unsupervised data labeling for weed detection in line crops in UAV images",
+        "volume": "10",
+        "author": "Dian Bah",
+        "year": "2018",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1109/TGRS.2020.2994150",
+        "article-title": "Lanet: Local attention embedding to improve the semantic segmentation of remote sensing images",
+        "volume": "59",
+        "author": "Ding",
+        "year": "2021",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0220",
+        "unstructured": "Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N., 2020. An image is worth 16x16 words: Transformers for image recognition at scale. arXiv:2010.11929."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0225",
+        "first-page": "1",
+        "article-title": "Assessment of CNN-based methods for individual tree detection on images captured by RGB cameras attached to UAVS",
+        "volume": "19",
+        "author": "dos Santos",
+        "year": "2019",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0230",
+        "series-title": "Proceedings of the IEEE International Conference on Computer Vision 2019-October",
+        "article-title": "CenterNet: Keypoint triplets for object detection",
+        "author": "Duan",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0235",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Du, D., Qi, Y., Yu, H., Yang, Y., Duan, K., Li, G., Zhang, W., Huang, Q., Tian, Q., 2018. The unmanned aerial vehicle benchmark: Object detection and tracking. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 11214 LNCS, 375–391. doi:10.1007/978-3-030-01249-6_23.",
+        "DOI": "10.1007/978-3-030-01249-6_23"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "4198",
+        "DOI": "10.1109/JSTARS.2017.2711360",
+        "article-title": "Domain adaptation using representation learning for the classification of remote sensing images",
+        "volume": "10",
+        "author": "Elshamli",
+        "year": "2017",
+        "journal-title": "IEEE J. Sel. Top. Appl. Earth Observ. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0245",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs11222631",
+        "article-title": "Category-sensitive domain adaptation for land cover mapping in aerial scenes",
+        "volume": "11",
+        "author": "Fang",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0250",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs12101668",
+        "article-title": "Multi-temporal unmanned aerial vehicle remote sensing for vegetable mapping using an attention-based recurrent convolutional neural network",
+        "volume": "12",
+        "author": "Feng",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0255",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ferreira, M.P., de Almeida, D.R.A., Papa, D.d.A., Minervino, J.B.S., Veras, H.F.P., Formighieri, A., Santos, C.A.N., Ferreira, M.A.D., Figueiredo, E.O., Ferreira, E.J.L., 2020. Individual tree detection and species classification of Amazonian palms using UAV images and deep learning. Forest Ecol. Manage. 475, 118397. URL https://doi.org/10.1016/j.foreco.2020.118397, doi: 10.1016/j.foreco.2020.118397.",
+        "DOI": "10.1016/j.foreco.2020.118397"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "652",
+        "DOI": "10.1109/TPAMI.2019.2938758",
+        "article-title": "Res2net: A new multi-scale backbone architecture",
+        "volume": "43",
+        "author": "Gao",
+        "year": "2021",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0265",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s19071486",
+        "article-title": "Deep convolutional neural network for flood extent mapping using unmanned aerial vehicles data",
+        "volume": "19",
+        "author": "Gebrehiwot",
+        "year": "2019",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1016/j.isprsjprs.2018.06.001",
+        "article-title": "A deep learning approach to dtm extraction from imagery using rule-based training labels",
+        "volume": "142",
+        "author": "Gevaert",
+        "year": "2018",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0275",
+        "first-page": "102117",
+        "article-title": "Monitoring household upgrading in unplanned settlements with unmanned aerial vehicles",
+        "volume": "90",
+        "author": "Gevaert",
+        "year": "2020",
+        "journal-title": "Int. J. Appl. Earth Obs. Geoinf."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0280",
+        "series-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+        "first-page": "7036",
+        "article-title": "Nas-fpn: Learning scalable feature pyramid architecture for object detection, in",
+        "author": "Ghiasi",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "186257",
+        "DOI": "10.1109/ACCESS.2020.3030112",
+        "article-title": "U-net convolutional networks for mining land cover classification based on high-resolution uav imagery",
+        "volume": "8",
+        "author": "Giang",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s20216070",
+        "article-title": "Mapping utility poles in aerial orthoimages using atss deep learning method",
+        "volume": "20",
+        "author": "Gomes",
+        "year": "2020",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0295",
+        "unstructured": "Goodfellow, I.J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., Bengio, Y., 2014. Generative adversarial networks. arXiv:1406.2661."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0300",
+        "series-title": "Deep Learning",
+        "author": "Goodfellow",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "1490",
+        "DOI": "10.1111/2041-210X.13246",
+        "article-title": "Drones and convolutional neural networks facilitate automated and accurate cetacean species identification and photogrammetry",
+        "volume": "10",
+        "author": "Gray",
+        "year": "2019",
+        "journal-title": "Methods Ecol. Evol."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0310",
+        "unstructured": "Guo, Y., 2018. A survey on methods and theories of quantized neural networks. arXiv preprint arXiv:1808.04752."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/rs11171976",
+        "article-title": "Forest damage assessment using deep learning on high resolution remote sensing data",
+        "volume": "11",
+        "author": "Hamdi",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0320",
+        "first-page": "102085",
+        "article-title": "Evaluating techniques for mapping island vegetation from unmanned aerial vehicle (UAV) images: Pixel classification, visual interpretation and machine learning approaches",
+        "volume": "89",
+        "author": "Hamylton",
+        "year": "2020",
+        "journal-title": "Int. J. Appl. Earth Obs. Geoinf."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0325",
+        "series-title": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2016-December, 770–778",
+        "article-title": "Deep residual learning for image recognition",
+        "author": "He",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0330",
+        "series-title": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "770",
+        "article-title": "Deep residual learning for image recognition",
+        "author": "He",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0335",
+        "series-title": "2017 IEEE International Conference on Computer Vision (ICCV)",
+        "first-page": "2980",
+        "article-title": "Mask r-cnn",
+        "author": "He",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0340",
+        "series-title": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "9726",
+        "article-title": "Momentum contrast for unsupervised visual representation learning",
+        "author": "He",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.3390/rs12010113",
+        "article-title": "Hyperspectral Classification of Plants: A Review of Waveband Selection Generalisability",
+        "volume": "12",
+        "author": "Hennessy",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0350",
+        "unstructured": "Hinton, G., Vinyals, O., Dean, J., 2015. Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0355",
+        "unstructured": "Hjelm, D., Fedorov, A., Lavoie-Marchildon, S., Grewal, K., Bachman, P., Trischler, A., Bengio, Y., 2019. Learning deep representations by mutual information estimation and maximization. In: ICLR 2019, ICLR. p. 24."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0360",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1162/neco.1997.9.8.1735",
+        "article-title": "Long short-term memory",
+        "volume": "9",
+        "author": "Hochreiter",
+        "year": "1997",
+        "journal-title": "Neural Comput."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1002/rse2.144",
+        "article-title": "Mapping of land cover with open-source software and ultra-high-resolution imagery acquired with unmanned aerial vehicles",
+        "volume": "6",
+        "author": "Horning",
+        "year": "2020",
+        "journal-title": "Remote Sens. Ecol. Conserv."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1016/j.isprsjprs.2019.02.009",
+        "article-title": "Segmentation for Object-Based Image Analysis (OBIA): A review of algorithms and challenges from remote sensing perspective",
+        "volume": "150",
+        "author": "Hossain",
+        "year": "2019",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0375",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ho Tong Minh, D., Ienco, D., Gaetano, R., Lalande, N., Ndikumana, E., Osman, F., Maurel, P., 2018. Deep recurrent neural networks for winter vegetation quality mapping via multitemporal sar sentinel-1. IEEE Geosci. Remote Sens. Lett. 15, 464–468. doi: 10.1109/LGRS.2018.2794581.",
+        "DOI": "10.1109/LGRS.2018.2794581"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "108414",
+        "DOI": "10.1016/j.biocon.2020.108414",
+        "article-title": "Identification of animal individuals using deep learning: A case study of giant panda",
+        "volume": "242",
+        "author": "Hou",
+        "year": "2020",
+        "journal-title": "Biol. Conserv."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0385",
+        "unstructured": "Howard, A.G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., Adam, H., 2017. Mobilenets: Efficient convolutional neural networks for mobile vision applications. arXiv preprint arXiv:1704.04861."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0390",
+        "article-title": "Semantic segmentation of remote sensing images with sparse annotations",
+        "author": "Hua",
+        "year": "2021",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1016/j.biosystemseng.2020.03.021",
+        "article-title": "Recognition of diseased Pinus trees in UAV images using deep learning and AdaBoost classifier",
+        "volume": "194",
+        "author": "Hu",
+        "year": "2020",
+        "journal-title": "Biosyst. Eng."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0400",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs12152490",
+        "article-title": "Segmentation of vegetation and flood from aerial images based on decision fusion of neural networks",
+        "volume": "12",
+        "author": "Ichim",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "1685",
+        "DOI": "10.1109/LGRS.2017.2728698",
+        "article-title": "Land cover classification via multitemporal spatial data by deep recurrent neural networks",
+        "volume": "14",
+        "author": "Ienco",
+        "year": "2017",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0410",
+        "unstructured": "ImageNet, 2018. Imagenet object localization challenge. https://www.kaggle.com/c/imagenet-object-localization-challenge."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0415",
+        "series-title": "Embedded development boards for edge-ai: A comprehensive report",
+        "author": "Imran",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0420",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Isola, P., Zhu, J.Y., Zhou, T., Efros, A., 2018. Image-to-image translation with conditional adversarial networks.",
+        "DOI": "10.1109/CVPR.2017.632"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0425",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/geosciences9070323",
+        "article-title": "Accuracy assessment of deep learning based classification of lidar and uav points clouds for dtm creation and flood risk mapping",
+        "volume": "9",
+        "author": "Jakovljevic",
+        "year": "2019",
+        "journal-title": "Geosciences"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/j.neucom.2021.03.035",
+        "article-title": "A survey: Deep learning for hyperspectral image classification with few labeled samples",
+        "volume": "448",
+        "author": "Jia",
+        "year": "2021",
+        "journal-title": "Neurocomputing"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0435",
+        "doi-asserted-by": "crossref",
+        "first-page": "105108",
+        "DOI": "10.1016/j.compag.2019.105108",
+        "article-title": "Fast implementation of real-time fruit detection in apple orchards using deep learning",
+        "volume": "168",
+        "author": "Kang",
+        "year": "2020",
+        "journal-title": "Comput. Electron. Agric."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0440",
+        "article-title": "Deep unsupervised embedding for remotely sensed images based on spatially augmented momentum contrast",
+        "volume": "1–13",
+        "author": "Kang",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0445",
+        "first-page": "451",
+        "article-title": "Effects of Varying Resolution on Performance of CNN based Image Classification An Experimental Study",
+        "volume": "6",
+        "author": "Kannojia",
+        "year": "2018",
+        "journal-title": "Int. J. Comput. Sci. Eng."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "5872",
+        "DOI": "10.1109/JSTARS.2020.3025790",
+        "article-title": "Automatic plant counting and location based on a few-shot learning technique",
+        "volume": "13",
+        "author": "Karami",
+        "year": "2020",
+        "journal-title": "IEEE J. Sel. Top. Appl. Earth Observ. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1016/j.rse.2018.06.028",
+        "article-title": "Detecting mammals in uav images: Best practices to address a substantially imbalanced dataset with deep learning",
+        "volume": "216",
+        "author": "Kellenberger",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0460",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.compag.2020.105446",
+        "article-title": "Vine disease detection in UAV multispectral images using optimized image registration and deep learning segmentation approach",
+        "volume": "174",
+        "author": "Kerkech",
+        "year": "2020",
+        "journal-title": "Comput. Electron. Agric."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0465",
+        "volume": "vol. 53",
+        "author": "Khan",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0470",
+        "doi-asserted-by": "crossref",
+        "first-page": "126385",
+        "DOI": "10.1109/ACCESS.2020.3008036",
+        "article-title": "Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and Meta-Analysis",
+        "volume": "8",
+        "author": "Khelifi",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0475",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim, K., Lee, H.S., 2020. Probabilistic anchor assignment with iou prediction for object detection. In: European Conference on Computer Vision (ECCV), p. 22.",
+        "DOI": "10.1007/978-3-030-58595-2_22"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0480",
+        "series-title": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "9396",
+        "article-title": "Panoptic segmentation",
+        "author": "Kirillov",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0485",
+        "series-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "10",
+        "article-title": "Pointrend: Image segmentation as rendering, in",
+        "author": "Kirillov",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0490",
+        "article-title": "Corn Plant Counting Using Deep Learning and UAV Images",
+        "volume": "1–5",
+        "author": "Kitano",
+        "year": "2019",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0495",
+        "series-title": "Proceedings of the 25th International Conference on Neural Information Processing Systems - Volume 1",
+        "first-page": "1097",
+        "article-title": "Imagenet classification with deep convolutional neural networks",
+        "author": "Krizhevsky",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0500",
+        "doi-asserted-by": "crossref",
+        "first-page": "778",
+        "DOI": "10.1109/LGRS.2017.2681128",
+        "article-title": "Deep learning classification of land cover and crop types using remote sensing data",
+        "volume": "14",
+        "author": "Kussul",
+        "year": "2017",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0505",
+        "doi-asserted-by": "crossref",
+        "first-page": "2065",
+        "DOI": "10.1109/TPAMI.2019.2910523",
+        "article-title": "A comprehensive analysis of deep regression",
+        "volume": "42",
+        "author": "Lathuilire",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0510",
+        "doi-asserted-by": "crossref",
+        "first-page": "642",
+        "DOI": "10.1007/s11263-019-01204-1",
+        "article-title": "CornerNet: Detecting Objects as Paired Keypoints",
+        "volume": "128",
+        "author": "Law",
+        "year": "2020",
+        "journal-title": "Int. J. Comput. Vision"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0515",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1038/nature14539",
+        "article-title": "Deep learning",
+        "volume": "521",
+        "author": "Lecun",
+        "year": "2015",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0520",
+        "doi-asserted-by": "crossref",
+        "first-page": "447",
+        "DOI": "10.1109/LGRS.2011.2172185",
+        "article-title": "Linear versus nonlinear pca for the classification of hyperspectral data based on the extended morphological profiles",
+        "volume": "9",
+        "author": "Licciardi",
+        "year": "2012",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0525",
+        "first-page": "1",
+        "article-title": "Deep learning for remote sensing image classification: A survey",
+        "volume": "8",
+        "author": "Li",
+        "year": "2018",
+        "journal-title": "Wiley Interdiscipl. Rev. Data Min. Knowl. Discov."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0530",
+        "series-title": "2019 IEEE International Conference on Image Processing (ICIP)",
+        "first-page": "3886",
+        "article-title": "Feature-attentioned object detection in remote sensing imagery",
+        "author": "Li",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0535",
+        "series-title": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "first-page": "6053",
+        "article-title": "Scale-aware trident networks for object detection",
+        "author": "Li",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0540",
+        "doi-asserted-by": "crossref",
+        "first-page": "6690",
+        "DOI": "10.1109/TGRS.2019.2907932",
+        "article-title": "Deep learning for hyperspectral image classification: An overview",
+        "volume": "57",
+        "author": "Li",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0545",
+        "article-title": "Road extraction from unmanned aerial vehicle remote sensing images based on improved neural networks",
+        "volume": "19",
+        "author": "Li",
+        "year": "2019",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0550",
+        "article-title": "Dla-matchnet for few-shot remote sensing image scene classification",
+        "volume": "1–10",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0555",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, X., Wang, W., Wu, L., Chen, S., Hu, X., Li, J., Tang, J., Yang, J., 2020a. Generalized focal loss: Learning qualified and distributed bounding boxes for dense object detection. arXiv preprint arXiv:2006.04388.",
+        "DOI": "10.1109/CVPR46437.2021.01146"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0560",
+        "doi-asserted-by": "crossref",
+        "first-page": "105745",
+        "DOI": "10.1016/j.compag.2020.105745",
+        "article-title": "Unsupervised domain adaptation for in-field cotton boll status identification",
+        "volume": "178",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "Comput. Electron. Agric."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0565",
+        "article-title": "Radet: Refine feature pyramid network and multi-layer attention network for arbitrary-oriented object detection of remote sensing images",
+        "volume": "12",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0570",
+        "doi-asserted-by": "crossref",
+        "first-page": "2092",
+        "DOI": "10.1109/LGRS.2017.2752750",
+        "article-title": "Marta gans: Unsupervised representation learning for remote sensing image classification",
+        "volume": "14",
+        "author": "Lin",
+        "year": "2017",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0575",
+        "series-title": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "936",
+        "article-title": "Feature pyramid networks for object detection",
+        "author": "Lin",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0580",
+        "doi-asserted-by": "crossref",
+        "first-page": "4279",
+        "DOI": "10.1109/TGRS.2019.2962039",
+        "article-title": "A multikernel domain adaptation method for unsupervised transfer learning on cross-source and cross-region remote sensing data classification",
+        "volume": "58",
+        "author": "Liu",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0585",
+        "series-title": "Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "11",
+        "article-title": "Path aggregation network for instance segmentation, in",
+        "author": "Liu",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0590",
+        "first-page": "261",
+        "article-title": "Deep learning for generic object detection: A survey",
+        "author": "Liu",
+        "year": "2019",
+        "journal-title": "Int. J. Comput. Vision"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0595",
+        "unstructured": "Lu, X., Li, B., Yue, Y., Li, Q., Yan, J., 2019. Grid R-CNN plus: Faster and better. CoRR abs/1906.05688. http://arxiv.org/abs/1906.05688, arXiv:1906.05688."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0600",
+        "doi-asserted-by": "crossref",
+        "first-page": "166",
+        "DOI": "10.1016/j.isprsjprs.2019.04.015",
+        "article-title": "Deep learning in remote sensing applications: A meta-analysis and review",
+        "volume": "152",
+        "author": "Ma",
+        "year": "2019",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0605",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1007/s11263-020-01359-2",
+        "article-title": "Image matching from handcrafted to deep features: A survey",
+        "volume": "129",
+        "author": "Ma",
+        "year": "2021",
+        "journal-title": "Int. J. Comput. Vision"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0610",
+        "series-title": "Image segmentation using deep learning: A survey",
+        "author": "Minaee",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0615",
+        "doi-asserted-by": "crossref",
+        "first-page": "428",
+        "DOI": "10.1016/j.sysarc.2019.01.011",
+        "article-title": "A survey on optimized implementation of deep learning models on the nvidia jetson platform",
+        "volume": "97",
+        "author": "Mittal",
+        "year": "2019",
+        "journal-title": "J. Syst. Architect."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0620",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miyoshi, G.T., Arruda, M.d.S., Osco, L.P., Marcato Junior, J., Gonalves, D.N., Imai, N.N., Tommaselli, A.M.G., Honkavaara, E., Gonalves, W.N., 2020. A novel deep learning method to identify single tree species in uav-based hyperspectral images. Remote Sens. 12. doi: 10.3390/rs12081294. URL https://www.mdpi.com/2072-4292/12/8/1294.",
+        "DOI": "10.3390/rs12081294"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0625",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/rs12234000",
+        "article-title": "Crop yield prediction using multitemporal UAV data and spatio-temporal deep learning models",
+        "volume": "12",
+        "author": "Nevavuori",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0630",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs12071070",
+        "article-title": "ree species classification of drone hyperspectral and rgb imagery with deep learning convolutional neural networks",
+        "volume": "12",
+        "author": "Nezami",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0635",
+        "doi-asserted-by": "crossref",
+        "first-page": "7503",
+        "DOI": "10.1109/TGRS.2019.2913861",
+        "article-title": "Dynamic multicontext segmentation of remote sensing images based on convolutional networks",
+        "volume": "57",
+        "author": "Nogueira",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0640",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/rs12040739",
+        "article-title": "Facing erosion identification in railway lines using pixel-wise deep-based approaches",
+        "volume": "12",
+        "author": "Nogueira",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0645",
+        "unstructured": "Nwankpa, C., Ijomah, W., Gachagan, A., Marshall, S., 2018. Activation functions: Comparison of trends in practice and research for deep learning. arXiv preprint arXiv:1811.03378."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0650",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Osco, L.P., dos Santos de Arruda, M., Gonalves, D.N., Dias, A., Batistoti, J., de Souza, M., Gomes, F.D.G., Ramos, A.P.M., de Castro Jorge, L.A., Liesenberg, V., Li, J., Ma, L., Junior, J.M., Gonalves, W.N., 2020a. A cnn approach to simultaneously count plants and detect plantation-rows from uav imagery. arXiv:2012.15827.",
+        "DOI": "10.1016/j.isprsjprs.2021.01.024"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0655",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Osco, L.P., de Arruda, M.d.S., Marcato Junior, J., da Silva, N.B., Ramos, A.P.M., Moryia, É.A.S., Imai, N.N., Pereira, D.R., Creste, J.E., Matsubara, E.T., Li, J., Gonçalves, W.N., 2020b. A convolutional neural network approach for counting and geolocating citrus-trees in UAV multispectral imagery. ISPRS Journal of Photogrammetry and Remote Sensing 160, 97–106. URL https://doi.org/10.1016/j.isprsjprs.2019.12.010, doi:10.1016/j.isprsjprs.2019.12.010.",
+        "DOI": "10.1016/j.isprsjprs.2019.12.010"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0660",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s11119-020-09777-5",
+        "article-title": "Semantic segmentation of citrus-orchard using deep neural networks and multispectral uav-based imagery",
+        "author": "Osco",
+        "year": "2021",
+        "journal-title": "Precision Agric."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0665",
+        "series-title": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2019-June, 821–830",
+        "article-title": "Libra R-CNN: Towards balanced learning for object detection",
+        "author": "Pang",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0670",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1016/j.isprsjprs.2019.09.006",
+        "article-title": "Deep learning classifiers for hyperspectral imaging: A review",
+        "volume": "158",
+        "author": "Paoletti",
+        "year": "2019",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0675",
+        "article-title": "Discrepancy analysis for detecting candidate parcels requiring update of land category in cadastral map using hyperspectral uav images: A case study in jeonju, south korea",
+        "volume": "12",
+        "author": "Park",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0680",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Penatti, O.A., Nogueira, K., Dos Santos, J.A., 2015. Do deep features generalize from everyday objects to remote sensing and aerial scenes domains?. In: IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops 2015-October, pp. 44–51. doi:10.1109/CVPRW.2015.7301382.",
+        "DOI": "10.1109/CVPRW.2015.7301382"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0685",
+        "series-title": "2016 6th International Conference on Image Processing Theory, Tools and Applications, IPTA",
+        "article-title": "Hyperspectral image analysis using deep learning - A review",
+        "author": "Petersson",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0690",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qiao, S., Chen, L.C., Yuille, A., 2020. Detectors: Detecting objects with recursive feature pyramid and switchable atrous convolution. arXiv preprint arXiv:2006.02334.",
+        "DOI": "10.1109/CVPR46437.2021.01008"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0695",
+        "series-title": "Proceedings of the IEEE International Conference on Computer Vision",
+        "first-page": "6718",
+        "article-title": "Thundernet: Towards real-time generic object detection on mobile devices",
+        "author": "Qin",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0700",
+        "series-title": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Los Alamitos, CA, USA",
+        "first-page": "10425",
+        "article-title": "Designing network design spaces",
+        "author": "Radosavovic",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0705",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s18072048",
+        "article-title": "Detection of cattle using drones and convolutional neural networks",
+        "volume": "18",
+        "author": "Rivas",
+        "year": "2018",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0710",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ronneberger, O., Fischer, P., Brox, T., 2015. U-net: Convolutional networks for biomedical image segmentation. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 9351, 234–241. doi:10.1007/978-3-319-24574-4_28, arXiv:1505.04597.",
+        "DOI": "10.1007/978-3-319-24574-4_28"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0715",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/j.neunet.2014.09.003",
+        "article-title": "Deep learning in neural networks: An overview",
+        "volume": "61",
+        "author": "Schmidhuber",
+        "year": "2015",
+        "journal-title": "Neural Netw."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0720",
+        "doi-asserted-by": "crossref",
+        "first-page": "100301",
+        "DOI": "10.1016/j.cosrev.2020.100301",
+        "article-title": "A comprehensive and systematic look up into deep learning based object detection techniques: A review",
+        "volume": "38",
+        "author": "Sharma",
+        "year": "2020",
+        "journal-title": "Comput. Sci. Rev."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0725",
+        "doi-asserted-by": "crossref",
+        "first-page": "2395",
+        "DOI": "10.1080/01431161.2011.608740",
+        "article-title": "High-resolution satellite scene classification using a sparse coding based multiple feature combination",
+        "volume": "33",
+        "author": "Sheng",
+        "year": "2012",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0730",
+        "article-title": "Deep learning meets hyperspectral image analysis: A multidisciplinary review",
+        "volume": "5",
+        "author": "Signoroni",
+        "year": "2019",
+        "journal-title": "J. Imag."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0735",
+        "unstructured": "Simonyan, K., Zisserman, A., 2015. Very deep convolutional networks for large-scale image recognition. In: International Conference on Learning Representations, p. 14."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0740",
+        "doi-asserted-by": "crossref",
+        "first-page": "747",
+        "DOI": "10.5194/amt-13-747-2020",
+        "article-title": "Quantifying hail size distributions from the sky – application of drone aerial photogrammetry. Atmospheric",
+        "volume": "13",
+        "author": "Soderholm",
+        "year": "2020",
+        "journal-title": "Meas. Tech."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0745",
+        "series-title": "IGARSS 2019–2019 IEEE International Geoscience and Remote Sensing Symposium",
+        "first-page": "3856",
+        "article-title": "Semantic segmentation of high resolution remote sensing image based on batch-attention mechanism",
+        "author": "Su",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0750",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1117/1.JRS.14.026521",
+        "article-title": "FSSCaps-DetCountNet: fuzzy soft sets and CapsNet-based detection and counting network for monitoring animals from aerial images",
+        "volume": "14",
+        "author": "Sundaram",
+        "year": "2020",
+        "journal-title": "J. Appl. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0755",
+        "series-title": "International conference on artificial neural networks",
+        "first-page": "270",
+        "article-title": "A survey on deep transfer learning",
+        "author": "Tan",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0760",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1109/LGRS.2019.2932385",
+        "article-title": "Automatic Recognition of Soybean Leaf Diseases Using UAV Images and Deep Convolutional Neural Networks",
+        "volume": "17",
+        "author": "Tetila",
+        "year": "2020",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0765",
+        "unstructured": "Thoma, M., 2016. A survey of semantic segmentation. arXiv:1602.06541."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0770",
+        "unstructured": "Tian, Y., Krishnan, D., Isola, P., 2019a. Contrastive multiview coding. CoRR abs/1906.05849. http://arxiv.org/abs/1906.05849, arXiv:1906.05849."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0775",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1016/j.compag.2019.01.012",
+        "article-title": "Apple detection during different growth stages in orchards using the improved YOLO-V3 model",
+        "volume": "157",
+        "author": "Tian",
+        "year": "2019",
+        "journal-title": "Comput. Electron. Agric."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0780",
+        "first-page": "1",
+        "article-title": "Applying fully convolutional architectures for semantic segmentation of a single tree species in urban environment on high resolution UAV optical imagery",
+        "volume": "20",
+        "author": "Torres",
+        "year": "2020",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0785",
+        "series-title": "Training data-efficient image transformers & distillation through attention",
+        "author": "Touvron",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0790",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s19183929",
+        "article-title": "Survey of deep-learning approaches for remote sensing observation enhancement",
+        "volume": "19",
+        "author": "Tsagkatakis",
+        "year": "2019",
+        "journal-title": "Sensors (Switzerland)"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0795",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1109/MGRS.2016.2548504",
+        "article-title": "Domain adaptation for the classification of remote sensing data: An overview of recent advances",
+        "volume": "4",
+        "author": "Tuia",
+        "year": "2016",
+        "journal-title": "IEEE Geosci. Remote Sens. Mag."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0800",
+        "doi-asserted-by": "crossref",
+        "first-page": "103457",
+        "DOI": "10.1016/j.infrared.2020.103457",
+        "article-title": "Cnn based hyperspectral image classification using unsupervised band selection and structure-preserving spatial features",
+        "volume": "110",
+        "author": "Vaddi",
+        "year": "2020",
+        "journal-title": "Infrared Phys. Technol."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0805",
+        "series-title": "IEEE Conference on Computer Vision and Pattern Recognition",
+        "first-page": "12",
+        "article-title": "Region proposal by guided anchoring",
+        "author": "Wang",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0810",
+        "article-title": "Deep high-resolution representation learning for visual recognition",
+        "volume": "1–1",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Pattern Anal. Mach. Intell."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0815",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, J., Zhang, W., Cao, Y., Chen, K., Pang, J., Gong, T., Shi, J., Loy, C.C., Lin, D., 2020a. Side-aware boundary localization for more precise object detection. In: European Conference on Computer Vision (ECCV), p. 21.",
+        "DOI": "10.1007/978-3-030-58548-8_24"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0820",
+        "article-title": "Estimating land surface temperature from satellite passive microwave observations with the traditional neural network, deep belief network, and convolutional neural network",
+        "volume": "12",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0825",
+        "doi-asserted-by": "crossref",
+        "first-page": "951",
+        "DOI": "10.1109/JSTARS.2020.3043442",
+        "article-title": "Boundary-aware multitask learning for remote sensing imagery",
+        "volume": "14",
+        "author": "Wang",
+        "year": "2021",
+        "journal-title": "IEEE J. Sel. Top. Appl. Earth Observ. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0830",
+        "doi-asserted-by": "crossref",
+        "first-page": "1169",
+        "DOI": "10.1109/TIP.2020.3042065",
+        "article-title": "Cgnet: A light-weight context guided network for semantic segmentation",
+        "volume": "30",
+        "author": "Wu",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Image Process."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0835",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/j.neucom.2020.01.085",
+        "article-title": "Recent advances in deep learning for object detection",
+        "volume": "396",
+        "author": "Wu",
+        "year": "2020",
+        "journal-title": "Neurocomputing"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0840",
+        "first-page": "1",
+        "article-title": "Deep learning of sea surface temperature patterns to identify ocean extremes",
+        "volume": "13",
+        "author": "Xavier Prochaska",
+        "year": "2021",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0845",
+        "series-title": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "first-page": "3974",
+        "article-title": "DOTA: A Large-Scale Dataset for Object Detection in Aerial Images",
+        "author": "Xia",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0850",
+        "series-title": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "5987",
+        "article-title": "Aggregated residual transformations for deep neural networks",
+        "author": "Xie",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0855",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs10101602",
+        "article-title": "Attention-mechanism-containing neural networks for high-resolution remote sensing image classification",
+        "volume": "10",
+        "author": "Xu",
+        "year": "2018",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0860",
+        "series-title": "2017 3rd IEEE International Conference on Computer and Communications, ICCC 2017 2018-Janua, 1947–1955",
+        "article-title": "A review on image classification of remote sensing using deep learning",
+        "author": "Yao",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0865",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yin, M., Yao, Z., Cao, Y., Li, X., Zhang, Z., Lin, S., Hu, H., 2020. Disentangled non-local neural networks.",
+        "DOI": "10.1007/978-3-030-58555-6_12"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0870",
+        "doi-asserted-by": "crossref",
+        "first-page": "111716",
+        "DOI": "10.1016/j.rse.2020.111716",
+        "article-title": "Deep learning in environmental remote sensing: Achievements and challenges",
+        "volume": "241",
+        "author": "Yuan",
+        "year": "2020",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0875",
+        "doi-asserted-by": "crossref",
+        "first-page": "114417",
+        "DOI": "10.1016/j.eswa.2020.114417",
+        "article-title": "A review of deep learning methods for semantic segmentation of remote sensing imagery",
+        "volume": "169",
+        "author": "Yuan",
+        "year": "2021",
+        "journal-title": "Expert Syst. Appl."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0880",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1109/MGRS.2016.2540798",
+        "article-title": "Deep learning for remote sensing data: A technical tutorial on the state of the art",
+        "volume": "4",
+        "author": "Zhang",
+        "year": "2016",
+        "journal-title": "IEEE Geosci. Remote Sens. Mag."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0885",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1007/s13753-019-00233-1",
+        "article-title": "Forest Fire Susceptibility Modeling Using a Convolutional Neural Network for Yunnan Province of China",
+        "volume": "10",
+        "author": "Zhang",
+        "year": "2019",
+        "journal-title": "Int. J. Disaster Risk Sci."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0890",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, H., Liptrott, M., Bessis, N., Cheng, J., 2019b. Real-time traffic analysis using deep learning techniques and UAV based video. 2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance, AVSS 2019, 1–5. doi:10.1109/AVSS.2019.8909879.",
+        "DOI": "10.1109/AVSS.2019.8909879"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0895",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, S., Chi, C., Yao, Y., Lei, Z., Li, S.Z., 2019c. Bridging the gap between anchor-based and anchor-free detection via adaptive training sample selection. arXiv preprint arXiv:1912.02424.",
+        "DOI": "10.1109/CVPR42600.2020.00978"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0900",
+        "doi-asserted-by": "crossref",
+        "first-page": "280",
+        "DOI": "10.1016/j.isprsjprs.2020.09.025",
+        "article-title": "Identifying and mapping individual plants in a highly diverse high-elevation ecosystem using UAV imagery and deep learning",
+        "volume": "169",
+        "author": "Zhang",
+        "year": "2020",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0905",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, H., Chang, H., Ma, B., Wang, N., Chen, X., 2020b. Dynamic R-CNN: Towards high quality object detection via dynamic training. arXiv preprint arXiv:2004.06002.",
+        "DOI": "10.1007/978-3-030-58555-6_16"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0910",
+        "series-title": "Varifocalnet: An iou-aware dense object detector",
+        "author": "Zhang",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0915",
+        "unstructured": "Zhang, H., Wu, C., Zhang, Z., Zhu, Y., Lin, H., Zhang, Z., Sun, Y., He, T., Mueller, J., Manmatha, R., Li, M., Smola, A., 2020d. Resnest: Split-attention networks. arXiv:2004.08955."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0920",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, X., Han, L., Han, L., Zhu, L., 2020e. How well do deep learning-based methods for land cover classification and object detection perform on high resolution remote sensing imagery? Remote Sensing 12. https://www.mdpi.com/2072-4292/12/3/417, doi:10.3390/rs12030417.",
+        "DOI": "10.3390/rs12030417"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0925",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1109/TGRS.2020.3038405",
+        "article-title": "ICENET: A semantic segmentation deep network for river ice by fusing positional and channel-wise attentive features",
+        "volume": "12",
+        "author": "Zhang",
+        "year": "2020",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0930",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1117/1.JRS.10.035004",
+        "article-title": "Feature significance-based multibag-of-visual-words model for remote sensing image scene classification",
+        "volume": "10",
+        "author": "Zhao",
+        "year": "2016",
+        "journal-title": "J. Appl. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0935",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2017. Pyramid scene parsing network. arXiv:1612.01105.",
+        "DOI": "10.1109/CVPR.2017.660"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0940",
+        "doi-asserted-by": "crossref",
+        "first-page": "3212",
+        "DOI": "10.1109/TNNLS.2018.2876865",
+        "article-title": "Object detection with deep learning: A review",
+        "volume": "30",
+        "author": "Zhao",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Neural Netw. Learn. Syst."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0945",
+        "series-title": "2020 IEEE 5th International Conference on Image, Vision and Computing, ICIVC 2020, 34–43",
+        "article-title": "A Review of Remote Sensing Image Object Detection Algorithms Based on Deep Learning",
+        "author": "Zheng",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0950",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s20247241",
+        "article-title": "Robust building extraction for high spatial resolution remote sensing images with self-attention network",
+        "volume": "20",
+        "author": "Zhou",
+        "year": "2020",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0955",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1109/JPROC.2020.3004555",
+        "article-title": "A comprehensive survey on transfer learning",
+        "volume": "109",
+        "author": "Zhuang",
+        "year": "2020",
+        "journal-title": "Proc. IEEE"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0960",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1109/MGRS.2017.2762307",
+        "article-title": "Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources",
+        "volume": "5",
+        "author": "Zhu",
+        "year": "2017",
+        "journal-title": "IEEE Geosci. Remote Sens. Mag."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0965",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu, P., Wen, L., Du, D., Bian, X., Ling, H., Hu, Q., Nie, Q., Cheng, H., Liu, C., Liu, X., Ma, W., Wu, H., Wang, L., Schumann, A., Brown, C., Lagani, R., 2019. VisDrone-DET2018: The Vision Meets Drone Object Detection in Image Challenge Results, vol. 1. Springer, Cham. doi: 10.1007/978-3-030-11021-5.",
+        "DOI": "10.1109/ICCVW.2019.00031"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0970",
+        "series-title": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2019-June, 840–849",
+        "article-title": "Feature selective anchor-free module for single-shot object detection",
+        "author": "Zhu",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0975",
+        "first-page": "11",
+        "article-title": "Attention-based deep feature fusion for the scene classification of high-resolution remote sensing images",
+        "author": "Zhu",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0980",
+        "doi-asserted-by": "crossref",
+        "first-page": "2321",
+        "DOI": "10.1109/LGRS.2015.2475299",
+        "article-title": "Deep learning based feature selection for remote sensing scene classification",
+        "volume": "12",
+        "author": "Zou",
+        "year": "2015",
+        "journal-title": "IEEE Geosci. Remote Sens. Lett."
+      },
+      {
+        "key": "10.1016/j.jag.2021.102456_b0985",
+        "doi-asserted-by": "crossref",
+        "first-page": "2321",
+        "DOI": "10.1109/LGRS.2015.2475299",
+        "article-title": "Remote Sensing Scene Classification",
+        "volume": "12",
+        "author": "Zou",
+        "year": "2015",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens. Lett."
+      }
+    ],
+    "container-title": [
+      "International Journal of Applied Earth Observation and Geoinformation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S030324342100163X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S030324342100163X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:52:44Z",
+      "timestamp": 1759585964000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S030324342100163X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "references-count": 197,
+    "alternative-id": [
+      "S030324342100163X"
+    ],
+    "URL": "https://doi.org/10.1016/j.jag.2021.102456",
+    "relation": {},
+    "ISSN": [
+      "1569-8432"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-8432",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A review on deep learning in UAV remote sensing",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "International Journal of Applied Earth Observation and Geoinformation",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jag.2021.102456",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 The Authors. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102456"
+  }
+}

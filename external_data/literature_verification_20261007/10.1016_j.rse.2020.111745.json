@@ -1,0 +1,1369 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2026-09-25T20:38:51Z",
+      "timestamp": 1790368731976,
+      "version": "4.1.0"
+    },
+    "reference-count": 89,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2020-06-01T00:00:00Z",
+          "timestamp": 1590969600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2020-06-01T00:00:00Z",
+          "timestamp": 1590969600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              5
+            ]
+          ],
+          "date-time": "2020-03-05T00:00:00Z",
+          "timestamp": 1583366400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "41828102"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "41828102"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "41801331"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "41801331"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001809",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Remote Sensing of Environment"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.rse.2020.111745",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2020-03-19T06:34:54Z",
+      "timestamp": 1584599694000
+    },
+    "page": "111745",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 137,
+    "special_numbering": "C",
+    "title": [
+      "Development of spectral-phenological features for deep learning to understand Spartina alterniflora invasion"
+    ],
+    "prefix": "10.1016",
+    "volume": "242",
+    "author": [
+      {
+        "given": "Jinyan",
+        "family": "Tian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Le",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dameng",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaojuan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chunyuan",
+        "family": "Diao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Huili",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chen",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Massimo",
+        "family": "Menenti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yong",
+        "family": "Ge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sheng",
+        "family": "Nie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yang",
+        "family": "Ou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaonan",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaomeng",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0005",
+        "article-title": "Integrating pan-sharpening and classifier ensemble techniques to map an invasive plant (Spartina alterniflora) in an estuarine wetland using Landsat 8 imagery",
+        "volume": "10",
+        "author": "Ai",
+        "year": "2016",
+        "journal-title": "J. Appl. Remote. Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0010",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1117/1.JRS.11.026020",
+        "article-title": "Phenology-based Spartina alterniflora mapping in coastal wetland of the Yangtze estuary using time series of GaoFen satellite no. 1 wide field of view imagery",
+        "volume": "11",
+        "author": "Ai",
+        "year": "2017",
+        "journal-title": "J. Appl. Remote. Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.rse.2017.05.025",
+        "article-title": "Landsat-based classification in the cloud: an opportunity for a paradigm shift in land cover monitoring",
+        "volume": "202",
+        "author": "Azzari",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.rse.2017.04.003",
+        "article-title": "Obtaining rubber plantation age information from very dense Landsat TM & ETM + time series data and pixel-based image compositing",
+        "volume": "196",
+        "author": "Beckschäfer",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1016/j.rse.2016.04.024",
+        "article-title": "Mapping changing distributions of dominant species in oil-contaminated salt marshes of Louisiana using imaging spectroscopy",
+        "volume": "182",
+        "author": "Beland",
+        "year": "2016",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1411",
+        "DOI": "10.1007/s10530-013-0578-9",
+        "article-title": "Remote detection of invasive plants: a review of spectral, textural and phenological approaches",
+        "volume": "16",
+        "author": "Bradley",
+        "year": "2014",
+        "journal-title": "Biol. Invasions"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.2307/1352695",
+        "article-title": "The introduction and spread of smooth Cordgrass (Spartina-Alterniflora) in south san-Francisco Bay",
+        "volume": "15",
+        "author": "Callaway",
+        "year": "1992",
+        "journal-title": "Estuaries"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "2094",
+        "DOI": "10.1109/JSTARS.2014.2329330",
+        "article-title": "Deep learning-based classification of Hyperspectral data",
+        "volume": "7",
+        "author": "Chen",
+        "year": "2014",
+        "journal-title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1016/j.ecss.2008.02.003",
+        "article-title": "Coastal and estuarine habitat mapping, using LIDAR height and intensity and multi-spectral imagery",
+        "volume": "78",
+        "author": "Chust",
+        "year": "2008",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "712",
+        "DOI": "10.1016/j.rse.2018.03.006",
+        "article-title": "Normalized difference flood index for rapid flood mapping: taking advantage of EO big data",
+        "volume": "209",
+        "author": "Cian",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "2345",
+        "DOI": "10.1016/j.rse.2009.06.013",
+        "article-title": "The role of spectral resolution and classifier complexity in the analysis of hyperspectral images of forest areas",
+        "volume": "113",
+        "author": "Dalponte",
+        "year": "2009",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/j.rse.2016.04.029",
+        "article-title": "Incorporating plant phenological trajectory in exotic saltcedar detection with monthly time series of Landsat imagery",
+        "volume": "182",
+        "author": "Diao",
+        "year": "2016",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1016/j.rse.2018.02.036",
+        "article-title": "Landsat time series-based multiyear spectral angle clustering (MSAC) model to monitor the inter-annual leaf senescence of exotic saltcedar",
+        "volume": "209",
+        "author": "Diao",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "411",
+        "DOI": "10.4067/S0716-078X2004000300003",
+        "article-title": "Disruption of ecosystem processes in western North America by invasive species",
+        "volume": "77",
+        "author": "Dukes",
+        "year": "2004",
+        "journal-title": "Rev. Chil. Hist. Nat."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.3390/rs1030519",
+        "article-title": "Mapping invasive tamarisk (Tamarix): a comparison of single-scene and time-series analyses of remotely sensed data",
+        "volume": "1",
+        "author": "Evangelista",
+        "year": "2009",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1109/ICRA.2016.7487173",
+        "article-title": "Deep spatial autoencoders for Visuomotor learning",
+        "author": "Finn",
+        "year": "2016",
+        "journal-title": "2016 Ieee International Conference on Robotics and Automation (Icra)"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1016/j.rse.2005.10.022",
+        "article-title": "Green leaf phenology at Landsat resolution: scaling from the field to the satellite",
+        "volume": "100",
+        "author": "Fisher",
+        "year": "2006",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1016/j.rse.2017.03.026",
+        "article-title": "Cloud detection algorithm comparison and validation for operational Landsat data products",
+        "volume": "194",
+        "author": "Foga",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "550",
+        "DOI": "10.1111/j.1526-100X.2007.00250.x",
+        "article-title": "River and riparian restoration in the southwest: results of the National River Restoration Science Synthesis Project",
+        "volume": "15",
+        "author": "Follstad Shah",
+        "year": "2007",
+        "journal-title": "Restor. Ecol."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1335",
+        "DOI": "10.1109/TGRS.2004.827257",
+        "article-title": "A relative evaluation of multiclass image classification by support vector machines",
+        "volume": "42",
+        "author": "Foody",
+        "year": "2004",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "747",
+        "DOI": "10.1007/s10530-004-5849-z",
+        "article-title": "Dominance of non-native riparian trees in western USA",
+        "volume": "7",
+        "author": "Friedman",
+        "year": "2005",
+        "journal-title": "Biol. Invasions"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1016/j.rse.2017.06.031",
+        "article-title": "Google earth engine: planetary-scale geospatial analysis for everyone",
+        "volume": "202",
+        "author": "Gorelick",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "2088",
+        "DOI": "10.1109/JSTARS.2012.2228167",
+        "article-title": "A pixel-based Landsat compositing algorithm for large area land cover mapping",
+        "volume": "6",
+        "author": "Griffiths",
+        "year": "2013",
+        "journal-title": "IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "850",
+        "DOI": "10.1126/science.1244693",
+        "article-title": "High-resolution global maps of 21st-century forest cover change",
+        "volume": "342",
+        "author": "Hansen",
+        "year": "2013",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "466",
+        "DOI": "10.1016/j.rse.2013.08.014",
+        "article-title": "Monitoring conterminous United States (CONUS) land cover change with web-enabled Landsat data (WELD)",
+        "volume": "140",
+        "author": "Hansen",
+        "year": "2014",
+        "journal-title": "Remote Sens Environ"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0130",
+        "first-page": "2252",
+        "volume": "36",
+        "author": "Hartig",
+        "year": "2002",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.rse.2020.111745_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "2252",
+        "DOI": "10.1080/01431161.2015.1035410",
+        "article-title": "A comparison of classification algorithms using Landsat-7 and Landsat-8 data for mapping lithology in Canada’s Arctic",
+        "volume": "36",
+        "author": "He",
+        "year": "2015",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "4319",
+        "DOI": "10.1080/01431160903252343",
+        "article-title": "Linear spectral mixture analysis of Landsat TM data for monitoring invasive exotic plants in estuarine wetlands",
+        "volume": "31",
+        "author": "He",
+        "year": "2010",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "717",
+        "DOI": "10.1016/j.rse.2017.09.029",
+        "article-title": "Mapping forest change using stacked generalization: an ensemble approach",
+        "volume": "204",
+        "author": "Healey",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1035",
+        "DOI": "10.1080/17538947.2016.1187673",
+        "article-title": "Mass data processing of time series Landsat imagery: pixels to data products for forest monitoring",
+        "volume": "9",
+        "author": "Hermosilla",
+        "year": "2016",
+        "journal-title": "International Journal of Digital Earth"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.rse.2017.09.035",
+        "article-title": "Effect of classifier selection, reference sample size, reference class distribution and scene heterogeneity in per-pixel classification accuracy using 26 Landsat sites",
+        "volume": "204",
+        "author": "Heydari",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "1988",
+        "DOI": "10.1016/j.rse.2009.05.011",
+        "article-title": "Generation of dense time series synthetic Landsat data through data blending with MODIS using a spatial and temporal adaptive reflectance fusion model",
+        "volume": "113",
+        "author": "Hilker",
+        "year": "2009",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1016/j.rse.2013.08.003",
+        "article-title": "Salt marsh elevation and habitat mapping using hyperspectral and LIDAR data",
+        "volume": "139",
+        "author": "Hladik",
+        "year": "2013",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "14680",
+        "DOI": "10.3390/rs71114680",
+        "article-title": "Transferring deep convolutional neural networks for the scene classification of high-resolution remote sensing imagery",
+        "volume": "7",
+        "author": "Hu",
+        "year": "2015",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "166",
+        "DOI": "10.1016/j.rse.2017.02.021",
+        "article-title": "Mapping major land cover dynamics in Beijing using all Landsat images in Google earth engine",
+        "volume": "202",
+        "author": "Huang",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1016/j.rse.2011.10.006",
+        "article-title": "Linking near-surface and satellite remote sensing measurements of deciduous broadleaf forest phenology",
+        "volume": "117",
+        "author": "Hufkens",
+        "year": "2012",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1109/MVA.2015.7153200",
+        "article-title": "Surface object recognition with CNN and SVM in Landsat 8 images",
+        "author": "Ishii",
+        "year": "2015",
+        "journal-title": "2015 14th IAPR International Conference on Machine Vision Applications (MVA)"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1016/j.rse.2015.11.017",
+        "article-title": "Phenology-guided saltcedar (Tamarix spp.) mapping using Landsat TM images in western U.S",
+        "volume": "173",
+        "author": "Ji",
+        "year": "2016",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1109/JSTARS.2014.2333527",
+        "article-title": "Landsat-based estimation of mangrove Forest loss and restoration in Guangxi Province, China, influenced by human and natural factors",
+        "volume": "8",
+        "author": "Jia",
+        "year": "2015",
+        "journal-title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+      },
+      {
+        "issue": "17",
+        "key": "10.1016/j.rse.2020.111745_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "2043",
+        "DOI": "10.3390/rs11172043",
+        "article-title": "A new vegetation index to detect periodically submerged mangrove forest using single-tide sentinel-2 imagery",
+        "volume": "11",
+        "author": "Jia",
+        "year": "2019",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1038/nature14539",
+        "article-title": "Deep learning",
+        "volume": "521",
+        "author": "LeCun",
+        "year": "2015",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1016/j.ecoleng.2007.08.005",
+        "article-title": "An experimental study on physical controls of an exotic plant Spartina alterniflora in Shanghai, China",
+        "volume": "32",
+        "author": "Li",
+        "year": "2008",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "5632",
+        "DOI": "10.1080/01431161.2016.1246775",
+        "article-title": "Stacked Autoencoder-based deep learning for remote-sensing image classification: a case study of African land-cover mapping",
+        "volume": "37",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "1933",
+        "DOI": "10.3390/rs10121933",
+        "article-title": "Rapid invasion of Spartina alterniflora in the coastal zone of mainland China: new observations from Landsat OLI images",
+        "volume": "10",
+        "author": "Liu",
+        "year": "2018",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.3390/rs9060539",
+        "article-title": "Monitoring the invasion of Spartina alterniflora using multi-source high-resolution imagery in the Zhangjiang estuary, China",
+        "volume": "9",
+        "author": "Liu",
+        "year": "2017",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.ecoleng.2012.12.107",
+        "article-title": "Spatial distribution of an invasive plant Spartina alterniflora and its potential as biofuels in China",
+        "volume": "52",
+        "author": "Lu",
+        "year": "2013",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0235",
+        "first-page": "1",
+        "article-title": "Evaluation of a rule-based compositing technique for Landsat-5 TM and Landsat-7 ETM+ images",
+        "volume": "47",
+        "author": "Lück",
+        "year": "2016",
+        "journal-title": "Int. J. Appl. Earth Obs. Geoinf."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "162",
+        "DOI": "10.1016/j.rse.2018.10.013",
+        "article-title": "Integrating cloud-based workflows in continental-scale cropland extent classification",
+        "volume": "219",
+        "author": "Massey",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0245",
+        "series-title": "Classification Methods for Remotely Sensed Data",
+        "author": "Mather, & Paul, M",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1034/j.1399-3054.1999.106119.x",
+        "article-title": "Non-destructive optical detection of pigment changes during leaf senescence and fruit ripening",
+        "volume": "106",
+        "author": "Merzlyak",
+        "year": "1999",
+        "journal-title": "Physiol. Plant."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1016/j.isprsjprs.2010.11.001",
+        "article-title": "Support vector machines in remote sensing: a review",
+        "volume": "66",
+        "author": "Mountrakis",
+        "year": "2011",
+        "journal-title": "ISPRS J. Photogramm. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.rse.2018.10.032",
+        "article-title": "Satellite remote sensing of canopy-forming kelp on a complex coastline: a novel procedure using the Landsat image archive",
+        "volume": "220",
+        "author": "Nijland",
+        "year": "2019",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1016/j.rse.2017.08.008",
+        "article-title": "The tidal marsh inundation index (TMII): an inundation filter to flag flooded pixels and improve MODIS tidal marsh vegetation time-series analysis",
+        "volume": "201",
+        "author": "O’Connell",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0270",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0067315",
+        "article-title": "Spectral discrimination of the invasive plant Spartina alterniflora at multiple Phenological stages in a saltmarsh wetland",
+        "volume": "8",
+        "author": "Ouyang",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0275",
+        "series-title": "Computer Vision and Pattern Recognition Workshops (CVPRW), 2015 IEEE Conference",
+        "first-page": "44",
+        "article-title": "Do Deep Features Generalize from Everyday Objects to Remote Sensing and Aerial Scenes Domains?",
+        "author": "Penatti",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "2491",
+        "DOI": "10.1080/01431160500127815",
+        "article-title": "Estimating cover of an invasive grass (Bromus tectorum) using tobit regression and phenology derived from two dates of Landsat ETM+ data",
+        "volume": "26",
+        "author": "Peterson",
+        "year": "2007",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "180",
+        "DOI": "10.1016/j.rse.2018.09.025",
+        "article-title": "Large area cropland extent mapping with Landsat data and a generalized classifier",
+        "volume": "219",
+        "author": "Phalke",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "392",
+        "DOI": "10.1038/499392a",
+        "article-title": "China’s cordgrass plan is ‘overkill’",
+        "volume": "499",
+        "author": "Qiu",
+        "year": "2013",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1016/j.rse.2014.07.002",
+        "article-title": "Marsh dieback, loss, and recovery mapped with satellite optical, airborne polarimetric radar, and field data",
+        "volume": "152",
+        "author": "Ramsey",
+        "year": "2014",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "1043",
+        "DOI": "10.1007/s13157-015-0693-8",
+        "article-title": "Use of bi-seasonal Landsat-8 imagery for mapping marshland plant community combinations at the regional scale",
+        "volume": "35",
+        "author": "Rapinel",
+        "year": "2015",
+        "journal-title": "Wetlands"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.2112/SI90-017.1",
+        "article-title": "Monitoring the invasion of smooth cordgrass Spartina alterniflora within the modern Yellow River Delta using remote sensing",
+        "volume": "90",
+        "author": "Ren",
+        "year": "2019",
+        "journal-title": "J. Coast. Res."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1016/j.rse.2005.10.012",
+        "article-title": "Use of lidar to study changes associated with Spartina invasion in San Francisco Bay marshes",
+        "volume": "100",
+        "author": "Rosso",
+        "year": "2006",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/j.rse.2009.08.011",
+        "article-title": "Web-enabled Landsat data (WELD): Landsat ETM+ composited mosaics of the conterminous United States",
+        "volume": "114",
+        "author": "Roy",
+        "year": "2009",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1016/S0034-4257(02)00196-7",
+        "article-title": "Spectral discrimination of vegetation types in a coastal wetland",
+        "volume": "85",
+        "author": "Schmidt",
+        "year": "2003",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.rse.2018.03.022",
+        "article-title": "Mapping patterns of urban development in Ouagadougou, Burkina Faso, using machine learning regression modeling with bi-seasonal Landsat time series",
+        "volume": "210",
+        "author": "Schug",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "258",
+        "DOI": "10.1016/j.rse.2015.12.023",
+        "article-title": "An evaluation of time-series smoothing algorithms for land-cover classifications using MODIS-NDVI multi-temporal data",
+        "volume": "174",
+        "author": "Shao",
+        "year": "2016",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "3441",
+        "DOI": "10.1080/01431160802562222",
+        "article-title": "Multitemporal spectral analysis for cheatgrass (Bromus tectorum) classification",
+        "volume": "30",
+        "author": "Singh",
+        "year": "2009",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0340",
+        "first-page": "483",
+        "article-title": "Remote sensing monitoring of Spartina alterniflora in",
+        "volume": "24",
+        "author": "Tao",
+        "year": "2017",
+        "journal-title": "Coastal Intertidal Zone of Guangxi. Guangxi Sciences"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/j.apgeog.2013.12.002",
+        "article-title": "New dimensions of urban landscapes: the spatio-temporal evolution from a polynuclei area to a mega-region based on remote sensing data",
+        "volume": "47",
+        "author": "Taubenböck",
+        "year": "2014",
+        "journal-title": "Appl. Geogr."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0350",
+        "first-page": "22",
+        "article-title": "Comparison of UAV and WorldView-2 imagery for mapping leaf area index of mangrove forest",
+        "volume": "61",
+        "author": "Tian",
+        "year": "2017",
+        "journal-title": "Int. J. Appl. Earth Obs. Geoinf."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "3283",
+        "DOI": "10.1109/TGRS.2009.2019126",
+        "article-title": "Quantification of the effects of land-cover-class spectral Separability on the accuracy of Markov-random-field-based Superresolution mapping",
+        "volume": "47",
+        "author": "Tolpekin",
+        "year": "2009",
+        "journal-title": "IEEE Trans. Geosci. Remote Sens."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.rse.2020.111745_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "127",
+        "DOI": "10.1016/0034-4257(79)90013-0",
+        "article-title": "Red and photographic infrared linear combinations for monitoring vegetation",
+        "volume": "8",
+        "author": "Tucker",
+        "year": "1979",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.rse.2020.111745_bb0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.1016/S0034-4257(99)00022-X",
+        "article-title": "Laing T W. MODIS vegetation index compositing approach: a prototype with AVHRR data[J]",
+        "volume": "69",
+        "author": "Van Leeuwen",
+        "year": "1999",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0370",
+        "first-page": "3371",
+        "article-title": "Stacked Denoising autoencoders: learning useful representations in a deep network with a local Denoising criterion",
+        "volume": "11",
+        "author": "Vincent",
+        "year": "2010",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0375",
+        "first-page": "1",
+        "article-title": "Introduced species: a significant component of human-caused global change",
+        "volume": "21",
+        "author": "Vitousek",
+        "year": "1997",
+        "journal-title": "N. Z. J. Ecol."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0380",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1155/2014/638296",
+        "article-title": "Monitoring the invasion of Spartina alterniflora using very high resolution unmanned aerial vehicle imagery in Beihai, Guangxi (China)",
+        "volume": "2014",
+        "author": "Wan",
+        "year": "2014",
+        "journal-title": "ScientificWorldJournal"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.rse.2020.111745_bb0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1016/j.ecoleng.2008.05.020",
+        "article-title": "The positive and negative effects of exotic Spartina alterniflora in China",
+        "volume": "35",
+        "author": "Wan",
+        "year": "2009",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0390",
+        "article-title": "Monitoring the invasion of Spartina alterniflora from 1993 to 2014 with Landsat TM and SPOT 6 satellite data in Yueqing Bay, China",
+        "volume": "10",
+        "author": "Wang",
+        "year": "2015",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.rse.2006.10.007",
+        "article-title": "Mapping mixed vegetation communities in salt marshes using airborne spectral data",
+        "volume": "107",
+        "author": "Wang",
+        "year": "2007",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "166",
+        "DOI": "10.1016/j.rse.2017.11.019",
+        "article-title": "Characterizing the encroachment of juniper forests into sub-humid and semi-arid prairies from 1984 to 2010 using PALSAR and Landsat data",
+        "volume": "205",
+        "author": "Wang",
+        "year": "2018",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/j.rse.2016.12.025",
+        "article-title": "Mapping the dynamics of eastern redcedar encroachment into grasslands during 1984-2010 through PALSAR and time series Landsat images",
+        "volume": "190",
+        "author": "Wang",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0410",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1080/07038992.2014.945827",
+        "article-title": "Pixel-based image compositing for large-area dense time series applications and science",
+        "volume": "40",
+        "author": "White",
+        "year": "2014",
+        "journal-title": "Can. J. Remote. Sens."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0415",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xie, M., Jean, N., Burke, M., Lobell, D., & Ermon, S. (2015). Transfer learning from deep features for remote sensing and poverty mapping. arXiv preprint arXiv:1510. 1510.00098.",
+        "DOI": "10.1609/aaai.v30i1.9906"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0420",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/j.rse.2017.03.022",
+        "article-title": "Global bare ground gain from 2000 to 2012 using Landsat imagery",
+        "volume": "194",
+        "author": "Ying",
+        "year": "2017",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.3389/fmicb.2013.00243",
+        "article-title": "Effects of Spartina alterniflora invasion on the communities of methanogens and sulfate-reducing bacteria in estuarine marsh sediments",
+        "volume": "4",
+        "author": "Zeleke",
+        "year": "2013",
+        "journal-title": "Front. Microbiol."
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1109/MGRS.2016.2540798",
+        "article-title": "Deep learning for remote sensing data a technical tutorial on the state of the art",
+        "volume": "4",
+        "author": "Zhang",
+        "year": "2016",
+        "journal-title": "IEEE Geoscience and Remote Sensing Magazine"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.rse.2020.111745_bb0435",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/ecy.2596",
+        "article-title": "Biotic homogenization of wetland nematode communities by exotic Spartina alterniflora in China",
+        "volume": "100",
+        "author": "Zhang",
+        "year": "2019",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0440",
+        "doi-asserted-by": "crossref",
+        "first-page": "588",
+        "DOI": "10.1890/11-1302.1",
+        "article-title": "Interactions between mangroves and exotic Spartina in an anthropogenically disturbed estuary in southern China",
+        "volume": "93",
+        "author": "Zhang",
+        "year": "2012",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "10.1016/j.rse.2020.111745_bb0445",
+        "doi-asserted-by": "crossref",
+        "first-page": "2610",
+        "DOI": "10.1016/j.rse.2010.05.032",
+        "article-title": "An enhanced spatial and temporal adaptive reflectance fusion model for complex heterogeneous regions",
+        "volume": "114",
+        "author": "Zhu",
+        "year": "2010",
+        "journal-title": "Remote Sens. Environ."
+      }
+    ],
+    "container-title": [
+      "Remote Sensing of Environment"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0034425720301152?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0034425720301152?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2025-09-22T01:43:06Z",
+      "timestamp": 1758505386000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0034425720301152"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "references-count": 89,
+    "alternative-id": [
+      "S0034425720301152"
+    ],
+    "URL": "https://doi.org/10.1016/j.rse.2020.111745",
+    "relation": {},
+    "ISSN": [
+      "0034-4257"
+    ],
+    "issn-type": [
+      {
+        "value": "0034-4257",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Development of spectral-phenological features for deep learning to understand Spartina alterniflora invasion",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Remote Sensing of Environment",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.rse.2020.111745",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 The Authors. Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "111745"
+  }
+}

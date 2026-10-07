@@ -1,0 +1,409 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1501087,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              26
+            ]
+          ],
+          "date-time": "2026-02-26T17:26:18Z",
+          "timestamp": 1772126778273,
+          "version": "3.50.1"
+        },
+        "description": "Supplemental Information for 10.1021/acs.est.8b07095",
+        "reference-count": 0,
+        "publisher": "American Chemical Society (ACS)",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1021/acs.est.8b07095.s001",
+        "type": "component",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2020-04-09T19:22:49Z",
+          "timestamp": 1586460169000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Making Acute Tests More Ecologically Relevant: Cadmium Bioaccumulation and Toxicity in an Estuarine Clam under Various Salinities Modeled in a ToxicokineticToxicodynamic Framework"
+        ],
+        "prefix": "10.1021",
+        "member": "316",
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2020-04-09T19:22:49Z",
+          "timestamp": 1586460169000
+        },
+        "score": 27.353014,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.est.8b07095/suppl_file/es8b07095_si_001.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1021/acs.est.8b07095.s001",
+        "relation": {
+          "is-component-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1021/acs.est.8b07095",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              26
+            ]
+          ],
+          "date-time": "2026-02-26T17:28:52Z",
+          "timestamp": 1772126932408,
+          "version": "3.50.1"
+        },
+        "description": "Supplemental Information for 10.1021/acs.est.8b07095",
+        "reference-count": 0,
+        "publisher": "American Chemical Society (ACS)",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1021/acs.est.8b07095.s002",
+        "type": "component",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2020-04-09T19:22:49Z",
+          "timestamp": 1586460169000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Making Acute Tests More Ecologically Relevant: Cadmium Bioaccumulation and Toxicity in an Estuarine Clam under Various Salinities Modeled in a ToxicokineticToxicodynamic Framework"
+        ],
+        "prefix": "10.1021",
+        "member": "316",
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2020-04-09T19:22:49Z",
+          "timestamp": 1586460169000
+        },
+        "score": 27.1555,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.est.8b07095/suppl_file/es8b07095_si_002.txt"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1021/acs.est.8b07095.s002",
+        "relation": {
+          "is-component-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1021/acs.est.8b07095",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2026-02-28T06:51:53Z",
+          "timestamp": 1772261513144,
+          "version": "3.50.1"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              19
+            ]
+          ]
+        },
+        "group-title": "Rivers and Lakes/Modelling approaches",
+        "reference-count": 0,
+        "publisher": "Copernicus GmbH",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2018,
+                  11,
+                  19
+                ]
+              ],
+              "date-time": "2018-11-19T00:00:00Z",
+              "timestamp": 1542585600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100000266",
+            "name": "Engineering and Physical Sciences Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "1786424"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "1786424"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100000266",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>Abstract. Hydrological models can be used to assess the impact of hydrologic alteration on the river ecosystem. However, there are considerable limitations and uncertainties associated with the replication of the required, ecologically relevant hydrological indicators. Vogel and Sankarasubramanian's covariance approach to model parameterisation represents a shift away from the traditional calibration-validation goodness-of-fit paradigm. Using the covariance structures of the observed input and simulated output time-series, the region of parameter space which best captures (replicates) the characteristics of a hydrological indicator may be identified. Through a case study, a modified covariance approach is applied with a view to replicating a suite of seven ecologically relevant hydrological indicators. Model performance and consistency are assessed relative to four comparative studies. The ability of the approach to address the limitations associated with traditional calibration-validation is further considered. Benefits of the approach include an overall reduction in model uncertainty whilst also reducing overall time-demands. Difficulties in the replication of complex indicators, such as rate of change, are in line with prior work. Nonetheless, the study illustrates that consistency in the replication of hydrological indicators is achievable; additionally, the replication of magnitude indices is markedly improved upon.</jats:p>",
+        "DOI": "10.5194/hess-2018-536",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              19
+            ]
+          ],
+          "date-time": "2018-11-19T02:30:49Z",
+          "timestamp": 1542594649000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Replication of ecologically relevant hydrological indicators following \na covariance approach to hydrological model parameterisation"
+        ],
+        "prefix": "10.5194",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1787-6239",
+            "authenticated-orcid": false,
+            "given": "Annie",
+            "family": "Visser",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1597-273X",
+            "authenticated-orcid": false,
+            "given": "Lindsay",
+            "family": "Beevers",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9562-6986",
+            "authenticated-orcid": false,
+            "given": "Sandhya",
+            "family": "Patidar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "3145",
+        "link": [
+          {
+            "URL": "https://www.hydrol-earth-syst-sci-discuss.net/hess-2018-536/hess-2018-536.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T02:57:26Z",
+          "timestamp": 1738378646000
+        },
+        "score": 25.762615,
+        "resource": {
+          "primary": {
+            "URL": "https://hess.copernicus.org/articles/23/3279/2019/hess-23-3279-2019-discussion.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              19
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.5194/hess-2018-536",
+        "relation": {
+          "has-comment": [
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-SC1",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-SC2",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-AC4",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-SC3",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-AC2",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-AC3",
+              "asserted-by": "subject"
+            }
+          ],
+          "has-review": [
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-RC1",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-2018-536-RC2",
+              "asserted-by": "subject"
+            }
+          ],
+          "is-preprint-of": [
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-23-3279-2019",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.5194/hess-23-3279-2019",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              19
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

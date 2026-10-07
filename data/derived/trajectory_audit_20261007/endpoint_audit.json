@@ -19,17 +19,29 @@
     "stored_mean": {
       "n_years": 7,
       "spearman_rho": -0.7142857142857144,
-      "p_two_sided": 0.07134356146753759
+      "p_two_sided": 0.07134356146753759,
+      "p_method": "asymptotic scipy approximation",
+      "p_exact_two_sided": 0.0880952380952381,
+      "permutations": 5040,
+      "exact_test_assumption": "Exchangeability of annual ranks under null; not a serial-dependence model."
     },
     "recomputed_model_mean": {
       "n_years": 7,
       "spearman_rho": -0.10714285714285716,
-      "p_two_sided": 0.8191508555699912
+      "p_two_sided": 0.8191508555699912,
+      "p_method": "asymptotic scipy approximation",
+      "p_exact_two_sided": 0.8396825396825397,
+      "permutations": 5040,
+      "exact_test_assumption": "Exchangeability of annual ranks under null; not a serial-dependence model."
     },
     "all_pair_mean": {
       "n_years": 7,
       "spearman_rho": -0.6071428571428572,
-      "p_two_sided": 0.1482311614811614
+      "p_two_sided": 0.1482311614811614,
+      "p_method": "asymptotic scipy approximation",
+      "p_exact_two_sided": 0.16666666666666666,
+      "permutations": 5040,
+      "exact_test_assumption": "Exchangeability of annual ranks under null; not a serial-dependence model."
     }
   },
   "interpretation": "Stored growth_rate differs from matrix-derived relative gain in selected years. The missing transformation is unresolved; recomputed endpoints are sensitivity analyses, not ground truth. Annual rows and overlap links are not independently validated biological identities."

@@ -1,0 +1,1615 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1375400,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2026-09-27T02:52:40Z",
+          "timestamp": 1790477560645,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  1988,
+                  8,
+                  1
+                ]
+              ],
+              "date-time": "1988-08-01T00:00:00Z",
+              "timestamp": 586396800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Ecology"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Tall— and short—form Spartina alterniflora plants were transplanted from the Delaware marsh to common garden plots during the summer of 1978 and irrigated with saltwater three times a week during that and each subsequent growing season. Nine years later plant biomass, culm height, density, and diameter and flowering frequency remained distinct. Underground regrowth reserves and root profiles likewise remained distinct for the two forms. Since the two growth forms had been living in the same environment for 9 yr and had retained many ological and physiological differences, some genetic control of the morphology and physiology of the two growth forms is highly probable.</jats:p>",
+        "DOI": "10.2307/1941255",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2006,
+              5,
+              9
+            ]
+          ],
+          "date-time": "2006-05-09T14:25:11Z",
+          "timestamp": 1147184711000
+        },
+        "page": "1005-1008",
+        "source": "Crossref",
+        "is-referenced-by-count": 82,
+        "title": [
+          "Persistent Differences in Two Forms of Spartina Alterniflora: A Common Garden Experiment"
+        ],
+        "prefix": "10.1002",
+        "volume": "69",
+        "author": [
+          {
+            "given": "John L.",
+            "family": "Gallagher",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "G. Fred",
+            "family": "Somers",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Donna M.",
+            "family": "Grant",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Denise M.",
+            "family": "Seliskar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "published-online": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Ecology"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F1941255",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.2307%2F1941255",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.2307/1941255",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2023-11-22T05:50:17Z",
+          "timestamp": 1700632217000
+        },
+        "score": 35.634514,
+        "resource": {
+          "primary": {
+            "URL": "https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1941255"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                1988,
+                8
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "10.2307/1941255"
+        ],
+        "URL": "https://doi.org/10.2307/1941255",
+        "archive": [
+          "Portico"
+        ],
+        "ISSN": [
+          "0012-9658",
+          "1939-9170"
+        ],
+        "issn-type": [
+          {
+            "value": "0012-9658",
+            "type": "print"
+          },
+          {
+            "value": "1939-9170",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1988,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              20
+            ]
+          ],
+          "date-time": "2026-03-20T07:29:17Z",
+          "timestamp": 1773991757112,
+          "version": "3.50.1"
+        },
+        "reference-count": 50,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  12,
+                  21
+                ]
+              ],
+              "date-time": "2025-12-21T00:00:00Z",
+              "timestamp": 1766275200000
+            },
+            "content-version": "am",
+            "delay-in-days": 720,
+            "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-017"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-012"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2024-01-01T00:00:00Z",
+              "timestamp": 1704067200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-004"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/100007699",
+            "name": "University of Georgia",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/100007699",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "OCE-1237140"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "OCE-1237140"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000001",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Estuarine, Coastal and Shelf Science"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ecss.2023.108587",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              9
+            ]
+          ],
+          "date-time": "2023-12-09T21:36:05Z",
+          "timestamp": 1702157765000
+        },
+        "page": "108587",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "special_numbering": "C",
+        "title": [
+          "Modeling the variability in phenology-based growth dynamics of Spartina alterniflora with latitude"
+        ],
+        "prefix": "10.1016",
+        "volume": "296",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0003-9604-1375",
+            "authenticated-orcid": false,
+            "given": "Yeajin",
+            "family": "Jung",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1093/aob/mci178",
+            "article-title": "Latitudinal characteristics of below-and above-ground biomass of Typha: a modelling approach",
+            "volume": "96",
+            "author": "Asaeda",
+            "year": "2005",
+            "journal-title": "Annal. Bot."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.ecss.2023.108587_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1016/S0304-3770(00)00095-4",
+            "article-title": "Dynamic modeling of the growth of Phragmites australis: model description",
+            "volume": "67",
+            "author": "Asaeda",
+            "year": "2000",
+            "journal-title": "Aquat. Bot."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "126",
+            "DOI": "10.3159/07-RP-035R.1",
+            "article-title": "Plant phenology and distribution in relation to recent climate change",
+            "volume": "135",
+            "author": "Bertin",
+            "year": "2008",
+            "journal-title": "J. Torrey Bot. Soc."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.ecss.2023.108587_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "392",
+            "DOI": "10.1007/s00442-002-0972-y",
+            "article-title": "Latitudinal and climate-driven variation in the strength and nature of biological interactions in New England salt marshes",
+            "volume": "132",
+            "author": "Bertness",
+            "year": "2002",
+            "journal-title": "Oecologia"
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib3",
+            "series-title": "The Introduction of Spartina Alternifiora in south San Francisco Bay (Master Thesis)",
+            "author": "Callaway",
+            "year": "1990"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.2307/1352695",
+            "article-title": "The introduction and spread of smooth cordgrass (Spartina alterniflora) in South San Francisco Bay",
+            "volume": "15",
+            "author": "Callaway",
+            "year": "1992",
+            "journal-title": "Estuaries"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.ecss.2023.108587_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "500",
+            "DOI": "10.1046/j.1461-0248.2001.00261.x",
+            "article-title": "Phenology is a major determinant of tree species range",
+            "volume": "4",
+            "author": "Chuine",
+            "year": "2001",
+            "journal-title": "Ecol. Lett."
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.ecss.2023.108587_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "943",
+            "DOI": "10.1046/j.1365-2486.2000.00368.x",
+            "article-title": "Scaling phenology from the local to the regional level: advances from species‐specific phenological models",
+            "volume": "6",
+            "author": "Chuine",
+            "year": "2000",
+            "journal-title": "Global Change Biol."
+          },
+          {
+            "issue": "7",
+            "key": "10.1016/j.ecss.2023.108587_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.1016/j.tree.2007.04.003",
+            "article-title": "Shifting plant phenology in response to global change",
+            "volume": "22",
+            "author": "Cleland",
+            "year": "2007",
+            "journal-title": "Trends Ecol. Evol."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.2307/1351447",
+            "article-title": "Measurement of cordgrass, Spartina alterniflora, production in a macrotidal estuary, Bay of Fundy",
+            "volume": "12",
+            "author": "Cranford",
+            "year": "1989",
+            "journal-title": "Estuaries"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.ecss.2023.108587_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.3732/ajb.1400534",
+            "article-title": "Flowering and biomass allocation in U.S. Atlantic coast Spartina alterniflora",
+            "volume": "102",
+            "author": "Crosby",
+            "year": "2015",
+            "journal-title": "Am. J. Bot."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.3354/meps032071",
+            "article-title": "Variability of Spartina alterniflora primary production in the euhaline North Inlet estuary",
+            "volume": "32",
+            "author": "Dame",
+            "year": "1986",
+            "journal-title": "Mar. Ecol. Prog. Ser."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "326",
+            "DOI": "10.1007/s12237-008-9037-8",
+            "article-title": "Below-and aboveground biomass of Spartina alterniflora: response to nutrient addition in a Louisiana salt marsh",
+            "volume": "31",
+            "author": "Darby",
+            "year": "2008",
+            "journal-title": "Estuar. Coast"
+          },
+          {
+            "issue": "11",
+            "key": "10.1016/j.ecss.2023.108587_bib12",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0142595",
+            "article-title": "Living shorelines: coastal resilience with a blue carbon benefit",
+            "volume": "10",
+            "author": "Davis",
+            "year": "2015",
+            "journal-title": "PLoS One"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.ecss.2023.108587_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1111/ele.12410",
+            "article-title": "Predicting changes in the distribution and abundance of species under environmental change",
+            "volume": "18",
+            "author": "Ehrlén",
+            "year": "2015",
+            "journal-title": "Ecol. Lett."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.ecss.2023.108587_bib14",
+            "first-page": "172",
+            "article-title": "Flowering phenology of tidal marsh plants in Mississippi",
+            "volume": "49",
+            "author": "Eleuterius",
+            "year": "1984",
+            "journal-title": "Castanea"
+          },
+          {
+            "issue": "11",
+            "key": "10.1016/j.ecss.2023.108587_bib15",
+            "first-page": "1873",
+            "article-title": "Differential population response of allocation, phenology, and tissue chemistry in Spartina alterniflora. Plant Ecology",
+            "volume": "212",
+            "author": "Elsey-Quirk",
+            "year": "2011"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.ecss.2023.108587_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "963",
+            "DOI": "10.1111/gcb.12392",
+            "article-title": "Changes in the structure and function of northern Alaskan ecosystems when considering variable leaf-out times across groupings of species in a dynamic vegetation model",
+            "volume": "20",
+            "author": "Euskirchen",
+            "year": "2014",
+            "journal-title": "Global Change Biol."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1078/1433-8319-00053",
+            "article-title": "The phenology of growth and reproduction in plants",
+            "volume": "1",
+            "author": "Fenner",
+            "year": "1998",
+            "journal-title": "Perspect. Plant Ecol. Evol. Systemat."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "DOI": "10.1002/j.1537-2197.1983.tb07860.x",
+            "article-title": "Seasonal patterns in recoverable underground reserves in Spartina alterniflora Loisel",
+            "volume": "70",
+            "author": "Gallagher",
+            "year": "1983",
+            "journal-title": "Am. J. Bot."
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib19",
+            "series-title": "The Metabolism of Senescing Spartina Alterniflora",
+            "first-page": "34",
+            "author": "Gallagher",
+            "year": "1976"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.2307/1935189",
+            "article-title": "Aerial production, mortality, and mineral accumulation-export dynamics in Spartina alterniflora and Juncus roemerianus plant stands in a Georgia salt marsh",
+            "volume": "61",
+            "author": "Gallagher",
+            "year": "1980",
+            "journal-title": "Ecology"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.ecss.2023.108587_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "484",
+            "DOI": "10.1007/s11099-014-0055-4",
+            "article-title": "Effects of salinity on temperature-dependent photosynthetic parameters of a native C3 and a non-native C4 marsh grass in the Yangtze Estuary, China",
+            "volume": "52",
+            "author": "Ge",
+            "year": "2014",
+            "journal-title": "Photosynthetica"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.2307/1351692",
+            "article-title": "Relationship between aboveground and belowground biomass of Spartina alterniflora (smooth cordgrass)",
+            "volume": "14",
+            "author": "Gross",
+            "year": "1991",
+            "journal-title": "Estuaries"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1029/97GB01936",
+            "article-title": "Evaluation of terrestrial carbon cycle models through simulations of the seasonal cycle of atmospheric CO2: first results of a model intercomparison study",
+            "volume": "12",
+            "author": "Heimann",
+            "year": "1998",
+            "journal-title": "Global Biogeochem. Cycles"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "350",
+            "DOI": "10.4319/lo.1981.26.2.0350",
+            "article-title": "Oxidation-reduction potentials in a salt marsh: spatial patterns and interactions with primary production 1",
+            "volume": "26",
+            "author": "Howes",
+            "year": "1981",
+            "journal-title": "Limnol. Oceanogr."
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib49",
+            "series-title": "An introduction to solar radiation",
+            "author": "Iqbal",
+            "year": "1984"
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1016/j.aquabot.2017.04.003",
+            "article-title": "Seasonal changes in above- and below-ground non-structural carbohydrates (NSC) in Spartina alterniflora in a marsh in Georgia, USA",
+            "volume": "140",
+            "author": "Jung",
+            "year": "2017",
+            "journal-title": "Aquat. Bot."
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib55",
+            "series-title": "Carbon allocation dynamics of Spartina alterniflora in Georgia saltmarsh, USA",
+            "author": "Jung",
+            "year": "2024"
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib26",
+            "series-title": "Light and Photosynthesis in Aquatic Ecosystems",
+            "author": "Kirk",
+            "year": "1994"
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.ecss.2023.108587_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1982",
+            "DOI": "10.1111/j.1365-2486.2008.01834.x",
+            "article-title": "Latitudinal trends in Spartina alterniflora productivity and the response of coastal marshes to global change",
+            "volume": "15",
+            "author": "Kirwan",
+            "year": "2009",
+            "journal-title": "Global Change Biol."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "172",
+            "DOI": "10.2307/2404609",
+            "article-title": "Selecting a model to predict the onset of growth of Fagus sylvatica",
+            "volume": "31",
+            "author": "Kramer",
+            "year": "1994",
+            "journal-title": "J. Appl. Ecol."
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.ecss.2023.108587_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "579",
+            "DOI": "10.1016/S0302-3524(81)80084-9",
+            "article-title": "Belowground growth of Spartina alterniflora Loisel.: habit, functional biomass and non-structural carbohydrates",
+            "volume": "12",
+            "author": "Livingstone",
+            "year": "1981",
+            "journal-title": "Estuar. Coast Shelf Sci."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1007/BF00346920",
+            "article-title": "Effects of salinity and illumination on photosynthesis and water balance of Spartina alterniflora Loisel",
+            "volume": "31",
+            "author": "Longstreth",
+            "year": "1977",
+            "journal-title": "Oecologia"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ecss.2023.108587_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "938",
+            "DOI": "10.2134/agronj1980.00021962007200060018x",
+            "article-title": "Photoassimilate distribution in Spartina alterniflora Loisel. II. autumn and winter storage and apring regrowth 1",
+            "volume": "72",
+            "author": "Lytle",
+            "year": "1980",
+            "journal-title": "Agron. J."
+          },
+          {
+            "issue": "7",
+            "key": "10.1016/j.ecss.2023.108587_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "594",
+            "DOI": "10.1002/j.1537-2197.1960.tb14911.x",
+            "article-title": "The annual carbohydrate cycle of alpine plants as related to growth",
+            "volume": "47",
+            "author": "Mooney",
+            "year": "1960",
+            "journal-title": "Am. J. Bot."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.2307/2259862",
+            "article-title": "A model of growth responses by Spartina alterniflora to nitrogen limitation",
+            "volume": "70",
+            "author": "Morris",
+            "year": "1982",
+            "journal-title": "J. Ecol."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ecss.2023.108587_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2209",
+            "DOI": "10.2307/1938633",
+            "article-title": "A 5‐yr record of aerial primary production and stand characteristics of Spartina alterniflora",
+            "volume": "71",
+            "author": "Morris",
+            "year": "1990",
+            "journal-title": "Ecology"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.ecss.2023.108587_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1016/0304-3800(84)90068-1",
+            "article-title": "Theoretical limits of belowground production by Spartina alterniflora: an analysis through modelling",
+            "volume": "26",
+            "author": "Morris",
+            "year": "1984",
+            "journal-title": "Ecol. Model."
+          },
+          {
+            "issue": "19",
+            "key": "10.1016/j.ecss.2023.108587_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "4644",
+            "DOI": "10.1111/gcb.15765",
+            "article-title": "Can the native faunal communities be restored from removal of invasive plants in coastal ecosystems? A global meta‐analysis",
+            "volume": "27",
+            "author": "Ning",
+            "year": "2021",
+            "journal-title": "Global Change Biol."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ecss.2023.108587_bib40",
+            "first-page": "1",
+            "article-title": "Examination of abiotic drivers and their influence on Spartina alterniflora biomass over a twenty-eight year period using landsat 5 TM satellite imagery of the central Georgia coast",
+            "volume": "8",
+            "author": "O'Donnell",
+            "year": "2016",
+            "journal-title": "Rem. Sens."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.ecss.2023.108587_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1002/fee.2611",
+            "article-title": "Invasive Spartina alterniflora marshes in China: a blue carbon sink at the expense of other ecosystem services",
+            "volume": "21",
+            "author": "Qi",
+            "year": "2023",
+            "journal-title": "Front. Ecol. Environ."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ecss.2023.108587_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.2307/2996208",
+            "article-title": "Aboveground and belowground primary production dynamics of two Delaware bay tidal marshes",
+            "volume": "111",
+            "author": "Roman",
+            "year": "1984",
+            "journal-title": "Bull. Torrey Bot. Club"
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib43",
+            "series-title": "The Role of Two Invertebrate Populations, Littorina irrorata and Orchelimum Fiducinum in the Energy Flow of a Salt Marsh Eco- System (Doctoral Dissertaion)",
+            "author": "Smalley",
+            "year": "1958"
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib54",
+            "series-title": "A note on standing crops of Spartina alterniflora in Texas and Florida",
+            "author": "Turner",
+            "year": "1975"
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1016/j.ecss.2016.10.001",
+            "article-title": "Stability of organic carbon accumulating in Spartina alterniflora-dominated salt marshes of the Mid-Atlantic US",
+            "volume": "182",
+            "author": "Unger",
+            "year": "2016",
+            "journal-title": "Estuar. Coast Shelf Sci."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ecss.2023.108587_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.4319/lo.1976.21.2.0245",
+            "article-title": "Production and dynamics of experimentally enriched salt marsh vegetation: belowground biomass 1",
+            "volume": "21",
+            "author": "Valiela",
+            "year": "1976",
+            "journal-title": "Limnol. Oceanogr."
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.ecss.2023.108587_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "743",
+            "DOI": "10.1046/j.1365-2486.2003.00625.x",
+            "article-title": "Interannual variability of plant phenology in tussock tundra: modelling interactions of plant productivity, plant phenology, snowmelt and soil thaw",
+            "volume": "9",
+            "author": "Van Wijk",
+            "year": "2003",
+            "journal-title": "Global Change Biol."
+          },
+          {
+            "issue": "7",
+            "key": "10.1016/j.ecss.2023.108587_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1133",
+            "DOI": "10.1111/j.1529-8817.2003.00784.x",
+            "article-title": "Climate controls on vegetation phenological patterns in northern mid‐and high latitudes inferred from MODIS data",
+            "volume": "10",
+            "author": "Zhang",
+            "year": "2004",
+            "journal-title": "Global Change Biol."
+          },
+          {
+            "key": "10.1016/j.ecss.2023.108587_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "144",
+            "DOI": "10.1016/j.ecoleng.2016.09.006",
+            "article-title": "Modeling the growth dynamics of Spartina alterniflora and the effects of its control measures",
+            "volume": "97",
+            "author": "Zheng",
+            "year": "2016",
+            "journal-title": "Ecol. Eng."
+          }
+        ],
+        "container-title": [
+          "Estuarine, Coastal and Shelf Science"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0272771423003773?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0272771423003773?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2025-10-03T06:13:23Z",
+          "timestamp": 1759472003000
+        },
+        "score": 32.7833,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0272771423003773"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        },
+        "references-count": 50,
+        "alternative-id": [
+          "S0272771423003773"
+        ],
+        "URL": "https://doi.org/10.1016/j.ecss.2023.108587",
+        "ISSN": [
+          "0272-7714"
+        ],
+        "issn-type": [
+          {
+            "value": "0272-7714",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Modeling the variability in phenology-based growth dynamics of Spartina alterniflora with latitude",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Estuarine, Coastal and Shelf Science",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.ecss.2023.108587",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2023 Published by Elsevier Ltd.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "108587"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              17
+            ]
+          ],
+          "date-time": "2024-12-17T05:12:59Z",
+          "timestamp": 1734412379801,
+          "version": "3.30.2"
+        },
+        "description": "This datasheet on Spartina alterniflora covers Identity, Overview, Distribution, Dispersal, Biology & Ecology, Environmental Requirements, Natural Enemies, Impacts, Uses, Prevention/Control, Further Information.",
+        "reference-count": 78,
+        "publisher": "CABI Publishing",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1079/cabicompendium.107740",
+        "type": "dataset",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              17
+            ]
+          ],
+          "date-time": "2022-11-17T01:35:07Z",
+          "timestamp": 1668648907000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Spartina alterniflora (smooth cordgrass)"
+        ],
+        "prefix": "10.1079",
+        "author": [
+          {
+            "given": "Philip",
+            "family": "Roberts",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "242",
+        "reference": [
+          {
+            "key": "e_1_3_1_2_1",
+            "unstructured": "Anttila CK Daehler CC 1997. Pollen swamping of the native California cordgrass (S. Foliosa) by introduced smooth cordgrass (S. Alterniflora) in San Francisco Bay. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_3_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ayres DR Smith DL Zaremba K Klohr S Strong DR 2004. Spread of exotic cordgrasses and hybrids (Spartina spp.) in the tidal marshes of San Francisco Bay California USA. Biological Invasions 6:221-231.",
+            "DOI": "10.1023/B:BINV.0000022140.07404.b7"
+          },
+          {
+            "key": "e_1_3_1_4_1",
+            "unstructured": "Balthuis DA Scott BA 1993. Effects of application of glyphosate on cordgrass Spartina alterniflora and adjacent native salt marsh vegetation in Padilla Bay Washington. Padilla Bay National Estuarine Research Reserve Technical Report. Mount Vernon Washington USA: Washington State Department of Ecology."
+          },
+          {
+            "key": "e_1_3_1_5_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bascand LD 1968. The control of Spartina species. In: Proceedings 21st N.Z. Weed Pest Control Conf 108-13.",
+            "DOI": "10.30843/nzpp.1968.21.10501"
+          },
+          {
+            "key": "e_1_3_1_6_1",
+            "unstructured": "Bascand LD 1970. The roles of Spartina species in New Zealand. Proceedings of the New Zealand Ecological Society 17:33-40."
+          },
+          {
+            "key": "e_1_3_1_7_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertness MD 1991. Zonation of Spartina patens and Spartina alterniflora in a New England salt marsh. Ecology 72(1):138-148.",
+            "DOI": "10.2307/1938909"
+          },
+          {
+            "key": "e_1_3_1_8_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertness MD Gough L Shumway SW 1992. Salt Tolerances and the Distribution of Fugitive Salt Marsh Plants. Ecology 73(5):1842-1851.",
+            "DOI": "10.2307/1940035"
+          },
+          {
+            "key": "e_1_3_1_9_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertness MD Shumway SW 1992. Consumer driven pollen limitation of seed production in marsh grasses. American Journal of Botany 79(3):288-293.",
+            "DOI": "10.1002/j.1537-2197.1992.tb14550.x"
+          },
+          {
+            "key": "e_1_3_1_10_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Brown CE Pezeshki SR DeLaune RD 2006. The effects of salinity and soil drying on nutrient uptake and growth of Spartina alterniflora in a simulated tidal system. Environmental and Experimental Botany 58(1/3):140-148. http://www.sciencedirect.com/science/journal/00988472",
+            "DOI": "10.1016/j.envexpbot.2005.07.006"
+          },
+          {
+            "key": "e_1_3_1_11_1",
+            "unstructured": "Callaway JC 1990. M.A. Thesis. San Francisco CA USA: San Francisco State University."
+          },
+          {
+            "key": "e_1_3_1_12_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Callaway JC Josselyn MN 1992. The introduction and spread of smooth cordgrass (Spartina alterniflora) in South San Francisco Bay. Estuaries 15(2):218-226.",
+            "DOI": "10.2307/1352695"
+          },
+          {
+            "key": "e_1_3_1_13_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chambers RM Mozder TJ Ambrose JC 1998. Effect of salinity and sulfide on the distribution of Phragmites australis and Spartina alterniflora in a tidal saltmarsh. Aquatic Botany 62:161-169.",
+            "DOI": "10.1016/S0304-3770(98)00095-3"
+          },
+          {
+            "key": "e_1_3_1_14_1",
+            "unstructured": "Cohen AN Carlton JT 1995. Nonindigenous Aquatic Species in a United States Estuary: A Case Study of the Biological Invasion of the San Francisco Bay and Delta. Report for the US Fish and Wildlife Service Washington D.C. and the National Sea Grant College Program Connecticut Sea Grant."
+          },
+          {
+            "key": "e_1_3_1_15_1",
+            "unstructured": "Cordell JR Simenstad CA Feist B Fresh KL Thom RM Stouder DJ Luiting V 1998. The 8th International Zebra Mussel & Other Nuisance Species Conference Sacramento California."
+          },
+          {
+            "key": "e_1_3_1_16_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Costa CSB Marangoni JC Azevedo AMG 2003. Plant zonation in irregularly flooded salt marshes: relative importance of stress tolerance and biological interactions. Journal of Ecology (Oxford) 91(6):951-965.",
+            "DOI": "10.1046/j.1365-2745.2003.00821.x"
+          },
+          {
+            "key": "e_1_3_1_17_1",
+            "unstructured": "Covell CV 2005. A Field Guide to Moths of Eastern North America. Martinsville VA USA: Virginia Museum of Natural History."
+          },
+          {
+            "key": "e_1_3_1_18_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cranford PJ Gordon DC Jarvis CM 1989. Measurement of cordgrass Spartina alterniflora production in a macrotidal estuary Bay of Fundy. Estuaries 12(1):27-34.",
+            "DOI": "10.2307/1351447"
+          },
+          {
+            "key": "e_1_3_1_19_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1994. Variable reproductive output among clones of Spartina alterniflora (Poaceae) invading San Francisco Bay California: the influence of herbivory pollination and establishment site. American Journal of Botany 81(3):307-313.",
+            "DOI": "10.1002/j.1537-2197.1994.tb15448.x"
+          },
+          {
+            "key": "e_1_3_1_20_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1995. Impact of high herbivore densities on introduced smooth cordgrass Spartina alterniflora invading San Francisco Bay California. Estuaries 18(2):409-417.",
+            "DOI": "10.2307/1352323"
+          },
+          {
+            "key": "e_1_3_1_21_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1996. Status prediction and prevention of introduced cordgrass Spartina spp. invasions in Pacific estuaries USA. In: Biological Conservation [ed. by Carey JR Moyle P Rejmánek M Vermeij GJ] 51-58.",
+            "DOI": "10.1016/0006-3207(96)00017-1"
+          },
+          {
+            "key": "e_1_3_1_22_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daehler CC Strong DR 1997. Reduced herbivore resistance in introduced smooth cordgrass (Spartina alterniflora) after a century of herbivore-free growth. Oecologia 110(1):99-108.",
+            "DOI": "10.1007/s004420050138"
+          },
+          {
+            "key": "e_1_3_1_23_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ding JianQing Mack RN Lu Ping Ren MingXun Huang HongWen 2008. China's booming economy is sparking and accelerating biological invasions. BioScience 58(4):317-324. http://www.bioone.org/perlserv/?request=get-current-issue",
+            "DOI": "10.1641/B580407"
+          },
+          {
+            "key": "e_1_3_1_24_1",
+            "unstructured": "Ebasco Environmental 1992. Noxious emergent plant environmental impact statement. element A - Spartina: distribution biology and ecology. Final Report submitted to Washington State Department of Ecology Olympia."
+          },
+          {
+            "key": "e_1_3_1_25_1",
+            "unstructured": "Ebasco Environmental 1993. Noxious emergent plant environmental impact statement. element c - no action: efficacy and impacts. Final Report submitted to Washington State Department of Ecology Olympia."
+          },
+          {
+            "key": "e_1_3_1_26_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Feist BE Simenstad CA 2000. Expansion rates and recruitment frequency of exotic smooth cordgrass Spartina alterniflora (Loisel) colonizing unvegetated littoral flats in Willapa Bay Washington. Estuaries 23:267-274.",
+            "DOI": "10.2307/1352832"
+          },
+          {
+            "key": "e_1_3_1_27_1",
+            "unstructured": "Foss S 1992. Spartina: Threat to Washington's saltwater habitat. Washington State Department of Agriculture Bulletin."
+          },
+          {
+            "key": "e_1_3_1_28_1",
+            "unstructured": "Frenkel RE 1990. Spartina in Oregon. In: Mumford TF Peyton P Sayce JR Harbell S eds. Spartina Workshop Record Washington Sea Grant Program University of Washington Seattle pp. 26."
+          },
+          {
+            "key": "e_1_3_1_29_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Furbish CE Albano M 1994. Selective herbivory and plant community structure in a mid-Atlantic salt marsh. Ecology 75(4):1015-1022.",
+            "DOI": "10.2307/1939425"
+          },
+          {
+            "key": "e_1_3_1_30_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gleason ML Elmer DA Pien NC Fisher JS 1979. Effects of stem density upon sediment retention by salt marsh cord grass Spartina alterniflora Loisel. Estuaries 2:271-273.",
+            "DOI": "10.2307/1351574"
+          },
+          {
+            "key": "e_1_3_1_31_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goranson CE Ho C-K Pennings SC 2004. Environmental gradients and herbivores feeding preferences in coastal salt marshes. Oecologia 140:591-600.",
+            "DOI": "10.1007/s00442-004-1615-2"
+          },
+          {
+            "key": "e_1_3_1_32_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goss-Custard JD Moser ME 1988. Rates of change in the numbers of dunlin Calidris alpina wintering in British estuaries in relation to the spread of Spartina anglica. Journal of Applied Ecology 25:95-109.",
+            "DOI": "10.2307/2403612"
+          },
+          {
+            "key": "e_1_3_1_33_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grevstad FS Strong DR Garcia-Rossi D Switzer RW Wecker MS 2003. Biological control of Spartina alterniflora in Willapa Bay Washington using the planthopper Prokelisia marginata: agent specificity and early results. Biological Control 27(1):32-42.",
+            "DOI": "10.1016/S1049-9644(02)00181-0"
+          },
+          {
+            "key": "e_1_3_1_34_1",
+            "unstructured": "Harrington JA Harrington LMB Berlin CJ 1997. Modelling Spartina in Willipa Bay. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_35_1",
+            "unstructured": "Hedge P Kriwoken L 1997. Managing Spartina in Victoria and Tasmania Australia. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_36_1",
+            "unstructured": "Hedge P Kriwoken L Ritar A 1997. The distribution of Spartina in Victoria and Tasmania Australia. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_37_1",
+            "unstructured": "Hedge P Kriwoken LK Patten K 2003. A review of Spartina management in Washington State US. Journal of Aquatic Plant Management 41:82-90."
+          },
+          {
+            "key": "e_1_3_1_38_1",
+            "unstructured": "Hitchcock CL Cronquist A Own-Bey M 1969. Vascular plants of the Pacific Northwest. Part 1. Vascular cryptogams gymnosperms and monocotyledons. Vascular plants of the Pacific Northwest. Part 1. Vascular cryptogams gymnosperms and monocotyledons. Seattle: University of Washington Press."
+          },
+          {
+            "key": "e_1_3_1_39_1",
+            "unstructured": "Howard V 2008. Spartina alterniflora. USGS Nonindigenous Aquatic Species Database. Gainesville FL USA."
+          },
+          {
+            "key": "e_1_3_1_40_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hubbard JCE 1965. Spartina marshes in southern England. 6. Pattern of invasion in Poole Harbour. Journal of Ecology S3(3):799-813.",
+            "DOI": "10.2307/2257637"
+          },
+          {
+            "key": "e_1_3_1_41_1",
+            "unstructured": "Josselyn M Larsson B Fiorillo A 1993. An ecological comparison of an introduced marsh plant Spartina alterniflora with its native congener Spartina foliosa in San Francisco Bay. Gaps in Knowledge Res. Prog. San Francisco Bay Estuary Proj. Tiburon CA USA: Romberg Tiburon Centers San Francisco State University 47 pp."
+          },
+          {
+            "key": "e_1_3_1_42_1",
+            "unstructured": "Kilbride KM Paveglio FL Grue CE 1995. Control of smooth cordgrass with Rodeo® in a southwestern Washington estuary. Wildlife Society Bulletin 23(3):520-524."
+          },
+          {
+            "key": "e_1_3_1_43_1",
+            "unstructured": "Kunz K Martz M 1993. Characterization of exotic Spartina communities in Washington State. Appendix K - Emergent Noxious Weed Control Final Reports Unpublished Report to Washington Department of Ecology Olympia."
+          },
+          {
+            "key": "e_1_3_1_44_1",
+            "unstructured": "Landin MC 1991. Growth habits and other considerations of smooth cordgrass Spartina alterniflora Loisel. In: Spartina Workshop Record Washington Sea Grant Program University of Washington Seattle [ed. by Mumford TF Peyton P Sayce JR Harbell S] 15-20."
+          },
+          {
+            "key": "e_1_3_1_45_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lessman JM Mendelssohn IA Hester MW McKee KL 1997. Population variation in growth response to flooding of three marsh grasses. Ecological Engineering 8:31-47.",
+            "DOI": "10.1016/S0925-8574(96)00251-0"
+          },
+          {
+            "key": "e_1_3_1_46_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Linthurst RA 1979. The effects of aeration on the growth of Spartina alterniflora Loisel. American Journal of Botany 66(6):685-691.",
+            "DOI": "10.1002/j.1537-2197.1979.tb06272.x"
+          },
+          {
+            "key": "e_1_3_1_47_1",
+            "unstructured": "Luiting VT Cordell JR Olson AM Simenstad CA 1997. Does exotic Spartina alterniflora change benthic invertebrate assemblages? In: The Proceedings of the Second International Spartina Conference Olympia WA 20-21 March 1997."
+          },
+          {
+            "key": "e_1_3_1_48_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lythe JS Lythe TF 1998. Altrazine effects on estuarine macrophytes Spartina alterniflora and Juncus roemerianus. Environmental Toxicology & Chemistry 17(10):1972-1978.",
+            "DOI": "10.1002/etc.5620171012"
+          },
+          {
+            "key": "e_1_3_1_49_1",
+            "unstructured": "Major WW Grue CE Grassley JM Conquest LL 2003. Mechanical and chemical control of smooth cordgrass in Willapa Bay Washington. Journal of Aquatic Plant Management 41:6-12."
+          },
+          {
+            "key": "e_1_3_1_50_1",
+            "unstructured": "Maskell LC Raybould AF 2001. The decline of Spartina alterniflora (Poaceae) in the British Isles. Watsonia 23(3):391-400."
+          },
+          {
+            "key": "e_1_3_1_51_1",
+            "unstructured": "McEnnulty FR Bax NJ Britta S Campbell ML undated. A literature review of rapid response options for the control of ABWMAC listed species and related taxa in Australia. CSIRO Marine Research: Centre for Research on Introduced Marine Pests."
+          },
+          {
+            "key": "e_1_3_1_52_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mendelssohn IA McKee KL 1988. Spartina alterniflora Die-back in Louisianna: Time-course Investigation of Soil Waterlogging Effects. Journal of Ecology 76:509-521.",
+            "DOI": "10.2307/2260609"
+          },
+          {
+            "key": "e_1_3_1_53_1",
+            "unstructured": "Moberley DG 1956. Taxonomy and distribution of the genus Spartina. Iowa State Journal of Science 30:471-574."
+          },
+          {
+            "key": "e_1_3_1_54_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mullins PH Marks TC 1987. Flowering phenology and seed production of Spartina anglica. Journal of Ecology UK 75(4):1037-1048.",
+            "DOI": "10.2307/2260312"
+          },
+          {
+            "key": "e_1_3_1_55_1",
+            "unstructured": "Murphy KC Taylor RR Philips CH 2007. Progress of the 2006 Spartina eradication program. Olympia Washington USA: Washington State Department of Agriculture. http://agr.gov/PlantInsects/Weeds/Spartina/docs/SpartinaReport2006.pdf"
+          },
+          {
+            "key": "e_1_3_1_56_1",
+            "unstructured": "Norman M Patten K 1994. Optimizing the efficacy of glyphosate to control Spartina alterniflora. Unpublished progress report submitted to WSDNR (January-May 1994)."
+          },
+          {
+            "key": "e_1_3_1_57_1",
+            "unstructured": "Norman M Patten K 1995. Evaluation of mechanical methods and herbicide adjuvant treatments for the effective control of Spartina spp. Unpublished report on file at Washington State University Long Beach Research and Extension Unit Long Beach Washington."
+          },
+          {
+            "key": "e_1_3_1_58_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Partridge TR 1987. Spartina in New Zealand. New Zealand Journal of Botany 25(4):567-575.",
+            "DOI": "10.1080/0028825X.1987.10410087"
+          },
+          {
+            "key": "e_1_3_1_59_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Patten K 2002. Smooth cordgrass (Spartina alterniflora) control with imazapyr. Weed Technology 16(4):826-832.",
+            "DOI": "10.1614/0890-037X(2002)016[0826:SCSACW]2.0.CO;2"
+          },
+          {
+            "key": "e_1_3_1_60_1",
+            "unstructured": "Patten K 2004. Comparison of chemical and mechanical control efforts for invasive Spartina in Willapa Bay WA. Unpublished Report available via author contact."
+          },
+          {
+            "key": "e_1_3_1_61_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Reimold RJ Linthurst RA Wolf PL 1975. Effects of grazing on a salt marsh. Biological Conservation 8:105-125.",
+            "DOI": "10.1016/0006-3207(75)90036-1"
+          },
+          {
+            "key": "e_1_3_1_62_1",
+            "unstructured": "Riggs SR 1992. Distribution of Spartina alterniflora in Padilla Bay Washington in 1991. Washington State Department of Ecology Padilla Bay National Estuarine Research Reserve Technical Report No. 3. Mount Vernon Washington USA 63 pp."
+          },
+          {
+            "key": "e_1_3_1_63_1",
+            "unstructured": "Roberts PD Pullin AS 2006. The effectiveness of management options used for the control of Spartina species. Systematic Review No. 22. Birmingham UK: Centre for Evidence- Based Conservation."
+          },
+          {
+            "key": "e_1_3_1_64_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Roberts PD Pullin AS 2007. The effectiveness of management interventions for the control of Spartina species: a systematic review and meta-analysis. Aquatic Conservation Marine and Freshwater Ecosystems 18(5):592-618.",
+            "DOI": "10.1002/aqc.889"
+          },
+          {
+            "key": "e_1_3_1_65_1",
+            "unstructured": "Sayce K 1988. Introduced Cordgrass Spartina alterniflora Losiel. in Saltmarshes and Tidelands of Willapa Bay Washington. Report to the US Fish and Wildlife Service Willapa National Wildlife Refuge."
+          },
+          {
+            "key": "e_1_3_1_66_1",
+            "unstructured": "Scheffer TH 1945. The introduction of Spartina alterniflora to Washington with oyster culture. Leaflets of Western Botany 4:163-164."
+          },
+          {
+            "key": "e_1_3_1_67_1",
+            "unstructured": "Shaw WB Gosling DS 1997. Spartina ecology control and eradication - recent New Zealand experience. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_68_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Silliman BR Zieman JC 2001. Top-down control of Spartina alterniflora production by periwinkle grazing in a Virginia salt marsh. Ecology 82(10):2830-2845. http://www.esajournals.org/esaonline/?request=get-abstract&issn=0012-9658&volume=082&issue=10&page=2830",
+            "DOI": "10.1890/0012-9658(2001)082[2830:TDCOSA]2.0.CO;2"
+          },
+          {
+            "key": "e_1_3_1_69_1",
+            "unstructured": "Simenstad CA Thom RM 1995. Spartina alterniflora (Smooth Cordgrass) as an Invasive Halophyte in Pacific Northwest Estuaries. Hortus Northwest 6(1):9-40."
+          },
+          {
+            "key": "e_1_3_1_70_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Smart RM 1982. Distribution and environmental control of productivity and growth form of Spartina alterniflora (Loisel.). Contributions to the ecology of halophytes [ed. by Sen DN Rajpurohit KS]. The Hague Netherlands: Dr. W. Junk Publishers 127-142.",
+            "DOI": "10.1007/978-94-009-8037-2_9"
+          },
+          {
+            "key": "e_1_3_1_71_1",
+            "unstructured": "Spartina Task Force 1994. Spartina management program: Intergrated weed management for private lands in Willapa Bay prepared for the Noxious Weed Board and County Commissioners Pacific County Washington."
+          },
+          {
+            "key": "e_1_3_1_72_1",
+            "unstructured": "Thom R Cordell J Simenstad C Luiting V Borde B 1997. Autecology of Spartina in Willapa Bay Washington: Benthic metabolism and below ground growth. In: The Proceedings of the Second International Spartina Conference Olympia WA."
+          },
+          {
+            "key": "e_1_3_1_73_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Thom RM 1992. Accretion rates of low intertidal salt marshes in the Pacific Northwest. Wetlands 12:147-156.",
+            "DOI": "10.1007/BF03160603"
+          },
+          {
+            "key": "e_1_3_1_74_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Turner MG 1987. Effects of grazing by feral horses clipping trampling and burning in a Georgia salt marsh. Estuaries 10(1):54-60.",
+            "DOI": "10.2307/1352025"
+          },
+          {
+            "key": "e_1_3_1_75_1",
+            "unstructured": "US Fish and Wildlife Service 2010. Draft Recovery Plan for Tidal Marsh Ecosystems of Northern and Central California. Sacramento California USA. xviii + 636 pp."
+          },
+          {
+            "key": "e_1_3_1_76_1",
+            "unstructured": "US Fish and Wildlife Service 2010. In: Salt marsh harvest mouse (Reithrodontomys raviventris). 5-Year Review: Summary and Evaluation.US Fish and Wildlife Service. 49 pp."
+          },
+          {
+            "key": "e_1_3_1_77_1",
+            "unstructured": "Weber E 2003. Invasive plant species of the world: A reference guide to environmental weeds. Wallingford UK: CAB International 548 pp."
+          },
+          {
+            "key": "e_1_3_1_78_1",
+            "unstructured": "Wiggins J Binney E 1987. A baseline study of the distribution of Spartina alterniflora in Padilla Bay. Report to Washington Dept. Ecology Padilla Bay National Estuarine Research Reserve. Padilla Bay National Estuarine Research Reserve Reprint Series No. 7. 28 pp."
+          },
+          {
+            "key": "e_1_3_1_79_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Woodhouse WW 1979. Building saltmarshes along the coasts of the continental United States. Special report No. 4. Belvoir VA USA: U.S. Army Corps of Engineers Coastal Engineering Research Center.",
+            "DOI": "10.5962/bhl.title.47695"
+          }
+        ],
+        "container-title": [
+          "CABI Compendium"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2024-12-16T15:17:46Z",
+          "timestamp": 1734362266000
+        },
+        "score": 31.855995,
+        "resource": {
+          "primary": {
+            "URL": "http://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.107740"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              12
+            ]
+          ]
+        },
+        "references-count": 78,
+        "URL": "https://doi.org/10.1079/cabicompendium.107740",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              12
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

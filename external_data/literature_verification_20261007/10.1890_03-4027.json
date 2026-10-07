@@ -1,0 +1,629 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T04:49:28Z",
+      "timestamp": 1791262168272,
+      "version": "4.1.0"
+    },
+    "reference-count": 77,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2004-05-01T00:00:00Z",
+          "timestamp": 1083369600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 90,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ecological Monographs"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Exotic plants often face different conditions from those experienced where they are native. The general issue of how exotics respond to unfamiliar environments within their new range is not well understood. Phenotypic plasticity has historically been seen as the primary mechanism enabling exotics to colonize large, environmentally diverse areas. However, new work indicates that exotics can evolve quickly, suggesting that contemporary evolution may be more important in invasion ecology than previously appreciated. To determine the influence of contemporary evolution, phenotypic plasticity, and founder effects in affecting phenotypic variation among introduced plants, we compared the size, fecundity, and leaf area of St. John's wort (<jats:named-content content-type=\"genus-species\">Hypericum perforatum</jats:named-content>) collected from native European and introduced western and central North American populations in common gardens in Washington, California, Spain, and Sweden. We also determined genetic relationships among these plants by examining variation in amplified fragment length polymorphism (AFLP) markers.</jats:p><jats:p>There was substantial genetic variation among introduced populations and evidence for multiple introductions of <jats:named-content content-type=\"genus-species\">H. perforatum</jats:named-content> into North America. Across common gardens introduced plants were neither universally larger nor more fecund than natives. However, within common gardens, both introduced and native populations exhibited significant latitudinally based clines in size and fecundity. Clines among introduced populations broadly converged with those among native populations. Introduced and native plants originating from northern latitudes generally outperformed those originating from southern latitudes when grown in northern latitude gardens of Washington and Sweden. Conversely, plants from southern latitudes performed best in southern gardens in Spain and California. Clinal patterns in leaf area, however, did not change between gardens; European and central North American plants from northern latitudes had larger leaves than plants from southern latitudes within these regions in both Washington and California, the two gardens where this trait was measured. Introduced plants did not always occur at similar latitudes as their most closely related native progenitor, indicating that pre‐adaptation (i.e., climate matching) is unlikely to be the sole explanation for clinal patterns among introduced populations. Instead, results suggest that introduced plants are evolving adaptations to broad‐scale environmental conditions in their introduced range.</jats:p>",
+    "DOI": "10.1890/03-4027",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2007-06-06T20:53:47Z",
+      "timestamp": 1181163227000
+    },
+    "page": "261-280",
+    "source": "Crossref",
+    "is-referenced-by-count": 595,
+    "title": [
+      "RAPID EVOLUTION OF AN INVASIVE PLANT"
+    ],
+    "prefix": "10.1002",
+    "volume": "74",
+    "author": [
+      {
+        "given": "John L.",
+        "family": "Maron",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Montserrat",
+        "family": "Vilà",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Riccardo",
+        "family": "Bommarco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Elmendorf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Beardsley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2004,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s001220051369"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.0962-1083.2001.01311.x"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.es.05.110174.000245"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "unstructured": "Baker H. G. andG. L.Stebbins. editors1965. The genetics of colonizing species. Academic Press New York New York USA."
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "unstructured": "Barrett S. C. H. andB. J.Richardson.1986. Genetic attributes of invading species. Pages 21–33inR. H. Groves and J. J. Burdon editors. Ecology of biological invasions. Cambridge University Press Cambridge UK."
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/genetics/148.3.1311"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2261425"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1013378014069"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "unstructured": "Brown A. H. D. andD. R.Marshall.1981. Evolutionary changes accompanying colonization in plants. Pages 73– 98inG. G. E. Scudder and J. L. Reveal editors. Evolution today. Proceedings of the Second International Congress of Systematics and Evolutionary Biology Hunt Institute of Botanical Documentation Carnegie-Mellon University Pittsburgh Pennsylvania USA."
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/0012-9658(2003)084[1434:AIBAGS]2.0.CO;2"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "first-page": "63",
+        "article-title": "The biology of Australian weeds. 13. Hypericum perforatum",
+        "volume": "50",
+        "author": "Campbell M. H.",
+        "year": "1984",
+        "journal-title": "Journal of Australian Institute of Agricultural Science"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "unstructured": "Clausen J. D. D.Keck andW. M.Hiesey.1940. Experimental studies on the nature of species. I. The effects of varied environments on North American plants. Carnegie Institute of Washington Publication Number520 Washington D.C. USA."
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "unstructured": "Crawley M. J.1987. What makes a community invasible? Pages 429–453inA. J. Gray M. J. Crawley and P. J. Edwards editors. Colonization succession and stability. Blackwell Scientific Oxford UK."
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "unstructured": "Elton C. S.1958. The ecology of invasions. Methuen London UK."
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "unstructured": "Endler J. A.1977. Geographic variation speciation and clines. Monographs in Population Biology. Princeton University Press Princeton New Jersey USA."
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.1985.tb00420.x"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4039/Ent120937-10"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "unstructured": "Fowler S. V. H. M.Harman J.Memmott Q.Paynter R.Shaw A. W.Sheppard andP.Syrett.1996. Comparing the population dynamics of broom Cytisus scoparius as a native plant in the United Kingdom and France and as an invasive alien weed in Australia and New Zealand. Pages 19–26inV. C. Moran and J. H. Hoffmann editors. Proceedings of the IX International Symposium on Biological Control of Weeds. University of Cape Town Stellenbosch South Africa."
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.1991.tb04388.x"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "unstructured": "Gillett J. B.1962. Pest pressure an underestimated factor in evolution. Pages 37–46inTaxonomy and geography. Systematics Association Publication Number 4."
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1461-0248.2003.00495.x"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "unstructured": "Harris P. andM.Maw.1984.Hypericum perforatumL. St John's-wort (Hypericaceae). Pages 171–177inJ. S. Kelleher and M. A. Hulme editors. Biological control programmes against insects and weeds in Canada 1969–1980. Commonwealth Agricultural Bureaux Slough UK."
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "first-page": "143",
+        "article-title": "Establishment of Urophora quadrifasciata (Diptera: Tephritidae) and Chrysolina quadrigemina (Coleoptera: Chrysomelidae) in portions of eastern United States",
+        "volume": "104",
+        "author": "Hoebeke E. R.",
+        "year": "1993",
+        "journal-title": "Entomological News"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/scientificamerican0757-56"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jee/44.2.244"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.287.5451.308"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1931184"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/j.1537-2197.1979.tb06236.x"
+      },
+      {
+        "key": "e_1_2_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2656755"
+      },
+      {
+        "key": "e_1_2_7_31_1",
+        "unstructured": "Julien M. H. andM. W.Griffiths.1998. Biological control of weeds. A world catalogue of agents and their target weeds. Fourth edition. CABI Publishing Wallingford UK."
+      },
+      {
+        "key": "e_1_2_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s004420000621"
+      },
+      {
+        "key": "e_1_2_7_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1943178"
+      },
+      {
+        "key": "e_1_2_7_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-5347(02)02554-5"
+      },
+      {
+        "key": "e_1_2_7_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1461-0248.2003.00423.x"
+      },
+      {
+        "key": "e_1_2_7_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/anbo.2000.1308"
+      },
+      {
+        "key": "e_1_2_7_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/0012-9658(2003)084[1688:EHAATF]2.0.CO;2"
+      },
+      {
+        "key": "e_1_2_7_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/282558"
+      },
+      {
+        "key": "e_1_2_7_39_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1723",
+        "DOI": "10.1093/genetics/152.4.1723",
+        "article-title": "DNA variation in the wild plant Arabidopsis thaliana revealed by amplified fragment length polymorphism analysis",
+        "author": "Miyashita N. T.",
+        "year": "1999",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "e_1_2_7_40_1",
+        "first-page": "284",
+        "article-title": "Allozyme uniformity within and variation between races of the colonizing species Xanthium strumarium L. (Noogoora burr)",
+        "volume": "31",
+        "author": "Morgan G. F.",
+        "year": "1978",
+        "journal-title": "Australian Journal of Biological Sciences"
+      },
+      {
+        "key": "e_1_2_7_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-5347(99)01659-6"
+      },
+      {
+        "key": "e_1_2_7_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.76.10.5269"
+      },
+      {
+        "key": "e_1_2_7_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00032168"
+      },
+      {
+        "key": "e_1_2_7_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00983693"
+      },
+      {
+        "key": "e_1_2_7_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1365-294x.1999.00752.x"
+      },
+      {
+        "key": "e_1_2_7_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1641/0006-3568(2001)051[0114:TPIASG]2.0.CO;2"
+      },
+      {
+        "key": "e_1_2_7_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1523-1739.2003.02019.x"
+      },
+      {
+        "key": "e_1_2_7_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2260223"
+      },
+      {
+        "key": "e_1_2_7_49_1",
+        "unstructured": "Pritchard T.1960. Race formation in weedy species with special reference toEuphorbia cyparissiasL. andHypericum perforatumL. Pages 61–66inJ. L. Harper editor. The biology of weeds: a symposium of the British Ecological Society. Blackwell Scientific Oxford UK."
+      },
+      {
+        "key": "e_1_2_7_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2389391"
+      },
+      {
+        "key": "e_1_2_7_51_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1203",
+        "DOI": "10.2307/2405232",
+        "article-title": "Biological control of Scotch broom: modeling the determinants of abundance and the potential impact of introduced insect herbivores",
+        "volume": "34",
+        "author": "Rees M.",
+        "year": "1997",
+        "journal-title": "Journal of Applied Ecology"
+      },
+      {
+        "key": "e_1_2_7_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.275.5308.1934"
+      },
+      {
+        "key": "e_1_2_7_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00328408"
+      },
+      {
+        "key": "e_1_2_7_54_1",
+        "unstructured": "Robson N. K. B.1968. Guttiferales. CIX. Guttifereae (Clusiaceae). Pages 261–269inFlora Europaea 2. Cambridge University Press Cambridge UK."
+      },
+      {
+        "key": "e_1_2_7_55_1",
+        "unstructured": "Samson A. W. andK. W.Parker.1930. St. Johns-wort on rangelands of California. California Agriculture Experiment Station Bulletin503 Berkeley California USA."
+      },
+      {
+        "key": "e_1_2_7_56_1",
+        "unstructured": "SAS.2001. PROC GLM in SAS version 8.2. SAS Institute Cary North Carolina USA."
+      },
+      {
+        "key": "e_1_2_7_57_1",
+        "unstructured": "Schneider S. D.Roessli andL.Excoffier.2000. ARLEQUIN: a software for population genetic data. Genetics and Biometry Laboratory University of Geneva Geneva Switzerland."
+      },
+      {
+        "key": "e_1_2_7_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/1051-0761(2002)012[1652:PAGDMA]2.0.CO;2"
+      },
+      {
+        "key": "e_1_2_7_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1461-0248.2001.00274.x"
+      },
+      {
+        "key": "e_1_2_7_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0014-3820.2005.tb01785.x"
+      },
+      {
+        "key": "e_1_2_7_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.1993.tb02132.x"
+      },
+      {
+        "key": "e_1_2_7_62_1",
+        "unstructured": "Swofford D. L.1998. PAUP* 4.0: phylogenetic analysis using parsimony. Smithsonian Institution Washington D.C. USA."
+      },
+      {
+        "key": "e_1_2_7_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/318635"
+      },
+      {
+        "key": "e_1_2_7_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-5347(98)01378-0"
+      },
+      {
+        "key": "e_1_2_7_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1601-5223.1930.tb02531.x"
+      },
+      {
+        "key": "e_1_2_7_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2699.2006.01462.x"
+      },
+      {
+        "key": "e_1_2_7_67_1",
+        "unstructured": "Voss E. G.1985. Michigan flora. Part II. Dicots (Saururaceae–Cornaceae). Cranbrook Institute of Science Cranbrook Michigan USA."
+      },
+      {
+        "key": "e_1_2_7_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/j.1537-2197.1995.tb11568.x"
+      },
+      {
+        "key": "e_1_2_7_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00935983"
+      },
+      {
+        "key": "e_1_2_7_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1139/b86-219"
+      },
+      {
+        "key": "e_1_2_7_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2446344"
+      },
+      {
+        "key": "e_1_2_7_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02803799"
+      },
+      {
+        "key": "e_1_2_7_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1938158"
+      },
+      {
+        "key": "e_1_2_7_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09583159929523"
+      },
+      {
+        "key": "e_1_2_7_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1461-0248.2000.00149.x"
+      },
+      {
+        "key": "e_1_2_7_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00321191"
+      },
+      {
+        "key": "e_1_2_7_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2135/cropsci2000.403808x"
+      },
+      {
+        "key": "e_1_2_7_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1365-2699.1999.00338.x"
+      }
+    ],
+    "container-title": [
+      "Ecological Monographs"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1890%2F03-4027",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/03-4027",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2023-10-13T23:51:16Z",
+      "timestamp": 1697241076000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://esajournals.onlinelibrary.wiley.com/doi/10.1890/03-4027"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          2
+        ]
+      ]
+    },
+    "references-count": 77,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1890/03-4027"
+    ],
+    "URL": "https://doi.org/10.1890/03-4027",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0012-9615",
+      "1557-7015"
+    ],
+    "issn-type": [
+      {
+        "value": "0012-9615",
+        "type": "print"
+      },
+      {
+        "value": "1557-7015",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          2
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-07",
+  "checks_passed": [
+    "Forward folds use only earlier starting years.",
+    "No dependency group appears on both sides of any fold.",
+    "All spatial test-start buffers are at least 512 pixels.",
+    "Held-out predictions are finite and unique per model/target/split/sample.",
+    "Frozen pilot has 32 sites, 480 unique tile-dates and 2 sites per stratum.",
+    "Sampling frame covers all 270 million ROI pixels by nonoverlapping tile windows.",
+    "All 480 PNG dimensions and SHA256 match frozen manifest.",
+    "Original source tables retain prior recorded SHA256.",
+    "All three seven-year rank tests enumerate 5040 permutations.",
+    "Manuscript DOCX reopens with four embedded figures; PDF has 12 pages.",
+    "Browser annotation edit/export/import/navigation/persistence checks passed with disposable synthetic labels.",
+    "Image-centre climate file has 2922 days and no missing values in four parameters."
+  ],
+  "expert_pilot_labels": 0,
+  "scope": "Computational and artifact checks; does not validate biological labels or manuscript causal claims."
+}

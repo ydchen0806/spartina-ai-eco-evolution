@@ -1,0 +1,10 @@
+claim,status,current_evidence,artifact,needed_evidence
+Restored files correspond to transfer manifest,supported,1001 files; 0 checksum failures,data/derived/recovery_20261007/fresh_hash_verification.json,No further check needed unless source bytes change
+Archived growth endpoint is consistent across years,unresolved,188 stored values differ from area-derived gain,data/derived/trajectory_audit_20261007/model_endpoint_trace.csv,Recover 2016/2018 transformation formula and provenance
+AI segmentation achieves original claimed accuracy,unverified,"Checkpoint, training RGB and fixed split missing",data/derived/recovery_20261007/annotation_audit.json,Independent expert labels and frozen test evaluation
+Temporal growth decline is robust,not established,Endpoint sensitivity; exact seven-year tests do not establish a monotonic trend,data/derived/trajectory_audit_20261007/endpoint_audit.json,Validated measurement and observation model; test competing ecological explanations
+Candidate missing patches are dead,unsupported,Coverage gaps and unregistered tracking,data/derived/trajectory_audit_20261007/archived_transition_screen.csv,"Coverage map, stable control points, independently reviewed events"
+Starting geometry predicts future log area ratio reliably,not demonstrated,Forward R2 negative for all tested baselines,data/derived/strict_benchmark_20261007/pooled_metrics.csv,Validated labels and independent forward evaluation of richer models
+Growth and tolerance differences are heritable,untested,No available common-garden or genetic evidence,docs/MANUSCRIPT_WORKING_DRAFT.md,Independent-population common garden/transplant with clone identity/genetic support
+Patch coalescence changes observed growth distributions,testable hypothesis,Shared components and masks of isolated patches motivate the question,data/derived/trajectory_audit_20261007/shared_components.csv,"Validated merge events, continuous vegetation map and observation-aware ecological comparison"
+Mechanism generalizes across invasion systems,untested,Single study site,docs/VALIDATION_AND_MANUSCRIPT_2026-10-07.md,Independent-site replication with matched endpoints and observation protocol

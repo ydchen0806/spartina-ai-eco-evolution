@@ -1,31 +1,16 @@
-# Proposed Nature-style article frame
+# Active manuscript frame — updated 2026-10-07
 
-## Working title
+The earlier tolerance/rapid-adaptation framing is superseded by the completed endpoint and trajectory audits. The active full text is [MANUSCRIPT_WORKING_DRAFT.md](MANUSCRIPT_WORKING_DRAFT.md).
 
-**An aerial AI observatory reveals a shift from expansion to environmental tolerance in an invasive cordgrass**
+# Separating biological change from observation in an invasive plant time series
 
-## Draft abstract (evidence-calibrated)
+Working manuscript, 7 October 2026. This draft reports completed analyses and distinguishes them from planned validation. It is not ready for submission: segmentation accuracy, demographic events, the historical endpoint transformation and any evolutionary mechanism remain unvalidated. Authorship and affiliations should be supplied by the research team.
 
-Rapid phenotypic change can alter the ecological consequences of biological invasions, yet most evidence for rapid evolution comes from controlled experiments or retrospective genetic comparisons. We developed an auditable aerial-observation workflow that combines UAV imagery, semantic segmentation and spatially explicit patch tracking to reconstruct annual changes in an invasion front of *Spartina alterniflora* in coastal China. The recoverable patch-record archive contains 727 records from 2014–2021. Across the years for which parent-patch measurements are informative, newly recorded patches became progressively smaller relative to their putative parent patches, while the number of recorded patches fluctuated and did not show a significant monotonic trend. This shift was spatially heterogeneous and coincided with changes in the climatic context, motivating a machine-learning model for hypothesis-generating counterfactual simulations. The available observations support a transition in the spatial phenotype of the invasion process and identify environmental tolerance as a testable mechanism. They do not, on their own, establish heritability or causality; these claims require common-garden, transplant or genomic validation. Our framework turns archived aerial imagery into a quantitative observatory for testing eco-evolutionary hypotheses in invasions and provides a reproducible route from AI-derived phenotypes to falsifiable field experiments.
+## Abstract
 
-## One-sentence claim hierarchy
+Aerial imagery offers repeated observations of biological invasions, but changes in segmented patches need not represent changes in population growth. We reconstructed the provenance of a 2014–2021 image archive of the invasive cordgrass Spartina alterniflora and examined how measurement, sample selection and prediction affect its interpretation. Fifteen paired orthomosaics and masks were recovered, together with polygon annotations for 714 images containing 9,234 objects. A fixed crop convention linked 5,745 of 5,746 archived patch-date positions to mask components. All 854 records in a historical growth-model table could be traced to annual matrix transitions, preserving repeated-record multiplicity. Their inclusion was equivalent to retaining relative area increments between zero and ten from 957 transitions. Stored growth endpoints differed from area-derived relative increments in 188 records concentrated in two years. Holding the sample constant, the correlation between year and annual mean endpoint changed from −0.714 to −0.107 after recomputation. Shared mask objects, possible coverage gaps and unresolved image alignment further limited demographic interpretation. A fixed benchmark using starting geometry and purged forward-year validation did not demonstrate reliable temporal prediction. These findings identify the observation and response definitions that must be resolved before aerial phenotypes can support ecological mechanisms or evolutionary inference. We provide reproducible audits and a frozen, spatially separated annotation pilot for that validation.
 
-1. **Strong and currently supportable:** AI can recover a reproducible, spatially explicit patch record from aerial imagery.
-2. **Supportable after raw-image reanalysis:** annual cohorts differ in patch-size and environmental-response distributions.
-3. **Testable hypothesis:** the invasion process is shifting from rapid local expansion toward lower-growth, higher-tolerance strategies.
-4. **Not supportable from the current archive alone:** the shift is heritable, caused by climate, or represents a genomic/epigenomic ecotype transition.
 
-## Results paragraph order
+## Next evidence required
 
-1. **Aerial observatory.** Define study area, acquisition years, orthomosaic construction, training/holdout split, segmentation and matching uncertainty.
-2. **Observed invasion phenotype.** Report detection-corrected patch occupancy, patch area, annual cohort composition and parent-normalized metrics with raw points and uncertainty.
-3. **Environmental response.** Fit a hierarchical spatiotemporal model and report partial effects, spatial scales and held-out prediction; use MGWR as a sensitivity analysis.
-4. **Counterfactual model.** Show calibrated predictions under observed, stable and extreme environments, with uncertainty and explicit non-causal language.
-5. **Independent test.** Add common-garden/transplant or cross-site validation before using adaptation or heritability as a conclusion.
-
-## Three sentences to remove from the current draft
-
-- “This trait is heritable under natural selection.” Replace with: “The changing cohort distribution is consistent with selection on environmental sensitivity, but heritability remains to be tested.”
-- “We treated each year as a new generation.” Replace with: “We analysed annual record cohorts; their correspondence to generations is an explicit uncertainty.”
-- “The machine-learning model demonstrates the causal mechanism.” Replace with: “The model generates counterfactual predictions that prioritize mechanisms for experimental testing.”
-
+Independent image labels and registration; resolved endpoint definition; verified demographic events; independent-site replication. Heritable change requires a separate common-garden/transplant/genetic study. Do not state these as completed results.

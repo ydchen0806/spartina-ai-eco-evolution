@@ -16,6 +16,21 @@ Code repository: [github.com/ydchen0806/spartina-ai-eco-evolution](https://githu
 
 Reproducible code, derived tables and audit figures for the *Spartina alterniflora* aerial-observation project. The release reconstructs the available 2014–2021 patch-record analysis and audits the recovered 2014–2020 environment–growth simulation archive.
 
+## Active manuscript and validation pilot
+
+The full [working manuscript](docs/MANUSCRIPT_WORKING_DRAFT.md) is available as
+[editable DOCX](manuscript/Spartina_working_draft_20261007.docx) and
+[PDF](manuscript/Spartina_working_draft_20261007.pdf). It includes the completed
+strict prediction baseline, sensitivity analyses and explicit evidence limits;
+it is not a submission-ready claim of evolution.
+
+The [latest report](docs/VALIDATION_AND_MANUSCRIPT_2026-10-07.md) documents the
+480-crop independent annotation pilot, frozen spatial splits, image-centred
+meteorological context and checked literature metadata. Crops and the working
+annotation page remain on the project server; this package contains their
+sampling manifest, generation code and browser template. Expert labels remain
+uncompleted.
+
 ## What is included
 
 - `analysis/reanalyze_spartina.py` — one entry point for local data audit, external-context summaries, summary tables and figures.

@@ -1,0 +1,25 @@
+{
+  "input_pairs": 957,
+  "unique_pairs": 954,
+  "duplicate_pairs_removed": 3,
+  "dependency_groups": 661,
+  "features": [
+    "log_start_area",
+    "start_X",
+    "start_Y"
+  ],
+  "primary_target": "log_area_ratio",
+  "secondary_target": "relative_gain",
+  "spatial_buffer_pixels": 512,
+  "random_seed": 20261007,
+  "model_selection": "Fixed settings; no tuning or best-model selection on these folds.",
+  "preprocessing": "Imputer and scaling fitted within each training fold; no legacy PCA or next-survey features.",
+  "limitations": [
+    "Archived area and identity remain unvalidated.",
+    "Dependency groups use shared bbox coordinates and may miss tracking errors.",
+    "Year labels are not exact elapsed time; log area ratio is not an annualized rate.",
+    "Initial area occurs in the response denominator; apparent size dependence need not imply a mechanism.",
+    "Spatial folds are within one study site, not independent-site validation.",
+    "No weather features used; benchmark does not test climate or causal mechanisms."
+  ]
+}

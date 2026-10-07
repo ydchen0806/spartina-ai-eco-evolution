@@ -745,5 +745,27 @@
     "source_archive_modified": false,
     "stored_endpoint_disagreements": 188,
     "biological_events_independently_validated": false
+  },
+  "strict_benchmark_20261007": {
+    "config": "data/derived/strict_benchmark_20261007/benchmark_config.json",
+    "status": "Completed starting-geometry benchmark on archived labels; no independent biological validation"
+  },
+  "annotation_pilot_20261007": {
+    "protocol": "data/derived/validation_pilot_20261007/sampling_protocol.json",
+    "local_crop_root": "nature_manuscript/validation_pilot_20261007",
+    "crops_in_public_release": false,
+    "expert_labels": 0
+  },
+  "image_center_climate_20261007": {
+    "provider": "NASA POWER",
+    "provenance": "external_data/image_center_climate_20261007/climate_context_provenance.json",
+    "purpose": "Gridded context; not tide or local terrain measurement"
+  },
+  "working_manuscript": "docs/MANUSCRIPT_WORKING_DRAFT.md",
+  "literature_verification_20261007": {
+    "provider": "Crossref REST API",
+    "records": 8,
+    "scope": "DOI metadata and available abstracts; not full-text review",
+    "index": "external_data/literature_verification_20261007/verified_metadata.json"
   }
 }

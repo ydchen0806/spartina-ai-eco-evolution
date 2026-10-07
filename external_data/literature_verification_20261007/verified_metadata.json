@@ -1,0 +1,1250 @@
+[
+  {
+    "doi": "10.2307/1941255",
+    "title": [
+      "Persistent Differences in Two Forms of Spartina Alterniflora: A Common Garden Experiment"
+    ],
+    "authors": [
+      {
+        "given": "John L.",
+        "family": "Gallagher",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "G. Fred",
+        "family": "Somers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Donna M.",
+        "family": "Grant",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Denise M.",
+        "family": "Seliskar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Ecology"
+    ],
+    "volume": "69",
+    "pages": "1005-1008",
+    "year": [
+      [
+        1988,
+        8
+      ]
+    ],
+    "abstract": "<jats:p>Tall— and short—form Spartina alterniflora plants were transplanted from the Delaware marsh to common garden plots during the summer of 1978 and irrigated with saltwater three times a week during that and each subsequent growing season. Nine years later plant biomass, culm height, density, and diameter and flowering frequency remained distinct. Underground regrowth reserves and root profiles likewise remained distinct for the two forms. Since the two growth forms had been living in the same environment for 9 yr and had retained many ological and physiological differences, some genetic control of the morphology and physiology of the two growth forms is highly probable.</jats:p>",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1988,
+              8,
+              1
+            ]
+          ],
+          "date-time": "1988-08-01T00:00:00Z",
+          "timestamp": 586396800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1111/ecog.02881",
+    "title": [
+      "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure"
+    ],
+    "authors": [
+      {
+        "given": "David R.",
+        "family": "Roberts",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Bahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Wright State Univ. Dayton OH USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simone",
+        "family": "Ciuti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark S.",
+        "family": "Boyce",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Univ. of Alberta Edmonton AB Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane",
+        "family": "Elith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gurutzeta",
+        "family": "Guillera‐Arroita",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Severin",
+        "family": "Hauenstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José J.",
+        "family": "Lahoz‐Monfort",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Boris",
+        "family": "Schröder",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Inst. of Geoecology, Div. of Landscape Ecology and Environmental Systems Analysis, Technische Univ. Braunschweig, Braunschweig, Germany, and: Berlin‐Brandenburg Inst. of Advanced Biodiversity Research (BBIB) Berlin Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wilfried",
+        "family": "Thuiller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lab. d’Écologie Alpine, Univ. Joseph Fourier Grenoble France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Warton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Mathematics and Statistics and Evolution and Ecology Research Centre, The Univ. of New South Wales Sydney Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brendan A.",
+        "family": "Wintle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Florian",
+        "family": "Hartig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          },
+          {
+            "name": "Theoretical Ecology, Univ. of Regensburg Regensburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carsten F.",
+        "family": "Dormann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Ecography"
+    ],
+    "volume": "40",
+    "pages": "913-929",
+    "year": [
+      [
+        2017,
+        3,
+        3
+      ]
+    ],
+    "abstract": "<jats:p>Ecological data often show temporal, spatial, hierarchical (random effects), or phylogenetic structure. Modern statistical approaches are increasingly accounting for such dependencies. However, when performing cross‐validation, these structures are regularly ignored, resulting in serious underestimation of predictive error. One cause for the poor performance of uncorrected (random) cross‐validation, noted often by modellers, are dependence structures in the data that persist as dependence structures in model residuals, violating the assumption of independence. Even more concerning, because often overlooked, is that structured data also provides ample opportunity for overfitting with non‐causal predictors. This problem can persist even if remedies such as autoregressive models, generalized least squares, or mixed models are used. Block cross‐validation, where data are split strategically rather than randomly, can address these issues. However, the blocking strategy must be carefully considered. Blocking in space, time, random effects or phylogenetic distance, while accounting for dependencies in the data, may also unwittingly induce extrapolations by restricting the ranges or combinations of predictor variables available for model training, thus overestimating interpolation errors. On the other hand, deliberate blocking in predictor space may also improve error estimates when extrapolation is the modelling goal. Here, we review the ecological literature on non‐random and blocked cross‐validation approaches. We also provide a series of simulations and case studies, in which we show that, for all instances tested, block cross‐validation is nearly universally more appropriate than random cross‐validation if the goal is predicting to new data or predictor space, or for selecting causal predictors. We recommend that block cross‐validation be used wherever dependence structures exist in a dataset, even if no correlation structure is visible in the fitted model residuals, or if the fitted models account for such correlations.</jats:p>",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              3
+            ]
+          ],
+          "date-time": "2017-03-03T00:00:00Z",
+          "timestamp": 1488499200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1890/03-4027",
+    "title": [
+      "RAPID EVOLUTION OF AN INVASIVE PLANT"
+    ],
+    "authors": [
+      {
+        "given": "John L.",
+        "family": "Maron",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Montserrat",
+        "family": "Vilà",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Riccardo",
+        "family": "Bommarco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Elmendorf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Beardsley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Ecological Monographs"
+    ],
+    "volume": "74",
+    "pages": "261-280",
+    "year": [
+      [
+        2004,
+        2
+      ]
+    ],
+    "abstract": "<jats:p>Exotic plants often face different conditions from those experienced where they are native. The general issue of how exotics respond to unfamiliar environments within their new range is not well understood. Phenotypic plasticity has historically been seen as the primary mechanism enabling exotics to colonize large, environmentally diverse areas. However, new work indicates that exotics can evolve quickly, suggesting that contemporary evolution may be more important in invasion ecology than previously appreciated. To determine the influence of contemporary evolution, phenotypic plasticity, and founder effects in affecting phenotypic variation among introduced plants, we compared the size, fecundity, and leaf area of St. John's wort (<jats:named-content content-type=\"genus-species\">Hypericum perforatum</jats:named-content>) collected from native European and introduced western and central North American populations in common gardens in Washington, California, Spain, and Sweden. We also determined genetic relationships among these plants by examining variation in amplified fragment length polymorphism (AFLP) markers.</jats:p><jats:p>There was substantial genetic variation among introduced populations and evidence for multiple introductions of <jats:named-content content-type=\"genus-species\">H. perforatum</jats:named-content> into North America. Across common gardens introduced plants were neither universally larger nor more fecund than natives. However, within common gardens, both introduced and native populations exhibited significant latitudinally based clines in size and fecundity. Clines among introduced populations broadly converged with those among native populations. Introduced and native plants originating from northern latitudes generally outperformed those originating from southern latitudes when grown in northern latitude gardens of Washington and Sweden. Conversely, plants from southern latitudes performed best in southern gardens in Spain and California. Clinal patterns in leaf area, however, did not change between gardens; European and central North American plants from northern latitudes had larger leaves than plants from southern latitudes within these regions in both Washington and California, the two gardens where this trait was measured. Introduced plants did not always occur at similar latitudes as their most closely related native progenitor, indicating that pre‐adaptation (i.e., climate matching) is unlikely to be the sole explanation for clinal patterns among introduced populations. Instead, results suggest that introduced plants are evolving adaptations to broad‐scale environmental conditions in their introduced range.</jats:p>",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2004,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2004-05-01T00:00:00Z",
+          "timestamp": 1083369600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 90,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1126/science.1242121",
+    "title": [
+      "Rapid Adaptation to Climate Facilitates Range Expansion of an Invasive Plant"
+    ],
+    "authors": [
+      {
+        "given": "Robert I.",
+        "family": "Colautti",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Ecology and Evolutionary Biology, University of Toronto, 25 Willcocks Street, Toronto, ON, Canada, M5S 3B2."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Spencer C. H.",
+        "family": "Barrett",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Ecology and Evolutionary Biology, University of Toronto, 25 Willcocks Street, Toronto, ON, Canada, M5S 3B2."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Science"
+    ],
+    "volume": "342",
+    "pages": "364-366",
+    "year": [
+      [
+        2013,
+        10,
+        18
+      ]
+    ],
+    "abstract": "<jats:title>Invade and Adapt</jats:title>\n          <jats:p>\n            The mechanisms by which plant and animal species spread into new habitats have become an increasing focus of ecological research, particularly in the context of climate change and species invasions.\n            <jats:bold>Colautti and Barrett</jats:bold>\n            (p.\n            <jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6156\" page=\"364\" related-article-type=\"in-this-issue\" vol=\"342\" xlink:href=\"10.1126/science.1242121\">364</jats:related-article>\n            ) examined the ecological consequence of local adaptation evolving rapidly along a 1000-kilometer climatic gradient in purple loosestrife\n            <jats:italic>(Lythrum salicaria)</jats:italic>\n            , one of the most notorious invasive plant species in North America. These invasive populations have evolved to become locally adapted within 50 to 100 years with important ecological consequences—increasing reproductive output by more than an order of magnitude.\n          </jats:p>",
+    "license": null,
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1016/j.ecoleng.2008.05.013",
+    "title": [
+      "Spartina alterniflora invasions in the Yangtze River estuary, China: An overview of current status and ecosystem effects"
+    ],
+    "authors": [
+      {
+        "given": "Bo",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chengz-hang",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-dong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hui-li",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhong-yi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-jing",
+        "family": "Gan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ji-hua",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bin",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhi-jun",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-li",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Li-fen",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jia-kuan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Ecological Engineering"
+    ],
+    "volume": "35",
+    "pages": "511-520",
+    "year": [
+      [
+        2009,
+        4
+      ]
+    ],
+    "abstract": null,
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1016/j.rse.2020.111745",
+    "title": [
+      "Development of spectral-phenological features for deep learning to understand Spartina alterniflora invasion"
+    ],
+    "authors": [
+      {
+        "given": "Jinyan",
+        "family": "Tian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Le",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dameng",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaojuan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chunyuan",
+        "family": "Diao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Huili",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chen",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Massimo",
+        "family": "Menenti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yong",
+        "family": "Ge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sheng",
+        "family": "Nie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yang",
+        "family": "Ou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaonan",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaomeng",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Remote Sensing of Environment"
+    ],
+    "volume": "242",
+    "pages": "111745",
+    "year": [
+      [
+        2020,
+        6
+      ]
+    ],
+    "abstract": null,
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2020-06-01T00:00:00Z",
+          "timestamp": 1590969600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2020-06-01T00:00:00Z",
+          "timestamp": 1590969600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              5
+            ]
+          ],
+          "date-time": "2020-03-05T00:00:00Z",
+          "timestamp": 1583366400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1016/j.jag.2021.102456",
+    "title": [
+      "A review on deep learning in UAV remote sensing"
+    ],
+    "authors": [
+      {
+        "given": "Lucas Prado",
+        "family": "Osco",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José",
+        "family": "Marcato Junior",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana Paula",
+        "family": "Marques Ramos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lúcio André",
+        "family": "de Castro Jorge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah Narges",
+        "family": "Fatholahi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "de Andrade Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Edson Takashi",
+        "family": "Matsubara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hemerson",
+        "family": "Pistori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wesley Nunes",
+        "family": "Gonçalves",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "International Journal of Applied Earth Observation and Geoinformation"
+    ],
+    "volume": "102",
+    "pages": "102456",
+    "year": [
+      [
+        2021,
+        10
+      ]
+    ],
+    "abstract": null,
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2021-10-01T00:00:00Z",
+          "timestamp": 1633046400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2021-10-01T00:00:00Z",
+          "timestamp": 1633046400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2021-07-17T00:00:00Z",
+          "timestamp": 1626480000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  },
+  {
+    "doi": "10.1890/0012-9658(2002)083[2248:ESORWD]2.0.CO;2",
+    "title": [
+      "ESTIMATING SITE OCCUPANCY RATES WHEN DETECTION PROBABILITIES ARE LESS THAN ONE"
+    ],
+    "authors": [
+      {
+        "given": "Darryl I.",
+        "family": "MacKenzie",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James D.",
+        "family": "Nichols",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gideon B.",
+        "family": "Lachman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sam",
+        "family": "Droege",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Andrew Royle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Catherine A.",
+        "family": "Langtimm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Ecology"
+    ],
+    "volume": "83",
+    "pages": "2248-2255",
+    "year": [
+      [
+        2002,
+        8
+      ]
+    ],
+    "abstract": null,
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 4779,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "verification_scope": "Crossref metadata and supplied abstract; not full-text review"
+  }
+]

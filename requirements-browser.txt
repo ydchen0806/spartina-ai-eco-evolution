@@ -1,0 +1,2 @@
+# Optional PDF rendering and annotation interface browser checks
+playwright

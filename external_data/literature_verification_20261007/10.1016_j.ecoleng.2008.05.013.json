@@ -1,0 +1,887 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2026-10-05T14:01:45Z",
+      "timestamp": 1791208905007,
+      "version": "4.1.0"
+    },
+    "reference-count": 53,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Ecological Engineering"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ecoleng.2008.05.013",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          22
+        ]
+      ],
+      "date-time": "2009-04-22T04:29:25Z",
+      "timestamp": 1240374565000
+    },
+    "page": "511-520",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 465,
+    "title": [
+      "Spartina alterniflora invasions in the Yangtze River estuary, China: An overview of current status and ecosystem effects"
+    ],
+    "prefix": "10.1016",
+    "volume": "35",
+    "author": [
+      {
+        "given": "Bo",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chengz-hang",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-dong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hui-li",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhong-yi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-jing",
+        "family": "Gan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ji-hua",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bin",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhi-jun",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-li",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Li-fen",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jia-kuan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1111/j.1365-3180.2007.00559.x",
+        "article-title": "Spartina invasion in China: implications for invasive species management and future research",
+        "volume": "47",
+        "author": "An",
+        "year": "2007",
+        "journal-title": "Weed Res."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.2307/1352695",
+        "article-title": "The introduction and spread of smooth cordgrass (Spartina alterniflora) in South San Francisco Bay",
+        "volume": "15",
+        "author": "Callaway",
+        "year": "1992",
+        "journal-title": "Estuaries"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib3",
+        "series-title": "Principles of Terrestrial Ecosystem Ecology",
+        "author": "Chapin",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1782",
+        "DOI": "10.1016/j.soilbio.2007.02.011",
+        "article-title": "Exotic plant influences soil nematode communities through litter input",
+        "volume": "39",
+        "author": "Chen",
+        "year": "2007",
+        "journal-title": "Soil Biol. Biochem."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.3354/meps336099",
+        "article-title": "Benthic nematode communities in the Yangtze River estuary as influenced by Spartina alterniflora invasions",
+        "volume": "336",
+        "author": "Chen",
+        "year": "2007",
+        "journal-title": "Mar. Ecol. Prog. Ser."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib6",
+        "series-title": "Comprehensive Surveys on Shanghai Jiuduansha Wetland Nature Reserve, the Yangtze River Estuary",
+        "first-page": "261",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib7",
+        "unstructured": "Chen, Z.Y., 2004. Ecological impacts of introduced Spartina alterniflora invasions in the coastal ecosystems of Chongming Dongtan, the Yangtze River estuary. Ph.D. Dissertation. Fudan University, Shanghai."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib8",
+        "first-page": "1",
+        "article-title": "The Effects of Spartina alterniflora invasions on benthic macro-invertebrate communities at Dongtan of Chongming salt marshes, the Yangtze River estuary",
+        "volume": "3",
+        "author": "Chen",
+        "year": "2005",
+        "journal-title": "Wetland Sci."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "280",
+        "DOI": "10.17520/biods.2004034",
+        "article-title": "Ecological consequences and management of Spartina spp. invasions in coastal ecosystems",
+        "volume": "12",
+        "author": "Chen",
+        "year": "2004",
+        "journal-title": "Biodivers. Sci."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1007/s10750-004-1888-9",
+        "article-title": "Local competitive effects of introduced Spartina alterniflora on Scirpus mariqueter at Dongtan of Chongming Island, the Yangtze River estuary and their potential ecological consequences",
+        "volume": "528",
+        "author": "Chen",
+        "year": "2004",
+        "journal-title": "Hydrobiologia"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "3380",
+        "DOI": "10.1016/j.soilbio.2006.05.016",
+        "article-title": "Short-term C4 plant Spartina alterniflora invasions change the soil carbon in C3 plant-dominated tidal wetlands on a growing estuarine island",
+        "volume": "38",
+        "author": "Cheng",
+        "year": "2006",
+        "journal-title": "Soil Biol. Biochem."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "420",
+        "DOI": "10.1016/j.chemosphere.2007.01.004",
+        "article-title": "CH4 and N2O emissions from Spartina alterniflora and Phragmites australis in experimental mesocosms",
+        "volume": "68",
+        "author": "Cheng",
+        "year": "2007",
+        "journal-title": "Chemosphere"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1034/j.1600-0706.2002.970201.x",
+        "article-title": "Characterizing ecosystem-level consequences of biological invasions: the role of ecosystem engineers",
+        "volume": "97",
+        "author": "Crooks",
+        "year": "2002",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib14",
+        "series-title": "Ecological Engineering: An Introduction to Eco-Technology",
+        "first-page": "255",
+        "article-title": "Ecological engineering of coastline with salt marsh plantations",
+        "author": "Chung",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1016/0925-8574(93)90019-C",
+        "article-title": "Thirty years of ecological engineering with Spartina plantations in China",
+        "volume": "2",
+        "author": "Chung",
+        "year": "1993",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1016/j.ecoleng.2005.09.012",
+        "article-title": "Forty years of ecological engineering with Spartina plantations in China",
+        "volume": "27",
+        "author": "Chung",
+        "year": "2006",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/j.ecoleng.2004.07.004",
+        "article-title": "Creation of Spartina plantations for reclaiming Dongtai, China, tidal flats and offshore sands",
+        "volume": "23",
+        "author": "Chung",
+        "year": "2004",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1146/annurev.ecolsys.34.011802.132403",
+        "article-title": "Performance comparisons of co-occurring native and alien invasive plants: implications for conservation and restoration",
+        "volume": "34",
+        "author": "Daehler",
+        "year": "2003",
+        "journal-title": "Annu. Rev. Ecol. Evol. Syst."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/0006-3207(96)00017-1",
+        "article-title": "Status, prediction and prevention of introduced cordgrass Spartina spp. invasions in Pacific estuaries, USA",
+        "volume": "78",
+        "author": "Daehler",
+        "year": "1996",
+        "journal-title": "Biol. Conserv."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib20",
+        "series-title": "Improving Management Practices for Invasive Cordgrass in the Pacific Northwest: A Case Study of Spartina anglica",
+        "author": "Dethier",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib21",
+        "series-title": "Spartina: Threat to Washington's Saltwater Habitat",
+        "author": "Foss",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.2307/2405100",
+        "article-title": "Population consequences of winter habitat loss in a migratory shorebird II. Model predictions.",
+        "volume": "32",
+        "author": "Goss-Custard",
+        "year": "1995",
+        "journal-title": "J. Appl. Ecol."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib23",
+        "series-title": "Spartina anglica—A Research Review",
+        "first-page": "69",
+        "article-title": "Changes in the numbers of dunlin (Calidris alpina) in British estuaries in relation to changes in the abundance of Spartina",
+        "author": "Goss-Custard",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1016/j.ecoleng.2006.08.004",
+        "article-title": "Impacts of introduced Spartina alterniflora along an elevation gradient at the Jiuduansha Shoals in the Yangtze estuary, suburban Shanghai, China",
+        "volume": "29",
+        "author": "He",
+        "year": "2007",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "150",
+        "DOI": "10.1046/j.1442-9993.2000.01016.x",
+        "article-title": "Evidence for effects of Spartina anglica invasion on benthic macrofauna in Little Swanport estuary, Tasmania",
+        "volume": "25",
+        "author": "Hedge",
+        "year": "2000",
+        "journal-title": "Austral Ecol."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "240",
+        "DOI": "10.1016/j.ecoleng.2005.04.011",
+        "article-title": "Salt marsh vegetation recovery at salt hay farm wetland restoration sites on Delaware Bay",
+        "volume": "25",
+        "author": "Hinkle",
+        "year": "2005",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1016/j.ecoleng.2006.06.005",
+        "article-title": "A study of the population dynamics of Spartina alterniflora at Jiuduansha shoals, Shanghai, China",
+        "volume": "29",
+        "author": "Huang",
+        "year": "2007",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1080/0028825X.1981.10425195",
+        "article-title": "Tidal immersion and the growth of Spartina anglica marshes in the Waihopai River estuary, New Zealand",
+        "volume": "19",
+        "author": "Hubbard",
+        "year": "1981",
+        "journal-title": "N. Z. J. Bot."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1007/s11284-006-0302-7",
+        "article-title": "Foraging strategy involved habitat use of shorebirds at the intertidal area of Chongming Dongtan, China",
+        "volume": "22",
+        "author": "Jing",
+        "year": "2007",
+        "journal-title": "Ecol. Res."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.3354/meps073231",
+        "article-title": "Influence of Spartina alterniflora on structure and temporal variability of macrobenthic associations in a tidal flat of Paranagua Bay, Brazil",
+        "volume": "73",
+        "author": "Lana",
+        "year": "1991",
+        "journal-title": "Mar. Ecol. Prog. Ser."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1890/04-1752",
+        "article-title": "Invasive cordgrass modifies wetland trophic function",
+        "volume": "87",
+        "author": "Levin",
+        "year": "2006",
+        "journal-title": "Ecology"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.17520/biods.2001065",
+        "article-title": "Perspectives on the general trends of plant invasions with special reference to alien weed flora of Shanghai",
+        "volume": "9",
+        "author": "Li",
+        "year": "2001",
+        "journal-title": "Biodivers. Sci."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib33",
+        "unstructured": "Liao, C.Z., 2007. The effects of invasive alien plants on ecosystem carbon and nitrogen cycles: a case study of Spartina alterniflora invasion in the Yangtze estuary and a meta-analysis. Ph.D. Dissertation. Fudan University, Shanghai, China."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1007/s10021-007-9103-2",
+        "article-title": "Invasion of Spartina alterniflora enhanced ecosystem carbon and nitrogen stocks in the Yangtze estuary, China",
+        "volume": "10",
+        "author": "Liao",
+        "year": "2007",
+        "journal-title": "Ecosystems"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "589",
+        "DOI": "10.1007/s00442-008-1007-0",
+        "article-title": "Litter pool sizes, decomposition, and nitrogen dynamics in Spartina alterniflora-invaded and native coastal marshlands of the Yangtze estuary",
+        "volume": "156",
+        "author": "Liao",
+        "year": "2008",
+        "journal-title": "Oecologia"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib36",
+        "series-title": "Proceedings of the Second International Spartina Conference",
+        "first-page": "48",
+        "article-title": "Does exotic Spartina alterniflora change benthic invertebrate assemblages?",
+        "author": "Luiting",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1023/B:BIOC.0000006502.96131.59",
+        "article-title": "Are artificial wetlands good alternatives to natural wetlands for waterbirds? A case study on Chongming Island, China",
+        "volume": "13",
+        "author": "Ma",
+        "year": "2004",
+        "journal-title": "Biodivers. Conserv."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1046/j.1440-1703.2003.00557.x",
+        "article-title": "Effects of tidewater on the feeding ecology of hooded crane (Grus monacha) and conservation of their wintering habitats at Chongming Dongtan, China",
+        "volume": "18",
+        "author": "Ma",
+        "year": "2003",
+        "journal-title": "Ecol. Res."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib39",
+        "first-page": "548",
+        "article-title": "Measuring plant neighbour effects",
+        "volume": "10",
+        "author": "Markham",
+        "year": "1996",
+        "journal-title": "Funct. Ecol."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "351",
+        "DOI": "10.1023/A:1010472418566",
+        "article-title": "Hydrological regime and morphodynamics of the Yangtze River mouth area",
+        "volume": "28",
+        "author": "Mikhailov",
+        "year": "2001",
+        "journal-title": "Water Resour."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1023/A:1003753001411",
+        "article-title": "The role of above- and below-ground components of Spartina alterniflora (Loisel) and detritus biomass in structuring macrobenthic associations of Paranagua Bay (SE Brazil).",
+        "volume": "400",
+        "author": "Netto",
+        "year": "1999",
+        "journal-title": "Hydrobiologia"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1016/S0925-8574(98)00030-5",
+        "article-title": "Spartina green food ecological engineering",
+        "volume": "11",
+        "author": "Qin",
+        "year": "1998",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1016/S0925-8574(96)00227-3",
+        "article-title": "Estimation of the ecological-economic benefits of two Spartina alterniflora plantations in North Jiangsu, China",
+        "volume": "8",
+        "author": "Qin",
+        "year": "1997",
+        "journal-title": "Ecol. Eng."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.3354/meps07160",
+        "article-title": "Tidal marshes as energy sources for commercially important nektonic organisms: stable isotope analysis",
+        "volume": "352",
+        "author": "Quan",
+        "year": "2007",
+        "journal-title": "Mar. Ecol. Prog. Ser."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib45",
+        "unstructured": "USDA Natural Resources Conservation Service. [2007-11-11]. Plants guide: Smooth cordgrass. http://www.plants.usda.gov/plantguide/pdf/pg_spal.pdf."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib46",
+        "unstructured": "Wang, Q., 2007. The dynamics of plant community distribution of the slt marshes in the Yangtze River estuary as influenced by Spartina alterniflora invasions. Ph. D. Dissertation. Fudan University, Shanghai, China."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1360/aps06044",
+        "article-title": "Invasive Spartina alterniflora-biology, ecology and management",
+        "volume": "44",
+        "author": "Wang",
+        "year": "2006",
+        "journal-title": "Acta Phytotaxon. Sin."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "1547",
+        "DOI": "10.1007/s10530-005-5846-x",
+        "article-title": "Effects of growing conditions on the growth of and interactions between salt marsh plants: implications for invasibility of habitats",
+        "volume": "8",
+        "author": "Wang",
+        "year": "2006",
+        "journal-title": "Biol. Invasions"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "545",
+        "DOI": "10.1016/S1002-0160(07)60065-4",
+        "article-title": "Characterization of bacterial community structure and diversity in rhizosphere soils of three plants in rapidly changing salt marshes using 16S rDNA",
+        "volume": "17",
+        "author": "Wang",
+        "year": "2007",
+        "journal-title": "Pedosphere"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "576",
+        "DOI": "10.17521/cjpe.2006.0076",
+        "article-title": "Spatial patterns of invasive alien plants in China and its relationship with environmental and anthropological factors",
+        "volume": "30",
+        "author": "Wu",
+        "year": "2006",
+        "journal-title": "J. Plant Ecol."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib51",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu YT, Wang CH, Zhang XD, Zhao B, Jiang LF, Chen JK & Li B, 2008. Effects of saltmarsh invasion by Spartina alterniflora on arthropod community structure and diets. Biol. Invasions, doi:10.1007/s10530-008-9279-1.",
+        "DOI": "10.1007/s10530-008-9279-1"
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "127",
+        "DOI": "10.1146/annurev.phyto.37.1.127",
+        "article-title": "Effects of plant on nematode community structure",
+        "volume": "37",
+        "author": "Yeates",
+        "year": "1999",
+        "journal-title": "Annu. Rev. Phytopathol."
+      },
+      {
+        "key": "10.1016/j.ecoleng.2008.05.013_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/j.ecoleng.2004.07.007",
+        "article-title": "Formation of Spartina alterniflora salt marshes on the coast of Jiangsu Province, China",
+        "volume": "23",
+        "author": "Zhang",
+        "year": "2005",
+        "journal-title": "Ecol. Eng."
+      }
+    ],
+    "container-title": [
+      "Ecological Engineering"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0925857408001109?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0925857408001109?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2025-10-14T18:46:18Z",
+      "timestamp": 1760467578000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0925857408001109"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0925857408001109"
+    ],
+    "URL": "https://doi.org/10.1016/j.ecoleng.2008.05.013",
+    "relation": {},
+    "ISSN": [
+      "0925-8574"
+    ],
+    "issn-type": [
+      {
+        "value": "0925-8574",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Spartina alterniflora invasions in the Yangtze River estuary, China: An overview of current status and ecosystem effects",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Ecological Engineering",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ecoleng.2008.05.013",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2008 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -2,6 +2,7 @@
 import argparse
 from collections import Counter, defaultdict, deque
 import json
+from itertools import permutations
 from pathlib import Path
 
 import matplotlib
@@ -9,7 +10,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from scipy.stats import spearmanr
+from scipy.stats import spearmanr, rankdata
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -92,7 +93,14 @@ def main():
     trend = {}
     for col in ['stored_mean', 'recomputed_model_mean', 'all_pair_mean']:
         rho, p = spearmanr(summary.index, summary[col])
-        trend[col] = dict(n_years=len(summary), spearman_rho=float(rho), p_two_sided=float(p))
+        rank_x = rankdata(summary.index) - (len(summary)+1)/2
+        rank_y = rankdata(summary[col]) - (len(summary)+1)/2
+        denominator = np.sqrt(np.dot(rank_x, rank_x)*np.dot(rank_y, rank_y))
+        null_rhos = np.array([np.dot(rank_x, perm)/denominator for perm in permutations(rank_y)])
+        exact_p = float((np.abs(null_rhos) >= abs(rho)-1e-12).mean())
+        trend[col] = dict(n_years=len(summary), spearman_rho=float(rho), p_two_sided=float(p),
+                          p_method='asymptotic scipy approximation', p_exact_two_sided=exact_p,
+                          permutations=len(null_rhos), exact_test_assumption='Exchangeability of annual ranks under null; not a serial-dependence model.')
     audit = dict(annual_matrix_rows=len(size), singleton_rows=int(lifetime.get(1, 0)),
         annual_transition_pairs=len(pairs), annual_gaps=pairs.eval('end_year-year').value_counts().to_dict(),
         model_records=len(linked), model_records_linked=int(linked.pair_index.notna().sum()),

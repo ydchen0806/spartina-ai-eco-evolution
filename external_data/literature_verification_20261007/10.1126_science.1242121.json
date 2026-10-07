@@ -1,0 +1,365 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T04:49:25Z",
+      "timestamp": 1791262165748,
+      "version": "4.1.0"
+    },
+    "reference-count": 35,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "6156",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Invade and Adapt</jats:title>\n          <jats:p>\n            The mechanisms by which plant and animal species spread into new habitats have become an increasing focus of ecological research, particularly in the context of climate change and species invasions.\n            <jats:bold>Colautti and Barrett</jats:bold>\n            (p.\n            <jats:related-article xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"doi\" issue=\"6156\" page=\"364\" related-article-type=\"in-this-issue\" vol=\"342\" xlink:href=\"10.1126/science.1242121\">364</jats:related-article>\n            ) examined the ecological consequence of local adaptation evolving rapidly along a 1000-kilometer climatic gradient in purple loosestrife\n            <jats:italic>(Lythrum salicaria)</jats:italic>\n            , one of the most notorious invasive plant species in North America. These invasive populations have evolved to become locally adapted within 50 to 100 years with important ecological consequences—increasing reproductive output by more than an order of magnitude.\n          </jats:p>",
+    "DOI": "10.1126/science.1242121",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2013-10-17T18:15:10Z",
+      "timestamp": 1382033710000
+    },
+    "page": "364-366",
+    "source": "Crossref",
+    "is-referenced-by-count": 540,
+    "title": [
+      "Rapid Adaptation to Climate Facilitates Range Expansion of an Invasive Plant"
+    ],
+    "prefix": "10.1126",
+    "volume": "342",
+    "author": [
+      {
+        "given": "Robert I.",
+        "family": "Colautti",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Ecology and Evolutionary Biology, University of Toronto, 25 Willcocks Street, Toronto, ON, Canada, M5S 3B2."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Spencer C. H.",
+        "family": "Barrett",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Ecology and Evolutionary Biology, University of Toronto, 25 Willcocks Street, Toronto, ON, Canada, M5S 3B2."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "221",
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.287.5451.308"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/03-4027"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/08-0453.1"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2009.2231"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.2011.01313.x"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "unstructured": "D. Q. Thompson R. L. Stuckey E. B. Thompson Spread impact and control of purple loosestrife (Lythrum salicaria) in North American wetlands (U.S. Fish and Wildlife Service 1987)."
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "unstructured": "S. Lowe M. Brown S. Boudjelas M. DePoorter in 100 of the world’s worst invasive alien species: A selection from the Global Invasive Species Database ISSG Ed. (IUCN 2004) pp. 1–12."
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1420-9101.2002.00457.x"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1111/j.1420-9101.2007.01456.x",
+        "article-title": "Re-establishment of clinal variation in flowering time among introduced populations of purple loosestrife (Lythrum salicaria, Lythraceae)",
+        "volume": "21",
+        "author": "Montague J. L.",
+        "year": "2008",
+        "unstructured": "Montague J. L., Barrett S. C. H., Eckert C. G., Re-establishment of clinal variation in flowering time among introduced populations of purple loosestrife (Lythrum salicaria, Lythraceae). J. Evol. Biol. 21, 234–245 (2008).18028354",
+        "journal-title": "J. Evol. Biol."
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/656444"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0004010"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/597611"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aob/mci240"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-294X.2009.04254.x"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-5347(02)02499-0"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2261425"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1890/03-5181"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1603/0046-225X-34.4.906"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09583159929523"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1752-4571.2008.00053.x"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2664.2012.02209.x"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/649023"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "unstructured": "R Core Team R: A Language and Environment for Statistical Computing (R Foundation for Statistical Computing Vienna Austria 2012)."
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/asm030"
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/588063"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2408904"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2408842"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.2010.01010.x"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/227520a0"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-1809.1957.tb01874.x"
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/648604"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2409632"
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/342069"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "first-page": "36",
+        "article-title": "Image processing with ImageJ",
+        "volume": "11",
+        "author": "Abramoff M. D.",
+        "year": "2004",
+        "unstructured": "Abramoff M. D., Magalhães P. J., Ram S. J., Image processing with ImageJ. Biophotonics Int. 11, 36–42 (2004).",
+        "journal-title": "Biophotonics Int."
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Borenstein L. V. Hedges J. P. T. Higgins H. R. Rothstein Introduction to Meta-Analysis (Wiley ed. 1 2009).",
+        "DOI": "10.1002/9780470743386"
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.science.org/doi/pdf/10.1126/science.1242121",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2024-01-10T14:31:28Z",
+      "timestamp": 1704897088000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.science.org/doi/10.1126/science.1242121"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          18
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "6156",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            10,
+            18
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1126/science.1242121"
+    ],
+    "URL": "https://doi.org/10.1126/science.1242121",
+    "relation": {},
+    "ISSN": [
+      "0036-8075",
+      "1095-9203"
+    ],
+    "issn-type": [
+      {
+        "value": "0036-8075",
+        "type": "print"
+      },
+      {
+        "value": "1095-9203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          18
+        ]
+      ]
+    }
+  }
+}

@@ -8,3 +8,4 @@ scikit-learn
 rasterio
 opencv-python-headless
 Pillow
+python-docx

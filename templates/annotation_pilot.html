@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>互花米草 · 独立影像标注试点</title>
+<style>
+body{font:16px system-ui,sans-serif;color:#18333d;background:#f3f6f5;margin:24px;max-width:1280px}h1{font-size:26px}p{line-height:1.6}button,select,input{font:inherit;padding:7px;margin:3px;border:1px solid #aebfbc;border-radius:5px}button{cursor:pointer;background:white}button.primary{background:#116d68;color:white}main{display:grid;grid-template-columns:minmax(300px,760px) 1fr;gap:24px}canvas{max-width:100%;height:auto;border:1px solid #657d77;background:#ddd;cursor:crosshair;touch-action:none}aside{background:white;padding:18px;border-radius:8px}.status{color:#116d68}textarea{width:95%;height:80px}#samples{max-width:100%}small{line-height:1.5;display:block}a{color:#116d68}@media(max-width:850px){main{grid-template-columns:1fr}body{margin:12px}}
+</style>
+<h1>互花米草 · 独立影像标注试点</h1>
+<p>先在原图上判断可观测性，再描绘目标植被边界。无法确认物种或看不清边界时标为“不确定”。此页面不显示历史 mask。样本没有完成专家标注，所有结果需经复核。</p>
+<div><button id="prev">上一张</button><select id="samples"></select><button id="next">下一张</button><span id="progress"></span></div>
+<main><section><canvas id="canvas" width="512" height="512"></canvas><p id="status" class="status"></p></section>
+<aside>
+<label>标注人 <input id="reviewer" placeholder="姓名或稳定编号"></label>
+<p><label>区域类别 <select id="category"><option value="cordgrass_candidate">互花米草候选</option><option value="other_vegetation">其他植被</option><option value="uncertain">不确定区域</option><option value="unobservable">不可观测区域</option></select></label></p>
+<small>沿边界单击添加顶点；至少3点后完成多边形。坐标按原图像素保存。不要把阴影、潮水或拼接缺口自动标为无植被。</small>
+<p><button id="close" class="primary">完成多边形</button><button id="undo">撤销顶点</button><button id="cancel">取消当前轮廓</button><button id="remove">删除最后多边形</button></p>
+<label>整图状态 <select id="visibility"><option value="unreviewed">尚未复核</option><option value="observable">可观测</option><option value="partly_observable">部分可观测</option><option value="unobservable">不可观测</option><option value="uncertain">无法判断</option></select></label>
+<p><label><input type="checkbox" id="completed">本图已检查完毕（允许无目标）</label></p>
+<label>说明<textarea id="notes" placeholder="边界、潮位、遮挡或物种判断的不确定性"></textarea></label>
+<p><button id="export" class="primary">导出当前标注 JSON</button></p>
+<label>恢复已导出的标注 <input id="import" type="file" accept="application/json,.json"></label>
+<small>页面尝试保存在当前浏览器本地；离开前请导出 JSON。浏览器本地存储不可用时仍可导出。正式测试标签应由独立保管者保存，不用于训练或模型选择。标注坐标不是经过验证的地理坐标。</small>
+</aside></main>
+<script>
+'use strict';
+const samples=__SAMPLES_JSON__;
+const key='spartina-pilot-20261008-v1';
+const el=id=>document.getElementById(id);
+const canvas=el('canvas'),ctx=canvas.getContext('2d');
+const colors={cordgrass_candidate:'#ed008b',other_vegetation:'#00b575',uncertain:'#ffad00',unobservable:'#5158d8'};
+let records={},index=0,points=[],loaded=false,im=new Image(),storageWarning='';
+try{const saved=JSON.parse(localStorage.getItem(key)||'{}');records=saved.records||{};el('reviewer').value=saved.reviewer||'';}catch(e){storageWarning='浏览器本地存储不可用，请及时导出。';}
+function current(){const s=samples[index];if(!records[s.case_id])records[s.case_id]={case_id:s.case_id,width:s.width,height:s.height,polygons:[],visibility:'unreviewed',completed:false,notes:'',reviewer:''};return records[s.case_id];}
+function save(){const r=current();r.visibility=el('visibility').value;r.completed=el('completed').checked;r.notes=el('notes').value;r.reviewer=el('reviewer').value;r.updated_at=new Date().toISOString();try{localStorage.setItem(key,JSON.stringify({records,reviewer:el('reviewer').value}));}catch(e){storageWarning='本地保存失败，请立即导出 JSON。';}progress();}
+function progress(){el('progress').textContent=`${index+1} / ${samples.length}　已完成 ${Object.values(records).filter(r=>r.completed).length}`;}
+function polygon(pts,color,fill){if(!pts.length)return;ctx.beginPath();ctx.moveTo(...pts[0]);for(const p of pts.slice(1))ctx.lineTo(...p);if(fill)ctx.closePath();ctx.strokeStyle=color;ctx.lineWidth=1.5;ctx.stroke();if(fill){ctx.globalAlpha=.16;ctx.fillStyle=color;ctx.fill();ctx.globalAlpha=1;}for(const p of pts){ctx.fillStyle=color;ctx.fillRect(p[0]-1.5,p[1]-1.5,3,3);}}
+function draw(){ctx.clearRect(0,0,canvas.width,canvas.height);if(loaded)ctx.drawImage(im,0,0);for(const p of current().polygons)polygon(p.points,colors[p.category]||'#ffad00',true);polygon(points,colors[el('category').value],false);el('status').textContent=`${current().polygons.length} 个多边形；当前轮廓 ${points.length} 个顶点。 ${storageWarning}`;progress();}
+function show(next){if(points.length){el('status').textContent='请先完成或取消当前轮廓，再切换图片。';return;}index=Math.max(0,Math.min(samples.length-1,next));el('samples').value=index;const s=samples[index],r=current();canvas.width=s.width;canvas.height=s.height;el('visibility').value=r.visibility;el('completed').checked=r.completed;el('notes').value=r.notes;loaded=false;im=new Image();const active=im;im.onload=()=>{if(im===active){loaded=true;draw();}};im.onerror=()=>{el('status').textContent='图片读取失败，请保留 images 文件夹与本页面的相对位置。';};im.src=s.image_path;draw();}
+samples.forEach((s,i)=>{const o=document.createElement('option');o.value=i;o.textContent=s.case_id;el('samples').appendChild(o);});
+canvas.addEventListener('click',e=>{if(!loaded)return;const b=canvas.getBoundingClientRect();points.push([Math.max(0,Math.min(canvas.width,(e.clientX-b.left)*canvas.width/b.width)),Math.max(0,Math.min(canvas.height,(e.clientY-b.top)*canvas.height/b.height))]);draw();});
+el('close').onclick=()=>{if(points.length<3){el('status').textContent='至少需要3个顶点。';return;}current().polygons.push({category:el('category').value,points:points.map(p=>p.map(v=>Math.round(v*100)/100))});points=[];save();draw();};
+el('undo').onclick=()=>{points.pop();draw();};el('cancel').onclick=()=>{points=[];draw();};el('remove').onclick=()=>{current().polygons.pop();save();draw();};
+el('next').onclick=()=>{save();show(index+1);};el('prev').onclick=()=>{save();show(index-1);};el('samples').onchange=e=>{const next=Number(e.target.value);save();show(next);el('samples').value=index;};
+for(const id of ['visibility','completed','notes','reviewer'])el(id).addEventListener('change',save);
+el('category').onchange=draw;
+el('export').onclick=()=>{save();const payload={schema:'spartina-annotation-pilot-v1',protocol_seed:20261008,exported_at:new Date().toISOString(),reviewer:el('reviewer').value,coordinate_system:'original crop pixel coordinates',records:Object.values(records)};const url=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='spartina_pilot_annotations.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};
+el('import').onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const d=JSON.parse(await f.text());if(d.schema!=='spartina-annotation-pilot-v1'||!Array.isArray(d.records))throw Error('标注格式不匹配');const valid=new Map(samples.map(s=>[s.case_id,s]));for(const r of d.records){const s=valid.get(r.case_id);if(!s||s.width!==r.width||s.height!==r.height||!Array.isArray(r.polygons))throw Error('样本或尺寸不匹配');for(const poly of r.polygons){if(!(poly.category in colors)||!Array.isArray(poly.points)||poly.points.length<3||poly.points.some(p=>!Array.isArray(p)||p.length!==2||p.some(v=>!Number.isFinite(v))||p[0]<0||p[0]>s.width||p[1]<0||p[1]>s.height))throw Error('多边形坐标无效');}}if(!confirm('导入将替换同编号图片的当前标注，继续？'))return;for(const r of d.records)records[r.case_id]=r;el('reviewer').value=d.reviewer||'';points=[];show(index);save();}catch(err){el('status').textContent='导入失败：'+err.message;}};
+show(0);
+</script></html>
