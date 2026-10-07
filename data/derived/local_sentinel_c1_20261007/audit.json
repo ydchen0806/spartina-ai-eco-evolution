@@ -1,0 +1,40 @@
+{
+  "collection": "sentinel-2-c1-l2a",
+  "candidate_items": 74,
+  "selected_dates": 16,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2023,
+    2024,
+    2025
+  ],
+  "missing_years": [
+    2022
+  ],
+  "selection_rule": "September 2019\u20132025; local SCL in {4,5,6} >=80%; one best granule/date; top three dates/year by AOI clear fraction then ID, before spectral analysis.",
+  "full_image_pixels": 77572,
+  "primary_common_support_pixels": 65210,
+  "primary_common_support_ha": 652.1,
+  "two_observation_support_pixels": 0,
+  "multi_observation_years": [
+    2019,
+    2021,
+    2023,
+    2024,
+    2025
+  ],
+  "multi_observation_common_support_ha": 653.15,
+  "source_window_hashes_verified": 154,
+  "radiometry": "Collection 1 DN * 0.0001 - 0.1; source product metadata checked separately. Negative red/NIR reflectances excluded and counted; not clipped.",
+  "limitations": [
+    "Cloud-screened September observations, not annual means.",
+    "September 2022 absent from queried Collection 1 catalog; retained as a gap without legacy-product substitution.",
+    "Fixed 2019 CCAV strata are unvalidated map classes, not species truth.",
+    "No independent field labels, tide normalization, registration control points or intervention timing.",
+    "SCL is a model-based mask, not independent cloud truth.",
+    "Site10 rounding cell is not the original sampling footprint.",
+    "Pixels are spatially dependent; date ranges and spatial quartiles are not confidence intervals."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "archive_name": "local_sentinel_c1_20261007.zip",
+  "bytes": 8783659,
+  "sha256": "a08f8d42be6ace11bb72eb54ff0095801f6fb4cc9720c5b744fa7b1dfae39b88",
+  "files": 335,
+  "native_grid_window_files": 154,
+  "provider_full_band_checksums_verified": false,
+  "verification": "Each HTTP range has exact Content-Range/length and matching object ETag; every retained subset has local SHA-256. All 16 product XMLs match provider SHA-256 and per-band scale/offset. Full source TIFF objects were not downloaded.",
+  "attribution": "Contains modified Copernicus Sentinel data [2019\u20132025]",
+  "source_collection": "sentinel-2-c1-l2a",
+  "hf_path": "external_sources/local_sentinel_c1_20261007/local_sentinel_c1_20261007.zip",
+  "unzip_instruction": "Extract ZIP to an empty directory and pass it as --source to analyze_local_sentinel.py."
+}

@@ -89,3 +89,19 @@ conversions, overlap screen and plots in `data/derived/china_patch_traits_202610
 are adaptations under the same attribution and licence; not endorsed by the
 source authors. Only published aggregate data are included. Raw imagery and
 individual trait measurements were not acquired.
+
+Local Sentinel-2 extension: Copernicus Sentinel-2 Collection 1 Level-2A,
+Earth Search `sentinel-2-c1-l2a`, collection-supplied citation
+https://doi.org/10.5270/S2_-742ikth. **Contains modified Copernicus Sentinel data
+[2019–2025]**. The Copernicus Sentinel Data Legal Notice permits reproduction,
+distribution and modification with attribution; it is archived with the source
+metadata. The catalogue's generic `proprietary` label is not substituted for that
+linked legal notice. No MIT or CC-BY licence is asserted for these source pixels.
+Native-grid spatial subsets retain original DN; spectral indices, composites,
+quality masks and plots are our adaptations. Source metadata and hashes are in
+`external_data/local_sentinel_c1_20261007/`, results in
+`data/derived/local_sentinel_c1_20261007/`, and the complete 8.78 MB acquisition
+archive on HF under `external_sources/local_sentinel_c1_20261007/`. Provider
+product XML hashes were verified; full-band source checksums were not, because
+only intersecting source tiles were acquired. CCAV map strata retain the Li et al.
+attribution above. These analyses are not endorsed by ESA, the EU or Element 84.

@@ -1,0 +1,11 @@
+{
+  "chosen_collection": "sentinel-2-c1-l2a",
+  "legacy_collection_excluded": "sentinel-2-l2a",
+  "reason": "Documented ambiguity in previously applied offsets and legacy STAC fields; source product XML in C1 independently hash-verified and consistent with per-band metadata.",
+  "issue_urls": [
+    "https://github.com/Element84/earth-search/issues/9",
+    "https://github.com/Element84/earth-search/issues/66",
+    "https://github.com/Element84/earth-search/issues/71"
+  ],
+  "scope": "Issue reports motivated product choice; they do not prove errors in every legacy scene or guarantee all C1 pixel values. Legacy SCL acquisition diagnostic remains local and is excluded from trends."
+}

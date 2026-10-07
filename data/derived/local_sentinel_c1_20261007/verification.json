@@ -1,0 +1,10 @@
+{
+  "common_support_pixels_verified": 65210,
+  "annual_composite_medians_match_source_tables": true,
+  "endpoint_pairs_use_identical_pixels_across_all_nine_comparisons": true,
+  "references_sequential_and_citations_resolve": true,
+  "all_year_two_observation_support_zero_expected_due_to_single_2020_date": true,
+  "manuscript_pdf_pages": 27,
+  "embedded_figure_count": 13,
+  "abstract_words": 155
+}

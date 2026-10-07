@@ -152,3 +152,31 @@ python analysis/audit_gce_longterm.py --source /path/to/local_gce_source --outpu
 The China source downloader (`--dataset china`) verifies archived SHA-256 values;
 if the publisher changes its XML snapshot, use the reviewed copy here or review
 and document the new version before updating the pinned hash.
+
+### Local image footprint extended to September 2025
+
+The [local spectral-extension report](docs/LOCAL_SPECTRAL_EXTENSION_2026-10-07.md)
+describes a new experiment using 16 selected Sentinel-2 Collection 1 dates within
+the actual UAV footprint. It includes fixed spatial support, cloud-buffer and
+observation-count sensitivity, and all 2019×2025 acquisition-date pairs. The
+[figure](data/derived/local_sentinel_c1_20261007/local_sentinel_extension.png) and
+[RGB inspection sheet](data/derived/local_sentinel_c1_20261007/local_sentinel_rgb.png)
+are accompanied by vector outputs and source tables. The working manuscript now
+includes these results and Extended Data Figure 9. Missing September 2022 data
+remain a gap, and spectral changes are not interpreted as species turnover or
+evolution. Original Site10 UAV/trait data remain unavailable publicly.
+
+Download and extract the [native-window archive](https://huggingface.co/datasets/cyd0806/spartina-ai-eco-evolution-data/resolve/main/external_sources/local_sentinel_c1_20261007/local_sentinel_c1_20261007.zip)
+into an empty source directory, or acquire the sources with the first command:
+
+```bash
+python analysis/download_local_sentinel.py --source /path/to/local_sentinel_c1
+python analysis/verify_local_sentinel_radiometry.py --source /path/to/local_sentinel_c1
+python analysis/analyze_local_sentinel.py --source /path/to/local_sentinel_c1 --output data/derived/local_sentinel_c1_20261007
+python analysis/build_working_manuscript.py --output manuscript/Spartina_working_draft_20261007.docx --pdf
+```
+
+The archived STAC responses pin the experiment; empty-source downloads query the
+live catalogue, which can change as reprocessing continues. Use the archived ZIP
+for exact acquisition replay. Contains modified Copernicus Sentinel data
+[2019–2025]; see `THIRD_PARTY_DATA.md` for terms.

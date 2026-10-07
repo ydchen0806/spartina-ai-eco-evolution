@@ -1,0 +1,246 @@
+{
+  "selected_scenes": 16,
+  "scope": "Product metadata and STAC consistency. Not full-band checksum verification; raster windows have ETag/range-length validation and local SHA-256.",
+  "records": [
+    {
+      "item": "S2A_T50QNM_20190926T025022_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2019/9/S2A_T50QNM_20190926T025022_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "f500d7b37312187d6d6835509dd5bfe95bfaba0c4fcafe53a1f29bcb9eedaed6",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20190921T025017_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2019/9/S2B_T50QNM_20190921T025017_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "9e9b412261e7185d2ad8ca91cf962ba3f2249f133d4144c6203fdc3ff1304023",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2A_T50QNM_20190909T030058_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2019/9/S2A_T50QNM_20190909T030058_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "b569e0786e935df6e4884846e4497f25231dbcad4901448d051bca17ccd92793",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20240927T025853_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2024/9/S2B_T50QNM_20240927T025853_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "5c2e640432b22651d42c02db5f9e83760c05af81407d61fb5e967d399a66daef",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2A_T50QNM_20240912T025915_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2024/9/S2A_T50QNM_20240912T025915_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "26d9de5a273846520c6dd4fcd3c74bf4e02899dae959492fc6e6571ac6d34e0f",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2A_T50QNM_20240902T025511_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2024/9/S2A_T50QNM_20240902T025511_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "7affd29d5db9ed90c5d8288fe0576ebab03461809cb924eb11429a94975b344b",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2A_T50QNM_20200903T025058_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2020/9/S2A_T50QNM_20200903T025058_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "beed046058fef0e33560a44129b8c0c05673bd544a713c5dcd89e3318366ae0c",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20210930T024648_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2021/9/S2B_T50QNM_20210930T024648_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "c9b9e346b3c8c5a03a8f812e0281287ad9eade2af0c8ec5adab0c76213cb65b1",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20210910T024725_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2021/9/S2B_T50QNM_20210910T024725_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "b3717e2f742f5a7d311b01272a884fc35383504d8d65831214129c268b8e3a06",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20210903T025345_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2021/9/S2B_T50QNM_20210903T025345_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "b919833e10bb89836c7b455b307973bd5a6fabbe19fb49202d117df409044b2f",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20230930T024829_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2023/9/S2B_T50QNM_20230930T024829_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "19bd2597b472709a9a698f7266eaa2f125a8eb0ee181df273b27543e01368385",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20230920T024830_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2023/9/S2B_T50QNM_20230920T024830_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "5d2eee5279b0d2d44ebc2741746fa4ea025342192e5695e13f808034df891bfb",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2A_T50QNM_20230918T025101_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2023/9/S2A_T50QNM_20230918T025101_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "8ca093aea50f3f328946f69d0e1cd52142ae06466b9104104a916e0e519a3b23",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2A_T50QNM_20250916T025101_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2025/9/S2A_T50QNM_20250916T025101_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "389f4b60601b1fc43ed21e7d525ed2717e281f2e3550d9aaa265c34e5654da73",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2C_T50QNM_20250914T024156_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2025/9/S2C_T50QNM_20250914T024156_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "64cb643802a895eaa96314f7f3de2a7dbf828acd13f1c32894ac20f24a726f12",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    },
+    {
+      "item": "S2B_T50QNM_20250912T025812_L2A",
+      "product_metadata_url": "https://e84-earth-search-sentinel-data.s3.us-west-2.amazonaws.com/sentinel-2-c1-l2a/50/Q/NM/2025/9/S2B_T50QNM_20250912T025812_L2A/product_metadata.xml",
+      "provider_sha256_verified": true,
+      "sha256": "78f8df84ef578a3ad2e3d342d292966f1279a04242fdb80a920c3cb178653b14",
+      "quantification": 10000.0,
+      "band_offsets_dn": {
+        "blue": -1000.0,
+        "green": -1000.0,
+        "red": -1000.0,
+        "nir": -1000.0,
+        "swir16": -1000.0
+      },
+      "all_five_stac_band_conversions_match_xml": true
+    }
+  ]
+}
