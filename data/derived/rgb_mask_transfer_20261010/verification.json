@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-10-10",
+  "all_passed": true,
+  "checks": {
+    "paired_surveys_15": true,
+    "balanced_metrics_match_audit": true,
+    "uniform_prevalence_bias_match_audit": true,
+    "all_auc_above_random": true,
+    "all_uniform_prevalence_samples_4000": true,
+    "scripts_compile": true,
+    "references_contiguous": true,
+    "citations_resolve": true,
+    "ed11_in_pdf": true,
+    "docx_has_15_figures": true,
+    "no_credentials": true,
+    "no_large_changed_git_files": true,
+    "git_diff_check": true
+  },
+  "metrics": {
+    "paired_surveys": 15,
+    "dates": [
+      "201408ddyw",
+      "201508ddyw",
+      "20151017sp",
+      "20160907",
+      "20161025",
+      "20170714",
+      "20170728",
+      "20171002",
+      "20180729",
+      "20180828",
+      "20180926",
+      "20190828",
+      "20190923",
+      "20200727",
+      "20210717"
+    ],
+    "n_each": 3000,
+    "mean_roc_auc": 0.8554896999999998,
+    "mean_iou": 0.672658882587974,
+    "mean_f1": 0.803576635037311,
+    "mean_abs_uniform_prevalence_bias": 0.28511666666666663,
+    "scope": "Temporal label-transfer audit. Archived masks are targets; no independent expert labels or segmentation accuracy are established."
+  },
+  "pdf_pages": 32,
+  "docx_figures": 15,
+  "references": 25,
+  "scope": "Temporal label transfer and manuscript reproducibility; no independent expert-label accuracy or biological mechanism validation."
+}

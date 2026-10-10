@@ -8,6 +8,7 @@ conclusion.
 | Claim | Evidence currently available | Status | Required next test |
 |---|---|---|---|
 | Aerial AI can produce a spatially explicit patch record | 727 archived patch records and reproducible audit tables | Descriptive | Re-run segmentation with spatial and year holdouts; report patch-level uncertainty and area bias |
+| RGB labels transfer across surveys and yield calibrated landscape area | Leave-one-survey-out RGB audit: mean balanced ROC-AUC 0.855, but mean absolute uniform-raster prevalence bias 28.51 percentage points | Calibration failure | Obtain independent expert labels, sample negatives explicitly and calibrate probabilities by acquisition condition |
 | Newly recorded patches changed in parent-normalized area | 2014–2019 median log10 area ratio declines; 2020–2021 parent sizes are structurally constant and excluded | Exploratory | Recover parent IDs and GSD; fit a detection-aware lineage model with threshold sensitivity |
 | Environment predicts growth outside the training records | Best leave-one-year-out R² = 0.178; best spatial-block R² = 0.394 | Limited predictive evidence | Recover the original climate extraction and validate at an independent estuary |
 | Scenario workbooks identify a causal environmental mechanism | `growth_rate_pred` varies, but `growth_rate_simulation` is invariant across seven workbooks | Unresolved export definition | Recover the original model code and re-run each scenario from saved inputs |

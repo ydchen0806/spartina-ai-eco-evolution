@@ -1,9 +1,28 @@
 # Current state — Spartina invasion and eco-evolution project
 
-Updated 2026-10-07. The active raw evidence now includes the recovered archive at
+Updated 2026-10-10. The active raw evidence now includes the recovered archive at
 `/mnt/ydchen/micao_paper/raw_inputs/recovered_local_20261006/` as well as the legacy
 patch matrices and environment–growth workbooks. Earlier statements that all
 original imagery, masks and annotation polygons were missing are superseded.
+
+## Latest advance: temporal AI transfer and prevalence calibration audit
+
+See `RGB_MASK_TRANSFER_AUDIT_2026-10-10.md` and
+`data/derived/rgb_mask_transfer_20261010/`. Fifteen paired RGB/mask surveys were
+analysed with leave-one-survey-out Extra-Trees models using RGB and chromaticity
+features. Balanced held-out label reproduction gave mean ROC-AUC 0.855, mean IoU
+0.673 and mean F1 0.804. When the fixed threshold was applied to uniform
+full-raster samples, archived positives averaged 0.32% but predictions averaged
+28.83%, with 28.51 percentage points mean absolute prevalence bias. This is a
+calibration and transfer failure, not an independent accuracy estimate: all
+targets are historical masks and expert labels remain unavailable. Extended Data
+Figure 11 and the 10 October working manuscript now make this failure mode an
+explicit AI result.
+
+The manuscript has 25 checked references, 15 figures and a 32-page working PDF.
+The recent PLOS ONE Spartina segmentation benchmark (DOI
+10.1371/journal.pone.0358464) is included as a methodological comparator; its
+site-held-out performance likewise motivates spatial and temporal validation.
 
 ## Latest advance: downloaded clonal common-garden data and robustness analysis
 

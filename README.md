@@ -202,3 +202,8 @@ are NoData/unlabelled, not verified species absence.
 python analysis/download_zhangjiang_uav.py --output /path/to/zhangjiang_uav
 python analysis/analyze_zhangjiang_uav.py --source /path/to/zhangjiang_uav --output data/derived/zhangjiang_uav_20261007
 ```
+
+
+### Cross-survey AI transfer audit
+
+The RGB-to-mask temporal audit holds out each of 15 paired surveys in turn. It reproduces archived labels on balanced pixels (mean ROC-AUC 0.855), but overpredicts full-raster archived-positive prevalence by 28.51 percentage points on uniform samples. This is a calibration warning, not an independent segmentation accuracy estimate. See [audit report](docs/RGB_MASK_TRANSFER_AUDIT_2026-10-10.md) and the relevant external Spartina benchmark metadata (`external_data/xmu_literature_20261007/crossref_pone_0358464.json`) and [results](data/derived/rgb_mask_transfer_20261010/temporal_transfer_metrics.csv).

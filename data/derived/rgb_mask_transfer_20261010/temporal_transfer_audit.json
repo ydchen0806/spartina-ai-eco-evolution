@@ -1,0 +1,26 @@
+{
+  "paired_surveys": 15,
+  "dates": [
+    "201408ddyw",
+    "201508ddyw",
+    "20151017sp",
+    "20160907",
+    "20161025",
+    "20170714",
+    "20170728",
+    "20171002",
+    "20180729",
+    "20180828",
+    "20180926",
+    "20190828",
+    "20190923",
+    "20200727",
+    "20210717"
+  ],
+  "n_each": 3000,
+  "mean_roc_auc": 0.8554896999999998,
+  "mean_iou": 0.672658882587974,
+  "mean_f1": 0.803576635037311,
+  "mean_abs_uniform_prevalence_bias": 0.28511666666666663,
+  "scope": "Temporal label-transfer audit. Archived masks are targets; no independent expert labels or segmentation accuracy are established."
+}
