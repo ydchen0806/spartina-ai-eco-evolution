@@ -20,6 +20,7 @@ Figure 11 and the 10 October working manuscript now make this failure mode an
 explicit AI result.
 
 The manuscript has 25 checked references, 15 figures and a 32-page working PDF.
+The submission gate is recorded in `NATURE_SUBMISSION_GATE_2026-10-10.md`; independent expert labels, event adjudication, the endpoint exporter and mechanism-level replication remain open.
 The recent PLOS ONE Spartina segmentation benchmark (DOI
 10.1371/journal.pone.0358464) is included as a methodological comparator; its
 site-held-out performance likewise motivates spatial and temporal validation.

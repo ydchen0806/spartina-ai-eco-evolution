@@ -204,6 +204,10 @@ python analysis/analyze_zhangjiang_uav.py --source /path/to/zhangjiang_uav --out
 ```
 
 
+### Nature-track submission gate
+
+The [submission gate audit](docs/NATURE_SUBMISSION_GATE_2026-10-10.md) records which evidence is complete and the independent-label, registration, endpoint and eco-evolution experiments still required for a biological discovery claim.
+
 ### Cross-survey AI transfer audit
 
 The RGB-to-mask temporal audit holds out each of 15 paired surveys in turn. It reproduces archived labels on balanced pixels (mean ROC-AUC 0.855), but overpredicts full-raster archived-positive prevalence by 28.51 percentage points on uniform samples. This is a calibration warning, not an independent segmentation accuracy estimate. See [audit report](docs/RGB_MASK_TRANSFER_AUDIT_2026-10-10.md) and the relevant external Spartina benchmark metadata (`external_data/xmu_literature_20261007/crossref_pone_0358464.json`) and [results](data/derived/rgb_mask_transfer_20261010/temporal_transfer_metrics.csv).
